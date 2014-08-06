@@ -11,7 +11,7 @@ Checkout the [Github repository](https://github.com/johnotander/pixyll) to downl
 request a feature, report a bug, or contribute. It's free, and open source
 ([MIT](http://opensource.org/licenses/MIT)).
 
-Thanks to the following:
+Thanks to the following things:
 
 * [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)
