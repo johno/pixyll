@@ -1,10 +1,10 @@
 # Site settings
 title: An IT solo blog
-email: your_email@example.com
+email: jadianes@gmail.com
 author: J. A. Dianes
 description: "An IT solo blog"
-baseurl: ""
-url: "http://pixyll.com"
+baseurl: "http://jadianes.me"
+url: "http://jadianes.me"
 google_analytics:
 animated: false
 
