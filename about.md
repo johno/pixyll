@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Being a Solo
 permalink: /about/
 ---
-This one is a blog about information technologies, and about those IT topics that I find exciting such as Data Analysis, Machine Learning, or Knowledge Discovery. But over all it is about autonomous and quick ways of starting up things. Therefore we will talk and use technologies such as GitHub, Octopress, jsFiddle, knitr, the R ecosystem, Python, yhat, etc.
+This one is a blog about information technologies, and about those IT topics that I find exciting such as **Data Analysis**, **Knowledge Discovery**, or **Enterprise Systems**. But over all it is about **autonomous** and **quick** ways of **starting up** things. Therefore we will talk and use technologies such as `GitHub`, `Jekyll`, `jsFiddle`, `knitr`, the `R` ecosystem, `Python`, `yhat`, etc.
 
