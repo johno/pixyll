@@ -57,7 +57,7 @@ We can have a quick look at how these variables interact using some plts.
 pairs(swiss)
 {% endhighlight %}
 
-![center]({{ base.url}}/assets/unnamed-chunk-2.png) 
+![center]({{ base.url}}/assets/2014-09-27-best-subset-model-selection-with-R/swiss-pairs.png) 
 
 We are interested in predicting infant mortality using a multi linear model.  
 
