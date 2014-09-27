@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Best subset model selection with R"
 author: "Jose A. Dianes"
 date: "27 September 2014"
