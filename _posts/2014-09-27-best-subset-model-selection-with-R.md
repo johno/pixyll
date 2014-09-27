@@ -3,6 +3,8 @@ layout: post
 title: "Best subset model selection with R"
 author: "Jose A. Dianes"
 date: "27 September 2014"
+comments: true
+categorues: "data analysis", "R"
 output:
   html_document:
     keep_md: yes
@@ -31,6 +33,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2]({{ base.url}}/assets/unnamed-chunk-2.png) 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
