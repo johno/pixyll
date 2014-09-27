@@ -50,6 +50,8 @@ percent (i.e. in [0, 100]), including:
 * Catholic as % of catholic (as opposed to protestant).  
 * Infant mortality as % of live births who live less than 1 year.  
 
+We are interested in predicting infant mortality using a multi-linear model.  
+
 We can have a quick look at how these variables interact using some plts.  
 
 
@@ -57,13 +59,147 @@ We can have a quick look at how these variables interact using some plts.
 pairs(swiss)
 {% endhighlight %}
 
-![center]({{ base.url}}/assets/2014-09-27-best-subset-model-selection-with-R/swiss-pairs.png) 
+![center]({{ base.url}}/assets/unnamed-chunk-2.png) 
 
-We are interested in predicting infant mortality using a multi linear model.  
-
-
+And the correlation matrix.  
 
 
+{% highlight r %}
+cor(swiss)
+{% endhighlight %}
 
 
 
+{% highlight text %}
+##                  Fertility Agriculture Examination Education Catholic
+## Fertility           1.0000     0.35308     -0.6459  -0.66379   0.4637
+## Agriculture         0.3531     1.00000     -0.6865  -0.63952   0.4011
+## Examination        -0.6459    -0.68654      1.0000   0.69842  -0.5727
+## Education          -0.6638    -0.63952      0.6984   1.00000  -0.1539
+## Catholic            0.4637     0.40110     -0.5727  -0.15386   1.0000
+## Infant.Mortality    0.4166    -0.06086     -0.1140  -0.09932   0.1755
+##                  Infant.Mortality
+## Fertility                 0.41656
+## Agriculture              -0.06086
+## Examination              -0.11402
+## Education                -0.09932
+## Catholic                  0.17550
+## Infant.Mortality          1.00000
+{% endhighlight %}
+
+We can see that `Infant.Mortality` is positively correlated with `Fertility` 
+(obviously) with being `Catholic` and negatively with `Examination` and 
+`Education`. Additionally we see that `Fertility` is positively correlated with 
+being `Catholic` and with `Agriculture` and negatively with `Edication` and 
+`Examination`.  
+
+Let us now select among these predictors using best subset selection. The 
+function `regsubsets` in the `leaps` package does exactly this. It performs 
+best predictor subset selection by identifying the best model that contains 
+a given number of predictors, where best is quantified using RSS.  
+
+The summary() command outputs the best set of variables for each model size.  
+
+
+{% highlight r %}
+library(leaps)
+best.subset <- regsubsets(Infant.Mortality~., swiss, nvmax=5)
+best.subset.summary <- summary(best.subset)
+best.subset.summary$outmat
+{% endhighlight %}
+
+
+
+{% highlight text %}
+##          Fertility Agriculture Examination Education Catholic
+## 1  ( 1 ) "*"       " "         " "         " "       " "     
+## 2  ( 1 ) "*"       " "         " "         "*"       " "     
+## 3  ( 1 ) "*"       "*"         " "         "*"       " "     
+## 4  ( 1 ) "*"       "*"         "*"         "*"       " "     
+## 5  ( 1 ) "*"       "*"         "*"         "*"       "*"
+{% endhighlight %}
+
+The `outmat` field on the summary contains a matrix with the best subset of 
+predictors for 1 to 5 predictor models. For example, the best model with two 
+variables includes `Fertility` and `Education` as predictors for 
+`Infant.Mortality`. We can also see that all models include `Fertility`, and 
+that all models with at least two variables include also `Education`. The 
+summary object also includes metrics such as 
+[*adjusted R2*](http://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2), 
+[*CP*](http://en.wikipedia.org/wiki/Mallows's_Cp), or 
+[*BIC*](http://en.wikipedia.org/wiki/Bayesian_information_criterion), that we 
+can use to determine the best overall model.  
+
+
+{% highlight r %}
+best.subset.by.adjr2 <- which.max(best.subset.summary$adjr2)
+best.subset.by.adjr2
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## [1] 2
+{% endhighlight %}
+
+Adjusted R2 tells us that the best model is that with two variables, that is 
+`Fertility` and `Education`.  
+
+
+{% highlight r %}
+best.subset.by.cp <- which.min(best.subset.summary$cp)
+best.subset.by.cp
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## [1] 2
+{% endhighlight %}
+
+Using CP we arrive to the same conclusion.  
+
+
+{% highlight r %}
+best.subset.by.bic <- which.min(best.subset.summary$bic)
+best.subset.by.bic
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## [1] 1
+{% endhighlight %}
+
+However using BIC we should go for the model using just `Fertility` as a 
+predictor. We can plot this information.  
+
+
+{% highlight r %}
+par(mfrow=c(2,2))
+plot(best.subset$rss, xlab="Number of Variables", ylab="RSS", type="l")
+plot(best.subset.summary$adjr2, xlab="Number of Variables", ylab="Adjusted RSq", type="l")
+points(best.subset.by.adjr2, best.subset.summary$adjr2[best.subset.by.adjr2], col="red", cex =2, pch =20)
+plot(best.subset.summary$cp, xlab="Number of Variables", ylab="CP", type="l")
+points(best.subset.by.cp, best.subset.summary$cp[best.subset.by.cp], col="red", cex =2, pch =20)
+plot(best.subset.summary$bic, xlab="Number of Variables", ylab="BIC", type="l")
+points(best.subset.by.bic, best.subset.summary$bic[best.subset.by.bic], col="red", cex =2, pch =20)
+{% endhighlight %}
+
+![center]({{ base.url}}/assets/unnamed-chunk-8.png) 
+
+From there we can see that the 2-variable model is not that bad regarding the 
+BIC coefficient. So, as a conclusion, we show the coefficients of the 2-variable 
+model using `Fertility` and `Education` as inputs to predict `Infant.Mortality`.  
+
+
+{% highlight r %}
+coef(best.subset,2)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## (Intercept)   Fertility   Education 
+##     8.63758     0.14615     0.09595
+{% endhighlight %}
