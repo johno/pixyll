@@ -59,7 +59,7 @@ We can have a quick look at how these variables interact using some plts.
 pairs(swiss)
 {% endhighlight %}
 
-![center]({{ base.url}}/assets/unnamed-chunk-2.png) 
+![center]({{ base.url}}/assets/2014-09-27-best-subset-model-selection-with-R/unnamed-chunk-2.png) 
 
 And the correlation matrix.  
 
@@ -186,7 +186,7 @@ plot(best.subset.summary$bic, xlab="Number of Variables", ylab="BIC", type="l")
 points(best.subset.by.bic, best.subset.summary$bic[best.subset.by.bic], col="red", cex =2, pch =20)
 {% endhighlight %}
 
-![center]({{ base.url}}/assets/unnamed-chunk-8.png) 
+![center]({{ base.url}}/assets/2014-09-27-best-subset-model-selection-with-R/unnamed-chunk-8.png) 
 
 From there we can see that the 2-variable model is not that bad regarding the 
 BIC coefficient. So, as a conclusion, we show the coefficients of the 2-variable 
