@@ -1,6 +1,10 @@
-# Best subset model selection with R
-Jose A. Dianes  
-27 September 2014  
+---
+layout: post
+title: "Best subset model selection with R"
+date: 2014-09-27 22:41:11 +0100
+comments: true
+categories: development, R, data analysis
+---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
