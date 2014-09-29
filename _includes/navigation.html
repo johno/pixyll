@@ -1,3 +1,10 @@
-<a href="{{ site.baseurl }}/about/">About</a>
+<!-- <a href="{{ site.baseurl }}/about/">About</a>
 <a href="https://github.com/jadianes/">GitHub</a>
-<a href="https://www.linkedin.com/in/jadianes">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jadianes">LinkedIn</a> -->
+
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+  {% if node.in_nav %}
+    <a class="{% if page.url == node.url %}active{% endif %} small" href="{{ node.url }}">{{ node.link_text }}</a>
+  {% endif %}
+{% endfor %}
