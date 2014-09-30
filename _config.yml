@@ -6,7 +6,7 @@ description: "An IT solo blog"
 baseurl: ""
 url: "http://www.jadianes.me"
 google_analytics:
-animated: false
+animated: true
 
 # Build settings
 markdown: kramdown
