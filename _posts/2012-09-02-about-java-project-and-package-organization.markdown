@@ -3,9 +3,17 @@ layout: post
 title: "about Java project and package organization"
 date: 2008-09-02 22:41:11 +0100
 comments: true
-categories: development, Java
+categories: development
+tags: development, Java
 ---
-There is a heated debate about what is the most appropriate organization and naming convention of Java packages and projects and, by extension, software modules. The two approaches are *‘by abstraction layer’* (e.g. model, controller, view, etc) or *‘by feature’* (e.g. account). I find that, at least at an inside-tier level (e.g. application level), the later approach makes more sense. That is, a tier will be contained in a project (e.g. web-service or core) where packages are organized by features. Inside of these packages I reproduce the different abstraction layers in sub-packages if needed.  
+There is a heated debate about what is the most appropriate organization and 
+naming convention of Java packages and projects and, by extension, software 
+modules. The two approaches are *‘by abstraction layer’* (e.g. model, controller, 
+view, etc) or *‘by feature’* (e.g. account). I find that, at least at an inside-tier 
+level (e.g. application level), the later approach makes more sense. That is, a tier 
+will be contained in a project (e.g. web-service or core) where packages are 
+organized by features. Inside of these packages I reproduce the different 
+abstraction layers in sub-packages if needed.  
 
 Here are some benefits of by features at top level:  
 
