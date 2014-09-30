@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dangers of inheritance in OO programming"
+title: "Dangers of inheritance in OO programming"
 date: 2012-08-13 22:41:31 +0100
 comments: true
 categories: development

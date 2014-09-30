@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "adaptive control systems and Scrum"
+title: "Adaptive control systems and Scrum"
 date: 2012-08-09 22:41:48 +0100
 comments: true
 categories: management

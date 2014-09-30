@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "about Java project and package organization"
+title: "About Java project and package organization"
 date: 2008-09-02 22:41:11 +0100
 comments: true
 categories: development
