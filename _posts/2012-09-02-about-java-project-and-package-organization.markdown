@@ -4,7 +4,7 @@ title: "about Java project and package organization"
 date: 2008-09-02 22:41:11 +0100
 comments: true
 categories: development
-tags: development, Java
+tags: development Java
 ---
 There is a heated debate about what is the most appropriate organization and 
 naming convention of Java packages and projects and, by extension, software 

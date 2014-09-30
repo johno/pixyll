@@ -3,7 +3,8 @@ layout: post
 title: "adaptive control systems and Scrum"
 date: 2012-08-09 22:41:48 +0100
 comments: true
-categories: management, Scrum. agile
+categories: management
+tags: Scrum agile
 ---
 One of the main goals of *Scrum* is to over-perform traditional and *waterfall-like project management* frameworks when dealing with requirements. The complexity of finding out what a system has to do and how, is far from being trivial. Assuming that the system requirements can be determined at the very beginning of the project is considered today a very naive approach that relies, at least, in two fallacies. First, that the client knows what she or he wants the system to do. Second, that this is the right thing to do, and that is not going to change during the development of the project.  
 

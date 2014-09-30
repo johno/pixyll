@@ -4,6 +4,7 @@ title: "Stand-up meetings or the developer therapy"
 date: 2012-05-12 22:42:26 +0100
 comments: true
 categories: management
+tags: management Scrum agile
 ---
 *Scrum* is an agile management framework, that introduces several practices in order to adapt to the inherent complexity and uncertainty of a software development project. A bunch of these practices deal with the communications inside of the development team, including several periodical meetings.  
 

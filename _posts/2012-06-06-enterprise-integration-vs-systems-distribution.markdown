@@ -4,6 +4,7 @@ title: "Enterprise Integration vs Systems Distribution"
 date: 2012-06-06 22:42:09 +0100
 comments: true
 categories: architecture
+tags: architecture integration distribution
 ---
 Recently, as a part of  my PhD defence, I had to discuss the concept of *Enterprise Integration*, and I decided that a good way of doing it was as a comparison with a more familiar concept, *system distribution*.  
 
