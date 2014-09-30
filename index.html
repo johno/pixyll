@@ -10,7 +10,7 @@ layout: default
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h3 class="h3 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.excerpt }}</p>
+          <p class="post-summary">{{ post.summary }}</p>
         </a>
       </div>
     {% endfor %}
