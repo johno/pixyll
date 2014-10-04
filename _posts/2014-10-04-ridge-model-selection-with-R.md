@@ -11,7 +11,7 @@ output:
     keep_md: yes
 ---
 
-If [recently we used *best subset*](http://jadianes.me/categories/data-analysis/best-subset-model-selection-with-R/) 
+If [recently we used *best subset*](/best-subset-model-selection-with-R/) 
 as a way of reducing the unnecessary model  complexity, this time we are going 
 to use the *Ridge regression* technique.  
 
