@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <div class="posts">
-    {% for post in site.categories.development %}
+    {% for post in site.categories.management %}
       <div class="post {% if site.animated %}animated fade-in-down{% endif %}">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
