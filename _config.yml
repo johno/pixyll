@@ -10,7 +10,7 @@ animated: true
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /categories/:categories/:title
 paginate: 3
 sass:
   compressed: true
