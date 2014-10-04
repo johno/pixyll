@@ -12,7 +12,7 @@ layout: default
   <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
   <span class="post-meta small">In </span>
   {% for category in page.categories %}
-  	<span class="post-meta"><a href="/categories/{{ category }}">{{ category }}</a></span>
+  	<span class="post-meta small"><a href="/categories/{{ category }}">{{ category }}</a></span>
   {% endfor %}
   <br>
   <!-- <span class="post-meta small">About {{ page.tags | array_to_sentence_string }}</span><br> -->
