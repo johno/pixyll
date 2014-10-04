@@ -142,7 +142,7 @@ cv.out <- cv.glmnet(x, y, alpha=0, nlambda=100, lambda.min.ratio=0.0001)
 plot(cv.out)
 {% endhighlight %}
 
-![center]({{ base.url }}/assets/ridge-model-selection-with-R/unnamed-chunk-7.png) 
+![center]({{ base.url }}/assets/2014-10-04-ridge-model-selection-with-R/unnamed-chunk-7.png) 
 
 {% highlight r %}
 best.lambda <- cv.out$lambda.min
