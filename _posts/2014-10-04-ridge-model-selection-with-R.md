@@ -13,7 +13,7 @@ output:
 
 If [recently we used *best subset*](http://jadianes.me/categories/data-analysis/best-subset-model-selection-with-R/) 
 as a way of reducing the unnecessary model  complexity, this time we are going 
-to use the *Lasso* and *Ridge* techniques.  
+to use the *Ridge regression* technique.  
 
 Both the *lasso* and *ridge regression* are called shrinkage methods. The best 
 subset method uses least squares to fit a model with a subset of predictors. 
