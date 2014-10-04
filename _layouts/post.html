@@ -9,6 +9,11 @@ layout: default
 
 <div class="post-header mb2">
   <h3 class="py3">{{ page.title }}</h3>
+  {% for category in site.categories %}
+
+  <li><a href="/categories/{{ category[0] }}">{{ category[0] }}</a></li>
+
+  {% endfor %}
   <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
   <span class="post-meta small">{{ page.tags | array_to_sentence_string }}</span><br>
   {% if page.update_date %}
