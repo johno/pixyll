@@ -9,8 +9,8 @@ layout: default
 
 <div class="post-header mb2">
   <h3 class="py3">{{ page.title }}</h3>
-  <span class="post-meta small">{{ page.date | date: "%b %-d, %Y" }}</span><br>
-  <span class="post-meta small">In </span>
+  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">In </span>
   {% for category in page.categories %}
   	<span class="post-meta small"><a href="/categories/{{ category }}">{{ category }}</a></span>
   {% endfor %}
