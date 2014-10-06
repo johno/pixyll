@@ -27,7 +27,7 @@ img {
 
 .site-wrap {
   min-height: 100%;
-  margin-bottom: -100px;
+  margin-bottom: -120px;
 }
 
 .site-wrap:after {
@@ -36,7 +36,7 @@ img {
 }
 
 .footer, .site-wrap:after {
-  height: 100px;
+  height: 120px;
 }
 
 body {
@@ -86,6 +86,10 @@ body {
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
   opacity: 0.88;
+}
+
+.related-post-title {
+  border-bottom: thin solid #f3f3f3;
 }
 
 .posts {
@@ -249,42 +253,22 @@ h6,
   margin: 1.414em 0 0.5em;
 }
 
-@media screen and (max-width: 48em) {
-  .h1,
-  h1 {
-    font-size: 2.827rem;
-  }
-
-  .h2,
-  h2 {
-    font-size: 1.999rem;
-  }
-
-  .h3,
-  h3 {
-    font-size: 1.413rem;
-  }
-
-  .h4,
-  h4 {
-    font-size: 1rem;
-  }
-
-  .site-header {
-    text-align: center;
-  }
-
-  .site-header .site-title {
-    float: center;
-  }
-
-  .site-header .site-nav {
+.social-icons {
+    padding: 0.5em 0 0 0;
+    font-size: 1.25rem;
     width: 100%;
-    float: left;
-    text-align: center;
-    margin-top: 0.666em;
-    margin-bottom: 1.333em;
-  }
+}
+.social-icons a.fa {
+    padding: 0.2em;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.social-icons a.fa:hover {
+    opacity: 1;
+}
+.social-icons iframe[title=Flattr] {
+    position: relative;
+    top: 0.1em;
 }
 
 @media screen and (min-width: 48em) {
@@ -344,6 +328,49 @@ h6,
     border-bottom: none;
     margin-bottom: .333em;
     padding-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 48em) {
+  .h1,
+  h1 {
+    font-size: 2.827rem;
+  }
+
+  .h2,
+  h2 {
+    font-size: 1.999rem;
+  }
+
+  .h3,
+  h3 {
+    font-size: 1.413rem;
+  }
+
+  .h4,
+  h4 {
+    font-size: 1rem;
+  }
+
+  .site-header {
+    text-align: center;
+  }
+
+  .site-header .site-title {
+    float: center;
+  }
+
+  .site-header .site-nav {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 0.666em;
+    margin-bottom: 1.333em;
+  }
+
+  .social-icons .left, .social-icons .right {
+    text-align: center;
+    float: none;
   }
 }
 
@@ -450,20 +477,22 @@ Copyright (c) 2014 Daniel Eden
 @keyframes fadeInDown {
   0% {
     opacity: 0;
-    -webkit-transform: translateY(-20px);
-    -ms-transform: translateY(-20px);
-    transform: translateY(-20px);
+
+    -webkit-transform: translateY(-20px) translate3d(0, 0, 0);
+        -ms-transform: translateY(-20px) translate3d(0, 0, 0);
+            transform: translateY(-20px) translate3d(0, 0, 0);
   }
 
   100% {
     opacity: 1;
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0);
+
+    -webkit-transform: translateY(0) translate3d(0, 0, 0);
+        -ms-transform: translateY(0) translate3d(0, 0, 0);
+            transform: translateY(0) translate3d(0, 0, 0);
   }
 }
 
 .fade-in-down {
   -webkit-animation-name: fadeInDown;
-  animation-name: fadeInDown;
+          animation-name: fadeInDown;
 }

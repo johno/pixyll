@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://pixyll.com"
 google_analytics: UA-53548208-1
 animated: false
+show_related_posts: false
 
 # Build settings
 markdown: kramdown
@@ -14,4 +15,3 @@ permalink: pretty
 paginate: 3
 sass:
   compressed: true
-
