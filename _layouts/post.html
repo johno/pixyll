@@ -8,7 +8,11 @@ layout: default
 {% endif %}
 
 <div class="post-header mb2">
-  <h1 class="py2">{{ page.title }}</h1>
+  {% if page.link %}
+    <h1 class="py2"><a href="{{ page.link }}">{{ page.title }}</a></h1>
+  {% else %}
+    <h1 class="py2">{{ page.title }}</h1>
+  {% endif %}
   <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
