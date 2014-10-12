@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rapid Single-Page Application prototype with AngularJS & JSFiddle"
+title: "Rapid Single-Page Application prototype with AngularJS & jsFiddle"
 author: "Jose A. Dianes"
 date: "12 October 2014"
 comments: true
