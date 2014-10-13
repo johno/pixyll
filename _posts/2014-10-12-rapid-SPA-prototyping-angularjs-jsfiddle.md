@@ -34,7 +34,7 @@ Our prototype is pretty simple, including a small `html`, and a bit of `JavaScri
 
 <iframe
   style="width: 100%; height: 400px"
-  src="http://jsfiddle.net/jadianes/vm4tm931/embedded/html/presentation">
+  src="http://jsfiddle.net/jadianes/vm4tm931/embedded/html/light">
 </iframe>
 
 The layout is pretty much a `<table/>` with the results and an `<input/>` text box where we can place the search terms. Things to mention here:  
@@ -47,7 +47,7 @@ Following is the `JavaScript` section doing the AngularJS MVC magic.
 
 <iframe
   style="width: 100%; height: 400px"
-  src="http://jsfiddle.net/jadianes/vm4tm931/embedded/js/presentation">
+  src="http://jsfiddle.net/jadianes/vm4tm931/embedded/js/light">
 </iframe>
 
 Basically, we get a reference to the AngularJS application and use it to add a controller associated with the `PrideSearchCtrl` element we referenced within the `<div/>` in the `html` part. The controller uses [JSONP](http://en.wikipedia.org/wiki/JSONP) to load data from the PRIDE Archive web service and assing this data the the Model object `projects`. We also set `publicationDate` as the default order-by field for the results. Important here to add the `?callback=JSON_CALLBACK` at the end of the `URL` for `JSONP` to [work properly](http://stackoverflow.com/questions/12066002/parsing-jsonp-http-jsonp-response-in-angular-js).  
