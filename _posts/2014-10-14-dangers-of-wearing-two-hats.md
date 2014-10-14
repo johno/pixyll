@@ -10,7 +10,7 @@ tags: Scrum
 
 [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development)) is an agile project development framework. It is a powerful way of thinking within software development organisations. However it has to be understood properly in order to get the most of it.   
 
-Although starting things up [as a soloist](/about) is cool, any project that evolves into a competitive stage, with a considerable community of users, must involve several people. This means management and organisation.  
+Although starting things up [as a soloist](/about) is cool, any project that evolves into a competitive stage, with a community of users, requires more than one person to keep going. That is, we work in teams. This means management and organisation.  
 
 Scrum is particularly precise When assigning roles to people. Apart from the [Development Team](http://en.wikipedia.org/wiki/Scrum_(software_development)#Development_Team), it defines those roles of the [Product Owner](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_Owner) and the [Scrum Master](http://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_Master). The former represents the customer and other stakeholders, and takes the responsibility for managing the product. She or he has **the vision**. The later **is a facilitator** of the Scrum process, someone that **removes impediments** for the team and **enforces the rules** the of the process. Rules such as the **no interference** in the development process during the sprint by the Product Owner or any of the stakeholders, or the correct development of many of the important meetings.  
 
