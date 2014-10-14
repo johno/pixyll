@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dangers of wearing two hats"
+title: "The dangers of wearing two hats"
 author: "Jose A. Dianes"
 date: "14 October 2014"
 comments: true
