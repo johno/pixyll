@@ -14,7 +14,7 @@ Imagine we have just developed a brand new RESTful API, and we want to demostrat
 
 I find [AngularJS](https://angularjs.org/) a very sophisticated and well made application framework. Created by **Misko Hevery** and now maintained by Google and community, it is based in the solid [MVC architectural style](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller). It enriches the `html` directives and simplifies the connection of *models* with *views* and *controllers*. Its popularity nowadays is immense, and is becoming one of the frameworks of choice in the industry for developing [Single-page dynamic web applications](http://en.wikipedia.org/wiki/Single-page_application).  
 
-There are lots of good documentation and tutorials both, in the AngularJS website and in Youtube. I find this [series of video tutorials](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) very easy to follow. There you can find up to 50 examples code together with references to other tutorials and related frameworks.  
+There are lots of good documentation and tutorials both, in the AngularJS website and in Youtube. I find this [series of video tutorials](http://campus.codeschool.com/courses/shaping-up-with-angular-js) very easy to follow, and [here](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) you can find up to 50 examples of code together with references to other tutorials and related frameworks.  
 
 #### jsFiddle  
 
