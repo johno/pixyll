@@ -1,17 +1,32 @@
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
+title:       Pixyll
+email:       your_email@example.com
+author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl: ""
-url: "http://pixyll.com"
+baseurl:     ""
+url:         "http://pixyll.com"
+
+# Google analytics
 google_analytics: UA-53548208-1
-animated: false
+
+# Optional features
+animated:           false
 show_related_posts: false
+show_post_footers:  false
+
+# Social icons
+show_social_icons: false
+github_username:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
 sass:
   compressed: true
