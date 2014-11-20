@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 {% assign minutes = content | number_of_words | divided_by: 180 %}
@@ -34,4 +35,8 @@ layout: default
       </a>
     </div>
   {% endfor %}
+{% endif %}
+
+{% if site.disqus-shortname %}
+  {% include disqus.html %}
 {% endif %}
