@@ -264,7 +264,7 @@ h6,
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
-  margin: 1.414em 0 0.5em;
+  margin: 1em 0 0.5em;
 }
 
 .social-icons {
@@ -346,6 +346,12 @@ h6,
 }
 
 @media screen and (max-width: 48em) {
+  blockquote {
+    margin-left: 1rem;
+    margin-right: 0;
+    padding: 0.5em;
+  }
+
   .h1,
   h1 {
     font-size: 2.827rem;
