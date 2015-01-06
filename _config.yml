@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Data visualization, analysis, coding, and life.
+email:       zan.armstrong+blog@gmail.com
+author:      Zan Armstrong
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://blog.zanarmstrong.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-53548208-1
 
 # Optional features
 animated:           false
@@ -19,10 +19,10 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: zanarmstrong
 stackoverflow_id:
-twitter_username:
+twitter_username: zanstrong
 google_plus_id:
 linkedin_username:
 bitcoin_url:
