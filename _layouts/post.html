@@ -2,9 +2,11 @@
 layout: default
 ---
 
-{% assign minutes = content | number_of_words | divided_by: 180 %}
-{% if minutes == 0 %}
-{% assign minutes = 1 %}
+{% if page.minutes %}
+  {% assign minutes = page.minutes %}
+{% else %}
+  {% assign minutes = content | number_of_words | divided_by: 180 %}
+  {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 {% endif %}
 
 <div class="post-header mb2">
@@ -13,13 +15,7 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}  
-  <span class="post-meta small">
-  {% if page.minutes %}
-    {{ page.minutes }} minute read
-  {% else %}
-    {{ minutes }} minute read
-  {% endif %}
-  </span>
+  <span class="post-meta small">{{ minutes }} minute read</span>
 </div>
 
 <article class="post-content">
