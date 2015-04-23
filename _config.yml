@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Meta Notes
+email:       hola@juntostudio.com
+author:      JS
+description: "A blog about learning, by unschoolers."
+baseurl:     "/meta-notes"
+url:         "http://thejunto.github.io"
 
 # Google analytics
 google_analytics:
@@ -19,10 +19,10 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: juntostudio
 google_plus_id:
 linkedin_username:
 bitcoin_url:
@@ -33,8 +33,8 @@ flattr_button:
 show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
