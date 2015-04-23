@@ -22,8 +22,10 @@ html, body {
 }
 
 img {
-  width: auto;
+  display: block;
   max-width: 100%;
+  height: auto;
+  margin: 0 auto 0 auto;
 }
 
 .site-wrap {
@@ -464,7 +466,7 @@ h6,
 }
 
 .share-page {
-  font-size:  0.65em;  
+  font-size:  0.65em;
   padding: 2em 0 0 0;
 }
 
