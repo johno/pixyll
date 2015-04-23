@@ -59,9 +59,14 @@ body {
   width: 100%;
 }
 
-.site-header a {
+.site-title {
   color: #333;
   font-weight: 300;
+  display: block;
+
+  &.site-title-home {
+    margin-bottom: 15px;
+  }
 }
 
 .site-header a:hover,
@@ -301,7 +306,7 @@ h6,
     width: 100%;
 }
 .social-icons a.fa {
-    color: #7a7a7a;
+    color: #6aa89b;
     padding: 0.2em;
     opacity: 0.8;
     cursor: pointer;
@@ -409,14 +414,6 @@ h6,
     float: center;
   }
 
-  .site-header .site-nav {
-    width: 100%;
-    float: left;
-    text-align: center;
-    margin-top: 0.666em;
-    margin-bottom: 1.333em;
-  }
-
   .social-icons .left, .social-icons .right {
     text-align: center;
     float: none;
@@ -481,7 +478,7 @@ footer {
 footer,
 footer .wrap {
   color: #7a7a7a;
-  background-color: #fafafa;
+  background-color: #fff;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;

@@ -678,11 +678,12 @@ body {
 }
 
 a {
-  color: #0096cc;
+  color: #6aa89b;
   text-decoration: none;
 }
+
 a:hover {
-  color: #007199;
+  color: darken( #6aa89b, 10% )
 }
 
 .button {
