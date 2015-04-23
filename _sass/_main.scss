@@ -62,26 +62,6 @@ body {
   font-weight: 300;
 }
 
-.site-header nav a {
-  font-size: 1rem;
-  color: #666;
-}
-
-.site-header nav a:hover {
-  color: #444;
-  opacity: 1;
-  border-bottom: 2px solid #444;
-}
-
-.site-nav a + a {
-  margin-left: 1em;
-}
-
-.site-nav {
-  margin: 0;
-  padding: 0;
-}
-
 .site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
@@ -310,7 +290,7 @@ h6,
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
-  margin: 1em 0 0.5em;
+  margin: 0.3em 0 0.5em;
 }
 
 .social-icons {
@@ -319,6 +299,7 @@ h6,
     width: 100%;
 }
 .social-icons a.fa {
+    color: #7a7a7a;
     padding: 0.2em;
     opacity: 0.8;
     cursor: pointer;
@@ -332,10 +313,6 @@ h6,
 }
 
 @media screen and (min-width: 48em) {
-  .site-header .site-title {
-    float: left;
-  }
-
   .meta,
   .post-meta {
     margin: 0;
