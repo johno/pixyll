@@ -2,7 +2,7 @@
 layout:     post
 title:      How understanding the origin of the word ‘priority’ can impact your productivity.
 date:       '2015-02-26 11:21:29'
-summary:    By Alejo Rivera I recently had the chance to read Essentialism
+summary:    I recently had the chance to read Essentialism
 categories: culture
 author:     alejo
 ---
