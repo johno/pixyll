@@ -1,0 +1,19 @@
+  {% if post.author == "alejo" or page.author == "alejo" %}
+    <img src="/images/alejo.jpg" class="author">
+    <a href="http://twitter.com/alejoriveralara">Alejo</a>
+  {% elsif post.author == "isa" or page.author == "isa" %}
+    <img src="/images/isa.jpg" class="author">
+    <a href="http://twitter.com/isagadala">Isa</a>
+  {% elsif post.author == "max" or page.author == "max" %}
+    <img src="/images/max.jpg" class="author">
+    <a href="http://twitter.com/maxholzheu">Max</a>
+  {% elsif post.author == "stefy" or page.author == "stefy" %}
+    <img src="/images/stefy.jpg" class="author">
+    <a href="http://twitter.com/stefyb14">Stefy</a>
+  {% elsif post.author == "nacho" or page.author == "nacho" %}
+    <img src="/images/nacho.jpg" class="author">
+    <a href="http://twitter.com/nachogalmo">Nacho</a>
+  {% else %}
+    <img src="/images/someone.jpg" class="author">
+    <a href="http://www.juntostudio.com">Someone</a>
+  {% endif %}

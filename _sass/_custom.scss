@@ -17,3 +17,15 @@ header p {
 p img {
   margin: 30px auto 30px auto;
 }
+
+.author {
+  max-height: 30px;
+  border-radius: 50%;
+  vertical-align: middle;
+  display: inline;
+  margin: -3px 5px 0 0;
+}
+
+.dot-divider {
+  padding: 0 5px;
+}
