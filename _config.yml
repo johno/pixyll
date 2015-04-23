@@ -3,8 +3,8 @@ title:       Meta Notes
 email:       hola@juntostudio.com
 author:      JS
 description: "A blog about learning, by unschoolers."
-baseurl:     "/meta-notes"
-url:         "http://thejunto.github.io"
+baseurl:     ""
+url:         "http://metanot.es"
 
 # Google analytics
 google_analytics:
