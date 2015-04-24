@@ -1,3 +1,12 @@
+a {
+  color: #6aa89b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken( #6aa89b, 10% )
+}
+
 header p {
   font-size: 0.9rem;
   margin-top: 0.2rem;
