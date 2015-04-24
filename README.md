@@ -9,7 +9,12 @@ It runs on [Jekyll](http://jekyllrb.com/), uses [Github Pages](https://pages.git
 The theme is pretty minimal, but leverages large type and
 drastic contrast to make a statement, on all devices.
 
-## Getting Started
+### Index
+
+- [Getting Started with Jekyll](#getting-started-with-jekyll)
+- [Contributing a new post](#contributing-a-new-post)
+
+## Getting Started with Jekyll
 
 If you're completely new to Jekyll, I recommend checking out the
 documentation at <http://jekyllrb.com> or there's a tutorial by
@@ -61,20 +66,22 @@ We're keeping the master branch up-to-date with Pixyll's master branch.
 This way, when they push new features, we can pull them into our master
  branch and rebase the gh-pages branch on top of it.
 
-## Contributing a new post
+## Contributing a New Post
 
 1. Make sure you're on the gh-pages branch.
 2. Create your new-post branch (`git checkout -b my-new-post`)
 3. Commit your changes (`git commit -am 'Add awesome post'`)
 4. Push to the branch (`git push origin my-new-post`)
-5. Create new Pull Request
+5. Create new Pull Request.
+6. Wait for other's to give you feedback. Improve.
+7. Merge Pull Request.
 
 ### The anatomy of a good post
-- The **Headline** consists of 6 to 12 words, where the first and last 3 have the biggest impact. It has fewer than 55 characters.
+- The **headline** consists of 6 to 12 words, where the first and last 3 have the biggest impact. It has fewer than 55 characters.
 - Hook your readers with **storytelling**. Start your blog post with a personal anecdote or moment of transparency.
 - **Subheads, subheads, subheads**. Use subheads to make your post **scannable**. Also use lists, blockquotes, short paragraphs, and visuals.
-- Aim for 1500 words.
-- Have clear CTAs. Tweet this. Go here.
+- Aim for **1500 words**.
+- Have **clear CTAs**. Tweet this. Go here.
 
 For a deeper read, check the
  [Perfect blog post research data](https://blog.bufferapp.com/perfect-blog-post-research-data)
