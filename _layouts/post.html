@@ -25,6 +25,11 @@ layout: default
   {{ content }}
 </article>
 
+<div class="mt3 center thin-border-top">
+  <p class="mt2">Get our top posts in your email.</p>
+  {% include subscription.html %}
+</div>
+
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
