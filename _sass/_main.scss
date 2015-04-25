@@ -22,10 +22,8 @@ html, body {
 }
 
 img {
-  display: block;
+  width: auto;
   max-width: 100%;
-  height: auto;
-  margin: 0 auto 0 auto;
 }
 
 .site-wrap {
@@ -43,7 +41,7 @@ img {
 }
 
 body {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
 
           box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -59,14 +57,29 @@ body {
   width: 100%;
 }
 
-.site-title {
+.site-header a {
   color: #333;
   font-weight: 300;
-  display: block;
+}
 
-  &.site-title-home {
-    margin-bottom: 15px;
-  }
+.site-header nav a {
+  font-size: 1rem;
+  color: #666;
+}
+
+.site-header nav a:hover {
+  color: #444;
+  opacity: 1;
+  border-bottom: 2px solid #444;
+}
+
+.site-nav a + a {
+  margin-left: 1em;
+}
+
+.site-nav {
+  margin: 0;
+  padding: 0;
 }
 
 .site-header a:hover,
@@ -297,7 +310,7 @@ h6,
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
-  margin: 0.3em 0 0.5em;
+  margin: 1em 0 0.5em;
 }
 
 .social-icons {
@@ -306,7 +319,6 @@ h6,
     width: 100%;
 }
 .social-icons a.fa {
-    color: #6aa89b;
     padding: 0.2em;
     opacity: 0.8;
     cursor: pointer;
@@ -320,6 +332,10 @@ h6,
 }
 
 @media screen and (min-width: 48em) {
+  .site-header .site-title {
+    float: left;
+  }
+
   .meta,
   .post-meta {
     margin: 0;
@@ -329,28 +345,28 @@ h6,
 
   .h1,
   h1 {
-    font-size: 2.5rem;
+    font-size: 3.250rem;
   }
 
   .h2,
   h2 {
-    font-size: 2rem;
+    font-size: 2.298rem;
   }
 
   .h3,
   h3 {
-    font-size: 1.4rem;
+    font-size: 1.625rem;
   }
 
   .h4,
   h4 {
-    font-size: 1.2rem;
+    font-size: 1.150rem;
   }
 
   .p,
   p,
   li {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
     line-height: 1.8;
   }
 
@@ -412,6 +428,14 @@ h6,
 
   .site-header .site-title {
     float: center;
+  }
+
+  .site-header .site-nav {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 0.666em;
+    margin-bottom: 1.333em;
   }
 
   .social-icons .left, .social-icons .right {
@@ -478,7 +502,7 @@ footer {
 footer,
 footer .wrap {
   color: #7a7a7a;
-  background-color: #fff;
+  background-color: #fafafa;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;
