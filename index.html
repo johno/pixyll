@@ -12,7 +12,7 @@ layout: home
           {% if post.summary %}
             {{ post.summary }}
           {% else %}
-            {{ post.excerpt }}
+            {{ post.content | strip_html | truncatewords:40}}
           {% endif %}
         </p>
         <br>
