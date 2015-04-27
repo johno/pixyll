@@ -2,7 +2,7 @@
 layout:     post
 title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life.'
 date:       '2015-01-22T01:08:00-06:00'
-summary:    Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life? Actually, education should be more human that. Ready here why...
+summary:    Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life? Actually, education should be more human that. Read here why...
 categories: education
 author:     alejo
 ---
