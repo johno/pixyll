@@ -2,7 +2,7 @@
 layout:     post
 title:      Why We Started Junto Studio
 date:       2014-11-04 11:21:29
-summary:    We started Junto Studio because we want to see different models for education in the world.
+summary:    We started Junto Studio because we want to see different models for education in the world. Read more to find out who we are and what we do. 
 categories: culture
 author:     alejo
 ---

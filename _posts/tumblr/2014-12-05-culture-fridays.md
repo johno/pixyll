@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture Fridays
 date:       '2014-12-05T01:26:00-06:00'
-summary:    Every Friday, we meet up for what we call “Culture Friday”. It’s our only scheduled meeting throughout the week.
+summary:    How can you create and mantain a culture while working remotely? This is what we do...
 categories: culture
 author:     max
 ---

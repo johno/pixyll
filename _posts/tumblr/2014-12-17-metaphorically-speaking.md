@@ -2,7 +2,7 @@
 layout:     post
 title:      METAphorically speaking...
 date:       '2014-12-17T16:45:00-06:00'
-summary:    We are all storytellers. Starting from that time when, as a kid, you tried to explain yourself after spilling your juice over your sister’s dress, up until your are elder, when stories become a living source of memories your share with your grandchildren, stories are tireless dancers that leave footprints wherever they step.
+summary:    Believe it or not, we are all storytellers, poets, and novelists.
 categories:
 author:     stefy
 ---

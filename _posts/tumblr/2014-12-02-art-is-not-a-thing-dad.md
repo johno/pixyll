@@ -2,7 +2,7 @@
 layout:     post
 title:      Art is not a thing, dad.
 date:       '2014-12-02T20:16:00-06:00'
-summary:    From flying drones making deliveries, to smart pans that help you cook perfectly, or wearable tech providing analytics to help soccer players practice. Almost every industry has been touched by software.
+summary:    Art is not a thing but rather an experience; at least that's what this girl reminded me... 
 categories: design
 author:     nacho
 ---

@@ -2,7 +2,7 @@
 layout:     post
 title:      Flexibility
 date:       '2014-11-18T17:44:00-06:00'
-summary:    Design, only real when shared.
+summary:    Who said that 9 to 5 is the best time to work? At Junto Studio, we challenge the status quo. We work remotely. 
 categories: culture
 author:     max
 ---
