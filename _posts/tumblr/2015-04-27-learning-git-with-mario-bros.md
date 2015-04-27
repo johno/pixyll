@@ -15,7 +15,7 @@ Part of learning how to program is understanding how GitHub works. Github is an 
 
 Max began explaining that a **commit** is just like a "checkpoint": a snapshot of your files in a determined point in time. Now, imagine you are in a Mario game. You're in the middle of world 4.  All you see is where you are right now: you have 50 tokens and 3 lives while you are running for you life! You want to know how many lives and chips you had when you crossed the last "checkpoint" (meaning when you passed from world 3 to 4). 
 
-To do that, you use `git checkout` (hereinafter referred to as `git co`). Now, what `git co` allows you is traveling through time to achieve what you want. Next, you write `git HEAD co ~ 1` (because the last commit was made when changing worlds). Now this does not mean you have to go back through all levels of world 4. Instead, it lets you see what was going on in the past.  Once satisfied with your changes, you write `git co master` and return to where you were. 
+To do that, you use `git checkout` (hereinafter referred to as `git co`). Now, what `git co` allows you is traveling through time to achieve what you want. Next, you write `git co HEAD~1` (because the last commit was made when changing worlds). Now this does not mean you have to go back through all levels of world 4. Instead, it lets you see what was going on in the past.  Once satisfied with your changes, you write `git co master` and return to where you were. 
 
 Continuing with this analogy, the branches would be parallel universes in which different things happen at the same time. And every time you make a **merge**, you're joining two universes and trying to get everything to fit (the analogy breaks down here a little).
 
