@@ -3,11 +3,10 @@ layout:     post
 title:      'How Technology Can Make Classrooms More Human: Providing world-class education
              to those in the poorest locations.'
 date:       '2015-02-05T19:01:00-06:00'
-summary:    
+summary:    As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic.
 categories: education
 author:     alejo
 ---
-_As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic._
 
 - First: [Freeing up time for teachers.](http://www.metanot.es/freeing-up-time-for-teachers)
 - Second: [Letting students choose what they learn.](http://www.metanot.es/letting-students-choose-what-they-learn)

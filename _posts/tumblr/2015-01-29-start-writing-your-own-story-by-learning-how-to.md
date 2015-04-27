@@ -1,8 +1,10 @@
 ---
 layout:     post
-title:      Start writing your own story by learning how to code!
+title:      'Why coding is a liberal art'
 date:       '2015-01-29T12:05:00-06:00'
-summary:    Programming is just like writing
+summary:    If you rhink about it, both writing and coding strive
+to be creative and precise endeavors that rely on a structured approach to
+accomplishing a task. What else do they have in common? Read more here...
 categories: learning
 author:     stefy
 ---
