@@ -2,7 +2,7 @@
 layout:     post
 title:      What a skateboard ramp taught me about education
 date:       2015-03-22
-summary:    "My kid’s diagnosis is dyslexia”, she said to me in a low tone of voice. I wasn’t surprised. I’ve been tutoring this kid for more than three years, and in the last couple of months he was showing a steady decline in school performance. What we did next changed my whole perspective on education...
+summary:    '"My kid’s diagnosis is dyslexia”, she said to me in a low tone of voice. I wasn’t surprised. I’ve been tutoring this kid for more than three years, and in the last couple of months he was showing a steady decline in school performance. What we did next changed my whole perspective on education...'
 categories: code
 author:     stefy
 ---
