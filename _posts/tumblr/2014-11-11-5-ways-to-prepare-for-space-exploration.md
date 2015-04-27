@@ -2,7 +2,7 @@
 layout:     post
 title:      5 ways to prepare for Space Exploration
 date:       '2014-11-11T14:25:00-06:00'
-summary:    We started Junto Studio because we want to see different models for education in the world.
+summary:    What type of education would you need to survive in space? What set of skills will actually matter in the long run? Here's a list of some of the things you can't forget to pack!   
 categories: culture
 author:     isa
 ---

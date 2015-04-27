@@ -2,7 +2,7 @@
 layout:     post
 title:      Stop the world, it's moving too fast!
 date:       '2014-11-27T12:54:00-06:00'
-summary:     From flying drones making deliveries, to smart pans that help you cook perfectly, or wearable tech providing analytics to help soccer players practice. Almost every industry has been touched by software.
+summary:    Is it me or does anybody else feel like the world moves faster and faster every time? 
 categories:
 author:     isa
 ---

@@ -2,7 +2,7 @@
 layout:     post
 title:      Let's Design like Supertramp
 date:       '2014-11-11T14:25:00-06:00'
-summary:    Design, only real when shared.
+summary:    "Everyone thought designing was only about delivering; a one-way system in which isolation represented the foundation for a better understanding and a better practice... I dropped out of architecture school after three years". 
 categories: design
 author:     nacho
 ---
