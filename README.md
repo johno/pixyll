@@ -74,16 +74,16 @@ This way, when they push new features, we can pull them into our master
 1. Create a new file in the `\_posts/` folder. It should have the format
    `2015-02-26-my-awesome-post.md`
 1. Add the following at the top of your post
-```
----
-layout:     post
-title:      My Awesome Post
-date:       2015-04-27 09:41:29
-summary:    Once upon a time, in a galaxy far, far away...
-categories: code learning education culture
-author:     stefy max alejo isa
-—--
-```
+
+        ---
+        layout:     post
+        title:      My Awesome Post
+        date:       2015-04-27 09:41:29
+        summary:    Once upon a time, in a galaxy far, far away...
+        categories: code learning education culture
+        author:     stefy max alejo isa
+        —--
+
 1. Write your post in your favorite editor. 
   + Lines should be sub-80 characters.
 1. Commit your changes (`git commit -am 'add awesome post'`)
