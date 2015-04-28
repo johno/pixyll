@@ -69,19 +69,38 @@ This way, when they push new features, we can pull them into our master
 ## Contributing a New Post
 
 1. Make sure you're on the gh-pages branch.
-2. Create your new-post branch (`git checkout -b my-new-post`)
-3. Commit your changes (`git commit -am 'Add awesome post'`)
-4. Push to the branch (`git push origin my-new-post`)
-5. Create new Pull Request.
-6. Wait for other's to give you feedback. Improve.
-7. Merge Pull Request.
+1. Git pull to get the latest changes
+1. Create a new branch with your initials (`git checkout -b mh-my-awesome-post`)
+1. Create a new file in the `_posts/` folder. It should have the format
+   `2015-02-26-my-awesome-post.md`
+1. Add the following at the top of your post
+
+        ---
+        layout:     post
+        title:      My Awesome Post
+        date:       2015-04-27 09:41:29
+        summary:    Once upon a time, in a galaxy far, far away...
+        categories: code learning education culture
+        author:     stefy max alejo isa
+        —--
+
+1. Write your post in your favorite editor. 
+  + Lines should be sub-80 characters.
+1. Commit your changes (`git commit -am 'add awesome post'`)
+1. Push to Github (`git push origin my-new-post`, or `git push` for short)
+1. Create new pull request.
+1. Make sure that the PR got posted in #metanotes in Slack. 
+1. Wait at least one day for others to give you feedback.
+1. Improve your post and implement feedback.
+1. Merge pull request.
+1. Check the live post for formatting errors.
 
 ### The anatomy of a good post
 - The **headline** consists of 6 to 12 words, where the first and last 3 have the biggest impact. It has fewer than 55 characters.
 - Hook your readers with **storytelling**. Start your blog post with a personal anecdote or moment of transparency.
 - **Subheads, subheads, subheads**. Use subheads to make your post **scannable**. Also use lists, blockquotes, short paragraphs, and visuals.
 - Aim for **1500 words**.
-- Have **clear CTAs**. Tweet this. Go here.
+- Have **clear CTAs**: Tweet this. Go here.
 
 For a deeper read, check the
  [Perfect blog post research data](https://blog.bufferapp.com/perfect-blog-post-research-data)
