@@ -2,7 +2,7 @@
 layout:     post
 title:      Buckets of knowledge
 date:       '2015-02-13T10:46:55-06:00'
-summary:    Knowledge is a vast ocean. It consists of droplets.
+summary:    We aren’t aware of our ignorance. What next, then? 
 categories: learning
 author:     max
 ---

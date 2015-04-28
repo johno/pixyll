@@ -2,7 +2,7 @@
 layout:     post
 title:      How understanding the origin of the word ‘priority’ can impact your productivity.
 date:       '2015-02-26 11:21:29'
-summary:    I recently had the chance to read Essentialism
+summary:    What are you really doing when you choose the top 10 priorities in your business, or in our life? Are you setting your priorities in the best possible way? Truth is, you're probably not. Read here why...
 categories: culture
 author:     alejo
 ---
