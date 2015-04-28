@@ -71,7 +71,7 @@ This way, when they push new features, we can pull them into our master
 1. Make sure you're on the gh-pages branch.
 1. Git pull to get the latest changes
 1. Create a new branch with your initials (`git checkout -b mh-my-awesome-post`)
-1. Create a new file in the `\_posts/` folder. It should have the format
+1. Create a new file in the `_posts/` folder. It should have the format
    `2015-02-26-my-awesome-post.md`
 1. Add the following at the top of your post
 
