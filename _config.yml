@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://metanot.es"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-56447385-1
 
 # Optional features
 animated:           false
