@@ -9,16 +9,25 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">
+    {% include author.html %} wrote this on {{ page.date | date: "%b %-d, %Y" }}
+    <span class="dot-divider"> - </span>
+    {{ minutes }} minute read.
+  </span>
+    <br>
   {% if page.update_date %}
-    <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
+    <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span>
   {% endif %}
-  <span class="post-meta small">{{ minutes }} minute read</span>
+  <br>
 </div>
 
 <article class="post-content">
   {{ content }}
 </article>
+
+{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}
 
 {% if site.show_post_footers %}
   {% include post_footer.html %}

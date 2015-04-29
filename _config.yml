@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Meta Notes
+email:       hola@juntostudio.com
+author:      JS
+description: "A blog for independent learners, by independent learners."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://metanot.es"
 
 # Google analytics
 google_analytics: UA-53548208-1
@@ -19,21 +19,35 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: juntostudio
 google_plus_id:
 linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
 # Build settings
 markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:title
 paginate:     3
 sass:
   compressed: true

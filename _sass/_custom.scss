@@ -1,0 +1,78 @@
+a, .site-header a {
+  color: #6aa89b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken( #6aa89b, 10% )
+}
+
+img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0 auto;
+}
+
+header p {
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+  color: #7a7a7a;
+}
+
+a.site-title{
+  color: #333;
+  font-weight: 300;
+  display: block;
+
+  &.site-title-home {
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .site-header .site-title {
+    float: none;
+  }
+}
+
+footer,
+footer .wrap {
+  background-color: #fff;
+}
+
+.logo {
+  max-height: 70px;
+  margin-bottom: 30px;
+}
+
+.logo-footer {
+  max-height: 40px;
+  margin-bottom: 5px;
+}
+
+p img {
+  margin: 30px auto 30px auto;
+}
+
+.author {
+  max-height: 30px;
+  border-radius: 50%;
+  vertical-align: middle;
+  display: inline;
+  margin: -3px 5px 0 0;
+}
+
+.dot-divider {
+  padding: 0 5px;
+}
+
+.posts .post {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+
+.post-summary {
+  margin-bottom: 0;
+}
