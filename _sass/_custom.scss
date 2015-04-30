@@ -80,3 +80,16 @@ p img {
 .thin-border-top {
   border-top: thin solid #f3f3f3;
 }
+
+.archive {
+  li {
+    font-size: 0.85em;
+    line-height: 1.5em;
+    a {
+      color: #333;
+      &:hover {
+        opacity: 0.6;
+      }
+    }
+  }
+}
