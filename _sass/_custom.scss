@@ -7,6 +7,11 @@ a:hover {
   color: darken( #6aa89b, 10% )
 }
 
+a.grey-link {
+  display: inline-block;
+  font-weight: 500;
+}
+
 img {
   display: block;
   width: auto;
@@ -40,6 +45,13 @@ a.site-title{
 footer,
 footer .wrap {
   background-color: #fff;
+
+  .footer-links {
+    font-size: 1.15rem;
+    a {
+      margin: 0 10px;
+    }
+  }
 }
 
 .logo {
@@ -48,8 +60,9 @@ footer .wrap {
 }
 
 .logo-footer {
-  max-height: 40px;
-  margin-bottom: 5px;
+  display: inline-block;
+  max-height: 20px;
+  margin: 0 0 -4px 4px;
 }
 
 p img {

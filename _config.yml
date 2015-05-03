@@ -19,7 +19,7 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: true
+show_social_icons: false
 github_username:
 stackoverflow_id:
 twitter_username: juntostudio
