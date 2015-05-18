@@ -2,17 +2,17 @@
 layout:    post
 title:     How I Found the Cheapest Place to Live in Austin
 date:      '2015-04-28T13:13:00-06:00'
-summary:   The full story of how I lived under $200 a month.
+summary:   The full story of how I lived on $200 a month.
 category:  
 author:    max
 ---
 
 Hi guys! I've spent three months at Austin and wanted to share the
 interesting road to finding a steady home. In retrospective, I lived in 4
-different locations and spent less than $200 overall. There are a lot of things
-I would have never thought possible to do just a couple months earlier, which
-makes me all the more exciting about what other misconceptions about the world I
-might have. Let's dive into the story:
+different locations and spent less than $200 in rent. There are a lot of things
+I would have never thought possible just a couple months earlier, which makes 
+me all the more excited about what other misconceptions about the world I might 
+have. Let's dive into the story:
 
 I jumped on a plane to Austin on January 9th.
 
@@ -29,12 +29,13 @@ of live music.  "Keep Austin weird". I'm ready.
 I didn't have too much of a plan when I arrived. I had met a guy on 
 [Hashtag Nomads](hashtagnomads.com) who had offered me to stay in his couch for 
 free. I had accepted that offer because I wanted to kick-start my trip into 
-Austin, and get immersed in the culture and local knowledge as soon as possible 
-was one of the priorities. So off I went and said yes to Randall, the stranger 
-I had met on the Internet. Oh, and before you tell me that I'm crazy, Randall 
-had sent me a video of his adventures while he **BIKED FROM GERMANY TO INDIA**, 
-which convinced me that he was not, in fact, an axe murderer. I confirm with him
-a couple of days before my flight, and off we go. What could possibly go wrong?
+Austin, and getting immersed in the culture and local knowledge as soon as 
+possible was one of the priorities. So off I went and said yes to Randall, 
+the stranger I had met on the Internet. Oh, and before you tell me that I'm 
+crazy, Randall had sent me a video of his adventures while he **BIKED FROM 
+GERMANY TO INDIA**, which convinced me that he was not, in fact, an axe 
+murderer. I confirm with him a couple of days before my flight, and off we go
+. What could possibly go wrong?
 
 As soon as I landed, I gave him a call:
 
@@ -78,8 +79,8 @@ their own rooms. My bed was clean, towels were readily available, and most
 importantly, the WiFi password was on a piece of paper stuck to the fridge.
 
 I spent the next two days exploring around, going to coffee shops nearby and
-working. One of the benefits of working remotely, of course, is that you get to
-not skip a beat at work while being half-stranded in an Airbnb somewhere in
+working. One of the benefits of working remotely, of course, is that you don't 
+even skip a beat at work while being half-stranded in an Airbnb somewhere in
 Austin. 
 
 Sunday arrives, and soon I get a call from Randall.
@@ -114,7 +115,7 @@ totally in. He also shared more of his adventures through Asia and how he became
 a DJ, later to be chased by the Thai mafia. I'll leave that story for another 
 post.
 
-The original plan was for me to stay during January at Randall's. The NomadPad 
+The original plan was for me to stay at Randall's all of January. The NomadPad 
 was scheduled to start in February, and I was ready to move in as soon as we
 figured it all out. However, we soon discovered a flaw in our plans: SXSW.
 
@@ -127,38 +128,37 @@ that week, and prices shoot up from $70/night up to $1000/night in some cases.
 It's such a huge deal that some native Austinites leave for a vacation, which is
 paid for by the money they receive from renting their homes.
 
-Now, because Randall still didn't have a house secured for the NomadPad. And he
-needed good prices to make the NomadPad profitable, i.e. find a long term lease.  
-That's why SXSW became a problem.
+It turned out that Randall hadn't booked a house for the NomadPad yet, and with
+SXSW just around the corner, it would be difficult to find a good long term
+deal. 
 
 Instead, Randall decided to change plans and open up the NomadPad in April,
-which left me in a rather awkward situation. I didn't know if I were to be
-staying at his place during the three months, or if I had to find a place in the
-meantime, after January was over. And before I began asking myself about this,
-Randall told me he would be taking a trip to Dallas because of business reasons 
-in a couple days, and that, although he knew it was kinda difficult to find a
-place with such a short notice, he half-expected me to have something figured
-out by the time he came back, about four days later. So there was my answer. Not
-even 'til the end of January.
+which left me in a rather awkward situation. I didn't know if I could stay at 
+his place during the three months or if I had to find a place after January was 
+over. Just as I was beginning to ask myself about this, Randall told me he had a 
+business trip to Dallas in a couple days, and that, although he knew it was 
+kinda difficult to find a place on such short notice, he half-expected me to 
+have something figured out by the time he came back, about four days later. 
+So there was my answer.  Not even 'til the end of January.
 
 The search for Home #3 had begun. More like a week had passed by.
 
 # Jen and Tori
 
-Two days before Randall came back, I start to become increasingly worried about 
-finding a place within my budget. I had never used Craigslist or anything else;
-it was my first time looking for a house with time pressure. I figured I'd just 
-find a short-term deal so that I can buy myself some time until I find a good 
-place. After finding a good candidate shows up during my Airbnb searches, I talk 
-to the host to arrange a deal outside of Airbnb (to avoid Airbnb fees), and she 
-agrees with the condition that she wants to meet me first. It turned out I would
-be living with two girls...
+Two days before Randall came back, I started to become increasingly worried 
+about finding a place within my budget. I had never used Craigslist or anything 
+else; it was my first time looking for a house with time pressure. I figured I'd 
+just find a short-term deal so that I could buy myself some time until I found a 
+good place. After finding a good candidate shows up during my Airbnb searches, I 
+talk to the host to arrange a deal outside of Airbnb (to avoid Airbnb fees), and 
+she agrees with the condition that she wants to meet me first. It turned out I 
+would be living with two girls...
 
 I took the trip all the way to West Campus (where most of the students at UT
 live), and meet with Kelly, the Airbnb host, who shows me around the house. She 
 later explains that she doesn't normally rent to men, but because she needs the
 money, and has seen that I'm not a serial killer, she agrees to rent me the room 
-in a weekly basis. I moved in the next day.
+on a weekly basis. I moved in the next day.
 
 When I got in, I got to meet the girls that would become my roommates at Home 
 \#3. The first one introduced herself as Jen. About 5'10", long blonde hair. The
@@ -210,8 +210,8 @@ emailing a lot of Couchsurfing hosts. It was Superbowl Sunday that day.
 # Tyson
 
 I have no idea how this was even possible; a compassionate soul named Tyson 
-agreed to host me on that same day. I packed my things and walked all the way
-to his place, which consisted of a bedroom with a small living room and kitchen.
+agreed to host me that same day. I packed my things and walked all the way to 
+his place, which consisted of a bedroom with a small living room and kitchen.
 Tyson had managed to fit a very comfy bed in the living room. All in all, he
 seemed like an experienced host. Sure enough, he later showed me a map of the 
 world he had on the wall, where all of his previous guests had marked their 
@@ -252,7 +252,7 @@ The way I found it was through a Facebook group called UT Austin Sublet Finder.
 I found it because of Tyson, and it's where most of the students or transfer
 students find roommates or elsewhere to live. I contacted one guy that wanted to 
 sublease his apartment, met with him, did all the legalities and had to pay the 
-lease in full because I was unable to find a US co-signer. All in all, it costed
+lease in full because I was unable to find a US co-signer. All in all, it cost
 me $200 less per month than the rest of the options I had found, and I booked
 until the end of July, saving around $1200 in rent.
 
