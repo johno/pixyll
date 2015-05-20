@@ -24,7 +24,7 @@ eye was the amount of buildings under construction. I'd estimate that for
 every two buildings, there is one that is currently being erected.  The capital 
 of live music.  "Keep Austin weird". I'm ready.
 
-![For every two buildings, there's one under construction](images/austin_skyline.jpg)
+![For every two buildings, there's one under construction](/images/austin_skyline.jpg)
 
 I didn't have too much of a plan when I arrived. I had met a guy on 
 [Hashtag Nomads](hashtagnomads.com) who had offered me to stay in his couch for 
@@ -39,26 +39,30 @@ murderer. I confirm with him a couple of days before my flight, and off we go
 
 As soon as I landed, I gave him a call:
 
-> Hey man, how's it going? Max here! I told you on Hashtag Nomads that I would
-> come and crash at your place, so here I am! Where do we meet?
-
-> Hey Max! Maaan, I completely forgot about you, I'm sorry. I'm actually in 
-> **Florida** right now for a bachelor party. But hey, just talk to my friend 
-> Albert, he's currently in town and might be able to help you out! I'll come 
-> back on Sunday [it was a Friday], and I can host you as soon as I arrive.
+> 
+Max: Hey man, how's it going? Max here! I told you on Hashtag Nomads that I 
+would come and crash at your place, so here I am! Where do we meet?
+> 
+Randall: Hey Max! Maaan, I completely forgot about you, I'm sorry. I'm 
+actually in **Florida** right now for a bachelor party. But hey, just talk to 
+my friend Albert, he's currently in town and might be able to help you out! 
+I'll come back on Sunday [it was a Friday], and I can host you as soon as I 
+arrive.
+> 
 
 Wonderful. It's starting to get dark around here, so I resort to call Albert
 right away:
-
-> Hey Albert, this is Max. Your friend Randall gave me your phone number
-> because...well, he's in Florida, and I was supposed to stay with him. What 
-> should I do?
-
-> Hey Max, um...I guess you'll have to rent an Airbnb. Austin's a safe place.
-> If you want, we can grab dinner today! I can drop you off afterwards wherever 
-> you end up staying at. You up? And good luck!
-
-> Sure, sure. I'm down. _Let's do this._
+>
+Max: Hey Albert, this is Max. Your friend Randall gave me your phone number
+because...well, he's in Florida, and I was supposed to stay with him. What 
+should I do?
+>
+Albert: Hey Max, um...I guess you'll have to rent an Airbnb. Austin's a safe 
+place.  If you want, we can grab dinner today! I can drop you off afterwards 
+wherever you end up staying at. You up? And good luck!
+>
+Max: Sure, sure. I'm down. _Let's do this._
+>
 
 It is official now. It's 6pm and I don't have a place to sleep. So I grab my
 phone, download Airbnb (a life saver), find the cheapest listing available and 
@@ -77,6 +81,9 @@ opened with a passcode, and the house was equipped with 6 rooms, each with their
 own passcode. Julia gave each guest the code for the front door, and the one to 
 their own rooms. My bed was clean, towels were readily available, and most 
 importantly, the WiFi password was on a piece of paper stuck to the fridge.
+
+![My Airbnb
+room](/images/airbnb_room.jpg)
 
 I spent the next two days exploring around, going to coffee shops nearby and
 working. One of the benefits of working remotely, of course, is that you don't 
@@ -159,6 +166,8 @@ live), and meet with Kelly, the Airbnb host, who shows me around the house. She
 later explains that she doesn't normally rent to men, but because she needs the
 money, and has seen that I'm not a serial killer, she agrees to rent me the room 
 on a weekly basis. I moved in the next day.
+
+![West Campus house](/images/west_campus_house.jpg)
 
 When I got in, I got to meet the girls that would become my roommates at Home 
 \#3. The first one introduced herself as Jen. About 5'10", long blonde hair. The
@@ -262,6 +271,8 @@ pool, basketball and volleyball courts, a playing room and more. I bought a bike
 from Tyson (he had a spare one) for $40, fixed it for free at the Orange Bike
 Project in UT (h/t to Tyson as well) and used it combined with the UT shuttle to
 get around town easily. My transportation costs: $0. 
+
+![Study Room](/images/ue_study_room.jpeg)
 
 The fumbling around town for the first month gave me a quick overview of the
 city, allowed me to get local knowledge just about anything I needed, all while
