@@ -1,9 +1,19 @@
 <footer class="footer">
-  <div class="p2 wrap">
+  <div class="p2 mb1 wrap">
     <div class="measure mt1 center">
+      <div class="footer-links mb1">
+        <a href="{{ site.url }}">Home</a>
+        <a href="{{ site.url }}/archive">All posts</a>
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">RSS</a>
+        <a href="https://twitter.com/juntostudio" target="_blank">Twitter</a>
+        <a href="http://www.juntostudio.com/#contact" target="_blank">Contact</a>
+      </div>
       <small>
-        <img src="/images/js.png" class="logo-footer" />
-        By <a href="http://www.juntostudio.com">Junto Studio</a>
+        By
+        <a href="http://www.juntostudio.com" target="_blank">
+          Junto Studio
+          <img src="/images/js.png" class="logo-footer" />
+        </a>
         {% if site.show_social_icons %}
           {% include social_links.html %}
         {% endif %}
