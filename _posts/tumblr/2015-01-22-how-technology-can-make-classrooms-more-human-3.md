@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life.'
+title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life'
 date:       '2015-01-22T01:08:00-06:00'
 summary:    Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life? Actually, education should be more human that. Read here why...
 categories: education
@@ -9,8 +9,8 @@ author:     alejo
 
 **As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic.**
 
-- First: Freeing up time for teachers.
-- Second: Letting students choose what they learn.
+- [First: Freeing up time for teachers](http://www.metanot.es/how-technology-can-make-classrooms-more-human-1/)
+- [Second: Letting students choose what they learn](http://www.metanot.es/how-technology-can-make-classrooms-more-human-2/)
 - **Third: Replacing degrees with life.**
 
 ![life](http://33.media.tumblr.com/93d3d2bf4d3e46c1719564e3985ac7b6/tumblr_inline_nikel1Mbdp1sa3u4l.jpg)
