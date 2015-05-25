@@ -22,3 +22,10 @@ Technology today allows any student with an internet connection to access the be
 If we switch classrooms to a model where students review the content on their own time, what could we do with classroom time?
 
 The possibilities are endless. Teachers could spend their time helping the students who are struggling the most. Students could have more Socratic discussions and start projects together. Classrooms could be transformed into spaces for fun and exploration – spaces where students and teachers collaborate and encourage each other to learn.
+
+Want to read more?
+Here are other ways in which tecnhology can make classrooms more human:
+
+- [ By letting students choose what they learn](http://localhost:4000/how-technology-can-make-classrooms-more-human-2/) 
+- [By replacing degrees with life](http://localhost:4000/how-technology-can-make-classrooms-more-human-3/) 
+- [By providing world-class education to those in the poorest locations](http://localhost:4000/how-technology-can-make-classrooms-more-human-4/) 
