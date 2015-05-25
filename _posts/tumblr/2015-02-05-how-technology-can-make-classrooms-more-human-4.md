@@ -1,4 +1,5 @@
 ---
+permalink: /how-technology-can-make-classrooms-more-human-4
 layout:     post
 title:      'How Technology Can Make Classrooms More Human: Providing world-class education
              to those in the poorest locations'

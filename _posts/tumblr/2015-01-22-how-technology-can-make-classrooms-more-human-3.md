@@ -1,4 +1,5 @@
 ---
+permalink: /how-technology-can-make-classrooms-more-human-3
 layout:     post
 title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life'
 date:       '2015-01-22T01:08:00-06:00'

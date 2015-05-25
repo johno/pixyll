@@ -1,4 +1,5 @@
 ---
+permalink: /how-technology-can-make-classrooms-more-human-1
 layout:     post
 title:      "How Technology Can Make Classrooms More Human: By freeing up time for teachers"
 date:       '2014-12-12T15:07:22-06:00'
@@ -26,6 +27,6 @@ The possibilities are endless. Teachers could spend their time helping the stude
 Want to read more?
 Here are other ways in which tecnhology can make classrooms more human:
 
-- [ By letting students choose what they learn](http://www.metanot.es/how-technology-can-make-classrooms-more-human-2/) 
+- [By letting students choose what they learn](http://www.metanot.es/how-technology-can-make-classrooms-more-human-2/) 
 - [By replacing degrees with life](http://www.metanot.es/how-technology-can-make-classrooms-more-human-3/) 
 - [By providing world-class education to those in the poorest locations](http://www.metanot.es/how-technology-can-make-classrooms-more-human-4/) 
