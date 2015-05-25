@@ -9,10 +9,12 @@ categories: education
 author:     alejo
 ---
 
-- First: [Freeing up time for teachers.](http://www.metanot.es/how-technology-can-make-classrooms-more-human-1/)
-- Second: [Letting students choose what they learn.](http://www.metanot.es/how-technology-can-make-classrooms-more-human-2/)
-- Third: [Replacing degrees with life.](http://www.metanot.es/how-technology-can-make-classrooms-more-human-3/)
-- Fourth: Providing world-class education to those in the poorest locations.
+_As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic._
+
+- First: [Freeing up time for teachers.]({{ site.url }}/how-technology-can-make-classrooms-more-human-1/)
+- Second: [Letting students choose what they learn.]({{ site.url }}/how-technology-can-make-classrooms-more-human-2/)
+- Third: [Replacing degrees with life.]({{ site.url }}/how-technology-can-make-classrooms-more-human-3/)
+- **Fourth: Providing world-class education to those in the poorest locations.**
 
 ![kids](http://33.media.tumblr.com/5fdb8ff4becae3976cdfdb80f50a2905/tumblr_inline_njbpf9YZ711sa3u4l.jpg)
 

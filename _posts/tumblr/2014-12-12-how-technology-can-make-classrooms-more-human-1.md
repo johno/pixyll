@@ -27,6 +27,6 @@ The possibilities are endless. Teachers could spend their time helping the stude
 Want to read more?
 Here are other ways in which tecnhology can make classrooms more human:
 
-- [By letting students choose what they learn](http://www.metanot.es/how-technology-can-make-classrooms-more-human-2/) 
-- [By replacing degrees with life](http://www.metanot.es/how-technology-can-make-classrooms-more-human-3/) 
-- [By providing world-class education to those in the poorest locations](http://www.metanot.es/how-technology-can-make-classrooms-more-human-4/) 
+- [By letting students choose what they learn]({{ site.url }}/how-technology-can-make-classrooms-more-human-2/) 
+- [By replacing degrees with life]({{ site.url }}/how-technology-can-make-classrooms-more-human-3/) 
+- [By providing world-class education to those in the poorest locations]({{ site.url }}/how-technology-can-make-classrooms-more-human-4/) 
