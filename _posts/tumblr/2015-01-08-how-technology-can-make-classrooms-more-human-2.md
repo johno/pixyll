@@ -1,6 +1,7 @@
 ---
+permalink: /how-technology-can-make-classrooms-more-human-2
 layout:     post
-title:      "How Technology Can Make Classrooms More Human: Letting students choose what they learn."
+title:      "How Technology Can Make Classrooms More Human: Letting students choose what they learn"
 date:       '2015-01-08T20:52:00-06:00'
 summary:    Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life?
 categories: education
@@ -9,10 +10,11 @@ author:     alejo
 
 ![image](http://38.media.tumblr.com/32853bc2ad5f01fa24e3421e708e63e4/tumblr_inline_nhw026XKp81sa3u4l.jpg)
 
-**As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic.**
+_As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic._
 
-[First: By freeing up time for teachers.](http://metanot.es/how-technology-can-make-classrooms-more-human:-by-freeing-up-time-for-teachers)
-**Second: Letting students choose what they learn.**
+[First: By freeing up time for teachers.]({{ site.url }}/how-technology-can-make-classrooms-more-human-2/)  
+
+**Second: Letting students choose what they learn*.**
 
 Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life?
 
@@ -35,3 +37,10 @@ So, why wouldn’t we embrace this?
 Let’s replace bureaucracy with software.
 
 Let’s create a world where we embrace learning autonomy. Where children are free to choose. Where they can get together with others who share their dreams, and work hard to achieve them.
+
+
+*If you'd like to read more, here are other ways in which technology can make classrooms more human: 
+
+
+- [By replacing degrees with life]({{ site.url }}/how-technology-can-make-classrooms-more-human-3/) 
+- [By providing world-class education to those in the poorest locations]({{ site.url }}/how-technology-can-make-classrooms-more-human-4/) 

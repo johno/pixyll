@@ -1,16 +1,17 @@
 ---
+permalink: /how-technology-can-make-classrooms-more-human-3
 layout:     post
-title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life.'
+title:      'How Technology Can Make Classrooms More Human: Replacing degrees with life'
 date:       '2015-01-22T01:08:00-06:00'
 summary:    Why is it that most schools don’t let children choose what they want to learn? Is it because students are not smart enough to choose? Because they’re not sure of what they want to pursue in life? Actually, education should be more human that. Read here why...
 categories: education
 author:     alejo
 ---
 
-**As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic.**
+_As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic._
 
-- First: Freeing up time for teachers.
-- Second: Letting students choose what they learn.
+- [First: Freeing up time for teachers]({{ site.url }}/how-technology-can-make-classrooms-more-human-2/) 
+- [Second: Letting students choose what they learn]({{ site.url }}/how-technology-can-make-classrooms-more-human-2/)
 - **Third: Replacing degrees with life.**
 
 ![life](http://33.media.tumblr.com/93d3d2bf4d3e46c1719564e3985ac7b6/tumblr_inline_nikel1Mbdp1sa3u4l.jpg)
@@ -39,3 +40,6 @@ Aren’t these better ways to signal who you are and what you do? 
 Think about this. Are we still using degrees because they are of value or because they are tradition?
 Let’s make education more human by encouraging diversity. More online portfolios, more blogs, more unique life experiences.
 Would you rather hire someone who has traveled the world while learning online, or someone with a traditional degree? I know I’d choose the first one every time.
+
+
+Read more about technology and education [here]({{ site.url }}/how-technology-can-make-classrooms-more-human-4/). 
