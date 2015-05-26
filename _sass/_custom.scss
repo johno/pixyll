@@ -1,3 +1,7 @@
+body {
+  background-color: #fafafa;
+}
+
 a, .site-header a {
   color: #6aa89b;
   text-decoration: none;
@@ -44,7 +48,7 @@ a.site-title{
 
 footer,
 footer .wrap {
-  background-color: #fff;
+  background-color: #fafafa;
 
   .footer-links {
     font-size: 1.15rem;
@@ -57,6 +61,10 @@ footer .wrap {
 .logo {
   max-height: 70px;
   margin-bottom: 30px;
+}
+
+.doodle {
+  max-height: 250px;
 }
 
 .logo-footer {
