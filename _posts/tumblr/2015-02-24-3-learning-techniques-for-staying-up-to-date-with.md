@@ -3,7 +3,7 @@ layout:     post
 title:      3 Learning Techniques for Staying up to date with new Technologies
 date:       '2015-02-24T18:50:29-06:00'
 summary:    This blog post is the subject of a talk Alejo is presenting at Austin on Rails, Feb. 24th
-categories: learning ruby
+categories: learning
 author:     alejo
 ---
 ![mic](http://38.media.tumblr.com/60a484545657a18cd2ef6f9774508830/tumblr_inline_nkavpioqUK1sa3u4l.jpg)
@@ -44,7 +44,7 @@ This is why we’ve formed a remote book club, where everyone reads a different 
 
 The amount of insights you gain from approaching the same problem from different perspectives is incredible. Get 3 or 4 people together, and give it a go! You’ll read 4 books with the time cost of 1.
 
-### Build up a learning streak. 
+### Build up a learning streak.
 
 I’m on day 15 of spending 30 minutes every day learning Angular.js. There are days where I’m not in the mood for learning at first, but I’ve made a commitment to myself to keep this up for at least 21 days.
 
