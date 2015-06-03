@@ -3,11 +3,12 @@ layout:     post
 title:      Art is not a thing, dad.
 date:       '2014-12-02T20:16:00-06:00'
 summary:    Art is not a thing but rather an experience; at least that's what this girl reminded me... 
-categories: design
+categories: experiences
 author:     nacho
 ---
 
 ![art](http://33.media.tumblr.com/28428d35e82217292bb96ec9c245c65f/tumblr_inline_nfzfgty6Zb1sa3u4l.jpg)
+
 Last week I went to a local art store looking for some kneaded erasers. I guess they are never the most practical option, but for some reason I can’t outgrow the habit: they’re just too much fun to use. Anyways, I was walking down the aisle telling myself that nothing else was imperative to take when a conversation started to become distinguishable across the crammed stacks. It was a girl, probably around ten, trying to convince her father to buy a large canvas instead of a considerably smaller one. I stood by listening for a while and in my perspective, the girl’s ability to build a case on how much a larger canvas could make the difference was quite impressive.
 
 It’s always kind of entertaining to witness these situations, you know. Not much after I paused, it seemed like someone had finally won the argument: the larger canvas was the one to be taken. Both were already heading to the cashier when the thrifty dad muttered: ‘Anything so you can get your art thing done, sweetheart.’

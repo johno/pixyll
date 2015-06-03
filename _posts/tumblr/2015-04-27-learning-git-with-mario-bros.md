@@ -3,7 +3,7 @@ layout:     post
 title:      Learning Git with Mario Bros
 date:       2015-04-27 09:41:29
 summary:    Like playing Mario Bros? Here's one programming lesson hidden in the famous videogame.
-categories: code
+categories: code resources
 author:     stefy
 ---
 ![mariobros](/images/mariobros.jpg)

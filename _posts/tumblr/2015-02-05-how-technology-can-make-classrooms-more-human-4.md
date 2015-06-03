@@ -5,7 +5,7 @@ title:      'How Technology Can Make Classrooms More Human: Providing world-clas
              to those in the poorest locations'
 date:       '2015-02-05T19:01:00-06:00'
 summary:    As technology gets better at doing jobs humans used to do, it’s important to revisit the role of humans in the classroom. I’ll be writing a series of articles exploring this topic.
-categories: education
+categories: ed/tech resources
 author:     alejo
 ---
 

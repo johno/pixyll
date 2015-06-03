@@ -3,7 +3,7 @@ layout:    post
 title:     How I Found the Cheapest Place to Live in Austin
 date:      '2015-04-28T13:13:00-06:00'
 summary:   The full story of how I lived on $200 a month.
-category:  
+category:  experiences
 author:    max
 ---
 

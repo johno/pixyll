@@ -3,11 +3,12 @@ layout:     post
 title:      Stop the world, it's moving too fast!
 date:       '2014-11-27T12:54:00-06:00'
 summary:    Is it me or does anybody else feel like the world moves faster and faster every time? 
-categories:
+categories: learning
 author:     isa
+image: 
 ---
 
-![comic](http://31.media.tumblr.com/66c5cdcf53f6280db58966ee235b4666/tumblr_inline_nfpl2k9Mp91sa3u4l.jpg)
+![fastmoving](/images/fastmoving.png)
 
 Is it me or does anybody else feel like the world moves faster and faster every time? Sometimes it feels like we can’t even understand what’s going on anymore and that things we took for granted are now becoming obsolete, like privacy.  Everything we know is changing dramatically. Self-driving cars, online schools, implanted chips, nanobots and 3D printers in space. People in the know like to call it exponential change. 
 

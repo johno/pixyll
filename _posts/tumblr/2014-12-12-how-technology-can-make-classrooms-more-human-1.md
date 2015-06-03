@@ -4,7 +4,7 @@ layout:     post
 title:      "How Technology Can Make Classrooms More Human: By freeing up time for teachers"
 date:       '2014-12-12T15:07:22-06:00'
 summary:    If we switch classrooms to a model where students review the content on their own time, what could we do with classroom time?
-categories: education
+categories: ed/tech
 author:     alejo
 
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      METAphorically speaking...
 date:       '2014-12-17T16:45:00-06:00'
 summary:    Believe it or not, we are all storytellers, poets, and novelists.
-categories:
+categories: learning
 author:     stefy
 ---
 

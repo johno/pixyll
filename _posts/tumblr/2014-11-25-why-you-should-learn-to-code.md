@@ -3,7 +3,7 @@ layout:     post
 title:      Why you should learn to code
 date:       '2014-11-25T19:10:00-06:00'
 summary:     From flying drones making deliveries, to smart pans that help you cook perfectly, or wearable tech providing analytics to help soccer players practice. Almost every industry has been touched by software.
-categories: learning
+categories: code 
 author:     alejo
 ---
 

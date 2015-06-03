@@ -3,7 +3,7 @@ layout:     post
 title:      3 Learning Techniques for Staying up to date with new Technologies
 date:       '2015-02-24T18:50:29-06:00'
 summary:    This blog post is the subject of a talk Alejo is presenting at Austin on Rails, Feb. 24th
-categories: learning
+categories: learning ed/tech resources
 author:     alejo
 ---
 ![mic](http://38.media.tumblr.com/60a484545657a18cd2ef6f9774508830/tumblr_inline_nkavpioqUK1sa3u4l.jpg)

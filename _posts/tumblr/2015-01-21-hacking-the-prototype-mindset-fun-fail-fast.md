@@ -3,7 +3,7 @@ layout:     post
 title:      'Hacking The Prototype Mindset: Fun-Fail-Fast'
 date:       '2015-01-21T07:00:00-06:00'
 summary:    'We love to learn fast. Learning fast allows us to understand, with minimum use of resources, the best way we can hit the mark. That’s why we also love to fail fast. The whole prototype-testing process is about it: recognizing what works and what doesn’t. But sometimes it’s easy to think that failing fast comes at a great expense: the abolition of fun.'
-categories: design
+categories: culture
 author:     nacho
 ---
 

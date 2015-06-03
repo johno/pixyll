@@ -3,7 +3,7 @@ layout:    post
 title:     All the world is my school
 date:      '2015-01-16T13:13:00-06:00'
 summary:   The old days in which we believe that school was the best and only place to learn are changing. Instead, a revolution of alternative education and amazing methods to seek knowledge is taking place. Here's what I've learnt about these changes...
-category:
+category:	learning
 author:    majo
 ---
 

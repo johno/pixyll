@@ -3,7 +3,7 @@ layout:     post
 title:      Rejection
 date:      '2015-01-27T13:50:15-06:00'
 summary:    "You must be rejected by another person at least once, every single day."
-categories: culture
+categories: learning experiences
 author:     max
 ---
 

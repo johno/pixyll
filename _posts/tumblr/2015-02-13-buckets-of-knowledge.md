@@ -3,7 +3,7 @@ layout:     post
 title:      Buckets of knowledge
 date:       '2015-02-13T10:46:55-06:00'
 summary:    We aren’t aware of our ignorance. What next, then? 
-categories: learning
+categories: learning experiences
 author:     max
 ---
 ![buckets](http://33.media.tumblr.com/4fae38bfa8cf2d529e9979f35e746905/tumblr_inline_njpvlboe051sa3u4l.jpg)
