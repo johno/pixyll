@@ -5,7 +5,7 @@ date:       '2014-11-27T12:54:00-06:00'
 summary:    Is it me or does anybody else feel like the world moves faster and faster every time? 
 categories: learning
 author:     isa
-image: 
+image: 		/images/fastmoving.png
 ---
 
 ![fastmoving](/images/fastmoving.png)
