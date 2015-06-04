@@ -2,9 +2,9 @@
 layout:     post
 title:      Why am I here?
 date:       '2015-06-03T13:13:00-06:00'
-summary:     For someone who prefers words over math and literature over physics, the thought of learning to code was utterly scary...
-categories: code
-author:     Guest writer
+summary:     What would happen if the purpose of school [...] was so individuals could find their own particular gift, master it and change the world?
+categories: ed/tech learning 
+author:     laura
 image: 
 ---
 
