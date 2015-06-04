@@ -5,7 +5,7 @@ date:       '2015-06-03T13:13:00-06:00'
 summary:     What would happen if the purpose of school [...] was so individuals could find their own particular gift, master it and change the world?
 categories: ed/tech learning 
 author:     laura
-image: 
+image: 		/images/journey.png
 ---
 
 ![journey](/images/journey.png)
