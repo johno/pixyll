@@ -1,10 +1,10 @@
 # Site settings
-title:       Meta Notes
+title:       Disruptived
 email:       hola@juntostudio.com
 author:      JS
 description: "A blog for independent learners, by independent learners."
 baseurl:     ""
-url:         "http://metanot.es"
+url:         "http://disruptived.com"
 
 # Google analytics
 google_analytics: UA-56447385-1
