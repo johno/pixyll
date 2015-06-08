@@ -60,6 +60,8 @@ I recommend:
 1. [Try GitHub](https://try.github.io/levels/1/challenges/1)
 2. [GitHub Guides](https://guides.github.com/introduction/flow/)
 3. [The Git Game](http://pcottle.github.io/learnGitBranching/)
+4. [Git Basics](http://teamtreehouse.com/library/git-basics) 
+
 
 
 
