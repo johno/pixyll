@@ -21,6 +21,10 @@ layout: default
   <br>
 </div>
 
+{% if page.image %}
+  <img class="feat-img hidden-mobile" src="/img/{{ page.image }}"> 
+{% endif %} 
+
 <article class="post-content">
   {{ content }}
 </article>
