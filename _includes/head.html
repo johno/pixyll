@@ -27,7 +27,7 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
-    <meta property="og:image" content="{% if post.image %}{{ post.image }}{% else %} {{ /images/doodle1.jpg }}{% endif %}">
+    <meta property="og:image" content="{% if page.image %}{{ site.url }}{{ 'images/' }}{{ page.image }}{% else %}{{ '/images/doodle1.jpg' }}{% endif %}">
 
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
