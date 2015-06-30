@@ -5,6 +5,7 @@ date:      '2015-06-11T13:13:00-06:00'
 summary:   "What if all this time, we've been wrong with the true meaning of knowledge?"
 category:  ed/tech learning
 author:    stefy
+image: 	   books.jpg
 ---
 
 ![books](/images/books.jpg)
