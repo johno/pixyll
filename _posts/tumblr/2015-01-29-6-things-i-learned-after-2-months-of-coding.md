@@ -7,15 +7,15 @@ categories: learning code
 author:     stefy
 ---
 ![typewriter](http://31.media.tumblr.com/bd79daff70ee05adfa01bb2a95baf1ee/tumblr_inline_niy7n7NXaT1sa3u4l.jpg)
-For someone who prefers words over math and literature over physics, the thought of learning to code was utterly scary. My practical abilities were very close to none, and my comprehension of basic computer science was practically non-existent (seriously, though; I spent my Computer classes at school playing games and writing improvised stories). Nevertheless, life can be a series of fortunate coincidences. And after overhearing programming conversations, reading articles, and exploring the Internet, I stumbled with a coding post on Meta Notes.
+For someone who prefers words over math and literature over physics, the thought of learning to code was utterly scary. My practical abilities were very close to none, and my comprehension of basic computer science was practically non-existent (seriously, though; I spent my Computer classes at school playing games and writing improvised stories). Nevertheless, life can be a series of fortunate coincidences. And after overhearing programming conversations, reading articles, and exploring the Internet, I stumbled upon a coding post on Meta Notes.
 
-When such a perfect tapestry of events, people and chance knocks at your door, you can’t just let the opportunity fade. And so I wrote them an email. We met for an interview, which was more of a friendly dialogue about life and our personal pursuits, and soon after, I started aninternship at Junto Studio. There were very few things that I was sure of at the
+When such a perfect tapestry of events, people and chance knocks at your door, you can’t just let the opportunity fade. And so I wrote them an email. We met for an interview, which was more of a friendly dialogue about life and our personal pursuits, and soon after, I started an internship at Junto Studio. There were very few things that I was sure of at the
 time, but I was completely certain that I wanted to learn how to code.
 
 ### Programming is just like writing 
 
 Although I’ve been learning to program for only a
-couple of months now, I’ve stumbled with some decisive lessons that I’d like to
+couple of months now, I’ve stumbled upon some decisive lessons that I’d like to
 share with you. Overall, I’ve discovered that programming is just like writing. Here, let me explain what I mean. 
 
 If you think about it, both writing and coding strive
@@ -38,8 +38,8 @@ architecture a bit more! 
 
 I’m aware, though, that this is not an accurate portrayal
 of the general perception of programming. Actually, relating
-programming to sheer, manual labor is a common mistake I’ve comitted myself. In
-fact, is a subtle mistake that stops many people from even trying to learn it. But what if we change the narrative and recognize coding as a creative
+programming to sheer, manual labor is a common mistake I’ve made myself. In
+fact, it's a subtle mistake that stops many people from even trying to learn it. But what if we change the narrative and recognize coding as a creative
 pursuit? As a dialogue between you, your imagination, and the minds of your
 users…? 
 
@@ -48,12 +48,12 @@ users…? 
 According to Wikipedia, “grammar, rhetoric, and logic
 were the core of the liberal arts”. And believe me or not, this sounds a lot
 like coding! In a traditional education program, students get fixated on
-grades, and memorization is practically embedded on the curriculum. Programming,
+grades, and memorization is practically embedded in the curriculum. Programming,
 on the other hand, is much more like real life: you’re never done, you can
 always make something better, and you will never find a single, isolated
 solution to a problem.
 
-Now, here are the main lessons I’ve learned after this
+Now, here are the main lessons I’ve learned on this
 two-month adventure: 
 
 1. Coding has taught me **introspection** Trying to figure out how
@@ -62,7 +62,7 @@ the computer encodes things has helped me to inquire on my own insights. 
 2. When you are working in
 a project that you truly love, **momentum just
 builds**, and somehow, you eventually do whatever it takes to learn (working
-at very late night hours, trying risky moves just to see if something works,
+very late night hours, trying risky moves just to see if something works,
 and diving deep in countless internet sites in search of answers, are just some
 examples…) 
 
