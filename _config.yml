@@ -1,18 +1,18 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       lowest common denominator
+email:       patrick@veverka.net
+author:      Patrick Veverka
+description: "HUH?"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://veverkap.github.io"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
+animated:           true
+show_related_posts: true
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
