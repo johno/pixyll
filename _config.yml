@@ -19,22 +19,22 @@ show_post_footers:  true
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: veverkap
 stackoverflow_id:
-twitter_username:
+twitter_username: veverkap
 google_plus_id:
-linkedin_username:
-angellist_username:
+linkedin_username: veverkap
+angellist_username: veverkap
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
+share_facebook: true
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
