@@ -10,37 +10,37 @@ url:         "http://pixyll.com"
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
+animated:           true
+show_related_posts: true
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: comunitadigitali
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: silviogulizia
 google_plus_id:
-linkedin_username:
+linkedin_username: silviogulizia
 angellist_username:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
-share_tumblr: false
-share_reddit: false
+share_tumblr: true
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
