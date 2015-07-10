@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://pixyll.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-53548208-1
 
 # Optional features
 animated:           false
