@@ -7,6 +7,12 @@ abbr {
   cursor: help;
 }
 
+ins {
+  font-style: italic;
+  text-decoration: none;
+  border-bottom: thin solid $dark-gray;
+}
+
 p {
   color: #333;
   line-height: 1.5;
