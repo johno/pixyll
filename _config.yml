@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Seb 
+email:       sebastian.schoenherr@i-med.ac.at
+author:      Sebastian Schönherr
+description: "A blog."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 
 # Google analytics
-google_analytics:
+google_analytics: UA-59813715-1
 
 # Optional features
 animated:           false
@@ -23,7 +23,7 @@ disqus_shortname:
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: seppinho
 google_plus_id:
 linkedin_username:
 angellist_username:
