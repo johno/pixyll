@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
 
 Hi,
-I'm a researcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at), [Medical University of Innsbruck](http://www.i-med.ac.at) and part of a **computational genetic lab**. 
+I'm a researcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at), [Medical University of Innsbruck](http://www.i-med.ac.at) and part of a small **computational genetic lab**. 
 
-We mainly focus on software development and try to increase the [Hadoop](http://hadoop.apache.org/) usage in Genetics. Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
+Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
 
-## Current projects
+## Most of my time I'm working on these projects:
+
 - [Cloudgene](http://cloudgene.uibk.ac.at) - A workflow system for Hadoop.
 
 - [Michigan Imputation Server](https://imputationserver.sph.umich.edu/) - Imputation Service based on [minimac3](http://genome.sph.umich.edu/wiki/Minimac3) and Cloudgene. A cooperation with the [Center of Statistical Genetics](http://csg.sph.umich.edu/abecasis/), University of Michigan.
