@@ -1,10 +1,23 @@
+.site-header {
+  padding-top: $space-1;
+  padding-bottom: $space-2;
+}
+
 .site-header a {
   color: #333;
+  font-size: $h3;
   font-weight: 300;
 }
 
+.site-header .site-title {
+  font-size: $h2;
+}
+
+.site-nav {
+  margin-top: $space-2;
+}
+
 .site-header nav a {
-  font-size: $h6;
   color: #666;
 }
 
@@ -20,11 +33,6 @@
   margin-left: 1em;
 }
 
-.site-nav {
-  margin: 0;
-  padding: 0;
-}
-
 .site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
@@ -36,14 +44,8 @@
   text-align: center;
 }
 
-.site-header .site-title {
-  float: center;
-}
-
 .site-header .site-nav {
   text-align: center;
-  margin-top: 0.666em;
-  margin-bottom: 1.333em;
 }
 
 .social-icons .left, .social-icons .right {

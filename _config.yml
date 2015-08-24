@@ -5,9 +5,12 @@ author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"
+date_format: "%b %-d, %Y"
 
 # Google analytics
+# Google services
 google_analytics: UA-53548208-1
+google_verification:
 
 # Optional features
 animated:           false
@@ -21,11 +24,13 @@ disqus_shortname:
 
 # Social icons
 github_username:
+bitbucket_username:
 stackoverflow_id:
 twitter_username:
 google_plus_id:
 linkedin_username:
 angellist_username:
+medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -52,5 +57,3 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
-gems:
-  - jekyll-sitemap
