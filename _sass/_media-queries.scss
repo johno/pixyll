@@ -48,9 +48,9 @@
   }
 }
 
-@media screen and (max-width: $viewport-large){
+@media screen and (min-width: $viewport-large + 14) {
   em img {
-    max-width: 100%;
-    margin-left: 0;
+    max-width: $measure-width + 14;
+    margin-left: -7em;
   }
 }
