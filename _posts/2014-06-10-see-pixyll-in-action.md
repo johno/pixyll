@@ -12,6 +12,6 @@ First thing my name is Zack, if you ever have any thoughts about my work our som
 
 What is the blog going to be about? There are four main things that make me who I am
 
-![What makes me, me](images/me_circles.png)
+![What makes me, me](/images/me_circles.png)
 
 
