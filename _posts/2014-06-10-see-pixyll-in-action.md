@@ -6,7 +6,7 @@ summary:    Just saying Hello
 categories: Hello Intro
 ---
 
-# The Start of a long Adventure
+### The Start of a long Adventure
 
 Hello there, I am a second year student at the University Of Ulster currently studying Interaction Design. I have been told that its quite useful to have a blog, so this is me making a start on something I have been meaning to do for a while now. I want to keep this as a daily blog in which I write about things I see our do(terms subject to change).
 
