@@ -65,5 +65,4 @@ paginate:     4
 sass:
   compressed: true
 gems:
-  -
-    jekyll-paginate
+  - jekyll-paginate
