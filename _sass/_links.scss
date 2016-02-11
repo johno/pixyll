@@ -38,3 +38,16 @@ button,
   text-shadow: none;
   background-image: none;
 }
+
+.anchorjs-link {
+    text-shadow: none;
+    background-image: none;
+}
+.anchorjs-link:hover,
+.anchorjs-link:focus,
+.anchorjs-link:active{
+    border: 0;
+    color: $link-hover-color;
+    text-shadow: none;
+    background-image: none;
+}
