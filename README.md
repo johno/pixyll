@@ -129,7 +129,7 @@ If you would like to add a [fade-in-down effect](http://daneden.github.io/animat
 
 ### AnchorJS
 
-[AnchorJS](https://github.com/bryanbraun/anchorjs): _A JavaScript utility for adding deep anchor links to existing page content. AnchorJS is lightweight, accessible, and has no dependencies._ You can turn it on by toggling `enable_anchorjs`. Since it offers many ways for customization, such tweaks should be done in and default settings after turning AnchorJS on are:
+[AnchorJS](https://github.com/bryanbraun/anchorjs): _A JavaScript utility for adding deep anchor links to existing page content. AnchorJS is lightweight, accessible, and has no dependencies._ You can turn it on by toggling `enable_anchorjs`. Because it offers many ways for customization, tweaks should be done in `_includes/footer.html`. Default settings after turning AnchorJS on are:
 
 ```html
 <script>
