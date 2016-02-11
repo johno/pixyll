@@ -127,6 +127,19 @@ All variables can be found in the `_sass/_variables.scss` file, toggle these as 
 
 If you would like to add a [fade-in-down effect](http://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
 
+### AnchorJS
+
+[AnchorJS](https://github.com/bryanbraun/anchorjs): _A JavaScript utility for adding deep anchor links to existing page content. AnchorJS is lightweight, accessible, and has no dependencies._ You can turn it on by toggling `enable_anchorjs`. Since it offers many ways for customization, such tweaks should be done in and default settings after turning AnchorJS on are:
+
+```html
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+```
+
+See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
+
 ### Put in a Pixyll Plug
 
 If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
