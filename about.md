@@ -1,20 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About Patrick
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Patrick Veverka is this guy who writes code a lot for <a href="http://wombatsecurity.com">Wombat Security</a> and every once in a while, he'll write a blog post here (that is not endorsed by his employer and represents only his opinion.)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Mostly though, he is a proud father to 4 wonderful kids and does his best to not take his amazing wife for granted.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
