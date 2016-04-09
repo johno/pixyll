@@ -12,9 +12,9 @@ But now I'm learning [Elixir](http://elixir-lang.org) and I feel like this time,
 
 <blockquote>
   <p>
-    The best laid schemes of mice and men
-    Go often askew,
-    And leave us nothing but grief and pain,
+    The best laid schemes of mice and men<br />
+    Go often askew,<br />
+    And leave us nothing but grief and pain,<br />
     For promised joy!
   </p>
   <footer><cite title="Robert Burns">Robert Burns</cite></footer>
