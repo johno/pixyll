@@ -4,7 +4,7 @@ email:       patrick@veverka.net
 author:      Patrick Veverka
 description: "HUH?"
 baseurl:     ""
-url:         "http://veverkap.github.io"
+url:         "http://patrick.veverka.net"
 
 # Google analytics
 google_analytics:
@@ -21,7 +21,7 @@ disqus_shortname:
 # Social icons
 show_social_icons: true
 github_username: veverkap
-stackoverflow_id:
+stackoverflow_id: 442536
 twitter_username: veverkap
 google_plus_id:
 linkedin_username: veverkap
