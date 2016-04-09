@@ -1,19 +1,7 @@
 ---
 layout: page
-title: About Pixyll
+title: About Patrick
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Director of Engineering @WombatSecurity, dad, unapologetic Browns fan. Two out of three ain't bad. My tweets are my fault, not my employers.
