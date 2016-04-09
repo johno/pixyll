@@ -2,7 +2,7 @@
 layout:     post
 title:      Back In The Saddle Again
 date:       2016-04-09
-summary:    I want to get better
+summary:    This time, I promise, I'll definitely blog more.  Or something.
 categories: blogging
 ---
 
