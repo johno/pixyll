@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       lowest common denominator
+email:       patrick@veverka.net
+author:      Patrick Veverka
+description: "Huh?"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://patrick.veverka.net"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,18 +17,18 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
-ajaxify_contact_form: false
+animated:             true
+show_related_posts:   true
+show_post_footers:    true
+show_social_icons:    true
+ajaxify_contact_form: true
 enable_mathjax: false
 extended_fonts: false
-enable_anchorjs: false
+enable_anchorjs: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: veverkap
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -37,30 +37,30 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-skype_username:
+github_username: veverkap
+bitbucket_username: veverkap
+stackoverflow_id: 442536
+twitter_username: veverkap
+skype_username: veverkap
 steam_nickname:
 google_plus_id:
-linkedin_username:
-angellist_username:
+linkedin_username: veverkap
+angellist_username: veverkap
 medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
