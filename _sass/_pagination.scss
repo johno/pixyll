@@ -16,8 +16,12 @@
   padding: 1em 1.5em;
 }
 
-.pagination .disabled {
+.pagination .disabled, .pagination .pagination-meta {
   opacity: 0.5;
+}
+
+.pagination .pagination-meta {
+  overflow: hidden;
 }
 
 .pagination a:hover, .pagination a:focus {
