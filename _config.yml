@@ -26,6 +26,11 @@ enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: false
 
+# Facebook Page integration
+# (for instant articles and other stuff)
+fb_page: false
+fb_page_id: 
+
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
