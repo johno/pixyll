@@ -8,7 +8,6 @@ url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
 # Google analytics
-# Google services
 google_analytics: UA-53548208-1
 
 # Optional features
