@@ -3,7 +3,7 @@ title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "pixiljeky.github.io"
+baseurl:     "/pixiljeky.github.io"
 url:         "http://pixiljeky.github.io"
 date_format: "%b %-d, %Y"
 
