@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # Site settings
 title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixiljeky.github.io"
-url:         "http://pixiljeky.github.io"
+baseurl:     ""
+url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -116,28 +115,3 @@ gems:
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
-=======
----
-title: TrendoPhoto
-timezone: Europe/Rome
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
->>>>>>> origin/gh-pages
