@@ -22,9 +22,9 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    TRUE
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: TRUE
-enable_anchorjs: true
+enable_anchorjs: false
 
 # Facebook Page integration
 # (for instant articles and other stuff)
