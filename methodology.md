@@ -7,19 +7,19 @@ published: true
 ---
 
 
-## Develop questions that lead get the the core of a problem
+### Develop questions that lead get the the core of a problem
 
 What does an enterprise hope to achieve from data
 
-## Locate & Collate Data
+### Locate & Collate Data
 
-## Analyze Data
+### Analyze Data
 
-## Interpret Analysis
+### Interpret Analysis
 
 How can data guide business decisions
 
-## Communicate findings 
+### Communicate findings 
 
 
 
