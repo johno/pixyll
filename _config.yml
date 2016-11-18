@@ -2,7 +2,7 @@
 title:       Data to Insight
 email:       stroud.c@gmai.com
 author:      Chris Stroud
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "My exploration on Data Science."
 baseurl:     ""
 url:         "http://chrisstroud.github.io"
 date_format: "%b %-d, %Y"
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   TRUE
 show_post_footers:    false
 show_social_icons:    TRUE
