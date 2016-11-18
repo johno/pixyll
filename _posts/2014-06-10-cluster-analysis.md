@@ -41,10 +41,11 @@ end
 
 Here's some CSS:
 
-{% highlight css %}
-.foobar {
-  /* Named colors rule */
-  color: tomato;
+{% highlight r %}
+library(ggplot)
+
+x <- R
+
 }
 {% endhighlight %}
 
