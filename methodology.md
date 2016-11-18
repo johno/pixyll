@@ -7,24 +7,39 @@ published: true
 ---
 
 
-**### Develop Questions**
+### Develop Questions
 lead get the the core of a problem
 
 What does an enterprise hope to achieve from data
 
-**### Locate & Collate Data**
+---
 
-**### Analyze Data**
 
-**### Interpret Analysis**
+### Locate & Collate Data
 
-How can data guide business decisions
 
-**### Communicate findings**
+---
 
-#### Presentation
 
-#### Written
+### Analyze Data
+
+
+---
+
+
+### Interpret Analysis
+How can data guide business decisio
+
+
+---
+
+
+
+### Communicate findings
+
+#### Presentation Format 
+
+#### Report Format
 Report
 
 
