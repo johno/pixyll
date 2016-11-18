@@ -23,6 +23,3 @@ How can data guide business decisions
 
 
 
-
-
-\[ \Phi(x) = \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^x e^{-\xi^2/2}\; d\xi \]
