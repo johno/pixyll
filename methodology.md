@@ -7,7 +7,8 @@ published: true
 ---
 
 
-### Develop questions that lead get the the core of a problem
+### Develop Questions
+lead get the the core of a problem
 
 What does an enterprise hope to achieve from data
 
@@ -20,6 +21,12 @@ What does an enterprise hope to achieve from data
 How can data guide business decisions
 
 ### Communicate findings 
+
+#### Presentation
+
+#### Written
+Report
+
 
 
 
