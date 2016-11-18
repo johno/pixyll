@@ -5,4 +5,3 @@ permalink: /methodology/
 tags: methodology
 ---
 
-# The Data to Insight Methodology
