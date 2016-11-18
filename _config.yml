@@ -57,9 +57,9 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: true
+share_facebook: false
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
@@ -107,7 +107,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   compressed: true
 gems:
