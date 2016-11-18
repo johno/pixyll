@@ -7,17 +7,19 @@ published: true
 ---
 
 
-## Develop questions that lead get the the core of the problem
+## Develop questions that lead get the the core of a problem
 
 What does an enterprise hope to achieve from data
 
-## Design experiments and research to test question-driven hypotheses (How to collect and mine data for information)
+## Locate & Collate Data
 
-## Analyze data using statistical and mathematical techniques (How to extract information from data)
+## Analyze Data
 
-## Interpret data analyses and draw conclusions (How can data guide business decisions)
+## Interpret Analysis
 
-## Communicate findings in written, visual and oral forms (How to tell a data story to advise stakeholders)
+How can data guide business decisions
+
+## Communicate findings 
 
 
 
