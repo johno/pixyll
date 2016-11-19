@@ -10,6 +10,9 @@ published: true
 ### 1. Develop Questions
 lead get the the core of a problem
 
+Supervised vs unsupervised
+
+
 What does an enterprise hope to achieve from data
 
 ---
