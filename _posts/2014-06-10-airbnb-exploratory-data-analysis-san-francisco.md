@@ -2,14 +2,19 @@
 layout:     post
 title:      Exploration of San Francisco Airbnb Listings
 date:       2016-11-10 12:31:19
-categories: r 
+categories: r
 summary:    Example of using a cluster analysis
 
 ---
 
 #### Questions
 
+![alt text](https://chrisstroud.github.io/projects/Airbnb-SF/number-clusters.png "Logo Title Text 1")
+
+
+
+
 #### Data
 #### Analyze
-#### Interpret 
+#### Interpret
 #### Communicate

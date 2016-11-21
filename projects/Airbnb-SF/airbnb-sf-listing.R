@@ -67,19 +67,22 @@ dfscore$hood <- NULL
 nb <- NbClust(dfscore, distance = "euclidean", min.nc = 2,
               max.nc = 10, method = "complete", index ="alllong")
 
-png(file="number-clusters.png",width=1235,height=752)
 p <- fviz_nbclust(nb) 
-dev.off()
+png(file="number-clusters.png",width=1235,height=752)
+
 
 
 
 
 # Final Graph for optimal clusters
+png(file="number-clusters.png",width=1235,height=752)
+
 p + 
   theme_minimal() +
   scale_colour_solarized("red") +
   labs(
     title = "How many clusters should we use? ") 
+dev.off()
 
 
 # cluster analysis
