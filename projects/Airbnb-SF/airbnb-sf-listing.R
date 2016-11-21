@@ -15,7 +15,7 @@ library(NbClust)
 ####
 # Data from: http://insideairbnb.com/get-the-data.html
 # File name: data.csv
-setwd("/Users//ChrisStroud/Documents/data-science/R/Projects/Airbnb-sf/")
+setwd("/Users/chrisstroud/Documents/chrisstroud.github.io/projects/Airbnb-sf/")
 df <- read.csv("data.csv")
 ####
 
@@ -63,10 +63,14 @@ dfscore$hood <- NULL
 
 
 # How many clusters is optimal?
+
 nb <- NbClust(dfscore, distance = "euclidean", min.nc = 2,
               max.nc = 10, method = "complete", index ="alllong")
 
+png(file="number-clusters.png",width=1235,height=752)
 p <- fviz_nbclust(nb) 
+dev.off()
+
 
 
 
