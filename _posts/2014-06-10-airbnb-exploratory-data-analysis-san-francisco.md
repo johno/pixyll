@@ -12,18 +12,9 @@ summary:    Example of using a cluster analysis
 ![alt text](https://chrisstroud.github.io/projects/Airbnb-SF/number-clusters.png "Logo Title Text 1")
 
 
-
-
 #### Data
 #### Analyze
-<<<<<<< HEAD
-#### Interpret
-=======
 
-![alt text](https://chrisstroud.github.io/projects/Airbnb-SF/number-clusters.png "Logo Title Text 1")
+  Interpret
 
-
-
-#### Interpret 
->>>>>>> origin/master
 #### Communicate
