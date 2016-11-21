@@ -7,4 +7,9 @@ summary:    Example of using a cluster analysis
 
 ---
 
+#### Questions
 
+#### Data
+#### Analyze
+#### Interpret 
+#### Communicate
