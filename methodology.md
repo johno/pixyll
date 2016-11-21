@@ -7,7 +7,7 @@ published: true
 ---
 --- 
 
-### 1. Develop Questions
+### 1. Questions
 lead get the the core of a problem
 
 Supervised vs unsupervised
@@ -18,19 +18,19 @@ What does an enterprise hope to achieve from data
 ---
 
 
-### 2. Locate & Collate Data
+### 2. Data
 
 
 ---
 
 
-### 3. Analyze Data
+### 3. Analyze 
 
 
 ---
 
 
-### 4. Interpret Analysis
+### 4. Interpret 
 How can data guide business decisio
 
 
@@ -38,7 +38,7 @@ How can data guide business decisio
 
 
 
-### 5. Communicate findings
+### 5. Communicate 
 
 #### Presentation Format 
 
