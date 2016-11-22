@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About 
+title: About
 permalink: /about/
 tags: about
+published: false
 ---
 
-Long form, full-cycle data analysis, on intersting data sets in the technology space. 
+Long form, full-cycle data analysis, on intersting data sets in the technology space.
