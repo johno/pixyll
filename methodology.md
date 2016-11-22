@@ -1,16 +1,18 @@
 ---
-layout: page
-title: Methodology of Data to Insight
+title: "Methodology of Data to Insight"
+output: pdf_document
 permalink: /methodology/
+published: yes
 tags: methodology
-published: true
+layout: page
 ---
 
 ---
 
-### 1. Questions
+## 1. Questions
 
 **Define what we are looking to answer.**
+
 1. What question you are looking to answer?
 2. Why does this question matter?
 3. What does the enterprise hope to achieve from this answer?
@@ -18,7 +20,7 @@ published: true
 ---
 
 
-### 2. Data
+## 2. Data
 
 
 1. Do we have data that will answer this question?
@@ -33,7 +35,7 @@ published: true
 ---
 
 
-### 3. Analysis
+## 3. Analysis
 
 Based off of the question(s), which best describes the answer(s) we are looking for?
 
@@ -67,26 +69,59 @@ Unsupervised Learning Techniques
 
 ---
 
-### 4. Interpret
-How can data guide business decisio
+## 4. Interpret
+
+How you know the results make sense?
+
+How you would communicate the results to others?
+
+What did you learn?
+
+If you were going to continue this work, what next steps you would take with this project?
+
 
 
 ---
 
 
 
-### 5. Communicate
+## 5. Communicate
 
 
 
-**Executive Presentation**
+#### Executive Presentation
 
-**Technical Presentation**
-Title
-Agenda
-Variables
-Model
-Method
 
-**Report
-Dashboard
+**Outline for Slides**
+
+This is the general outline and flow of communicating results to the pertinent stakeholders.  
+
+** Title Slide ** Include:  Title, Question as sub-title, and names of project owners.
+
+** Agenda Slide **
+1. An Executive Summary that conveys the results and significance of of those results to the organization and stakeholders.
+2. A description of the business situation and problem. Go over why we looked to answer the initial question and where this fits into the organization.
+3. A clear statement of your predictive model, coefficients, and interpretation of those coefficients. Be sure to carefully explain anything in your model that might be viewed as counterintuitive.
+4. Your predicted collected revenue for the totalpay variable in the test set.
+5. Any relevant graphs that might help provide some insights.
+6. A brief overview of your modeling process
+7. Key issues, risks, and success factors if the company decides to implement this model
+8. A Conclusion/Summary slide or two including Recommendations & Next Steps
+
+**Presentation etiquette**
+
+* Time is not your friend. 10-12 minutes for presenting is ideal.
+* Be on time.
+* Set the impression that you really care.
+* First there and last to leave
+* Communication is critical.
+* Don’t be afraid to not know.
+* Be empathetic towards you’re clients/stakeholders situation.
+* Have fun.
+* Follow up with what you discussed. An email in bullet points with next steps and next time to talk.
+
+
+#### Report
+
+
+#### Dashboard
