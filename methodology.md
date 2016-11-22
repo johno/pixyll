@@ -96,9 +96,9 @@ If you were going to continue this work, what next steps you would take with thi
 
 This is the general outline and flow of communicating results to the pertinent stakeholders.  
 
-** Title Slide ** Include:  Title, Question as sub-title, and names of project owners.
+**Title Slide** Include:  Title, Question as sub-title, and names of project owners.
 
-** Agenda Slide **
+**Agenda Slide**
 1. An Executive Summary that conveys the results and significance of of those results to the organization and stakeholders.
 2. A description of the business situation and problem. Go over why we looked to answer the initial question and where this fits into the organization.
 3. A clear statement of your predictive model, coefficients, and interpretation of those coefficients. Be sure to carefully explain anything in your model that might be viewed as counterintuitive.
