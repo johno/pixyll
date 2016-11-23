@@ -6,12 +6,13 @@ published: yes
 tags: methodology
 layout: page
 ---
+This framework outlines
 
 ---
 
 ## 1. Questions
 
-**Define what we are looking to answer.**
+Define what we are looking to answer and why this is significant. There is an infinitesimal amount of data to derive insight from. From the onset of an analysis there should be a specific answer outlined and a clear idea on why this would bring value to the organization. 
 
 1. What question you are looking to answer?
 2. Why does this question matter?
