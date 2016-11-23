@@ -79,15 +79,9 @@ What did you learn?
 
 If you were going to continue this work, what next steps you would take with this project?
 
-
-
 ---
 
-
-
 ## 5. Communicate
-
-
 
 #### Executive Presentation
 
@@ -102,18 +96,6 @@ This is the general outline and flow of communicating results to the pertinent s
 6. A brief overview of your modeling process
 7. Key issues, risks, and success factors if the company decides to implement this model
 8. A Conclusion/Summary slide or two including Recommendations & Next Steps
-
-**Presentation etiquette**
-
-* Time is not your friend. 10-12 minutes for presenting is ideal.
-* Be on time.
-* Set the impression that you really care.
-* First there and last to leave
-* Communication is critical.
-* Don’t be afraid to not know.
-* Be empathetic towards you’re clients/stakeholders situation.
-* Have fun.
-* Follow up with what you discussed. An email in bullet points with next steps and next time to talk.
 
 
 #### Report
