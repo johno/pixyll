@@ -1,14 +1,13 @@
 ---
-title: "Methodology of Data to Insight"
+title: "The Data to Insight Methodology"
 output: pdf_document
 permalink: /methodology/
 published: yes
 tags: methodology
 layout: page
 ---
-This framework outlines the methodology I follow when tasked with an analysis. Given that my work is in the scope of business intelligence in the SaaS this methodology use most useful to that end.
+This framework outlines the methodology I follow when tasked with an analysis. Given that my work is in the scope of business intelligence in SaaS this methodology is most useful to that end.
 
-{:toc}
 
 
 ---
