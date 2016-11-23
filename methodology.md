@@ -6,7 +6,7 @@ published: yes
 tags: methodology
 layout: page
 ---
-This framework outlines the methodology I follow when tasked with an analysis. Given that my work is in the scope of business intelligence in SaaS this methodology is most useful to that end.
+This framework outlines the methodology I utilize when tasked with a data analysis project. Given that my work is in the scope of business analytics in SaaS, this methodology is most useful to that end.
 
 
 
@@ -14,7 +14,7 @@ This framework outlines the methodology I follow when tasked with an analysis. G
 
 ## 1. Questions & Significance
 
-Define what we are looking to answer and why this is significant. There is an infinitesimal amount of data to derive insight from. From the onset of an analysis there should be a specific answer outlined and a clear idea on why this would bring value to the organization.
+Define what we are looking to answer and also identify why this is significant. There is an infinitesimal amount of data to derive insight from. From the onset of an analysis there should be a specific answer outlined and a clear idea on why this would bring value to the organization.
 
 1. What question you are looking to answer?
 2. Why does this question matter?
@@ -40,19 +40,22 @@ Define what we are looking to answer and why this is significant. There is an in
 
 ## 3. Analysis
 
-Based off of the question(s), which best describes the answer(s) we are looking for?
+Based off of the question(s) an data available, which best describes the answer(s) we are looking for?
 
 
-**Are we looking at what has all ready happened?**
+**Are we looking at historical data to learn?**
 
 In this case we are simply looking to explain what happened in the past using *descriptive statistics techniques*.
 
 * Decision Trees
 * Histograms
 * Scatterplots
+* Clustering
+* Scorecards
+* Reports
 
 
-**Are we looking trying to predict what will happen?**
+**Are we looking at historical data to predict what will happen?**
 
 In this case we are simply looking to explain what happened in the past using *supervised learning techniques*.
 
@@ -67,6 +70,9 @@ In this case we are simply looking to explain what happened in the past using *s
 **Are we exploring the data to find patterns?**
 
 Unsupervised Learning Techniques
+
+
+**Are we looking at historical data to make predictions, assess likelihood to desired outcome, and automate or suggest decisions?**
 
 
 
