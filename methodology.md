@@ -6,7 +6,7 @@ published: yes
 tags: methodology
 layout: page
 ---
-This framework outlines the methodology I utilize when tasked with a data analysis project. Given that my work is in the scope of business analytics in SaaS, this methodology is most useful to that end.
+This framework outlines the methodology I utilize when tasked with a data analysis project. Given that my work is in the scope of business analytics and data analysis in SaaS, this methodology is most useful to that end.
 
 
 
@@ -32,7 +32,9 @@ Define what we are looking to answer and also identify why this is significant. 
 4. How was the data obtained?
 5. How did you explore the data?
 
-
+Data processing
+Data cleaning
+Data munging
 
 
 ---
@@ -53,6 +55,7 @@ In this case we are simply looking to explain what happened in the past using *d
 * Clustering
 * Scorecards
 * Reports
+* Cohort Analysis
 
 
 **Are we looking at historical data to predict what will happen?**
@@ -72,7 +75,7 @@ In this case we are simply looking to explain what happened in the past using *s
 Unsupervised Learning Techniques
 
 
-**Are we looking at historical data to make predictions, assess likelihood to desired outcome, and automate or suggest decisions?**
+**Are we looking at historical data to predict outcomes and then optimize?**
 
 
 
