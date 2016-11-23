@@ -6,7 +6,10 @@ published: yes
 tags: methodology
 layout: page
 ---
-This framework outlines
+This framework outlines the methodology I follow when tasked with an analysis. Given that my work is in the scope of business intelligence in the SaaS this methodology use most useful to that end.
+
+{:toc}
+
 
 ---
 
