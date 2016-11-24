@@ -39,8 +39,19 @@ Data munging
 
 ---
 
+## 3. Exploration and Visualization
 
-## 3. Analysis
+Intergrate: http://sharpsightlabs.com/blog/data-analysis-machine-learning-example-1/
+
+1. View data distributions
+2. Identify skewed predictors
+3. Identify outliers
+
+
+---
+
+
+## 4. Analysis
 
 Based off of the question(s) an data available, which best describes the answer(s) we are looking for?
 
@@ -81,7 +92,7 @@ Unsupervised Learning Techniques
 
 ---
 
-## 4. Interpret
+## 5. Interpret
 
 How you know the results make sense?
 
@@ -93,7 +104,7 @@ If you were going to continue this work, what next steps you would take with thi
 
 ---
 
-## 5. Communicate
+## 6. Communicate
 
 #### Executive Presentation
 

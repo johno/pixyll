@@ -2,7 +2,7 @@
 title:       Data to Insight
 email:       stroud.c@gmai.com
 author:      Chris Stroud
-description: "My exploration on Data Science."
+description: "Using Data to find Insight."
 baseurl:     ""
 url:         "http://chrisstroud.github.io"
 date_format: "%b %-d, %Y"
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
