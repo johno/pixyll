@@ -12,6 +12,9 @@ published: trye
 
 ## Data
 
+[This link](http://example.net/) has no title attribute.
+
+
 ## Analyze
 
 ## Interpret
