@@ -419,16 +419,17 @@ df.car_spec_data %>%
 
 
 ```{r}
+# http://minimaxir.com/2015/02/ggplot-tutorial/
 
-cleveland_theme <- function() {
+datatoinsight_theme <- function() {
       
 # Generate the colors for the chart procedurally with RColorBrewer
 palette <- brewer.pal("Greys", n=9)
 color.background = palette[2]
 color.grid.major = palette[3]
 color.axis.text = palette[6]
-color.axis.title = palette[7]
-color.title = palette[9]
+color.axis.title = palette[6]
+color.title = palette[6]
       
 # Begin construction of chart
 theme_bw(base_size=9) +
@@ -485,7 +486,7 @@ plot.hood.count <- ggplot(df.hood.count, aes(x=count, y=reorder(neighbourhood_cl
     labs(
       title = "Airbnb listings by Neighborhood",
       subtitle = "San Francisco, CA") +
-  cleveland_theme()
+  datatoinsight_theme()
 
 plot.hood.count
 ggsave("1.png", dpi=300, width=4, height=4.5)
