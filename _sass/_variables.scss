@@ -1,7 +1,7 @@
 // Typography
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
-$font-family: Georgia, 'Times New Roman', serif !default;
+$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
@@ -23,7 +23,6 @@ $h0-responsive-max: 5.76rem !default;
 $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
-
 // Page width
 $measure-width: 42rem !default;
 
@@ -33,7 +32,6 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Colors
-$tuft-link: #A00000;
 $blue: #0076df !default;
 $red: #f95020 !default;
 $green: #00cf26 !default;
@@ -55,8 +53,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $tuft-link;
-$link-hover-color: darken($tuft-link, 40%);
+$link-color: $blue;
+$link-hover-color: darken($blue, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
