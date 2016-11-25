@@ -6,9 +6,11 @@ output: html_notebook
 ```{r}
 library(dplyr)
 library(ggplot2)
+library(gcookbook)
 library(factoextra)
 library(cluster)
 library(NbClust)
+
 ```
 
 ###################
@@ -175,6 +177,24 @@ df.car_spec_data %>%
 #--------------
 ```{r}
 
+# CLEVELAND PLOT
+
+theme.cleveland <- theme_tufte()
+
+theme.cleveland <-
+  theme(legend.position = "none") +
+  theme(plot.title = element_text(size=26, family="Trebuchet MS", face="bold", hjust=0, color="#666666")) +
+  theme(axis.title = element_text(size=9, family="Trebuchet MS", face="bold", color="#666666")) +
+  theme(axis.title.y = element_text(angle=0)) 
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_line(colour="grey60", linetype="dashed"))
+
+
+
+
+
+
 # BASIC THEME
 theme.car_chart <- 
   theme(legend.position = "none") +
@@ -286,20 +306,38 @@ ggplot(data=df.car_spec_data, aes(x=year, y=df.car_spec_data$top_speed_mph)) +
 
 
 #------------------------------------------
-# PLOT: Maximum Speed (fastest car) by Year
+# PLOT: Number of Listings Per Neighborhood
 #------------------------------------------
 
-df.car_spec_data %>%
-  group_by(year) %>%
-  summarize(max_speed = max(top_speed_mph, na.rm=TRUE)) %>%
-  ggplot(aes(x=year,y=max_speed,group=1)) + 
-  geom_point(size=5, alpha=.8, color="#880011") +
-  stat_smooth(method="auto",size=1.5) +
-  scale_x_discrete(breaks = c("1950","1960","1970","1980","1990","2000","2010")) +
-  ggtitle("Speed of Year's Fastest Car by Year") +
-  labs(x="Year",y="Top Speed\n(fastest car)") +
-  theme.car_chart_SCATTER
+```{r}
 
+
+
+
+
+
+# CREATE DF
+by_hood <- group_by(df, neighbourhood_cleansed)
+df.hood.count <- summarise(by_hood, count = n())
+
+
+# Graph
+plot.hood.count <- ggplot(df.hood.count, aes(x=count, y=reorder(neighbourhood_cleansed, count))) +
+    geom_point(size=1.5, colour = "#8dd3c7") +
+    geom_segment(aes(yend=neighbourhood_cleansed), xend=0, colour="grey50") +
+    xlab("Number of Airbnb Listings in Neighborhood") +
+    ylab("San Francisco Neighborhoods") +
+    labs(
+      title = "Number of Airbnb listings by Neighborhood in San Francisco ",
+      subtitle = "Two seaters (sports cars) are an exception because of their light weight",
+      caption = "www.datatoinsight.io" ) 
+
+plot.hood.count
+
+save_plot("mpg.png", plot.hood.count, base_aspect_ratio = 1.1 )
+
+
+```
 
 
 #--------------------------
@@ -314,6 +352,7 @@ ggplot(data=df.car_spec_data, aes(x=horsepower_bhp,y=car_0_60_time_seconds)) +
   ggtitle("0 to 60 times by Horsepower") +
   labs(x="Horsepower, bhp",y="0-60 time\nseconds") +
   theme.car_chart_SCATTER
+
 
 
 
@@ -365,4 +404,11 @@ df.car_spec_data %>%
   theme.car_chart +
   theme(axis.text.y = element_text(size=rel(1.5))) +
   theme(plot.title = element_text(hjust=1))
+
+
+
+
+
+
+
 
