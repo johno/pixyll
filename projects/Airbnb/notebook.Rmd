@@ -1,0 +1,368 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(factoextra)
+library(cluster)
+library(NbClust)
+```
+
+###################
+# IMPORT datasets #
+###################
+
+```{r}
+df <- read.csv("data.csv")
+```
+
+
+#-------------------------
+# Inspect data with head()
+#-------------------------
+
+```{r}
+head(df)
+```
+
+
+##############################
+# LOOK FOR DUPLICATE RECORDS #
+##############################
+
+```{r}
+df %>% group_by(id) %>% summarise(count=n()) %>% filter(count!=1)
+```
+
+
+
+###############
+# DEDUPE DATA #
+###############
+
+
+
+#################
+# CONDENSE DATA #
+#################
+
+```{r}
+# Selecting data for analysis
+df <- df %>% 
+    select(id,
+         listing_url,   
+         neighbourhood_cleansed, 
+         review_scores_accuracy, 
+         review_scores_cleanliness, 
+         review_scores_checkin, 
+         review_scores_communication, 
+         review_scores_location, 
+         review_scores_value,
+         host_location,
+         host_response_time,
+         host_response_rate,
+         host_acceptance_rate,
+         host_is_superhost,
+         host_listings_count,
+         street,
+         neighbourhood_cleansed,
+         city,
+         state,
+         zipcode,
+         country,
+         latitude,
+         longitude,
+         property_type,
+         room_type,
+         property_type,
+         accommodates,
+         bathrooms,
+         bedrooms,
+         beds,
+         bed_type,
+         price,
+         weekly_price,
+         monthly_price,
+         security_deposit,
+         cleaning_fee,
+         minimum_nights,
+         maximum_nights,
+         availability_365,
+         number_of_reviews,
+         instant_bookable,
+         reviews_per_month)
+         
+```
+
+
+
+
+
+
+#############
+# JOIN DATA #
+#############
+
+
+
+```{r}
+# Test duplicates
+df  %>% group_by(id) %>% summarise(count=n()) %>% filter(count!=1)
+```
+
+```{r}
+# Re-inspect data
+str(df)
+head(df)
+```
+
+
+#####################
+# ADD NEW VARIABLES
+#####################
+
+#--------------
+# NEW VAR: na
+#--------------
+
+
+
+
+
+#########################################
+# INSPECT DATA
+#  - quick checks to make sure that
+#    the variables were created properly
+#########################################
+
+```{r}
+head(df)
+```
+
+#------------------------------
+# Frequency table (AGGREGATE) 
+#  - neighborhood                  
+#------------------------------
+
+```{r}
+# CHECK 'decade' variable
+df.hood.count <- df %>%  
+  group_by(neighbourhood_cleansed) %>%
+  summarize(count=n())
+```
+
+
+
+#------------------------------
+# Frequency table (AGGREGATE) 
+#  - make                     
+#------------------------------
+
+df.car_spec_data %>%
+  group_by(make_nm) %>%
+  summarise(make_count = length(make_nm)) %>%
+  arrange(desc(make_count))
+
+# note: the list of car makes is too long so the output hasn't
+#       been added here
+
+
+#--------------
+# Create Theme
+#--------------
+```{r}
+
+# BASIC THEME
+theme.car_chart <- 
+  theme(legend.position = "none") +
+  theme(plot.title = element_text(size=26, family="Trebuchet MS", face="bold", hjust=0, color="#666666")) +
+  theme(axis.title = element_text(size=18, family="Trebuchet MS", face="bold", color="#666666")) +
+  theme(axis.title.y = element_text(angle=0)) 
+
+
+# SCATTERPLOT THEME
+theme.car_chart_SCATTER <- theme.car_chart +
+  theme(axis.title.x = element_text(hjust=0, vjust=-.5))
+
+# HISTOGRAM THEME
+theme.car_chart_HIST <- theme.car_chart +
+  theme(axis.title.x = element_text(hjust=0, vjust=-.5))
+
+# SMALL MULTIPLE THEME
+theme.car_chart_SMALLM <- theme.car_chart +
+  theme(panel.grid.minor = element_blank()) +
+  theme(strip.text.x = element_text(size=16, family="Trebuchet MS", face="bold", color="#666666"))  
+```
+
+
+
+
+###########################################
+# PLOT DATA (Preliminary Data Inspection) #
+###########################################
+
+#-------------------------
+# Horsepower vs. Top Speed
+#-------------------------
+
+df.car_spec_data <- read.csv(url("https://raw.githubusercontent.com/chrisstroud/data/master/auto-snout_car-specifications_COMBINED.txt"))
+df.car_spec_data$year <- as.character(df.car_spec_data$year)
+
+ggplot(data=df..car_spec_data, aes(x=horsepower_bhp, y=top_speed_mph)) +
+  geom_point(alpha=.4, size=4, color="#880011") +
+  ggtitle("Horsepower vs. Top Speed") +
+  labs(x="Horsepower, bhp", y="Top Speed,\n mph") +
+  theme.car_chart_SCATTER
+
+
+
+#------------------------
+# Histogram of Top Speed
+#------------------------
+
+ggplot(data=df.car_spec_data, aes(x=top_speed_mph)) +
+  geom_histogram(fill="#880011") +  
+  ggtitle("Histogram of Top Speed") +
+  labs(x="Top Speed, mph", y="Count\nof Records") +
+  theme.car_chart_HIST
+
+
+
+#----------------------------------
+# ZOOM IN ON SPEED CONTROLLED CARS
+#
+# What is the 'limited' speed?
+#  (create bar chart)
+#----------------------------------
+
+df.car_spec_data %>%
+  filter(top_speed_mph >149 & top_speed_mph <159) %>%
+  ggplot(aes(x= as.factor(top_speed_mph))) +
+  geom_bar(fill="#880011") +
+  labs(x="Top Speed, mph") +
+  theme.car_chart
+
+
+#------------------------
+# Histogram of Top Speed
+#  By DECADE
+#------------------------
+
+ggplot(data=df.car_spec_data, aes(x=top_speed_mph)) +
+  geom_histogram(fill="#880011") +
+  ggtitle("Histogram of Top Speed\nby decade") +
+  labs(x="Top Speed, mph", y="Count\nof Records") +
+  facet_wrap(~decade) +
+  theme.car_chart_SMALLM
+
+
+
+#-------------------------------
+# BHP by SPEED (faceted: decade)
+#-------------------------------
+ggplot(data=df.car_spec_data, aes(x=horsepower_bhp, y=top_speed_mph)) +
+  geom_point(alpha=.6,color="#880011") +
+  facet_wrap(~decade) +
+  ggtitle("Horsepower vs Top Speed\nby decade") +
+  labs(x="Horsepower, bhp", y="Top Speed\n mph") +
+  theme.car_chart_SMALLM
+
+
+
+#-----------------------------
+# Top Speed vs Year (all cars)
+#-----------------------------
+ggplot(data=df.car_spec_data, aes(x=year, y=df.car_spec_data$top_speed_mph)) +
+  geom_point(alpha=.35, size=4.5, color="#880011", position = position_jitter()) +
+  scale_x_discrete(breaks = c("1950","1960","1970","1980","1990","2000","2010")) +
+  ggtitle("Car Top Speeds by Year") +
+  labs(x="Year" ,y="Top Speed\nmph") +
+  theme.car_chart_SCATTER
+
+
+
+
+#------------------------------------------
+# PLOT: Maximum Speed (fastest car) by Year
+#------------------------------------------
+
+df.car_spec_data %>%
+  group_by(year) %>%
+  summarize(max_speed = max(top_speed_mph, na.rm=TRUE)) %>%
+  ggplot(aes(x=year,y=max_speed,group=1)) + 
+  geom_point(size=5, alpha=.8, color="#880011") +
+  stat_smooth(method="auto",size=1.5) +
+  scale_x_discrete(breaks = c("1950","1960","1970","1980","1990","2000","2010")) +
+  ggtitle("Speed of Year's Fastest Car by Year") +
+  labs(x="Year",y="Top Speed\n(fastest car)") +
+  theme.car_chart_SCATTER
+
+
+
+#--------------------------
+# 0-to-60 by Horsepower
+#  version 3
+#  THEMED (Final)
+#--------------------------
+
+ggplot(data=df.car_spec_data, aes(x=horsepower_bhp,y=car_0_60_time_seconds)) +
+  geom_point(size=4, alpha=.7,color="#880011",position="jitter") +
+  stat_smooth(method="auto",size=1.5) +
+  ggtitle("0 to 60 times by Horsepower") +
+  labs(x="Horsepower, bhp",y="0-60 time\nseconds") +
+  theme.car_chart_SCATTER
+
+
+
+#######################
+# Horsepower Per Tonne
+#######################
+
+#--------------------------
+# 0-to-60 by Horsepower-per-tonne
+#  THEMED (Final)
+#--------------------------
+
+ggplot(data=df.car_spec_data, aes(x=horsepower_per_ton_bhp,y=car_0_60_time_seconds)) +
+  geom_point(size=4, alpha=.5,color="#880011",position="jitter") +
+  stat_smooth(method="auto",size=1.5) +
+  ggtitle("0 to 60 times\nbyHorsepower-per-Tonne") +
+  labs(x="Horsepower-per-tonne",y="0-60 time\nseconds") +
+  theme.car_chart_SCATTER
+
+
+
+#--------------------------
+# 0-to-60 by Torque-per-tonne
+#  THEMED (Final)
+#--------------------------
+
+ggplot(data=df.car_spec_data, aes(x=df.car_spec_data$torque_per_ton,y=car_0_60_time_seconds)) +
+  geom_point(size=4, alpha=.5,color="#880011",position="jitter") +
+  stat_smooth(method="auto",size=1.5) +
+  ggtitle("0 to 60 times\nby Torque-per-Tonne") +
+  labs(x="Torque-per-tonne",y="0-60 time\nseconds") +
+  theme.car_chart_SCATTER
+
+
+
+#----------------------
+# Bar Chart
+#  top 10 fastest cars
+#----------------------
+df.car_spec_data %>%
+  select(car_full_nm,top_speed_mph) %>%
+  filter(min_rank(desc(top_speed_mph)) <= 10) %>%
+  arrange(desc(top_speed_mph)) %>%
+  ggplot(aes(x=reorder(car_full_nm,top_speed_mph), y=top_speed_mph)) +
+  geom_bar(stat="identity",fill="#880011") +
+  coord_flip() +
+  ggtitle("Top 10 Fastest Cars (through 2012)") +
+  labs(x="",y="") +
+  theme.car_chart +
+  theme(axis.text.y = element_text(size=rel(1.5))) +
+  theme(plot.title = element_text(hjust=1))
+
