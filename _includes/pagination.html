@@ -1,3 +1,4 @@
+{% if paginator.total_pages != 1 %}
 <div class="pagination clearfix mb1 mt4">
   <div class="left">
     {% if paginator.previous_page %}
@@ -19,3 +20,4 @@
   </div>
   <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
 </div>
+{% endif %}
