@@ -1,0 +1,127 @@
+---
+title: "The Data to Insight Methodology"
+output: pdf_document
+permalink: /methodology/
+published: yes
+tags: methodology
+layout: page
+---
+This framework outlines the methodology I utilize when tasked with a data analysis project. Given that my work is in the scope of business analytics and data analysis in SaaS, this methodology is most useful to that end.
+
+
+
+---
+
+## 1. Questions & Significance
+
+Define what we are looking to answer and also identify why this is significant. There is an infinitesimal amount of data to derive insight from. From the onset of an analysis there should be a specific answer outlined and a clear idea on why this would bring value to the organization.
+
+1. What question you are looking to answer?
+2. Why does this question matter?
+3. What does the enterprise hope to achieve from this answer?
+
+---
+
+
+## 2. Data
+
+
+1. Do we have data that will answer this question?
+2. Where did we get the data?
+3. How was the data sampled?
+4. How was the data obtained?
+5. How did you explore the data?
+
+Data processing
+Data cleaning
+Data munging
+
+
+---
+
+## 3. Exploration and Visualization
+
+Intergrate: http://sharpsightlabs.com/blog/data-analysis-machine-learning-example-1/
+
+1. View data distributions
+2. Identify skewed predictors
+3. Identify outliers
+
+
+---
+
+
+## 4. Analysis
+
+Based off of the question(s) an data available, which best describes the answer(s) we are looking for?
+
+
+**Are we looking at historical data to learn?**
+
+In this case we are simply looking to explain what happened in the past using *descriptive statistics techniques*.
+
+* Decision Trees
+* Histograms
+* Scatterplots
+* Clustering
+* Scorecards
+* Reports
+* Cohort Analysis
+
+
+**Are we looking at historical data to predict what will happen?**
+
+In this case we are simply looking to explain what happened in the past using *supervised learning techniques*.
+
+1. How did you model the data?
+2. Why you chose to model it that way?
+3. How did you fit the model?
+4. How did you validated the model?
+5. How you know the results make sense?
+
+
+
+**Are we exploring the data to find patterns?**
+
+Unsupervised Learning Techniques
+
+
+**Are we looking at historical data to predict outcomes and then optimize?**
+
+
+
+---
+
+## 5. Interpret
+
+How you know the results make sense?
+
+How you would communicate the results to others?
+
+What did you learn?
+
+If you were going to continue this work, what next steps you would take with this project?
+
+---
+
+## 6. Communicate
+
+#### Executive Presentation
+
+This is the general outline and flow of communicating results to the pertinent stakeholders.  
+
+1. **Title Slide** Title, Question as sub-title, and names of project owners.
+2. **Agenda Slide** An Executive Summary that conveys the results and significance of of those results to the organization and stakeholders.
+2. A description of the business situation and problem. Go over why we looked to answer the initial question and where this fits into the organization.
+3. A clear statement of your predictive model, coefficients, and interpretation of those coefficients. Be sure to carefully explain anything in your model that might be viewed as counterintuitive.
+4. Your predicted collected revenue for the totalpay variable in the test set.
+5. Any relevant graphs that might help provide some insights.
+6. A brief overview of your modeling process
+7. Key issues, risks, and success factors if the company decides to implement this model
+8. A Conclusion/Summary slide or two including Recommendations & Next Steps
+
+
+#### Report
+
+
+#### Dashboard
