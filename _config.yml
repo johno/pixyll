@@ -4,7 +4,7 @@ email:       hello@wefab.cc
 author:      Equipe We Fab
 description: "Espaço de compartilhamento de projetos open source criados na We Fab."
 baseurl:     ""
-url:         "http://wefab.cc"
+url:         "https://wefab.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
