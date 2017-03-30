@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -55,6 +55,8 @@ medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
+telegram_username:
+vk_id:
 
 # Post sharing icons
 show_sharing_icons: false
