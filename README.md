@@ -115,9 +115,14 @@ The contact form uses <http://formspree.io>. It will require you to fill the for
 
 More setup instructions and advanced options can be found at [http://formspree.io](http://formspree.io/)
 
+
 ### Disqus
 
 To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
+
+### txtpen
+
+To configure txtpen, set up a [txtpen site](https://txtpen.com/go) with the same name as your site. Then, in `_config.yml`, edit the `txtpen_sitename` value to enable txtpen
 
 ### Customizing the CSS
 
