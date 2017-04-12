@@ -34,6 +34,12 @@
     {% if site.medium_id %}
       <a class="fa fa-medium" href="https://medium.com/@{{ site.medium_id }}"></a>
     {% endif %}
+    {% if site.telegram_username %}
+      <a class="fa fa-telegram" href="https://t.me/{{ site.telegram_username }}"></a>
+    {% endif %}
+    {% if site.vk_id %}
+      <a class="fa fa-vk" href="https://vk.com/{{ site.vk_id }}"></a>
+    {% endif %}
   </div>
   <div class="right">
     {% if site.bitcoin_url %}
