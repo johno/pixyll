@@ -7,7 +7,7 @@ categories: maker workshop led board pcb
 ---
 
 Chegou a hora de provar que você é realmente um maker! 
-Se você está acessando esta página, isso significa que já recebeu seu <span class="bg-dark-gray white">Kit Hands-on Lab - Eu sou Maker!</span>
+Se você está acessando esta página, isso significa que já recebeu seu <span class="bg-dark-gray white">Kit Hands-on Lab - Eu sou Maker!<br>
 ![desk](https://cloud.githubusercontent.com/assets/14774714/25358245/23d1f140-2917-11e7-8634-94229762d5ab.JPG)
 
 ## //Preparativos
@@ -21,14 +21,14 @@ Neste kit você deve ter os seguintes materiais:
   __1x__ Fio de estanho
   
 [<ins> Este kit também deve vir acompanhando de peças para customizar sua placa e um elemento de fixação (pin, argolas ou cordão) <ins>]
-
+<br>
  
 Nossos facilitadores também vão deixar disponível para vocês as seguintes ferramentas:
 
   __1x__ Ferro de solda<br>
   __1x__ Alicate de corte (rente)
     
-    
+<br>    
 ## //Mão na massa
 
 Antes de inciarmos alguns pontos importantes:
