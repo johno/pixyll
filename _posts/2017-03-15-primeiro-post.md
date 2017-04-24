@@ -24,12 +24,15 @@ Neste kit você deve ter os seguintes materiais:
   __1x__ Fio de estanho
   
 [<ins> Este kit também deve vir acompanhando de peças para customizar sua placa e um elemento de fixação (pin, argolas ou cordão) <ins>]
+
+_![desk](https://cloud.githubusercontent.com/assets/14774714/25358245/23d1f140-2917-11e7-8634-94229762d5ab.JPG)_ 
  
 Nossos facilitadores também vão deixar disponível para vocês as seguintes ferramentas:
 
   __1x__ Ferro de solda
   
   __1x__ Alicate de corte (rente)
+    
     
 ## 2.Mão na massa!
 
@@ -41,7 +44,7 @@ Antes de inciarmos alguns pontos importantes:
 Vamos lá, primeiramente vamos colocar as peças em seu devido lugar. Começamos pelo LED, a pequena luz da nossa placa.
 Com o lado azul da placa para cima, vamos colocar o LED com o contato "perninha" maior para a esquerda, conforme a foto abaixo nos furos da placa:
 
-![desk](https://github.com/wefab/wefab.github.io/blob/master/images/IMG_1585.JPG)
+![desk](https://cloud.githubusercontent.com/assets/14774714/25358304/569844da-2917-11e7-8fdd-6665318dda74.JPG)
 
   
   
