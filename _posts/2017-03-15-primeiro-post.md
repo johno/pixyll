@@ -7,7 +7,7 @@ categories: maker workshop led board pcb
 ---
 
 Chegou a hora de provar que você é realmente um maker! 
-Se você está acessando esta página, isso significa que já recebeu seu <span class="bg-dark-gray white">Kit Hands-on Lab - Eu sou Maker!highlight</span>
+Se você está acessando esta página, isso significa que já recebeu seu <span class="bg-dark-gray white">Kit Hands-on Lab - Eu sou Maker!</span>
 ![desk](https://cloud.githubusercontent.com/assets/14774714/25358245/23d1f140-2917-11e7-8634-94229762d5ab.JPG)
 
 ## 1.Preparativos
