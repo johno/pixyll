@@ -12,17 +12,25 @@ Se você está acessando esta página, isso significa que já recebeu seu Kit Ha
 ## 1.Preparativos
 
 Neste kit você deve ter os seguintes materiais:
+
   __1x__ Placa de circuitos impresso
+  
   __1x__ Suporte para bateria (CR2032)
+  
   __1x__ LED Alto brilho
+  
   __1x__ Bateria CR2032
+  
   __1x__ Fio de estanho
+  
 [<ins> Este kit também deve vir acompanhando de peças para customizar sua placa e um elemento de fixação (pin, argolas ou cordão) <ins>]
  
 Nossos facilitadores também vão deixar disponível para vocês as seguintes ferramentas:
+
   __1x__ Ferro de solda
-  __1x__ Alicate de corte (rente)
   
+  __1x__ Alicate de corte (rente)
+    
 ## 2.Mão na massa!
 
 Antes de inciarmos alguns pontos importantes:
