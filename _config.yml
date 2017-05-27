@@ -122,4 +122,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
