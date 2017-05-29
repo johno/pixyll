@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       We Fab & Hack
+email:       hello@wefab.cc
+author:      Equipe We Fab
+description: "Espaço de compartilhamento de projetos open source criados na We Fab."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://wefab.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -18,9 +18,9 @@ bing_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -48,10 +48,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: wefab
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: yes_wefab
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -79,8 +79,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Novos'
+    older: 'Antigos'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -93,22 +93,22 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated:        'Atualizado'
+    minute_read:    'Minuto de leitura'
+    related_posts:  'Posts Relacionados'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Em breve...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    email:    'E-mail'
+    content:  'O que gostaria de dizer?'
+    subject:  'Qual o assunto?'
+    submit:   'Enviar'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+      sending:  'enviando..'
+      sent:     'Mensagem enviada!'
+      error:    'Erro!'
+  thanks: 'Obrigado por entrar em contato. Responderemos em breve!'
+  og_locale: 'pt_BR'
 
 # Build settings
 markdown:     kramdown
