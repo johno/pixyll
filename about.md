@@ -23,7 +23,9 @@ List of contributors:
 
 - Aaron S. Hawley
 - Adam Menges
+- Alex Claman
 - Alex Johnson
+- Alex Touchet
 - Allister Antosik
 - Amin Bandali
 - Anders Nissen
@@ -32,59 +34,54 @@ List of contributors:
 - Anuj More
 - Arvind Chembarpu
 - Assaf Gelber
-- atouchet
 - Barry vd. Heuvel
 - Bartek Krzemień
 - Bartek Krzemień
-- bekce
 - Bennett Rogers
 - Brian Gaid
 - Brian Hurst
 - Chee Yeo
-- claman
 - Cody Chan
 - Cristian Henrique
 - David Ernst
-- e0i
+- Donate Altenburger
 - Fernando Mantoan
 - Gurchet Rai
 - Harish Narayanan
-- Isaac
-- Jehan
 - Jehan Tremback
+- Jiaxi Gu (Isaac)
 - John Otander
-- johnotander
 - Jordan Danielewski
-- Josh
+- Josh Buxton
 - Kirill Kulikov
 - Kyle Maxwell
+- Marta Sztybor
+- Martin Wagner
 - Matthew Graybosch
-- mawalu
 - Maxim Tsoy
 - Mete Balci
 - Mike Lloyd
 - Mikhail Grachev
 - mindwind
-- MrYadro
+- Nick Rakochy
 - Nikolay Georgiev
-- nrakochy
 - Oliver Hamlet
+- Onur (e0i)
 - Praveer Gupta
-- psicomante
-- publitcity
-- rassol
+- Rassol (Karmeye)
 - Ricky Han
+- Roberto Pesando
 - Ryan Jacobs
 - Scott Martin
-- shrutirij
-- Steef435
-- sztyborek
+- Selim Eren Bekçe
+- Shruti Rijhwani
+- Steef Hegeman
 - Tehmasp Chaudhri
 - Thomas Galvin
 - Timothy Gu
 - Tom Kraak
 - Vishnu Ks
-- Vlad
-- WrinklyNinja
+- Vladislav Arbatov
+- Yaroslav Yadrishnikov
 - Yee Chie Tu
-- yeouchien
+- Yeou Chien
