@@ -1,10 +1,13 @@
-{% for page in site.pages %}
-    {% if page.tags contains "about" %}
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
+
+{% for path in page_paths %}
+    
+    {% assign page = site.pages | where: "path", path | first %}
+    
+    {% if page.title %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
-{% endfor %}
-{% for page in site.pages %}
-    {% if page.tags contains "contact" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
+
+    
 {% endfor %}
