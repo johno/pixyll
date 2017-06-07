@@ -9,7 +9,7 @@ I'm a multidisciplinary designer focused on UI/UX. Solving user problems, while 
 
 Check me out on the social network
 
-* [Dribbble :basketball:](http://basscss.com)
+* [Dribbble] :basketball: (http://basscss.com)
 * [Behance](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)
 * [Type Scale](http://type-scale.com/)
