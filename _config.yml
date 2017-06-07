@@ -121,6 +121,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
