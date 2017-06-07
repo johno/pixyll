@@ -9,7 +9,8 @@ I'm a multidisciplinary designer focused on UI/UX. Solving user problems, while 
 
 On the other side, since you're here, probably you'll want to know a bit more about me. I'll list some easy to follow stuff that might give you a general overview of my beliefs and passions
 
-##I enjoy 😎👌
+I enjoy 😎👌
+------
 
 * Riding my bike 🚲
 * Martial arts - Currently I'm about to start training BJJ 🥋
@@ -19,7 +20,8 @@ On the other side, since you're here, probably you'll want to know a bit more ab
 * Mountains ⛰
 * Mindfulless 🌿
 
-##I'm passionate about 🤓
+I'm passionate about 🤓
+------
 
 * Design process in teams of a larger scale 
 * Design systems 
@@ -30,7 +32,8 @@ On the other side, since you're here, probably you'll want to know a bit more ab
 * The way we humans process information
 * History 
 
-##I'm trying to 🤔
+I'm trying to 🤔
+------
 
 * Develop my skills so I could shift to product design
 * Learn to light code
