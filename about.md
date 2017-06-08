@@ -46,7 +46,7 @@ You can check out my Twitter, where I'm being socially awkward. ([@alextraykov](
 
 Check me out on the social network
 
-* [Dribbble 🏀](http://basscss.com)
+* [Dribbble 🏀](https://dribbble.com/alextraykov)
 <!--* [Behance ](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)
 * [Type Scale](http://type-scale.com/)-->
