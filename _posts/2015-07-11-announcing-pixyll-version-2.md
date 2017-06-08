@@ -1,16 +1,9 @@
 ---
 layout:     post
-title:      Testing Jekyll posts
-date:       2017-06-07
-summary:    Right, let's hope it works.
-categories: jekyll pixyll
+title:      New blog, cool stuff.
+date:       2017-06-08
+summary:    Here it is. My personal website v0.1
 ---
 
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-
-Pixyll now features:
-
-* Line anchors in code blocks and new syntax highlighting
-* A customizable variables file
-* Modular, and lighter weight CSS
-* No more `max-width` media queries
+Okay, this is going to be my first blog post here. 
+Am I excited or what. Whooo-weeeee. 😱😵
