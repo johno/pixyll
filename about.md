@@ -46,4 +46,4 @@ You can check out my Twitter, where I'm being socially awkward. ([@alextraykov](
 
 Check me out on the social network
 
-* [Dribbble 🏀](https://dribbble.com/alextraykov)
+[Dribbble 🏀](https://dribbble.com/alextraykov)
