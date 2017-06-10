@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The journey to the first blog post
+title:      The journey to the first blog post 🚀
 date:       2017-06-08
 summary:    Here it is, my first post.
 ---
