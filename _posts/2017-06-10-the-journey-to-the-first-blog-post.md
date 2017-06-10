@@ -2,7 +2,7 @@
 layout:     post
 title:      The journey to the first blog post 🚀
 date:       2017-06-08
-summary:    Here it is, my first post.
+summary:    Oh, my isn't that exciting 🎉. I made myself a Jekyll blog.
 ---
 
 Oh, my isn't that exciting 🎉. I made myself a Jekyll blog. In the eyes of any coding ~~designer~~ person this is as easy as pie, but for me, it's a milestone for 2017. Let me explain - I'm 21 years old guy, born, raised and based in Sofia, Bulgaria.
