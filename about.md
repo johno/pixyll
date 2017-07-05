@@ -2,7 +2,7 @@
 layout: page
 title: About Pixyll
 permalink: /about/
-tags: about
+top_navigation: true
 ---
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
