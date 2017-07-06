@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Traykov
+email:       alextraykov@gmail.com
+author:      Alexander Traykov
+description: "Multidisciplinary designer focused on UI/UX."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://traykov.cc"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -14,7 +14,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-96212130-2
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -125,6 +125,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
