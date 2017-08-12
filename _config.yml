@@ -1,9 +1,9 @@
 # Site settings
-title:       Pixyll
+title:       DiPtra
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyll"
+baseurl:     ""
 url:         "http://diptra.github.io"
 date_format: "%b %-d, %Y"
 
