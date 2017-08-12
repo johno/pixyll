@@ -14,3 +14,4 @@ Pixyll now features:
 * A customizable variables file
 * Modular, and lighter weight CSS
 * No more `max-width` media queries
+* Aku merasa embuh ngene cuk
