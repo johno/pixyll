@@ -6,6 +6,9 @@ description: "A simple, beautiful theme for Jekyll that emphasizes content rathe
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
+header_pages:
+ - about.md
+ - contact.html
 
 # Google services
 google_verification:
@@ -49,6 +52,7 @@ facebook_comments_number: 10
 
 # Social icons
 github_username:
+reddit_username:
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
