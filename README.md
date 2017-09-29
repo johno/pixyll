@@ -14,7 +14,7 @@ This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 中文版 <https://github.com/ee0703/pixyll-zh-cn>.
 
 ## Getting Started
-#### All of this is important! 
+
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
 ```
@@ -33,9 +33,6 @@ is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0
 
 Fork the repo, and then clone it so you've got the code locally.
 
-### There's no need to make a pull request against the original repo!
-
-In fact, unless you've made changes that you think other people could benefit from, you shouldn't make a pull request just to update your blog. 
 
 ### Modify the `_config.yml`
 
