@@ -1,15 +1,24 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
-header_pages:
- - about.md
- - contact.html
+title: doingandlearning
+email: kevin@doingandlearning.com
+author: Kevin Cunningham
+description: "doing to learn, learning to do"
+baseurl: "/doingandlearning.github.io"
+url: "http://doingandlearning.github.io"
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
@@ -115,16 +124,7 @@ text:
   og_locale: 'en_US'
 
 # Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
-sass:
-  style: compressed
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
