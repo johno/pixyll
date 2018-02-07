@@ -17,7 +17,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 # Google services
 google_verification:
@@ -29,7 +29,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             true
+animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
