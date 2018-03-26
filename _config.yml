@@ -23,7 +23,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -130,6 +130,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
 # serving
 host: 0.0.0.0
 port: 4000
