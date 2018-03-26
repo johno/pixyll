@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Seeking Flow and Harmony
+email:       yan.pye.aung@gmail.com
+author:      Yan P Aung
+description: "Topics about life, work and things that are of flowy nature."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://ypaung.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
