@@ -4,7 +4,7 @@ email:       yan.pye.aung@gmail.com
 author:      Yan P Aung
 description: "Topics about life, work and things that are of flowy nature."
 baseurl:     ""
-url:         "http://ypaung.com"
+url:         "http://ypa.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
