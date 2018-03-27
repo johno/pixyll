@@ -83,6 +83,6 @@ Credits to [Steven Su][zz-fb] for working out the math.
 [tumblr-link]: http://iquantny.tumblr.com/post/96700509489/how-memorizing-19-05-can-help-you-outsmart-the-mta
 [zz-fb]: https://www.facebook.com/steven.su.716
 
-<script src="{{ base.url | prepend: site.url }}/js/refill.js"></script>
+<script src="/js/refill.js"></script>
 
 
