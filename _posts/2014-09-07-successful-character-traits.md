@@ -31,7 +31,7 @@ Kiki is turning three next month. I have been reading a book called [How Childre
 
 Now the real question is how do I teach Kiki to possess all those qualities.
 
-![Kiki]({{ "/images/Kiki3rdYr0220.JPG" | absolute_url }})
+![Kiki](/images/Kiki3rdYr0220.JPG)
 
 \* = Webster does not have a definition for social intelligence so I looked it up on Google.
 

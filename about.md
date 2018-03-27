@@ -19,4 +19,4 @@ If you want to connect with me please drop me a few lines.
 [ygn-wiki]: https://en.wikipedia.org/wiki/Yangon
 [ttc-wiki]: https://en.wikipedia.org/wiki/Practising_School_Yangon_Institute_of_Education
 [ccny-website]: https://www.ccny.cuny.edu/
-[ypa-pic]: {{ base.url | prepend: site.url }}/images/me.jpeg
+[ypa-pic]: /images/me.jpeg
