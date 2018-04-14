@@ -6,7 +6,7 @@ permalink: /about/
 
 ![ypa][ypa-pic]{:style="width: 30%; float: left; border: solid; margin: 0 10px 0 0;"}
 
-My name is Yan Pye Aung. I grew up in [Myanmar][myanmar-wiki], matriculated from [TTC][ttc-wiki].
+My name is Yan Pyay Aung (ရန်ပြေအောင်). I grew up in [Myanmar][myanmar-wiki], matriculated from [TTC][ttc-wiki].
 Then I went to [CCNY][ccny-website] and got my Bachelor's degree in Computer Engineering.
 
 I now live in Los Angeles, California, USA. I'm married and have an amazing daughter, named Kiki. I write software for a living and I am interested in small business and entrepreneurship.
