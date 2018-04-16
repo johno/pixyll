@@ -1,0 +1,113 @@
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base rule define the default styling for how that element
+ * should look in all occurrences on the page.
+ * See http://smacss.com/book/type-base
+ */
+
+/**
+ * Main body
+ */
+body {
+  background-color : #000;
+  background-image : url('/assets/img/background.png');
+  color            : #FFF;
+}
+
+/**
+ * Headings
+ */
+h1 {
+  color : @brand-color;
+}
+
+h1, h2, h3 {
+  position    : relative;
+  clear       : both;
+  font-family : @brand-face;
+
+  > span {
+    color       : @base-ui-color;
+    font-weight : normal;
+  }
+}
+
+@media only screen and (max-width : ~"@{lap-end}px") {
+  h2[id], h3[id] {
+    left : 1em;
+  }
+}
+
+/**
+ * Links
+ */
+a {
+  color           : @brand-color;
+  text-decoration : none;
+
+  &:hover {
+    color : darken(@brand-color, 30%);
+
+    footer & {
+      color : lighten(@brand-color, 10%);
+    }
+  }
+
+  .current & {
+    text-decoration : none;
+
+    &:hover {
+      color : @brand-color;
+    }
+
+    &:before {
+      content : "< ";
+    }
+
+    &:after {
+      content : " >";
+    }
+  }
+}
+
+/**
+ * Emphasis
+ */
+em {
+  font-style  : normal;
+  font-family : @brand-face;
+}
+
+/**
+ * Code
+ */
+code {
+  color       : #458;
+  font-weight : bold;
+}
+
+/**
+ * Canvas
+ **/
+canvas {
+  max-width : 100%;
+}
+
+/**
+ * Blockquote
+ **/
+blockquote {
+  font-style   : italic;
+  border-left  : 2px solid @brand-complementary;
+  padding-left : 20px;
+  overflow     : hidden;
+}
+
+/**
+ * Iframes
+ **/
+iframe {
+  margin-bottom: 1.5em;
+}

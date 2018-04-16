@@ -1,0 +1,464 @@
+/*------------------------------------*\
+    $MOD-TIMELINE
+\*------------------------------------*/
+/**
+ * Module rule define the styling of discrete components of the page.
+ * See http://smacss.com/book/type-module
+ *
+ * This module is styling timelines
+ *
+ * This was built courtesy of the inspirational Codrops article:
+ * http://tympanus.net/codrops/2013/05/02/vertical-timeline/
+ */
+
+// Default values for this module:
+//
+// @timeline-time-width: 25%;
+// @timeline-icon-width: 40;
+// @timeline-line-width: 10;
+// @timeline-text-color: #FFF;
+// @timeline-color: @brand-color;
+
+/**
+ * The timeline object displays a list of data, usually
+ * in a chronological order (but not necessary).
+ *
+   <ul class="timeline timeline--striped">
+       <li><a class="timeline__prev" href="/">Recent posts</a></li>
+       <li>
+           <time class="timeline__time" datetime="2013-04-12">
+               <span>2013</span>
+               <span>12 April</span>
+           </time>
+           <div class="timeline__icon"></div>
+           <div class="timeline__label">
+               <h2>Post Title</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur.</p>
+           </div>
+       </li>
+       <li><a class="timeline__next" href="/page2">Older posts</a>
+   </ul>
+ *
+ * HOW TO CENTER THE TIMELINE?
+ *
+ * Math is not that hard to understand.
+ * Here is our object (with default values):
+ *
+ * -----------------------------------------------
+ * |           |                                 |
+ * |    25%    |               75%               |
+ * |           |                                 |
+ * -----------------------------------------------
+ * |       |   |                                 |
+ * |  time | x |              label              |
+ * |       |   |                                 |
+ * -----------------------------------------------
+ *
+ * `.timeline__label` is fixed to 75%
+ * `.timeline__time` get `25% - x`
+ * `x` is the actual width taken by the timeline (fixed)
+ *
+ * We can consider the timeline (`x`) as below:
+ *
+ *                  x
+ *        <------------------->
+ *        |         |         |
+ *        |      ___|___      |
+ *        |     |       |     |
+ *  time  | bsu |  ico  | bsu |  label
+ *        |     |_______|     |
+ *        |         |         |
+ *        |         |         |
+ *
+ *
+ * `bsu` is the blank space fixed to `@base-spacing-unit` for commodity
+ * `ico` is the place taken by `.timeline__icon`
+ *
+ * And so we have: `x = 2*@base-spacing-unit + @timeline-icon-width`
+ *
+ * To center an object, you just need to position it at `-(x+width)/2` from the label
+ * So we fix everything at the label level (`left: @timeline-time-width`), then we
+ * substract the correct value (`margin-left: -(x+width)/2`)
+ */
+
+// Here we define the `x` to make it easy
+@timeline-fixed-space: (2*@base-spacing-unit+@timeline-icon-width);
+
+.timeline {
+    position: relative;
+    margin: @base-spacing-unit*1px 0 0 0;
+    padding: 0;
+    list-style: none;
+
+    &:before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+
+        // Center the time line
+        left: @timeline-time-width;
+        margin-left: -(@timeline-fixed-space+@timeline-line-width)/2*1px;
+        width: @timeline-line-width*1px;
+
+        background: lighten(@timeline-color, 20%);
+        content: ' ';
+    }
+
+    > li {
+        position: relative;
+    }
+}
+
+
+/**
+ * The date/time
+ */
+/*time*/.timeline__time {
+    position: absolute;
+    display: block;
+
+    // The actual inner width for time is `25% - x`, where `x` is the padding
+    padding-right: @timeline-fixed-space*1px;
+    width: @timeline-time-width;
+
+    span {
+        display: block;
+        text-align: right;
+
+        &:last-child {
+            color: lighten(@timeline-color, 10%);
+            font-size: 2em;
+        }
+    }
+}
+
+
+/**
+ * The icons
+ */
+.timeline__icon {
+    position: absolute;
+    top: 0;
+
+    // Center the icons
+    left: @timeline-time-width;
+    margin: 0 0 0 -(@timeline-fixed-space+@timeline-icon-width)/2*1px;
+    width: @timeline-icon-width*1px;
+    height: @timeline-icon-width*1px;
+
+    border-radius: 50%;
+
+    background: @timeline-color;
+    box-shadow: 0 0 0 @timeline-line-width*1px lighten(@timeline-color, 20%);
+    color: #FFF;
+    text-align: center;
+    font-size: (@timeline-icon-width/@base-font-size)/2*1em;
+    line-height: @timeline-icon-width*1px;
+}
+
+
+/**
+ * Right content of the data
+ */
+.timeline__label {
+    position: relative;
+    display: block;
+    margin: 0 0 @base-spacing-unit*1px @timeline-time-width;
+    padding: 1em 0.5em;
+
+    border-top: 3px lighten(@timeline-color, 10%) solid;
+
+    color: @timeline-text-color;
+
+    &:hover {
+        background: darken(#FFF, 5%);
+        color: lighten(@timeline-text-color, 10%);
+    }
+}
+
+
+/**
+ * Older and newer elements
+ * This is kind of a pagination for the timeline
+ *
+ * HOW TO CENTER THE ARROW BY THE WAY?
+ *
+ * We'd like to set `(@timeline-line-width*1.5)` as the border-width for commodity
+ * And so `2*(@timeline-line-width*1.5)` is the width of the base (twice the border width)
+ * Then we do the centering stuff
+ */
+
+// Here we define the base width for the arrow
+@timeline-arrow-width: 2*(@timeline-line-width*1.5);
+
+.timeline__prev, .timeline__next {
+    position: relative;
+    left: @timeline-time-width;
+    display: block;
+    margin-bottom: @base-spacing-unit*1px;
+    width: 100%;
+
+    color: lighten(@timeline-color, 20%);
+    font-weight: bold;
+
+    &:after {
+        position: absolute;
+        left: -(@timeline-fixed-space+@timeline-arrow-width)/2*1px;
+
+        border: solid transparent;
+        border-width: (@timeline-arrow-width/2)*1px;
+
+        content: ' ';
+    }
+
+    &:hover {
+        color: @timeline-color;
+    }
+}
+
+.timeline__prev {
+    bottom: (@timeline-arrow-width/2)*1px;
+
+    &:after {
+        bottom: 0;
+
+        border-bottom-color: lighten(@timeline-color, 20%);
+    }
+}
+
+.timeline__next {
+    top: (@timeline-arrow-width/2)*1px;
+
+    &:after {
+        top: 0;
+
+        border-top-color: lighten(@timeline-color, 20%);
+    }
+}
+
+
+/**
+ * Timeline with alternating label colors
+ */
+.timeline--striped > li:nth-child(odd) {
+    .timeline__label {
+        background: #DDD;
+
+        &:hover {
+            background: @timeline-color;
+        }
+    }
+
+    .timeline__time span:last-child {
+        color: lighten(@timeline-color, 20%);
+    }
+}
+
+
+/**
+ * Reverse the timeline display
+ */
+.timeline--rev {
+    &:before {
+        left: auto;
+        right: @timeline-time-width;
+        margin-left: 0;
+        margin-right: -(@timeline-fixed-space+@timeline-line-width)/2*1px;
+    }
+
+    .timeline__time {
+        left: 100%-@timeline-time-width;
+        padding-right: 0;
+        padding-left: @timeline-fixed-space*1px;
+
+        span {
+            text-align: left;
+        }
+    }
+
+    .timeline__icon {
+        left: auto;
+        right: @timeline-time-width;
+        margin: 0 -(@timeline-fixed-space+@timeline-icon-width)/2*1px 0 0;
+    }
+
+    .timeline__label {
+        margin: 0 @timeline-time-width @base-spacing-unit*1px 0;
+
+        &:after {
+            right: auto;
+            left: 100%;
+
+            border-right-color: transparent;
+            border-left-color: lighten(@timeline-color, 10%);
+        }
+
+        &:hover:after {
+            border-right-color: transparent;
+            border-left-color: @timeline-color;
+        }
+    }
+
+    .timeline__prev, .timeline__next {
+        left: auto;
+        right: @timeline-time-width;
+
+        text-align: right;
+
+        &:after {
+            left: auto;
+            right: -(@timeline-fixed-space+@timeline-arrow-width)/2*1px;
+        }
+    }
+
+    &.timeline--striped > li:nth-child(odd) {
+        .timeline__label {
+            &:after {
+                border-right-color: transparent;
+                border-left-color: lighten(@timeline-color, 20%);
+            }
+
+            &:hover:after {
+                border-right-color: transparent;
+                border-left-color: @timeline-color;
+            }
+        }
+    }
+}
+
+
+/**
+ * Timeline responsiveness
+ * Make it display differently when the screen is not large
+ * enough to render the line properly
+ */
+@media only screen and (max-width:~"@{lap-end}px") {
+    .timeline:before {
+        display: none;
+    }
+
+    .timeline__time {
+        position: relative;
+        padding: 0 0 (@base-spacing-unit/2)*1px 0;
+        width: 100%;
+
+        span {
+            text-align: left;
+        }
+    }
+
+    .timeline__icon {
+        position: relative;
+        left: auto;
+        float: right;
+        margin: -(@timeline-icon-width+@timeline-line-width+@base-spacing-unit/2)*1px 5px 0 0;
+    }
+
+    .timeline__label {
+        margin: 0 0 @base-spacing-unit*1px 0;
+        padding: 1em;
+
+        &:after {
+            top: -(2*@timeline-line-width)*1px;
+            right: auto;
+            left: 20px;
+
+            border-right-color: transparent;
+            border-bottom-color: lighten(@timeline-color, 10%);
+        }
+
+        &:hover:after {
+            border-right-color: transparent;
+            border-bottom-color: @timeline-color;
+        }
+    }
+
+    .timeline__prev, .timeline__next {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin-bottom: 0;
+
+        text-align: center;
+
+        &:after {
+            display: none;
+        }
+
+        // Here is an icon for styling (and so is the font), it can be something else if you wish
+        &:before {
+            margin-right: @base-font-size*1px;
+
+            font-family: "nicoico";
+        }
+    }
+
+    .timeline__prev:before {
+        content: "\e000";
+    }
+
+    .timeline__next:before {
+        content: "\e022";
+    }
+
+    .timeline--striped > li:nth-child(odd) .timeline__label {
+        &:after {
+            border-right-color: transparent;
+            border-bottom-color: lighten(@timeline-color, 20%);
+        }
+
+        &:hover:after {
+            border-right-color: transparent;
+            border-bottom-color: @timeline-color;
+        }
+    }
+
+    .timeline--rev {
+        .timeline__time {
+            left: 0;
+
+            span {
+                text-align: right;
+            }
+        }
+
+        .timeline__icon {
+            right: auto;
+            float: left;
+            margin: -(@timeline-icon-width+@timeline-line-width+@base-spacing-unit/2)*1px 0 0 5px;
+        }
+
+        .timeline__label {
+            margin: 0 0 @base-spacing-unit*1px 0;
+
+            &:after {
+                left: auto;
+                right: 20px;
+
+                border-left-color: transparent;
+            }
+
+            &:hover:after {
+                border-left-color: transparent;
+            }
+        }
+
+        .timeline__prev, .timeline__next {
+            left: 0;
+            right: 0;
+
+            text-align: center;
+        }
+
+        &.timeline--striped > li:nth-child(odd) .timeline__label {
+            &:after {
+                border-left-color: transparent;
+            }
+
+            &:hover:after {
+                border-left-color: transparent;
+            }
+        }
+    }
+}

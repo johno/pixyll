@@ -1,0 +1,76 @@
+/*------------------------------------*\
+    $VARS
+\*------------------------------------*/
+/**
+ * Any variables you find set in inuit.css’ `defaults.scss` that you do not wish to
+ * keep, simply redefine here. This means that if inuit.css, for example, sets
+ * your `@base-font-size` at 16px and you wish it to be 14px, simply redeclare
+ * that variable in this file. inuit.css ignores its own variables in favour of
+ * using your own, so you can completely modify how inuit.css works without ever
+ * having to alter the framework itself.
+ *
+ * In the LESS version of inuit.css, these value are measured in pixels but
+ * should be unitless when set below.
+ */
+
+
+
+
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base font-family.
+ */
+@base-font-family:    'Roboto', sans-serif;
+
+/**
+ * Default colour for objects’ borders etc.
+ */
+@base-ui-color:       #333;
+
+
+
+
+/*------------------------------------*\
+    $BRAND
+\*------------------------------------*/
+/**
+ * Brand stuff
+ */
+@brand-color:         #F44;
+@brand-complementary: #48B2B2;
+@brand-face:          Snippet, sans-serif;
+
+
+
+
+/*------------------------------------*\
+    $OBJECTS AND ABSTRACTIONS
+\*------------------------------------*/
+/**
+ * Which objects and abstractions would you like to use?
+ */
+@use-grids:           true;
+@use-nav:             true;
+@use-media:           true;
+@use-island:          true;
+@use-block-list:      true;
+@use-split:           true;
+
+
+
+
+/*------------------------------------*\
+    $CUSTOM
+\*------------------------------------*/
+/**
+ * Place any of your own variables that sit on top of inuit.css here.
+ */
+@gravatar-height:     80;
+
+@timeline-time-width: 30%;
+@timeline-icon-width: 40;
+@timeline-line-width: 10;
+@timeline-text-color: #000;
+@timeline-color:      darken(@brand-color, 2%);

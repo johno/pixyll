@@ -1,51 +1,185 @@
+{% comment %}On récupère la langue en fonction de l'URL{% endcomment %}
+{% capture locale %}{{ page.url | truncate: 3, "" | remove: "/" }}{% endcapture %}
+
+{% unless site.authorized_locales contains locale %}
+{% assign locale = site.default_locale %}
+{% endunless %}
+
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="{{ locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+  <meta name="description" content="{{ page.description }}">
 
-    {% include meta.html %}
+  <meta property="og:site_name" content="{{site.name}}" />
+  <meta property="og:url" content="{{site.url}}{{page.url}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }} | @nicoespeon" />
+  <meta property="og:description" content="{{ page.description }}" />
+  
+  <title>{{ page.title }} | @nicoespeon</title>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <link rel="icon" href="/assets/img/icon.png">
+  <link rel="author" href="https://plus.google.com/u/0/108378377887967941980">
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <!-- DNS prefetch for external resources -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="dns-prefetch" href="//p.twitter.com">
+  <link rel="dns-prefetch" href="//cdn.api.twitter.com">
+  <link rel="dns-prefetch" href="//google-analytics.com">
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <link rel="stylesheet"
+        href='http://fonts.googleapis.com/css?family=Snippet|Roboto:300,100,700'>
+  <link rel="stylesheet" href="/assets/css/nicoespeon.css" media="screen">
+  <link rel="stylesheet" href="/assets/css/nicoespeon-print.css" media="print">
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  {% if page.gitgraph %}
+  <!-- Gitgraph.js -->
+  <link rel="stylesheet" href="/assets/css/gitgraph.css" media="all">
+  {% endif %}
+</head>
+<body>
+<div id="site">
+  <div class="container">
+    <div class="grid">
+      <div class="grid__item seven-tenths portable-one-whole" role="main">
+        <header class="media" role="banner">
+          <!-- Brand logo -->
+          <img src="http://www.gravatar.com/avatar/46978c87c5c75cea5d05a61fa8b7d95b" class="media__img img--circle" alt="My avatar" width="80" height="80"/>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+          <!-- Main navigation -->
+          <nav class="media__body" role="navigation">
+            <ul class="nav nav--main">
+              <li>
+                <a href="{{ link.url }}">{{ link.text }}</a>
+              </li>
+            
+            </ul>
           </nav>
+          <!-- /navigation -->
         </header>
+        <!-- /header -->
+
+        {{ content }}
+      </div>
+
+      <div class="grid__item three-tenths portable-one-whole"
+           role="complementary">
+        {% include sidebar.html %}
       </div>
     </div>
+  </div>
+  <!-- /container -->
+</div>
+<!-- /main-content -->
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+<footer role="contentinfo">
+  <div class="container">
+    <p>
+      &copy; {{ site.time | date: "%Y" }} - <a href="https://twitter.com/dolearning">Kevin Cunningham</a><br>
+             {{ site.data.locales[locale].footer_message }}
+    </p>
+  </div>
+</footer>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+<!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
-    {% include analytics.html %}
-  </body>
+<script>
+  $( function () {
+    /**
+     * This JS code is still small so its better to keep it inline.
+     *
+     * Only apply if we are beyond the desk CSS breakpoint on load
+     */
+    if ( $( window ).width() >= 1024 ) {
+
+      var $timeline = $( "ul#timeline" );
+
+      /**
+       * Then hide every label description of the timeline
+       */
+      $timeline.find( "a.timeline__label" ).each( function () {
+        $( this ).find( "p" ).hide();
+      } );
+
+      /**
+       * And delegate the visibility effect on hover for each label description
+       */
+      $timeline.on( "mouseenter mouseleave", "a.timeline__label", function () {
+        $( this ).find( "p" ).stop().toggle( "slow" );
+      } );
+    }
+
+    /**
+     * Append anchor to page subtitles with IDs (used for blog posts).
+     */
+    $( "h2[id], h3[id]" ).each( function () {
+      var $title = $( this );
+      var $anchor = $( "<a href='#" + $title.attr( "id" ) + "' class='anchor'><i class='icon-link'></i></a>" );
+      $title.append( $anchor );
+    } );
+  } );
+</script>
+
+<!-- Twitter API -->
+<script>!function ( d, s, id ) {
+  var js, fjs = d.getElementsByTagName( s )[0];
+  if ( !d.getElementById( id ) ) {
+    js = d.createElement( s );
+    js.id = id;
+    js.src = "//platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore( js, fjs );
+  }
+}( document, "script", "twitter-wjs" );</script>
+
+<!-- Google Analytics -->
+<script>var _gaq = _gaq || [];
+_gaq.push( ['_setAccount', 'UA-39957541-2'] );
+_gaq.push( ['_setDomainName', 'nicoespeon.com'] );
+_gaq.push( ['_trackPageview'] );
+(function () {
+  var ga = document.createElement( 'script' );
+  ga.type = 'text/javascript';
+  ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName( 'script' )[0];
+  s.parentNode.insertBefore( ga, s );
+})();</script>
+
+{% if page.comments %}
+<!-- Disqus -->
+<script>var disqus_shortname = 'nicoespeon';
+var disqus_url = 'http://nicoespeon.com{{ page.url }}';
+var title = "{{ page.title | escape }}";
+(function () {
+  var dsq = document.createElement( 'script' );
+  dsq.type = 'text/javascript';
+  dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName( 'head' )[0] || document.getElementsByTagName( 'body' )[0]).appendChild( dsq );
+})();</script>
+<noscript>Please enable JavaScript to view the <a
+    href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+{% endif %}
+
+{% if page.jsbin %}
+<!-- JSBin -->
+<script src="http://static.jsbin.com/js/embed.js"></script>
+{% endif %}
+
+{% if page.codepen %}
+<!-- CodePen -->
+<script async src="http://codepen.io/assets/embed/ei.js"></script>
+{% endif %}
+
+{% if page.gitgraph %}
+<!-- Gitgraph.js -->
+<script src="/assets/scripts/gitgraph.min.js"></script>
+<script src="/assets/scripts/{{ page.script }}.js"></script>
+{% endif %}
+</body>
 </html>

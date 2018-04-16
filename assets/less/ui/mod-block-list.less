@@ -1,0 +1,21 @@
+/*------------------------------------*\
+    $MOD-BLOCK-LIST
+\*------------------------------------*/
+/**
+ * Module rule define the styling of discrete components of the page.
+ * See http://smacss.com/book/type-module
+ *
+ * This module is styling block-lists
+ */
+
+.block-list{
+    > li{
+        border-color: #DDD;
+        border-style: dashed;
+    }
+
+    &,
+    > li:last-child {
+        border: none;
+    }
+}

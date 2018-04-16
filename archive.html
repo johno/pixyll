@@ -1,0 +1,27 @@
+---
+layout: default
+permalink: /archive/
+title: Archive
+---
+
+<p>
+    Here's the list of all post I wrote here (in both <strong><i class="icon-fr"></i> french</strong> and <strong><i class="icon-en"></i> english</strong>).
+</p>
+
+<section>
+    <ul id="timeline" class="timeline timeline--rev">
+        {% for post in site.posts %}
+        <li>
+            <time class="timeline__time" datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+                <span class="muted">{{ post.date | date: "%Y" }}</span>
+                <span>{{ post.date | date: "%d %b" }}</span>
+            </time>
+            <div class="timeline__icon icon-{{ post.categories }}"></div>
+            <a class="timeline__label" href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+                <p class="brand-face">{{ post.description }}</p>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
