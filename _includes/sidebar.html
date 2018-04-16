@@ -1,0 +1,70 @@
+{% comment %}On récupère la langue en fonction de l'URL{% endcomment %}
+{% capture locale %}{{ page.url | truncate: 3, "" | remove: "/" }}{% endcapture %}
+
+{% unless site.authorized_locales contains locale %}
+  {% assign locale = site.default_locale %}
+{% endunless %}
+
+{% comment %}On détermine la page en cours{% endcomment %}
+{% assign navUrl = '' %}
+{% assign delimiter = '/' %}
+{% capture fullUrl %}{{ page.url | replace: delimiter, ' ' }}{% endcapture %}
+{% capture firstPart %}{{ fullUrl | truncatewords: 2 | remove: '...' }}{% endcapture %}
+{% capture secondPart %}{{ fullUrl | replace: firstPart, '' | remove: ' ' }}{% endcapture %}
+
+{% comment %}S'il ne s'agit pas d'un post, on assigne la page actuelle{% endcomment %}
+{% if secondPart contains '.html' or firstPart contains '.html' %}
+  {% if secondPart == '' %}
+    {% comment %}Correspond à la page d'accueil, on redécoupe{% endcomment %}
+    {% capture firstPart %}{{ fullUrl | truncatewords: 1 | remove: '...' }}{% endcapture %}
+    {% capture secondPart %}{{ fullUrl | replace: firstPart, '' | remove: ' ' }}{% endcapture %}
+    {% if secondPart == '' %}
+      {% assign navUrl = firstPart %}
+    {% elsif secondPart == 'prestations.html' %}
+      {% comment %}Page particulière, pas d'équivalent EN{% endcomment %}
+      {% assign navUrl = 'index.html' %}
+    {% else %}
+      {% assign navUrl = secondPart %}
+    {% endif %}
+  {% else %}
+    {% comment %}Correspond à une page définie, on affecte{% endcomment %}
+    {% assign navUrl = secondPart %}
+  {% endif %}
+{% endif %}
+
+<!-- Lang navigation -->
+<nav role="navigation">
+  <ul class="nav nav--stacked text--center">
+    {% for link in site.authorized_locales %}
+    <li {% if link == locale %}class="current" {% endif %}>
+      {% comment %}On construit l'URL avec la langue et la page actuelle{% endcomment %}
+      <a href="{% if link != site.default_locale %}/{{ link }}{% endif %}/{{ navUrl }}">
+        {{ site.data.locales[link].lang_message }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<!-- About -->
+<aside class="text--justify">
+  {{ site.data.locales[locale].about_message }}
+</aside>
+
+<!-- RSS -->
+<aside>
+  <p class="text--center">
+    <a href="{{ site.url }}/feed.xml"><i class="icon-connection"></i>&nbsp;{{ site.data.locales[locale].rss_message }}</a>
+  </p>
+</aside>
+
+<!-- Tweets -->
+<aside class="text--center visuallyhidden--portable">
+  <a class="twitter-timeline" href="https://twitter.com/nicoespeon" data-widget-id="320422386929377280">Tweets de @nicoespeon</a>
+</aside>
+
+<aside class="visuallyhidden--portable push--top">
+  <h2 class="text--center">{{ site.data.locales[locale].friends_title }}</h2>
+
+  <a href="http://iceranking.com">IceRanking.com</a> - (SEO) Cédric Brun, Consultant en Référencement Durable
+</aside>

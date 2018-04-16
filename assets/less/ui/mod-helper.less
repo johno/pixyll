@@ -1,0 +1,46 @@
+/*------------------------------------*\
+    $MOD-HELPER
+\*------------------------------------*/
+/**
+ * Module rule define the styling of discrete components of the page.
+ * See http://smacss.com/book/type-module
+ *
+ * This module is styling helpers
+ */
+/**
+ * A series of helper classes to use arbitrarily. Only use a helper class if an
+ * element/component doesn’t already have a class to which you could apply this
+ * styling, e.g. if you need to float `.main-nav` left then add `float:left;` to
+ * that ruleset as opposed to adding the `.fl` class to the markup.
+ */
+
+/**
+ * Justify text
+ */
+.text--justify {
+    text-align: justify;
+}
+
+/**
+ * Underline text
+ */
+.text--underline {
+    text-decoration: underline;
+}
+
+/**
+ * Highlighted illustration
+ */
+.illustration {
+    display: block;
+    margin-bottom: @base-spacing-unit*1px;
+
+    text-align: center;
+    font-family: @brand-face;
+
+    > img,
+    > iframe {
+        display: block;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,36 @@
+/*------------------------------------*\
+    $MOD-NAV
+\*------------------------------------*/
+/**
+ * Module rule define the styling of discrete components of the page.
+ * See http://smacss.com/book/type-module
+ *
+ * This module is styling nav
+ */
+
+/**
+ * Main navs (typically in the <header>)
+ */
+.nav--main {
+    > li {
+        padding-right: 7%;
+    }
+}
+
+/**
+ * Stacked navs should re-organized when it comes to one-whole
+ */
+@media only screen and (max-width:~"@{lap-end}px") {
+    .nav--stacked {
+        margin-top: @base-spacing-unit*1px;
+
+        > li {
+            padding: 0 5%;
+
+            &,
+            > a {
+                display: inline-block;
+            }
+        }
+    }
+}

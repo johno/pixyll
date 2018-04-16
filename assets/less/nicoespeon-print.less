@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*------------------------------------*\
+    NICOESPEON-PRINT.CSS
+\*------------------------------------*/
+/**
+ * This is styling the print version of the website
+ *
+ * Here we set up some variables, include the inuit.css framework, then add our
+ * project-specific components afterwards.
+ */
+
+
+/**
+ * Import the default styling
+ */
+@import "nicoespeon";
+
+
+/**
+ * Add specific styling for printing
+ */
+div[role="complementary"],
+.twitter-share-button {
+    display: none;
+}
+
+div[role="main"] {
+    width: 100%;
+}

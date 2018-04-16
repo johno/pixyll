@@ -1,0 +1,43 @@
+---
+layout: default
+title: Accueil
+description: Pensées d'un développeur web et chef de projet à ses heures. LEAN management, Software Craftmanship, OOCSS, Backbone.js, front-end performance et un peu de frameworks PHP.
+---
+
+<p class="section">
+    Salut à vous !<br />
+    Je m'appelle Nicolas et voici quelques articles et pensées que j'ai rédigé sur le développement web.<br><br>
+    <i class="icon-info"></i> Au cas où vous souhaiteriez lire mes derniers articles : <a href="https://medium.com/@nicoespeon">j'écris désormais sur Medium</a> par commodité.
+</p>
+
+<section class="section">
+    <ul id="timeline" class="timeline timeline--rev">
+        {% if paginator.previous_page %}
+            <li>
+                <a class="timeline__prev" href="/fr/{% if paginator.previous_page != 1 %}page{{paginator.previous_page}}{% endif %}">
+                    Plus récents
+                </a>
+            </li>
+        {% endif %}
+
+        {% for post in paginator.posts %}
+        <li>
+            <time class="timeline__time" datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+                <span class="muted">{{ post.date | date: "%Y" }}</span>
+                <span>{{ post.date | localize: "%d %b" }}</span>
+            </time>
+            <div class="timeline__icon {% if post.icon == undefined %}icon-embed{% else %}icon-{{ post.icon }}{% endif %}"></div>
+            <a class="timeline__label" href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+                <p class="brand-face">{{ post.description }}</p>
+            </a>
+        </li>
+        {% endfor %}
+
+        {% if paginator.next_page %}
+            <li>
+                <a class="timeline__next" href="/fr/page{{paginator.next_page}}">Plus anciens</a>
+            </li>
+        {% endif %}
+    </ul>
+</section>

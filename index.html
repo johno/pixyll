@@ -1,28 +1,42 @@
 ---
 layout: default
+title: Home
+description: Web developer, parent and educator. 
 ---
-{% assign posts_count = paginator.posts | size %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <span class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </span>
-        </div>
-      {% endfor %}
-    </div>
+<p class="section">
+    Hi there!<br />
+    My name is Kevin and these are some posts and thoughts I wrote about web development, education and stuff.<br><br>
+</p>
 
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
-  {% endif %}
-</div>
+<section class="section">
+    <ul id="timeline" class="timeline timeline--rev">
+        {% if paginator.previous_page %}
+            <li>
+                <a class="timeline__prev" href="/{% if paginator.previous_page != 1 %}page{{paginator.previous_page}}{% endif %}">
+                    Recent posts
+                </a>
+            </li>
+        {% endif %}
+
+        {% for post in paginator.posts %}
+        <li>
+            <time class="timeline__time" datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+                <span class="muted">{{ post.date | date: "%Y" }}</span>
+                <span>{{ post.date | date: "%d %b" }}</span>
+            </time>
+            <div class="timeline__icon {% if post.icon == undefined %}icon-embed{% else %}icon-{{ post.icon }}{% endif %}"></div>
+            <a class="timeline__label" href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+                <p class="brand-face">{{ post.description }}</p>
+            </a>
+        </li>
+        {% endfor %}
+
+        {% if paginator.next_page %}
+            <li class="timeline__next">
+                <a href="/page{{paginator.next_page}}">Older posts</a>
+            </li>
+        {% endif %}
+    </ul>
+</section>

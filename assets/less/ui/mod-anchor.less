@@ -1,0 +1,38 @@
+.anchor {
+  position        : absolute;
+  left            : -1.3em;
+  text-decoration : none;
+  color           : #AAA;
+  font-size       : 0.8em;
+  line-height     : 2em;
+  transition      : 0.15s;
+
+  &::before {
+    content           : '';
+    transition        : inherit;
+    position          : absolute;
+    top               : 100%;
+    left              : 0;
+    right             : 0;
+    height            : 1px;
+    background        : currentcolor;
+    -webkit-transform : scaleX(0);
+    -ms-transform     : scaleX(0);
+    transform         : scaleX(0);
+  }
+
+  h2:hover &, h3:hover &,
+  &:focus, &:active, &:hover {
+    color : @brand-color;
+  }
+
+  &:focus, &:active, &:hover {
+    outline : 0;
+
+    &::before {
+      -webkit-transform : scaleX(1);
+      -moz-transform    : scaleX(1);
+      transform         : scaleX(1);
+    }
+  }
+}

@@ -1,0 +1,79 @@
+/*------------------------------------*\
+    $LAYOUT
+\*------------------------------------*/
+/**
+ * Layout is styling the major components of the page.
+ * See http://smacss.com/book/type-layout
+ */
+
+
+/**
+ * Top level block of the website
+ */
+#site {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFF;
+
+    -webkit-box-shadow: inset 0 -1px 5px #999;
+       -moz-box-shadow: inset 0 -1px 5px #999;
+            box-shadow: inset 0 -1px 5px #999;
+
+    color: @base-ui-color;
+}
+
+
+/**
+ * Main container of the website content (top level)
+ */
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 20px;
+    max-width: 1050px;
+}
+
+
+/**
+ * Header
+ */
+header {
+    > img,
+    > nav {
+        line-height: @gravatar-height*1px;
+    }
+}
+
+// Adapt line-height to palms
+@media only screen and (max-width:~"@{lap-end}px") {
+    header {
+        > nav {
+            line-height: (@gravatar-height/2)*1px;
+        }
+    }
+}
+
+
+/**
+ * Distinct section of the page
+ * Draw a clear line at the bottom when it comes to one-whole
+ */
+@media only screen and (max-width:~"@{lap-end}px") {
+    .section {
+        border-bottom: 1px dashed lighten(@base-ui-color, 60%);
+        padding-bottom: @base-spacing-unit*1px;
+    }
+}
+
+
+/**
+ * Footer
+ */
+footer {
+    .font-size(@milli-size);
+    font-weight: 100;
+
+    p {
+        margin: @half-spacing-unit*1px 0;
+    }
+}
