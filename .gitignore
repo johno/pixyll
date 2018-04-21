@@ -7,3 +7,7 @@ _site
 _config.gh-pages.yml
 
 Gemfile.lock
+
+# Sublime Text files
+*.sublime-project
+*.sublime-workspace
