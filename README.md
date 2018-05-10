@@ -33,6 +33,7 @@ is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0
 
 Fork the repo, and then clone it so you've got the code locally.
 
+
 ### Modify the `_config.yml`
 
 The `_config.yml` located in the root of the Pixyll directory contains all of the configuration details
@@ -115,9 +116,14 @@ The contact form uses <http://formspree.io>. It will require you to fill the for
 
 More setup instructions and advanced options can be found at [http://formspree.io](http://formspree.io/)
 
+
 ### Disqus
 
 To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
+
+### txtpen
+
+To configure txtpen, set up a [txtpen site](https://txtpen.com/go) with the same name as your site. Then, in `_config.yml`, edit the `txtpen_sitename` value to enable txtpen
 
 ### Customizing the CSS
 
