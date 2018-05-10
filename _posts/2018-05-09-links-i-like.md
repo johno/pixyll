@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Links I Like \#1
+title:      Links I Like
 date:       2018-05-09
 summary:    Couple things I found on the Internet
 categories: links
