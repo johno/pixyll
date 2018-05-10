@@ -7,7 +7,6 @@ baseurl:     ""
 url:         "http://patrick.veverka.net"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - contact.html
 
 # Google services
