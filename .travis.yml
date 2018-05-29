@@ -11,5 +11,5 @@ script:
  - grep johnotander/pixyll _site/index.html
  - grep post-title         _site/index.html
  - grep pagination-item    _site/index.html
- - grep johnotander/pixyll _site/css/pixyll.css
+ - grep johnotander/pixyll _site/assets/css/main.css
  - grep 404                _site/404.html
