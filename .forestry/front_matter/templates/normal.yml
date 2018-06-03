@@ -1,6 +1,10 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  default: external-url
+  label: external-url
+  name: external-url
 pages:
 - _posts/2018/06/why-single-moms-should-go-to-a-coding-bootcamp.md
