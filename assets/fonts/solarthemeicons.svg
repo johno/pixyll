@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2012 by original authors @ fontello.com</metadata>
+<defs>
+<font id="solarthemeicons" horiz-adv-x="1000" >
+<font-face font-family="solarthemeicons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="sun" unicode="&#xe801;" d="M94 350q0 14 9 22t22 9l62 0q14 0 22-9t9-22-9-22-22-9l-62 0q-14 0-22 9t-9 22z m119-287q-21 21 0 45l45 43q21 21 43 0t0-43l-43-45q-23-21-45 0z m0 529q-21 23 0 45t45 0l43-45q21-21 0-43t-43 0z m68-242q0 90 64 154t154 64 154-64 64-154-64-154-154-64-154 64-64 154z m187-375l0 62q0 14 9 22t22 9 22-9 9-22l0-62q0-14-9-22t-22-9-22 9-9 22z m0 687l0 62q0 14 9 22t22 9 22-9 9-22l0-62q0-14-9-22t-22-9-22 9-9 22z m229-511q22 21 44 0l45-43q21-23 0-45t-45 0l-43 45q-24 21-1 43z m0 398q-23 21 1 43l43 45q23 21 45 0t0-45l-45-43q-21-21-44 0z m83-199q0 14 9 22t22 9l62 0q14 0 22-9t9-22-9-22-22-9l-62 0q-14 0-22 9t-9 22z" horiz-adv-x="1000" />
+<glyph glyph-name="anchor" unicode="&#xe800;" d="M536 707q0 15-11 25t-25 11-25-11-11-25 11-25 25-11 25 11 11 25z m463-560q-4-11-17-11l-62 0q0-76-56-140t-152-100-212-37-212 37-152 100-56 140l-62 0q-12 0-17 11-4 11 4 20l125 125q6 5 13 5t13-5l125-125q8-9 4-20t-17-11l-62 0q0-47 63-91t160-56l0 361-107 0q-15 0-25 11t-11 25l0 71q0 15 11 25t25 11l107 0 0 91q-32 19-52 52t-20 72q0 59 42 101t101 42 101-42 42-101q0-39-20-72t-52-52l0-91 107 0q15 0 25-11t11-25l0-71q0-15-11-25t-25-11l-107 0 0-361q98 13 160 56t63 91l-62 0q-12 0-17 11-4 11 4 20l125 125q6 5 13 5t13-5l125-125q8-9 4-20z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "name": "solarthemeicons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "glyphs": [
+    {
+      "uid": "7a9d73c640892d4b917c706ad95d6fec",
+      "css": "anchor",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c1306ee779029bed4f5a2b9b4f5c79e8",
+      "css": "sun",
+      "code": 59393,
+      "src": "meteocons"
+    }
+  ]
+}
