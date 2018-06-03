@@ -3,7 +3,15 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: external-url
+  default: ''
+  label: Title
+  name: title
+- type: text
+  label: layout
+  name: layout
+  default: post
+- type: text
+  default: ''
   label: external-url
   name: external-url
 pages:
