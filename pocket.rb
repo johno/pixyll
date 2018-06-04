@@ -90,7 +90,7 @@ date: #{date}
 
 eos
   item.each do |article|
-    io.write "1. [#{article[:title]}](#{article[:url]})\r\n"
+    io.write "* [#{article[:title]}](#{article[:url]})\r\n"
     logger.info "Archiving #{article[:item_id]}"
     archive_item(article[:item_id])
   end
