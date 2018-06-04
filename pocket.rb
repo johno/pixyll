@@ -41,35 +41,51 @@ end
 # end
 
 logger.info "Loading all blog tagged, non archived"
-PocketApi.retrieve({:tag => "blog"}).each do |article, art|
-  item_id        = art["item_id"].to_i
-  url            = art["resolved_url"]
-  title          = art["resolved_title"]
-  slug           = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  date           = art["time_added"]
-  date           = Time.at(date.to_i).utc.to_datetime
-  published_date = date.strftime("%Y-%m-%d %T %z")
-  year           = date.strftime("%Y")
-  month          = date.strftime("%m")
-  day            = date.strftime("%d")
+articles = PocketApi.retrieve({:tag => "blog"})
+
+parsed = articles.inject({}) do |acc, item|
+  article = item[1]
+
+  item_id = article["item_id"].to_i
+  title   = article["resolved_title"]
 
   logger.info "Processing #{item_id} - #{title}"
-  val = <<-eos
----
-title: "#{title}"
-layout: post
-date: #{published_date}
-external-url: #{url}
----
-  eos
 
-  post_directory = "#{Dir.pwd}/_posts/#{year}/#{month}"
-  filename = "#{Dir.pwd}/_posts/#{year}/#{month}/#{year}-#{month}-#{day}-#{item_id}-#{slug}.md"
-  logger.info "post_directory = #{post_directory}"
-  logger.info "filename       = #{filename}"
-  Dir.mkdir(post_directory) unless Dir.exists?(post_directory)
-  File.open(filename, "wb") do |file|
-    file.write(val)
-  end
-  archive_item(item_id)
+  date  = article["time_added"]
+  date  = Time.at(date.to_i).utc.to_datetime
+  year  = date.strftime("%Y")
+  month = date.strftime("%m")
+  day   = date.strftime("%d")
+
+  value = {
+    item_id: item_id,
+    url:     article["resolved_url"],
+    title:   title,
+    date:    date.strftime("%Y-%m-%d %T %z"),
+    year:    date.strftime("%Y"),
+    month:   date.strftime("%m"),
+    day:     date.strftime("%d")
+  }
+
+  acc[year] = {} unless acc.dig(year)
+  acc[year][month] = {} unless acc.dig(year, month)
+  acc[year][month][day] = [] unless acc.dig(year, month, day)
+  acc[year][month][day] << value
+  acc
 end
+
+pp parsed
+#   item_id        = art["item_id"].to_i
+#   url            = art["resolved_url"]
+#   title          = art["resolved_title"]
+#   slug           = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+#   date           = art["time_added"]
+#   date           = Time.at(date.to_i).utc.to_datetime
+#   published_date = date.strftime("%Y-%m-%d %T %z")
+#   year           = date.strftime("%Y")
+#   month          = date.strftime("%m")
+#   day            = date.strftime("%d")
+
+#   logger.info "Processing #{item_id} - #{title}"
+
+# end
