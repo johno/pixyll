@@ -1,9 +1,0 @@
-#!/bin/sh
-
-set -ex
-
-script/bootstrap
-
-script/test
-script/check-cdn-ips
-bundle exec gem build github-pages-health-check.gemspec

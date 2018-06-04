@@ -9,7 +9,6 @@ require "http"
 require "net/http"
 require "uri"
 require "logger"
-require 'stringio'
 
 logger = Logger.new(STDOUT)
 
@@ -50,13 +49,10 @@ parsed = articles.inject({}) do |acc, item|
   item_id = article["item_id"].to_i
   title   = article["resolved_title"]
 
-  excerpt = article["excerpt"]
+  logger.info "Processing #{item_id} - #{title}"
 
-  date  = article["time_added"].to_i
-  date  = Time.at(date).utc.to_datetime
-
-  logger.info "Processing #{item_id} - #{title} - #{date}"
-
+  date  = article["time_added"]
+  date  = Time.at(date.to_i).utc.to_datetime
   year  = date.strftime("%Y")
   month = date.strftime("%m")
   day   = date.strftime("%d")
@@ -65,53 +61,20 @@ parsed = articles.inject({}) do |acc, item|
     item_id: item_id,
     url:     article["resolved_url"],
     title:   title,
-    excerpt: excerpt,
     date:    date.strftime("%Y-%m-%d %T %z"),
     year:    date.strftime("%Y"),
     month:   date.strftime("%m"),
     day:     date.strftime("%d")
   }
 
-  full_day = date.strftime("%Y-%m-%d")
-  acc[full_day] = [] unless acc[full_day]
-  acc[full_day] << value
+  acc[year] = {} unless acc.dig(year)
+  acc[year][month] = {} unless acc.dig(year, month)
+  acc[year][month][day] = [] unless acc.dig(year, month, day)
+  acc[year][month][day] << value
   acc
 end
 
-parsed.each do |date, item|
-  io = StringIO.new
-
-  io.write <<-eos
-  ---
-  title: "Links for #{date}”
-  layout: post
-  date: #{date}#{Time.now.utc.strftime("%T %z")}
-  ---
-
-  eos
-  item.each do |article|
-    io.write "1. [#{article[:title]}](#{article[:url]})\r\n"
-    logger.info "Archiving #{article[:item_id]}"
-    archive_item(article[:item_id])
-  end
-
-  year, month, day = date.split("-")
-  post_directory = "#{Dir.pwd}/_posts/#{year}/#{month}"
-  filename = "#{post_directory}/#{year}-#{month}-#{day}-links.md"
-
-  logger.info "post_directory = #{post_directory}"
-  logger.info "filename       = #{filename}"
-  Dir.mkdir(post_directory) unless Dir.exists?(post_directory)
-  File.open(filename, "wb") do |file|
-    file.write(io.string)
-  end
-
-
-  # archive_item(item_id)
-
-
-
-end
+pp parsed
 #   item_id        = art["item_id"].to_i
 #   url            = art["resolved_url"]
 #   title          = art["resolved_title"]
