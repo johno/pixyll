@@ -1,0 +1,17 @@
+language: ruby
+before_script: bundle update
+script: "script/cibuild"
+sudo: false
+cache: bundler
+
+matrix:
+  include:
+    - # GitHub Pages
+      rvm: 2.4.0
+      env: GH_PAGES=true
+
+rvm:
+  - 2.4
+  - 2.3
+  - 2.2
+  - 2.1

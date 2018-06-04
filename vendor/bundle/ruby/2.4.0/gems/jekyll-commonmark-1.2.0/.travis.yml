@@ -1,0 +1,24 @@
+language: ruby
+cache: bundler
+sudo: false
+rvm:
+  - 2.5
+  - 2.4
+  - 2.3
+  - 2.2
+git:
+  depth: 1
+
+# we need a more recent cmake than travis/linux provides (at least 2.8.9):
+addons:
+  apt:
+    sources:
+      - kalakris-cmake
+    packages:
+      - cmake
+
+before_install:
+  - gem install bundler
+
+before_script: bundle update
+script: script/cibuild
