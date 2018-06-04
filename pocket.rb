@@ -82,13 +82,13 @@ parsed.each do |date, item|
   io = StringIO.new
 
   io.write <<-eos
-  ---
-  title: "Links for #{date}”
-  layout: post
-  date: #{date}#{Time.now.utc.strftime("%T %z")}
-  ---
+---
+title: "Links for #{date}”
+layout: post
+date: #{date}
+---
 
-  eos
+eos
   item.each do |article|
     io.write "1. [#{article[:title]}](#{article[:url]})\r\n"
     logger.info "Archiving #{article[:item_id]}"
