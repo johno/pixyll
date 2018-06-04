@@ -11,6 +11,7 @@ title: lowest common denominator
 			<h1>
 				<a href="{{ post.external-url }}" target="_blank">{{ post.title }}</a>
 			</h1>
+			<small>{{ post.date | date: '%B %d, %Y' }}</small>
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
