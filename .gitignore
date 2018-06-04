@@ -8,3 +8,4 @@ _config.gh-pages.yml
 
 Gemfile.lock
 .env
+vendor
