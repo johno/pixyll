@@ -5,5 +5,7 @@ source 'https://rubygems.org'
 # https://github.com/github/pages-gem
 gem 'github-pages'
 gem 'getpocket'
+gem 'pocket-ruby'
 gem 'multi_json'
 gem 'json'
+gem "http"
