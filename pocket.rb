@@ -83,7 +83,7 @@ parsed.each do |date, item|
 
   io.write <<-eos
 ---
-title: "Links for #{date}”
+title: "Links for #{date}"
 layout: post
 date: #{date}
 ---
