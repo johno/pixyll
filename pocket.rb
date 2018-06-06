@@ -92,7 +92,7 @@ eos
   item.each do |article|
     io.write "* [#{article[:title]}](#{article[:url]})\r\n"
     logger.info "Archiving #{article[:item_id]}"
-    archive_item(article[:item_id])
+    # archive_item(article[:item_id])
   end
 
   year, month, day = date.split("-")
