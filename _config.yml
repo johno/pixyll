@@ -80,6 +80,10 @@ share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
+
+include:
+  - .well-known
+
 text:
   pagination:
     newer: 'Newer'
