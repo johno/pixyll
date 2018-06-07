@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width">
@@ -9,27 +8,15 @@
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-
   <link href="/assets/css/style.css" rel="stylesheet" />
   <link href="/assets/css/colors-light.css" rel="stylesheet" />
-
 </head>
-
 <body>
-
-
-
   <header id="header">
     <h1><a href="/">{{ site.title }}</a></h1>
     <p>{{ site.description }}</p>
   </header>
-
-
-
   <div id="page">
-
-
-
     <div id="sidebar">
       <nav>
         <ul>
@@ -40,35 +27,19 @@
         </ul>
       </nav>
     </div>
-
-
-
     <div id="content">
       {{ content }}
     </div>
-
-
-
   </div>
-
-
-
   <footer id="footer">
     <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
   </footer>
-
-
-
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
   <script>
     $(document).ready(function(){
       $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
     });
   </script>
-
-
-
 </body>
 </html>

@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/veverkap
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://patrick.veverka.net
+  * I am veverkap (https://keybase.io/veverkap) on keybase.
+  * I have a public key with fingerprint A5D2 88E0 E6B1 013A 9BAB  72D0 1C8D EFA3 662E 3947
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010160b610dc96c0ba01d10da1fbb36077a757ebafd1d04994dcb21cb5a70058b9490a",
+      "fingerprint": "a5d288e0e6b1013a9bab72d01c8defa3662e3947",
+      "host": "keybase.io",
+      "key_id": "1c8defa3662e3947",
+      "kid": "01011f712de7ccee8be379f9b8c42ae1eb6e1478457c35e784ee1739212dfec8078d0a",
+      "uid": "9d25a4df54397a9e2de29646ec7c7e00",
+      "username": "veverkap"
+    },
+    "service": {
+      "hostname": "patrick.veverka.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1528408237,
+  "expire_in": 157680000,
+  "prev": "f2fb6c70dd721390b882d01789a7267a685dfe7e21b10084099dac28ddf42391",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNzAnicbZJrTBRXGIZ3y7bKVssWsFagrUyCqYJ0ZnZ2zswGA6EmmLay5W65rXM5
+gwN0ZtkLQpF2RZuAUlNa7y2BolyqIW2JtlSqETRRAtuKBQI1Imxx2xhQSbyUKGnP
+EJr+6flzLnnf53vPd87llUE6oz7qk3snpHg2RT/Q2+TR5a3p6KzCeFWsxKxVWAlc
+nGCpCF1ue4ksYlYMJ3CCxnmawEWBpQWc53BCRBuOkHjeTOMAcMACIM9JIiHiFMtS
+osCThMBbOIDjFoZnKRbnsDhMkpUi6HQ4ZcWNsJxFJBkG4pDmUQEzx/IcD0gRJwRG
+hBJnpmkSmlkKIOMO1aU5UDiec8F4WUVnaGNfjPc/+v9yExIgSBECQYCQ4aEZsBLL
+MwJFcpCAPA0JCjCUBQhmC0QLCAlgZknkkKDA4IARF3N7FnGsSFo4SpQslJkFHAsR
+lmRpioYCEADEcU3ogk6Fex8idTksh84SzoFVx2HotFwWoNZY7SZLCgfndspCSfyS
+Ml6BboRwOFW3KqilSLDD7Xa4rBrAXenQHDshb19i2XlZEVE7kQO5XbKqYFYCKQW3
+rMEJC8lQOEOaQRwGKxyyE9plTWEBNIOjodWB5QgpkRJPCwAXRUASZhbnGUZ7AsCw
+HCBpwNGMBfUCQJJAj4QjJsuKnEAyoihRpJklMO12ZYqKWSkG5eSKENMlFymc2+OE
+WHVfb75Bpzfqnnv2Ge2f6YzBpn9/34Ri0jXNja3Lav4ixxR4fq9poL8h1jATnGkn
++sWQdWLOgc9009xUWero1odNZfhYIGroeFlCe9fUvuXvNOK+XyIfuKzpd88EyLnb
+YXGXPhguSAhdeHh3qMtzc+G9NkU/gdWrQUO5B1ddrzFUfAPM1wrJ2US60x/Iu4kd
+YwrbXtttak6rzvaNDt1vfasvqqAgOdF+y/jka+v0b7g3M/r8yIaWwJ5to+snJheO
+hyknDvocnj3DkdfUiK+CD+f6rTHG14+9dLXidPeugj8yfVmhhwObU+cLxvMuFfo3
+zj1qmKE/3l09VdfTaolJ2xL91+X0fWv8TFGSLUux6WuUndTaT5N+pX5vSvK6V0fd
+6rloGrk9G7viiiN3196e63feLo0+dWh8S8IBQ/3KEf/8xtjmz9uK77VfyRqMCAev
+kmGp2zadPz179mphzpc33u1PWeH/2b1qa/EFqnFwe+3j1tix7VOPOo7a+OLR/BnM
+NxzmrdR912XzLo88s977QvGGp1kXTjU33u95aoisPvnT0KY+ufyNUNuykENqKHw5
+3Dc3YcxUP3ww6R0Mzu6PqU2emOlOp+j0N5mq5rrN9XJdxlr9kfH5j/bX2L79O/tJ
+ePJwSMOPvV1p7erJI93navLTAtG1Kd6MVzrOXpz8YVntnRuG7snNq8PmEx+D6Yw/
+g6YGepPORbS0HM150f69p/MfWtvDqQ==
+=iCvn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/veverkap
+
+==================================================================
