@@ -1,4 +1,5 @@
 source .env
+git pull origin master
 bundle exec ruby pocket.rb
 git add .
 CURRENTDATE=`date +"%Y-%m-%d %T"`
