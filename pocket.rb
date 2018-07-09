@@ -55,7 +55,7 @@ parsed = articles.inject({}) do |acc, item|
   date  = article["time_added"].to_i
   date  = Time.at(date).utc.to_datetime
 
-  logger.info "Processing #{item_id} - #{title} - #{date}"
+  logger.info "Processing #{item_id} - #{title} - #{date} #{title}"
 
   year  = date.strftime("%Y")
   month = date.strftime("%m")
