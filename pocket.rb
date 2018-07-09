@@ -42,7 +42,7 @@ end
 # end
 
 logger.info "Loading all blog tagged, non archived"
-articles = PocketApi.retrieve({:tag => "blog"})
+articles = PocketApi.retrieve({})
 
 parsed = articles.inject({}) do |acc, item|
   article = item[1]
