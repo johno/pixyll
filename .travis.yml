@@ -6,6 +6,13 @@ rvm:
  - 2.4
  - 2.5
  - 2.6
+env:
+ - JEKYLL_VERSION="~> 3.3.1"
+ - JEKYLL_VERSION="~> 3.4.4"
+ - JEKYLL_VERSION="~> 3.5.2"
+ - JEKYLL_VERSION="~> 3.6"
+before_install:
+ - gem install --no-ri --no-rdoc -v "${JEKYLL_VERSION}" jekyll
 script:
  - bundle exec jekyll build
  - grep johnotander/pixyll _site/index.html
@@ -13,3 +20,26 @@ script:
  - grep pagination-item    _site/index.html
  - grep johnotander/pixyll _site/assets/css/main.css
  - grep 404                _site/404.html
+ - gem build pixyll.gemspec
+ - bundle exec jekyll new pixyll-example
+ - cd pixyll-example
+ - bundle install
+ - "sed -i~ -e 's/minima/pixyll/'     Gemfile"
+ - "sed -i~ -e '/the default theme/d' Gemfile"
+ - "sed -i~ -e 's/minima/pixyll/'                          _config.yml"
+ - "sed -i~ -e '/^gems:/a\\\n\\ \\ - jekyll-paginate\n'    _config.yml"
+ - "sed -i~ -e '/^plugins:/a\\\n\\ \\ - jekyll-paginate\n' _config.yml"
+ - "echo paginate: 1                                    >> _config.yml"
+ - mv index.md index.html
+ - "echo ---                                    > _posts/$(date -u +'%Y-%m-%d')-hello-world.md"
+ - "echo layout: post                          >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - "echo title: Hello, world                   >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - "echo -n 'date: '                           >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - "echo $(date -u +'%Y-%m-%d %H:%M:%S +0000') >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - "echo ---                                   >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - "echo 'Hello, world!'                       >> _posts/$(date -u '+%Y-%m-%d')-hello-world.md"
+ - bundle exec jekyll build
+ - grep pixyll          _site/index.html
+ - grep post-title      _site/index.html
+ - grep pagination-item _site/index.html
+ - grep Newer           _site/index.html
