@@ -6,7 +6,7 @@
     {% assign page = site.pages | where: "path", path | first %}
     
     {% if page.title %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     {% endif %}
 
     
