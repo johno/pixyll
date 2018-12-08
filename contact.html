@@ -10,34 +10,34 @@ tags: contact
     <form class="form-stacked">
       <label>
         Email
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
+        <input type="text" name="email" class="field-light" placeholder="{% if site.text.contact.email %}{{ site.text.contact.email }}{% else %}{{ "Email Address" }}{% endif %}">
       </label>
 
       <label>
         Content
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}" style="resize: vertical"></textarea>
+        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{% if site.text.contact.content %}{{ site.text.contact.content }}{% else %}{{ "What would you like to say?" }}{% endif %}" style="resize: vertical"></textarea>
       </label>
 
       <input type="text" name="_gotcha" style="display:none" />
 
-      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit }}</button>
+      <button type='submit' class="button button-blue button-big mobile-block">{% if site.text.contact.submit %}{{ site.text.contact.submit }}{% else %}{{ "Say Hello" }}{% endif %}</button>
     </form>
   {% else %}
     <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
       <label>
         Email
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
+        <input type="text" name="email" class="field-light" placeholder="{% if site.text.contact.email %}{{ site.text.contact.email }}{% else %}{{ "Email Address" }}{% endif %}">
       </label>
       <label>
         Content
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}" style="resize: vertical"></textarea>
+        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{% if site.text.contact.content %}{{ site.text.contact.content }}{% else %}{{ "What would you like to say?" }}{% endif %}" style="resize: vertical"></textarea>
       </label>
 
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
-      <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
+      <input type="hidden" name="_subject" value="{% if site.text.contact.subject %}{{ site.text.contact.subject }}{% else %}{{ "New submission!" }}{% endif %}" />
       <input type="text" name="_gotcha" style="display:none" />
 
-      <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit }}">
+      <input type="submit" class="button button-blue button-big mobile-block" value="{% if site.text.contact.submit %}{{ site.text.contact.submit }}{% else %}{{ "Say Hello" }}{% endif %}">
     </form>
   {% endif %}
 </div>

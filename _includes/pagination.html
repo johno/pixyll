@@ -3,19 +3,19 @@
   <div class="left">
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ "/" | relative_url }}">{{ site.text.pagination.newer }}</a>
+        <a class="pagination-item" href="{{ "/" | relative_url }}">{% if site.text.pagination.newer %}{{ site.text.pagination.newer }}{% else %}{{ "Newer" }}{% endif %}</a>
       {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path | relative_url }}">{{ site.text.pagination.newer }}</a>
+        <a class="pagination-item" href="{{ paginator.previous_page_path | relative_url }}">{% if site.text.pagination.newer %}{{ site.text.pagination.newer }}{% else %}{{ "Older" }}{% endif %}</a>
       {% endif %}
     {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
+      <span class="pagination-item disabled">{% if site.text.pagination.newer %}{{ site.text.pagination.newer }}{% else %}{{ "Newer" }}{% endif %}</span>
     {% endif %}
   </div>
   <div class="right">
     {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ paginator.next_page_path | relative_url }}">{{ site.text.pagination.older }}</a>
+      <a class="pagination-item" href="{{ paginator.next_page_path | relative_url }}">{% if site.text.pagination.older %}{{ site.text.pagination.older }}{% else %}{{ "Older" }}{% endif %}</a>
     {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
+      <span class="pagination-item disabled">{% if site.text.pagination.older %}{{ site.text.pagination.older }}{% else %}{{ "Older" }}{% endif %}</span>
     {% endif %}
   </div>
   <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
