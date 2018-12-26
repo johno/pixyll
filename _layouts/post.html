@@ -34,8 +34,8 @@ layout: default
   {% include post_footer.html %}
 {% endif %}
 
-{% if txtpen.txtpen_sitename %}
-  <script src="https://txtpen.com/embed.js?site={{txtpen.txtpen_sitename}}" />
+{% if site.txtpen_sitename %}
+  <script src="https://txtpen.com/embed.js?site={{site.txtpen_sitename}}" />
 {% endif %}
 
 {% if site.disqus_shortname %}
