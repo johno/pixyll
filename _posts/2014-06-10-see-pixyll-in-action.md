@@ -123,6 +123,43 @@ hopefully sidestep this inconvenience.
   <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
 </blockquote>
 
+
+### Tables
+
+Tables represent tabular data and can be built using markdown syntax.  They are rendered responsively in Pixyll for a variety of screen widths.
+
+Here's a simple example of a table:
+
+| Quantity | Description |     Price |
+|----------+-------------+----------:|
+|        2 |      Orange |     $0.99 |
+|        1 |   Pineapple |     $2.99 |
+|        4 |      Banana |     $0.39 |
+|==========|=============|===========|
+|          |   **Total** | **$6.14** |
+
+A table must have a body of one or more rows, but can optionally also have a header or footer.
+
+The cells in a column, including the header row cell, can either be aligned:
+
+- left,
+- right or
+- center.
+
+Most inline text formatting is available in table cells, block-level formatting are not.
+
+|----------------+----------------------+------------------------+----------------------------------|
+| Default header | Left header          |     Center header      |                     Right header |
+|----------------|:---------------------|:----------------------:|---------------------------------:|
+| Default        | Left                 |        Center          |                            Right |
+| *Italic*       | **Bold**             |   ***Bold italic***    |                      `monospace` |
+| [link text](#) | ```code```           |     ~~Strikeout~~      |              <ins>Insertion<ins> |
+| line<br/>break | "Smart quotes"       | <mark>highlight</mark> | <span class="green">green</span> |
+| Footnote[^2]   | <sub>subscript</sub> | <sup>superscript</sup> |     <span class="red">red</span> |
+|================+======================+========================+==================================+
+| Footer row                                                                                        |
+|----------------+----------------------+------------------------+----------------------------------|
+
 ### There's more being added all the time
 
 Checkout the [Github repository](https://github.com/johnotander/pixyll) to request,
@@ -133,3 +170,5 @@ Happy writing.
 ---
 
 [^1]: Important information that may distract from the main text can go in footnotes.
+
+[^2]: Footnotes will work in tables since they're just links.
