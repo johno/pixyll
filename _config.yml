@@ -40,10 +40,6 @@ fb_page_id:
 # (leave blank to disable Disqus)
 disqus_shortname:
 
-# txtpen post comments
-# (leave blank to disable txtpen)
-txtpen_sitename:
-
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
