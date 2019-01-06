@@ -8,6 +8,8 @@ table {
   max-width: 100%;
   margin-bottom: 1.5rem;
   font-size: 1.125rem;
+  overflow-x:auto;
+  display:block;
   // Cells
   > thead,
   > tbody,
