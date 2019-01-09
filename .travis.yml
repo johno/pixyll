@@ -12,7 +12,12 @@ env:
  - JEKYLL_VERSION="~> 3.5.2"
  - JEKYLL_VERSION="~> 3.6"
 before_install:
- - gem install --no-ri --no-rdoc -v "${JEKYLL_VERSION}" jekyll
+ - rvm gemset use global
+ - gem uninstall bundler -x || true
+ - rvm use $TRAVIS_RUBY_VERSION
+ - gem install --no-document -v "~> 1.12" bundler
+ - bundler --version
+ - gem install --no-document -v "${JEKYLL_VERSION}" jekyll
 script:
  - bundle exec jekyll build
  - grep johnotander/pixyll _site/index.html
