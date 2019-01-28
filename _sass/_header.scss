@@ -24,10 +24,17 @@
 
 .site-header nav a:hover,
 .site-header nav a:focus,
-.site-header nav a:active {
+.site-header nav a:active,
+.site-header nav a.nav-active:hover,
+.site-header nav a.nav-active:focus,
+.site-header nav a.nav-active:active {
   color: #444;
   opacity: 1;
   border-bottom: 2px solid #444;
+}
+
+.site-header nav a.nav-active {
+  border-bottom: 1px solid $light-gray;
 }
 
 .site-nav a + a {
