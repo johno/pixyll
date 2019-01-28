@@ -1,0 +1,20 @@
+# appveyor.yml
+
+environment:
+  RUBY_VERSION: 25
+
+platform:
+  - x64
+
+install:
+  - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
+  - bundle install
+
+before_build:
+  - ruby -v
+  - gem -v
+  - bundle -v
+  - bundle exec jekyll -v
+
+build_script:
+  - bundle exec jekyll build
