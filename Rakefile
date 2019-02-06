@@ -62,6 +62,48 @@ task :preview do
   system "jekyll serve --watch --drafts"
 end
 
+# usage: rake undraft['my-file.md']
+desc 'publish a draft post with "rake undraft[\'draft-file.md\']"'
+task :undraft, :file do |t, args|
+  if args.file
+    file = args.file
+  else
+    abort "Please try again. Remember to include the file name."
+  end
+
+  draft = "#{drafts_dir}/#{file}"
+  unless File.exists?(draft)
+    abort "Draft does not exist: #{draft}"
+  end
+
+  today = Time.now
+  post = "#{posts_dir}/#{today.strftime('%Y-%m-%d')}-#{file}"
+
+  # Slurp file in to memory
+  lines = IO.readlines(draft).map do |line|
+    dateline = /\s*^date:\s*(.*)\s*$/.match(line)
+    if dateline
+      puts "Original date of draft: #{dateline[1]}"
+      "date: #{today.strftime('%Y-%m-%d %H:%M')}"
+    else
+      line
+    end
+  end
+
+  print "Moving #{draft} to #{post}..."
+  FileUtils.mv(draft, post)
+  puts "done."
+
+  print "Modifying date for post to '#{today.strftime('%Y-%m-%d %H:%M')}'..."
+  File.open(post, 'w') do |file|
+    file.puts lines
+  end
+  puts "done."
+
+# Uncomment the line below if you want the post to automatically open in your default text editor
+# system ("#{ENV['EDITOR']} #{post}")
+end
+
 desc 'list tasks'
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
