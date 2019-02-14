@@ -125,4 +125,6 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Rakefile
+  - README.md
   - vendor
