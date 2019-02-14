@@ -6,7 +6,16 @@ rvm:
  - 2.4
  - 2.5
  - 2.6
+env:
+ - JEKYLL_VERSION: "~> 3.4.5"
+ - JEKYLL_VERSION: "~> 3.5.2"
+ - JEKYLL_VERSION: "~> 3.6.3"
+ - JEKYLL_VERSION: "~> 3.7.4"
+ - JEKYLL_VERSION: "~> 3.8"
+before_install:
+ - gem install --no-document -v "${JEKYLL_VERSION}" jekyll
 script:
+ - bundle exec jekyll --version
  - bundle exec jekyll build
  - rake 'draft[Hello\, world]'
  - rake undraft[hello-world.md]
@@ -15,3 +24,17 @@ script:
  - grep pagination-item    _site/index.html
  - grep johnotander/pixyll _site/css/pixyll.css
  - grep 404                _site/404.html
+ - gem build pixyll.gemspec
+ - bundle exec jekyll new pixyll-example
+ - cd pixyll-example
+ - bundle install
+ - mv index.md index.html
+ - "sed -i~ -e 's/layout: home/layout: default/'           index.html"
+ - "echo paginate: 1 >> _config.yml"
+ - "sed -i~ -e 's/minima/pixyll/'                          _config.yml"
+ - "sed -i~ -e '/^gems:/a\\\n\\ \\ -\\ jekyll-paginate\n'    _config.yml"
+ - "sed -i~ -e '/^plugins:/a\\\n\\ \\ -\\ jekyll-paginate\n' _config.yml"
+ - "sed -i~ -e 's/minima/pixyll/'                          Gemfile"
+ - "sed -i~ -e '/the default theme/d'                      Gemfile"
+ - bundle exec jekyll build
+ - grep pixyll          _site/index.html

@@ -1,7 +1,19 @@
 # appveyor.yml
 
 environment:
-  RUBY_VERSION: 25
+  matrix:
+  - RUBY_VERSION: 24
+    JEKYLL_VERSION: "~> 3.5.2"
+  - RUBY_VERSION: 24
+    JEKYLL_VERSION: "~> 3.6.3"
+  - RUBY_VERSION: 25
+    JEKYLL_VERSION: "~> 3.6.3"
+  - RUBY_VERSION: 25
+    JEKYLL_VERSION: "~> 3.7.4"
+  - RUBY_VERSION: 26
+    JEKYLL_VERSION: "~> 3.7.4"
+  - RUBY_VERSION: 26
+    JEKYLL_VERSION: "~> 3.8"
 
 platform:
   - x64
@@ -9,6 +21,7 @@ platform:
 install:
   - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
   - bundle install
+  - gem install --no-document -v "%JEKYLL_VERSION%" jekyll
 
 before_build:
   - ruby -v
@@ -21,3 +34,4 @@ build_script:
   - bundle exec jekyll build
   - rake 'draft[Hello\, world]'
   - rake undraft[hello-world.md]
+  - gem build pixyll.gemspec

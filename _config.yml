@@ -126,3 +126,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - pixyll.gemspec
+  - '*.gem'
