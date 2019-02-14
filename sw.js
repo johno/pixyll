@@ -7,7 +7,7 @@ self.addEventListener("install", function(e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
-        "{{ '/css/pixyll.css' | relative_url }}?{{ site.time | date: '%Y%m%d%H%M' }}",
+        "{{ '/assets/css/main.css' | relative_url }}?{{ site.time | date: '%Y%m%d%H%M' }}",
         "{{ '/' | relative_url }}"
       ]);
     })
