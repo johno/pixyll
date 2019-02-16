@@ -2,7 +2,7 @@
 
 [pixyll.com](http://www.pixyll.com)
 
-![Pixyll screenshot](./images/homepage.png)
+![Pixyll screenshot](./screenshot.png)
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
