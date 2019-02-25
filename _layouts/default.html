@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 {% include head.html %}
 <body class="site{% if site.animated %} animated fade-in-down{% endif %}">
   {% if site.google_tag_manager %}
