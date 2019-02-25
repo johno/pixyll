@@ -30,13 +30,14 @@ List of contributors:
 - Amin Bandali
 - Anders Nissen
 - Andrea Margiovanni
+- Andreas Niedermair
 - Andrzej Ośmiałowski
 - Anuj More
 - Arvind Chembarpu
 - Assaf Gelber
 - Barry vd. Heuvel
-- Bartek Krzemień
 - Bartek Krzemień
+- Benjamin Sinkula
 - Bennett Rogers
 - Brian Gaid
 - Brian Hurst
@@ -44,10 +45,13 @@ List of contributors:
 - Cody Chan
 - Cristian Henrique
 - David Ernst
+- David Moodie
 - Donate Altenburger
+- Eddie Schoute
 - Fernando Mantoan
 - Gurchet Rai
 - Harish Narayanan
+- Jack Platten
 - Jehan Tremback
 - Jiaxi Gu (Isaac)
 - John Otander
@@ -65,10 +69,12 @@ List of contributors:
 - mindwind
 - Nick Rakochy
 - Nikolay Georgiev
+- Noel Bautista
 - Oliver Hamlet
 - Onur (e0i)
 - Praveer Gupta
 - Rassol (Karmeye)
+- Renato Fialho
 - Ricky Han
 - Roberto Pesando
 - Ryan Jacobs
@@ -82,6 +88,7 @@ List of contributors:
 - Tom Kraak
 - Vishnu Ks
 - Vladislav Arbatov
+- Wilfred Hughes
 - Yaroslav Yadrishnikov
 - Yee Chie Tu
 - Yeou Chien
