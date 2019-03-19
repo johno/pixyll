@@ -1,0 +1,61 @@
+/*! Pixyll Dark mode is enabled. */
+
+// Base
+$base-font-color: $light-blue;
+$base-bg-color: $darker-blue;
+
+// Links
+$link-color: $blue;
+$link-hover-color: darken($blue, 40%);
+
+// Borders
+$border-color: $light-blue;
+
+// Blockquotes
+$blockquote-bg-color: $base-bg-color;
+$blockquote-color: $base-font-color;
+
+// Code
+$pre-background-color: $dark-gray;
+$pre-font-color: $light-gray;
+$hljs-comment: $mid-gray;
+$hljs-keyword: $orange; // lighten($dark-blue, 40%);
+$hljs-name: $light-gray; // lighten($dark-gray, 40%);
+$hljs-number: $light-green;
+$hljs-string: $light-pink;
+$hljs-title: $light-gray;
+$hljs-type: light-gray;
+$hljs-tag: $light-gray;
+$hljs-attribute: $light-green;
+$hljs-regexp: $light-pink;
+$hljs-symbol: $purple;
+$hljs-built-in: $orange;
+$hljs-preprocessor: $mid-gray;
+$hljs-deletion: $light-pink;
+$hljs-addition: $light-green;
+$hljs-change: $light-gray;
+$hljs-chunk: $dark-blue;
+
+// Header
+$header-border-top: thin solid $light-gray;
+$header-color: $light-blue;
+
+// Nav
+$nav-color: $light-blue;
+$nav-link-color: $light-blue;
+$nav-link-border-bottom: 2px solid $light-blue;
+$nav-active-border-bottom: 1px solid $blue;
+
+// Footer
+$footer-color: $base-font-color;
+$footer-bg-color: $base-bg-color;
+
+// Posts
+$post-link-color: $blue;
+$post-meta-color: $light-blue;
+
+// Pagination
+$pagination-link-color: $light-blue;
+$pagination-link-hover-color: lighten($light-blue, 40%);
+$pagination-background-color: $darker-blue;
+$pagination-hover-background-color: lighten($darker-blue, 40%);

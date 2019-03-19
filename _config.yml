@@ -10,6 +10,9 @@ header_pages:
  - about.md
  - contact.html
 
+ # Set to "dark" for Dark-mode version
+theme_mode: default
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

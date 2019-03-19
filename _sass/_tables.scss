@@ -20,14 +20,14 @@ table {
         padding: 12px;
         line-height: 1.2;
         vertical-align: top;
-        border-top: 1px solid #333;
+        border-top: 1px solid $border-color;
       }
     }
   }
   // Bottom align for column headings
   > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid $border-color;
   }
   // Remove top border from thead by default
   > caption + thead,
@@ -42,6 +42,6 @@ table {
   }
   // Account for multiple tbody instances
   > tbody + tbody {
-    border-top: 2px solid #333;
+    border-top: 2px solid $border-color;
   }
 }
