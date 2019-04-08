@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Joe Davidson's Blog (no title as of yet)
+email:       Joe.Davidson2111@hotmail.com
+author:      Joe-Davidson
+description: "An assortment of random thoughts of ideas"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: Joe-Davidson1802
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
