@@ -3,8 +3,8 @@ title:       Joe Davidson's Blog (no title as of yet)
 email:       Joe.Davidson2111@hotmail.com
 author:      Joe-Davidson
 description: "An assortment of random thoughts of ideas"
-baseurl:     ""
-url:         ""
+baseurl:     "https://joe-davidson.co.uk/blog/"
+url:         "https://joe-davidson.co.uk/blog/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
