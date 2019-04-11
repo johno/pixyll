@@ -32,7 +32,7 @@ The first thought that entered my head when I saw Vim being used was ‘This loo
 
 I picked Vim up first a couple of years back when pairing with a fellow dev, who swore by Vim, he would fly around files using all the shortcuts like it was breathing, faster than I would be able to use any graphical text editor.
 
-<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03VimAdventures.jpg' | relative_url }}">
+{% include wrap_image.html src='/images/2019-04-03VimAdventures.jpg' | relative_url %}
 
 The most daunting part of this for me was how will I effectively edit text when I can’t remember the shortcuts, so he pointed me to [Vim Adventures](https://vim-adventures.com/) an online game where you can iteratively learn the shortcuts, I would recommend this for people who want to use Vim but need a few layers of complexity to be explained.
 
