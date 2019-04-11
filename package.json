@@ -1,0 +1,10 @@
+{
+    "scripts": {
+      "deploy": "gh-pages -b gh-pages -d ./_site",
+      "predeploy": "yarn build",
+      "build": "bundle exec jekyll build"
+    },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

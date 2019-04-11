@@ -8,7 +8,7 @@ categories: productivity vim emacs tooling
 
 [Disclaimer]: I am in no way an expert at either of these tools, I have had a fair amount of experience with both, to the point where I have a sound opinion on both.
 
-![Cover photo](/images/2019-04-03Cover.png)
+![Cover photo]({{ '/images/2019-04-03Cover.png' | relative_url }})
 
 For those of you who are unaware, there has been a heated debate (war) going on between supporters of Vim and supporters of Emacs for years now, these are not the only contenders, there are supporters of [Nano](https://www.nano-editor.org/) who pitch in on the debate too and many more, but these are the biggest runners in my opinion.
 
@@ -24,7 +24,7 @@ This tool is an extremely powerful text editor in the corrected hands, and an ex
 
 [Vim](https://www.vim.org/) (Vi IMproved) as the title suggests, is an improvement of the text editor [Vi](http://ex-vi.sourceforge.net/), an editor designed for the Unix operating system. Initially released in 1991 it gained traction due to how light it was. It is popular among tech specialists as it is installed by default on most Unix based operating systems, and can be used through the command line.
 
-![Vim start screen](/images/2019-04-03Vim.png)
+![Vim start screen]({{ '/images/2019-04-03Vim.png' | relative_url }})
 
 ### First Impressions
 
@@ -32,7 +32,7 @@ The first thought that entered my head when I saw Vim being used was ‘This loo
 
 I picked Vim up first a couple of years back when pairing with a fellow dev, who swore by Vim, he would fly around files using all the shortcuts like it was breathing, faster than I would be able to use any graphical text editor.
 
-<img style="float: left; margin-right: 20px;" src="/images/2019-04-03VimAdventures.jpg">
+<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03VimAdventures.jpg' | relative_url }}">
 
 The most daunting part of this for me was how will I effectively edit text when I can’t remember the shortcuts, so he pointed me to [Vim Adventures](https://vim-adventures.com/) an online game where you can iteratively learn the shortcuts, I would recommend this for people who want to use Vim but need a few layers of complexity to be explained.
 
@@ -46,7 +46,7 @@ You can then string these together and process huge files using macros.
 
 ### Packages
 
-<img style="float: left; margin-right: 20px;" src="/images/2019-04-03VimPackages.png">
+<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03VimPackages.png' | relative_url }}">
 
 Next, I was introduced to the packages that were available, largely I followed my Sensei’s configuration and mirrored the packages he had, one-by-one adding them and integrating them into my workflow. Starting with [NerdTree](https://github.com/scrooloose/nerdtree), a package to help you traverse a codebase, without something like this you will need to exit every time you want to switch file or memorize the relative path.
 
@@ -76,7 +76,7 @@ Described as “An extensible, customizable, free/libre text editor — and 
 
 Emacs, the name coming from (Editor MACroS), is a text editor with different a different “mode” for every task. It is made to be fast and increase productivity with shortcuts and macros, all written in Lisp. Although Vim has support for tasks other than text editing, Emacs seems to have a bigger toolset for other operations.
 
-<img style="float: left; margin-right: 20px;" src="/images/2019-04-03Emacs.png">
+<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03Emacs.png' | relative_url }}">
 
 ### First Impressions
 
@@ -90,11 +90,11 @@ My previous experience with Vim was a major advantage so I can’t speak about l
 
 Learning to use Emacs seemed to be much easier, especially in the context of macros, as when you started invoking one you get hints on what key you can use next.
 
-![Emacs Helm](/images/2019-04-03EmacsIntuitive.png)
+![Emacs Helm]({{ '/images/2019-04-03EmacsIntuitive.png' | relative_url }})
 
 And after navigating this a few times you can do the controls without looking, to me, this is an improvement on Vim as you don’t need to search up how to use certain packages. Also, there is a search command `Alt-x` or `SPC SPC` (for Spacemacs) which not only lets you search the commands available but shows you the keybind for using it next time.
 
-![Emacs Helm](/images/2019-04-03EmacsSearch.png)
+![Emacs Helm]({{ '/images/2019-04-03EmacsSearch.png' | relative_url }})
 
 ### Packages
 
