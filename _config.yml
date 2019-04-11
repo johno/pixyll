@@ -102,7 +102,7 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Contact Me'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
