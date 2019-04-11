@@ -32,7 +32,7 @@ The first thought that entered my head when I saw Vim being used was ‘This loo
 
 I picked Vim up first a couple of years back when pairing with a fellow dev, who swore by Vim, he would fly around files using all the shortcuts like it was breathing, faster than I would be able to use any graphical text editor.
 
-{% include wrap_image.html src='/images/2019-04-03VimAdventures.jpg' | relative_url %}
+{% include wrap_image.html src="/images/2019-04-03VimAdventures.jpg" %}
 
 The most daunting part of this for me was how will I effectively edit text when I can’t remember the shortcuts, so he pointed me to [Vim Adventures](https://vim-adventures.com/) an online game where you can iteratively learn the shortcuts, I would recommend this for people who want to use Vim but need a few layers of complexity to be explained.
 
@@ -46,7 +46,7 @@ You can then string these together and process huge files using macros.
 
 ### Packages
 
-<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03VimPackages.png' | relative_url }}">
+{% include wrap_image.html src="/images/2019-04-03VimPackages.png" %}
 
 Next, I was introduced to the packages that were available, largely I followed my Sensei’s configuration and mirrored the packages he had, one-by-one adding them and integrating them into my workflow. Starting with [NerdTree](https://github.com/scrooloose/nerdtree), a package to help you traverse a codebase, without something like this you will need to exit every time you want to switch file or memorize the relative path.
 
@@ -76,7 +76,7 @@ Described as “An extensible, customizable, free/libre text editor — and 
 
 Emacs, the name coming from (Editor MACroS), is a text editor with different a different “mode” for every task. It is made to be fast and increase productivity with shortcuts and macros, all written in Lisp. Although Vim has support for tasks other than text editing, Emacs seems to have a bigger toolset for other operations.
 
-<img style="float: left; margin-right: 20px;" src="{{ '/images/2019-04-03Emacs.png' | relative_url }}">
+{% include wrap_image.html src="/images/2019-04-03Emacs.png" %}
 
 ### First Impressions
 
