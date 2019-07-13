@@ -1,9 +1,19 @@
-<footer class="center">
+<footer class="center post-footer">
   <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">GitHub</a>.
-    </small>
+    {% if site.author %}
+    <figure class="author-image">
+        <a class="img" href="{{ site.baseurl }}" style="background-image: url(/images/profile.png)">
+        <span class="hidden">{{site.author}}'s Picture</span></a>
+    </figure>
+    <section class="author">
+        <!-- Author Name -->
+        <h4> {{ site.author }} </h4>
+        <!-- Author Bio -->
+        <p>
+            Here goes the author description. You might want to place some links too in here
+        </p>
+    </section>
+    {% endif %}
   </div>
 </footer>
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
