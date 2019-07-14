@@ -6,11 +6,14 @@
         <span class="hidden">{{site.author}}'s Picture</span></a>
     </figure>
     <section class="author">
-        <!-- Author Name -->
-        <h4> {{ site.author }} </h4>
-        <!-- Author Bio -->
+        <div class="author-info">
+            <!-- Author Name -->
+            <h4> {{ site.author }} </h4>
+            <!-- Author Bio -->
+        </div>
+        <div class="clearfix"/>
         <p>
-            Here goes the author description. You might want to place some links too in here
+            {{ site.description }}
         </p>
     </section>
     {% endif %}
