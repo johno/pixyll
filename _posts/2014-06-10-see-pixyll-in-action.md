@@ -41,16 +41,31 @@ end
 
 Here's some CSS:
 
-{% highlight css %}
+```css
 .foobar {
   /* Named colors rule */
   color: tomato;
 }
-{% endhighlight %}
-
+```
 Here's some JavaScript:
+```terminal
+[15:34:01] Finished 'site' after 2.18 min
+[15:34:01] Starting 'copy:site'...
+[15:34:06] Finished 'copy:site' after 4.8 s
+[15:34:06] Finished 'build:site' after 2.33 min
+[15:34:06] Starting 'reload'...
+[BS] Reloading Browsers...
+[15:34:06] Finished 'reload' after 5.22 ms
+_posts/2013-11-10-welcome-to-jekyll.markdown
+_posts/2013-11-10-welcome-to-jekyll.markdown
+_posts/2013-11-10-welcome-to-jekyll.markdown
+_posts/2013-11-10-welcome-to-jekyll.markdown
+_posts/2013-11-10-welcome-to-jekyll.markdown
+_posts/2013-11-10-welcome-to-jekyll.markdown
+```
 
-{% highlight js %}
+
+```js
 var isPresent = require('is-present')
 
 module.exports = function doStuff(things) {
@@ -58,8 +73,7 @@ module.exports = function doStuff(things) {
     doOtherStuff(things)
   }
 }
-{% endhighlight %}
-
+```
 Here's some HTML:
 
 {% highlight html %}

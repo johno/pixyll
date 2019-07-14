@@ -7,6 +7,7 @@ pre code {
 pre,
 code {
   font-family: $monospace-font-family;
+  font-size: 0.75rem;
 }
 
 code {
@@ -22,7 +23,7 @@ pre {
 }
 
 .highlight .p {
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1;
 }
 
@@ -67,4 +68,42 @@ pre a:last-of-type::before {
 
 pre a:only-of-type::before {
   padding: 10px;
+}
+
+
+.language-terminal {
+  position: relative;
+  margin-bottom: 1.5em;
+  padding: calc(#{$terminal-window-height} + 1em) 1em 1em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: 0 0.25em 1em rgba($base-color, 0.25);
+  background-color: $base-color;
+
+  &::before {
+    content: "\2022 \2022 \2022";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+//    height: $terminal-window-height;
+    margin: 0;
+    padding: (0.5 * $terminal-window-height) 0;
+    background: mix($base-color, #fff, 25%);
+    color: mix($base-color, #fff, 50%);
+    font-size: (2 * $terminal-window-height);
+    line-height: 0;
+    text-indent: (0.5 * $terminal-window-height);
+  }
+
+  .highlight {
+    margin: 0;
+    padding: 0;
+    background-color: initial;
+    color: #fff;
+  }
+}
+
+.language-terminal code {
+    color: $lighter-gray;
 }

@@ -35,6 +35,7 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Colors
+$base-color: #393E20 !default;
 $blue: #0076df !default;
 $red: #f95020 !default;
 $green: #00cf26 !default;
@@ -140,3 +141,6 @@ $footer-color: #7a7a7a;
 $footer-bg-color: #fafafa;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;
+
+// Random
+$terminal-window-height: 30px;
