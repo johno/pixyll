@@ -29,16 +29,13 @@ use [Porkbun](https://porkbun.com) because of their low cost and user friendly
 user interface, and besides who doesn't want to do business with a company
 called Porkbun... right?
 
-In this post I'm going to be using the name __azurepatterns.com__ as an example.
-This is a recent purchase of mine and you may actually be reading this article
-from that domain name but for now let's just a basic site up and working with
-it.  Also noteworthy is the fact that I'm on a Mac so I'll be using unix
-commands versus Powershell or CMD.
+In this post we'll setup a website for  __azurepatterns.com__ as an example. Also 
+noteworthy is the fact that I'm on a Mac so I'll be using Unix commands versus Powershell or CMD.
 
 Once we've got a name it's time to do some work at the registrar before we get
 started in Azure.  One thing to note about the Azure Commercial Cloud is that
 it assigns a domain name to your storage account by default during creation.
-This domain's name is blob.core.windows.net.  This means that whatever name you
+This domain's name is __blob.core.windows.net__.  This means that whatever name you
 select for your storage account will get a domain name like yourstoragename.blob.core.windows.net 
 automactially and since it will be accessible from the Internet it will need to be 
 a unique name across all of Azure Cloud.
@@ -74,46 +71,54 @@ Once this is complete and you've given it a few minutes to propagate you can cre
 the storage account in Azure using the __az__ CLI tool.
 
 ```terminal
->> az storage account create -n azurepatterns --custom-domain www.azurepatterns.com -l eastus -g azure-patterns --kind StorageV2
+>> az group create -n azurepatterns -l eastus
+
+>> az storage account create -n azurepatterns --custom-domain web.azurepatterns.com -l eastus -g azurepatterns --kind StorageV2
 
 >> az storage blob service-properties update --account-name azurepatterns --static-website --404-document error.html --index-document index.html 
 
 ```
 
 The previous commands created a storage account, assigned our custom domain to
-it and also set up a special $web container in blob storage for our website.  At
-this point you might think that you have an accessible website at
-www.azurepatterns.com, at least I did, but that is not the case.  Sadly, if you
-visit that URL you'll be given the following message...
+it and also set up a special $web container in blob storage for our website.
+You can go ahead and add some basic content to this blob container such as an
+index.html file and an error.html file.  These will be useful for testing as we
+continue to setup our website.  
+
+At this point you might think that you have an accessible website at
+www.azurepatterns.com, at least I did I first time through, but that is was not the case.  Sadly, if you
+visit that URL http://web.azurepatterns.com you'll first be given an error message about the site
+being insecure due to SSL naming issues and then once you've accepted the risk
+you'll be given the following message...
 
 ```xml
 <Error>
     <Code>
-    InvalidQueryParameterValue
+        InvalidQueryParameterValue
     </Code>
     <Message>
-    Value for one of the query parameters specified in the request URI is invalid.
-    RequestId:3561301b-101e-0049-61e3-395f41000000 Time:2019-07-14T01:29:35.6019427Z
+        Value for one of the query parameters specified in the request URI is invalid.
+        RequestId:3561301b-101e-0049-61e3-395f41000000 Time:2019-07-14T01:29:35.6019427Z
     </Message>
     <QueryParameterName>
-    comp
+        comp
     </QueryParameterName>
     <QueryParameterValue/>
     <Reason/>
-    </Error>
-    ```
+</Error>
+```
 
-    So let's take a look and see what the storage account provides for endpoints.
+So let's take a look and see what the storage account provides for endpoints.
 
-    ```terminal
-    >> az storage account show -n azurepatterns -o json --query primaryEndpoints
+```terminal
+>> az storage account show -n azurepatterns -o json --query primaryEndpoints
 {
     "blob": "https://azurepatterns.blob.core.windows.net/",
-        "dfs": "https://azurepatterns.dfs.core.windows.net/",
-        "file": "https://azurepatterns.file.core.windows.net/",
-        "queue": "https://azurepatterns.queue.core.windows.net/",
-        "table": "https://azurepatterns.table.core.windows.net/",
-        "web": "https://azurepatterns.z13.web.core.windows.net/"
+    "dfs": "https://azurepatterns.dfs.core.windows.net/",
+    "file": "https://azurepatterns.file.core.windows.net/",
+    "queue": "https://azurepatterns.queue.core.windows.net/",
+    "table": "https://azurepatterns.table.core.windows.net/",
+    "web": "https://azurepatterns.z13.web.core.windows.net/"
 }
 ```
 Hmmm, so based on this it looks like
@@ -132,11 +137,42 @@ to create Rules for redirecting requests is the Verizon Premium type.
 
 ```terminal
 
->> az cdn profile create -g azure-patterns -n azurepatternscdn --sku Premium_Verizon
+>> az cdn profile create -g azurepatterns -n azurepatternscdn --sku Premium_Verizon
 
 Location    Name              ProvisioningState       ResourceGroup   ResourceState
 -----------------------------------------------------------------------------------
 EastUs      azurepatternscdn  Succeeded               azure-patterns  Active
 
 ```
+At this point we've provisioned the CDN but now need to create an endpoint to
+manage within the CDN.  We'll create an endpoint named azurepatterns and let it
+know we are pointing it at www.azurepatterns.com.  This will create an endpoint
+within the CDN called azurepatterns.azureedge.net
+
+Back at our registrar we will need to create a new CNAME record for our CDN
+endpoint __www.azurepatterns.com__ that points to
+__azurepatterns.azureedge.net__, our CDN endpoint.
+
+Once this is done and propagated we can connect the dots and let our CDN know
+that www.azurepatterns.com is a custom domain that it is managing. 
+
+```terminal
+
+az cdn endpoint create --name azurepatterns --profile-name azurepatternscdn --origin www.azurepatterns.com -g azurepatterns
+
+```
+
+Now all that's left is too make sure we have SSL certificates for our domain
+propagated across the CDN.  For this we are back to our __az cdn__ command and
+we'll use the __enable-https__ subcommand.  One thing that tripped me up when
+first trying the enable-https subcommand is the __-n name__ option.  I was
+expecting the name would be www.azurepatterns.com but it actually turned out to
+be __www__ instead.
+
+```terminal
+>> az cdn custom-domain enable-https --endpoint-name azurepatterns --name www --profile-name azurepatternscdn -g azurepatterns
+```
+This command is not one where you go grab a coffee and when you get back 
+you are all set.  This command will take a few hours to complete since SSL 
+certificates for your domain are being generated and propagated throughout the Verizon network.
 
