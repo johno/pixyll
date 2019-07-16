@@ -73,9 +73,18 @@ the storage account in Azure using the __az__ CLI tool.
 ```terminal
 >> az group create -n azurepatterns -l eastus
 
->> az storage account create -n azurepatterns --custom-domain web.azurepatterns.com -l eastus -g azurepatterns --kind StorageV2
+>> az storage account create --name azurepatterns \
+    --custom-domain web.azurepatterns.com 
+    --location eastus \
+    --resourcegroup azurepatterns \
+    --kind StorageV2
 
->> az storage blob service-properties update --account-name azurepatterns --static-website --404-document error.html --index-document index.html 
+
+>> az storage blob service-properties update \
+    --account-name azurepatterns \
+    --static-website \
+    --404-document error.html \
+    --index-document index.html 
 
 ```
 
@@ -86,8 +95,8 @@ index.html file and an error.html file.  These will be useful for testing as we
 continue to setup our website.  
 
 At this point you might think that you have an accessible website at
-www.azurepatterns.com, at least I did I first time through, but that is was not the case.  Sadly, if you
-visit that URL http://web.azurepatterns.com you'll first be given an error message about the site
+www.azurepatterns.com, at least I did the first time through, but that was sadly not the case.  If you
+visit the URL http://web.azurepatterns.com you'll first be given an error message about the site
 being insecure due to SSL naming issues and then once you've accepted the risk
 you'll be given the following message...
 
@@ -107,11 +116,22 @@ you'll be given the following message...
     <Reason/>
 </Error>
 ```
+My first headscratcher... so after fumbling through loads of bad or incomplete documentation.  I
+finally stumbled across a [bug
+report](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-https-custom-domain-cdn)
+that led me to the
+[solution](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-https-custom-domain-cdn).
+Apparently the URL generated for our web blob container does not allow anonymous
+read access.  That makes sense unfortunately it wasn't obvious and took some
+time to figure out given the unhelpful error message :(
 
 So let's take a look and see what the storage account provides for endpoints.
 
 ```terminal
->> az storage account show -n azurepatterns -o json --query primaryEndpoints
+>> az storage account show --name azurepatterns \
+    --output json \
+    --query primaryEndpoints
+
 {
     "blob": "https://azurepatterns.blob.core.windows.net/",
     "dfs": "https://azurepatterns.dfs.core.windows.net/",
@@ -137,7 +157,9 @@ to create Rules for redirecting requests is the Verizon Premium type.
 
 ```terminal
 
->> az cdn profile create -g azurepatterns -n azurepatternscdn --sku Premium_Verizon
+>> az cdn profile create --resource-group azurepatterns \
+    --name azurepatternscdn \
+    --sku Premium_Verizon
 
 Location    Name              ProvisioningState       ResourceGroup   ResourceState
 -----------------------------------------------------------------------------------
@@ -158,7 +180,17 @@ that www.azurepatterns.com is a custom domain that it is managing.
 
 ```terminal
 
-az cdn endpoint create --name azurepatterns --profile-name azurepatternscdn --origin www.azurepatterns.com -g azurepatterns
+>> az cdn endpoint create --name azurepatterns \
+    --profile-name azurepatternscdn \
+    --origin azurepatterns.z13.web.core.windows.net \
+    --resource-group azurepatterns \
+    --origin-host-header azurepatterns.z13.web.core.windows.net 
+
+>> az cdn custom-domain create --endpoint-name azurepatterns \
+    --hostname www.azurepatterns.com \
+    --name www \
+    --profile-name azurepatternscdn \
+    --resource-group azurepatterns
 
 ```
 
@@ -170,7 +202,9 @@ expecting the name would be www.azurepatterns.com but it actually turned out to
 be __www__ instead.
 
 ```terminal
+
 >> az cdn custom-domain enable-https --endpoint-name azurepatterns --name www --profile-name azurepatternscdn -g azurepatterns
+
 ```
 This command is not one where you go grab a coffee and when you get back 
 you are all set.  This command will take a few hours to complete since SSL 
