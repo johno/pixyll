@@ -2,7 +2,7 @@
   <div class="measure">
     {% if site.author %}
     <figure class="author-image">
-        <a class="img" href="{{ site.baseurl }}" style="background-image: url(/images/profile.png)">
+        <a class="img" href="{{ site.baseurl }}" style="background-image: url(/images/site/profile.png)">
         <span class="hidden">{{site.author}}'s Picture</span></a>
     </figure>
     <section class="author">
@@ -10,11 +10,20 @@
             <!-- Author Name -->
             <h4> {{ site.author }} </h4>
             <!-- Author Bio -->
+            <div class="clearfix"/>
+            <p>
+                {{ site.description }}
+            </p>
         </div>
-        <div class="clearfix"/>
-        <p>
-            {{ site.description }}
-        </p>
+    </section>
+    {% endif %}
+    {% if site.disclaimer %}
+    <section class="copyright">
+        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; 
+              {{"now" | date: "%Y"}} &bull; All rights reserved.
+    </section>
+    <section class="disclaimer"> 
+        {{site.disclaimer}}
     </section>
     {% endif %}
   </div>

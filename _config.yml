@@ -3,9 +3,14 @@ title:       Imperfect Today
 email:       emcconne@imperfect.today
 author:      Brent McConnell
 description: |
- is an open source enthusiast who has worked for software companies his entire career.
+ Is an open source enthusiast who has worked for software companies his entire career.
  Currently he is a Cloud Solution Architect for Microsoft and helps companies adopt Azure 
- and DevOps practices.  
+ and DevOps practices.  Here he has random thoughts and advice on various
+ technical topics and maybe other things too :) 
+
+disclaimer: |
+ None of the ideas expressed on this website are supported
+ or endorsed in any manner by my employer.  
 baseurl:     ""
 url:         "http://imperfect.today"
 date_format: "%b %-d, %Y"

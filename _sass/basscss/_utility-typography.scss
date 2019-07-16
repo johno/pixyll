@@ -36,3 +36,61 @@
 .nowrap {
   white-space: nowrap;
 }
+/* ==========================================================================
+   Alignment
+   ========================================================================== */
+
+   .align-baseline { vertical-align: baseline !important; } /* Browser default */
+   .align-top { vertical-align: top !important; }
+   .align-middle { vertical-align: middle !important; }
+   .align-bottom { vertical-align: bottom !important; }
+   .align-text-bottom { vertical-align: text-bottom !important; }
+   .align-text-top { vertical-align: text-top !important; }
+   
+   /*
+      Image Alignment
+      ========================================================================== */
+   
+   .align-center,
+   div.align-center,
+   a img.align-center {
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+   }
+   
+   figure.align-center {
+   
+     img {
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
+     }
+   
+     figcaption {
+       text-align: center;
+     }
+   }
+   
+   .align-right,
+   a img.align-right {
+     margin-bottom: 1rem;
+     margin-left: 1rem;
+     float: right;
+   }
+   
+   .align-left,
+   a img.align-left {
+     margin-right: 1rem;
+     margin-bottom: 1rem;
+     float: left;
+   }
+
+   .shadow {
+      //box-shadow: $box-shadow 2px 2px 2px 2px;
+      box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+   }
+
+   .outline {
+       border: 1px solid #ddd;
+   }

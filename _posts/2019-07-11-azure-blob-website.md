@@ -7,20 +7,21 @@ summary: |
  domain name for a few cents a month.  In this article we will also look at how to setup
  https for the website and redirect base domain name requests to index.hml.
  Seems like a piece of cake... until you actually try it in Azure.
-categories: azure storage website
+tags: azure storage website
 ---
 
 ## Problem
 How do you create a website using Azure Blob Storage and link it to a custom
-domain name.  Additionally, the website should redirect http to https
+domain name using https.  Additionally, the website should redirect http to https
 and example.com to www.example.com.  It should also render index.html by
 default.  
 
 All these things seem very basic but as it turned out was not all that
 straightforward.  Hopefully this post can help others who are struggling with
-the same use cases.
+the same use cases.  And if your *TL;DR* then you can skip to the [Happy
+Ending](#ending).
 
-## HowTo
+## Solution 
 
 ### Part 1 - Getting the Basic Website Configuration Setup
 The first thing we need to do is secure the domain name we want to use with
@@ -156,7 +157,6 @@ are multiple types of CDNs you can use in Azure but the only one that allows us
 to create Rules for redirecting requests is the Verizon Premium type.
 
 ```terminal
-
 >> az cdn profile create --resource-group azurepatterns \
     --name azurepatternscdn \
     --sku Premium_Verizon
@@ -179,7 +179,6 @@ Once this is done and propagated we can connect the dots and let our CDN know
 that www.azurepatterns.com is a custom domain that it is managing. 
 
 ```terminal
-
 >> az cdn endpoint create --name azurepatterns \
     --profile-name azurepatternscdn \
     --origin azurepatterns.z13.web.core.windows.net \
@@ -202,11 +201,45 @@ expecting the name would be www.azurepatterns.com but it actually turned out to
 be __www__ instead.
 
 ```terminal
-
->> az cdn custom-domain enable-https --endpoint-name azurepatterns --name www --profile-name azurepatternscdn -g azurepatterns
+>> az cdn custom-domain enable-https \
+    --endpoint-name azurepatterns \
+    --name www \
+    --profile-name azurepatternscdn 
+    --resource-group azurepatterns
 
 ```
-This command is not one where you go grab a coffee and when you get back 
-you are all set.  This command will take a few hours to complete since SSL 
-certificates for your domain are being generated and propagated throughout the Verizon network.
+__NOTE:__  This last command is not one where you go grab a coffee and when you
+get back you are all set.  This command will take up to 8 hours to complete
+since SSL certificates for your domain are being generated, the domain name is
+being verified and then the content and configuration is being propagated
+throughout the Verizon network.
+
+We are 90% there and have completed all that we can do from the command line to
+get our site up and running.  At this point you should have a working site at
+https://www.yourdomain.com, however we still need to connect yourdomain.com to
+www.yourdomain.com and redirect traffic from http://www.yourdomain.com to
+https://www.yourdomain.com.  
+
+Setting up yourdomain.com to point to www.yourdomain.com is a DNS registrar
+task, so I will leave that one to you but getting the redirect from http to
+https is actually a feature of the Verizon Premium CDN.  So if you were
+wondering why we used that particular CDN now you know.  The other CDNs in Azure
+don't have a Rules engine that you can tinker with for redirections.  However,
+this point is already too long so we'll tackle that next bit in a seperate post.
+
+## Happy Ending!!<a name="ending"></a>
+
+For everyone who doesn't want to walk through these instructions to create a
+website in Azure... and who could blame you.  I've written a [Bash
+script](https://raw.githubusercontent.com/msft-csu/azure-scripts/master/paas/az-create-website) that
+will do it for you :).  You'll need a few things:
+* Existing Storage Account and Resource Group 
+* Privileges to modify the Storage Account as well as setup a CDN
+* Azure CLI installed and logged into a valid subscription
+* Environment variable named AZURE_AUTH_LOCATION pointing to a file created with
+  __ad sp create-for-rbac --sdk-auth > authfile__
+* Machine with __jq__ and __curl__ installed
+* DNS records created at the registrar of your choosing for
+    * __web__.domain.com -> \<storageacct_name>.blob.core.windows.net
+    * __www__.domain.com -> \<storageacct_name>.azureedge.net
 
