@@ -210,8 +210,7 @@ be __www__ instead.
 __NOTE:__  This last command is not one where you go grab a coffee and when you
 get back you are all set.  This command will take up to 8 hours to complete
 since SSL certificates for your domain are being generated, the domain name is
-being verified and then the content and configuration is being propagated
-throughout the Verizon network.
+being verified and then the content and configuration is being propagated throughout the Verizon network. In fact I would wait a good 12-16 hoursbecause even after Azure reports that the certs are deployed it can still take a few hours before they are really available.
 
 We are 90% there and have completed all that we can do from the command line to
 get our site up and running.  At this point you should have a working site at
