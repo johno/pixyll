@@ -1,6 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg id="master-artboard" viewBox="0 0 1400 980" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 1400 980;" width="1400px" height="980px"><defs><style id="ee-google-fonts">@import url(https://fonts.googleapis.com/css?family=Abril+Fatface:400);</style></defs><g transform="matrix(2.027214527130127, 0, 0, 2.027214527130127, -874.1203656128134, 220.36477018429562)"><g id="Layer_2" transform="matrix(1, 0, 0, 1, 0, 0)">
-	<g id="Layer_1-2">
-		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(51, 51, 51); stroke: rgb(255, 185, 0); fill-opacity: 0; stroke-width: 9;"/>
-	</g>
-</g></g><path d="M 3.4000000953674316 -64.81555938720703 L 44.90999984741211 -64.81555938720703 L 44.90999984741211 -62.225555419921875 L 37.41999816894531 -62.225555419921875 L 37.41999816894531 27.854442596435547 L 44.90999984741211 27.854442596435547 L 44.90999984741211 30.444442749023438 L 3.4000000953674316 30.444442749023438 L 3.4000000953674316 27.854442596435547 L 10.890000343322754 27.854442596435547 L 10.890000343322754 -62.225555419921875 L 3.4000000953674316 -62.225555419921875 L 3.4000000953674316 -64.81555938720703 Z" transform="matrix(1.0288130044937134, 0, 0, 1.0288130044937134, 376.42041015625, 436.4991149902344)" style="fill: rgb(126, 171, 72); white-space: pre; color: rgb(248, 248, 248);"/><foreignObject class="multi-line-input__container" transform="matrix(1.0288130044937134, 0, 0, 1.0288130044937134, 698.0263685452493, 438.66875525523915)" x="0" y="-114" height="184" width="48"><div xmlns="http://www.w3.org/1999/xhtml" class="multi-line-input" style="font-size: 136.079px; fill: rgb(248, 248, 248); white-space: pre; font-family: 'Abril Fatface'; color: rgb(248, 248, 248); display: inline-block;"></div></foreignObject><foreignObject class="multi-line-input__container" x="449.1917724609375" y="162" height="32" width="224"><div xmlns="http://www.w3.org/1999/xhtml" class="multi-line-input" style="font-size: 24px; font-family: 'Open Sans', sans-serif; fill: rgb(51, 51, 51); white-space: pre; color: rgb(51, 51, 51); display: inline-block;"></div></foreignObject><foreignObject class="multi-line-input__container" transform="matrix(1.0288127717517672, 0, 0, 1.0288127717517672, 151.82585389273507, 45.585105895996094)" x="0" y="-14" height="56" width="206"><div xmlns="http://www.w3.org/1999/xhtml" class="multi-line-input" style="font-size: 42px; fill: rgb(51, 51, 51); white-space: pre; font-family: 'Abril Fatface'; color: rgb(51, 51, 51); display: inline-block;"></div></foreignObject><path d="M 86.55000305175781 36.18444061279297 L 87.91000366210938 70.34444427490234 L 85.31999969482422 70.34444427490234 C 81.32666778564453 58.27777862548828 77.79000091552734 50.04444122314453 74.70999908447266 45.644439697265625 C 71.62333679199219 41.24444580078125 67.17666625976562 39.04444122314453 61.369998931884766 39.04444122314453 L 59.7400016784668 39.04444122314453 L 59.7400016784668 128.58444213867188 L 71.30999755859375 128.58444213867188 L 71.30999755859375 131.44444274902344 L 21.639999389648438 131.44444274902344 L 21.639999389648438 128.58444213867188 L 33.20000076293945 128.58444213867188 L 33.20000076293945 39.04444122314453 L 31.43000030517578 39.04444122314453 C 25.6299991607666 39.04444122314453 21.139999389648438 41.334442138671875 17.959999084472656 45.91444396972656 C 14.786666870117188 50.50110626220703 11.293333053588867 58.644439697265625 7.480000019073486 70.34444427490234 L 4.900000095367432 70.34444427490234 L 6.260000228881836 36.18444061279297 L 86.55000305175781 36.18444061279297 Z" transform="matrix(0.8368399143218994, -0.5984916090965271, 0.5984916090965271, 0.8368399143218994, 389.0210876464844, 375.6662902832031)" style="fill: rgb(242, 80, 34); white-space: pre; color: rgb(242, 80, 34);"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="master-artboard"
+   viewBox="0 0 250 250"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="250"
+   height="250"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     id="namedview3872"
+     showgrid="false"
+     inkscape:zoom="0.69795918"
+     inkscape:cx="528.07018"
+     inkscape:cy="260.76023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="master-artboard" />
+  <defs
+     id="defs3859">
+    <style
+       id="ee-google-fonts">@import url(https://fonts.googleapis.com/css?family=Abril+Fatface:400);</style>
+  </defs>
+  <g
+     transform="matrix(2.0272145,0,0,2.0272145,-1195.056,-69.781429)"
+     id="g3865">
+    <g
+       id="Layer_2">
+      <g
+         id="Layer_1-2">
+        <path
+           class="st0"
+           d="m 652,46 c 27.6,0 50,22.4 50,50 0,27.6 -22.4,50 -50,50 -27.6,0 -50,-22.4 -50,-50 0,-27.6 22.4,-50 50,-50 z"
+           style="fill:#333333;fill-opacity:0;stroke:#ffb900;stroke-width:9"
+           id="path3861"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <path
+     d="m 58.982697,79.669821 h 42.706033 v 2.66463 h -7.705813 v 92.675469 h 7.705813 v 2.66463 H 58.982697 v -2.66463 h 7.70581 V 82.334451 h -7.70581 z"
+     style="color:#f8f8f8;white-space:pre;fill:#7eab48;stroke-width:1.028813"
+     id="path3867"
+     inkscape:connector-curvature="0" />
+  <foreignObject
+     class="multi-line-input__container"
+     transform="matrix(1.0288130044937134, 0, 0, 1.0288130044937134, 698.0263685452493, 438.66875525523915)"
+     x="0"
+     y="-114"
+     height="184"
+     width="48">
+    <xhtml:div
+       class="multi-line-input"
+       style="font-size: 136.079px; fill: rgb(248, 248, 248); white-space: pre; font-family: 'Abril Fatface'; color: rgb(248, 248, 248); display: inline-block;" />
+  </foreignObject>
+  <foreignObject
+     class="multi-line-input__container"
+     x="449.1917724609375"
+     y="162"
+     height="32"
+     width="224">
+    <xhtml:div
+       class="multi-line-input"
+       style="font-size: 24px; font-family: 'Open Sans', sans-serif; fill: rgb(51, 51, 51); white-space: pre; color: rgb(51, 51, 51); display: inline-block;" />
+  </foreignObject>
+  <foreignObject
+     class="multi-line-input__container"
+     transform="matrix(1.0288127717517672, 0, 0, 1.0288127717517672, 151.82585389273507, 45.585105895996094)"
+     x="0"
+     y="-14"
+     height="56"
+     width="206">
+    <xhtml:div
+       class="multi-line-input"
+       style="font-size: 42px; fill: rgb(51, 51, 51); white-space: pre; font-family: 'Abril Fatface'; color: rgb(51, 51, 51); display: inline-block;" />
+  </foreignObject>
+  <path
+     d="m 162.17,64.001221 21.58258,27.77251 -2.16742,1.55009 c -10.56358,-7.70789 -18.45078,-12.48121 -23.66162,-14.31995 -5.2164,-1.83475 -10.25423,-1.0145 -15.11349,2.46074 l -1.36404,0.97554 53.58894,74.930639 9.68223,-6.92454 1.71169,2.39336 -41.56584,29.72708 -1.71169,-2.39337 9.67387,-6.91856 -53.58893,-74.930649 -1.48121,1.05934 c -4.85367,3.471249 -7.24054,8.074839 -7.1606,13.810769 0.0895,5.73751 2.03987,14.64291 5.85107,26.71619 l -2.15904,1.54411 -19.306383,-29.4004 z"
+     style="color:#f25022;white-space:pre;fill:#f25022;stroke-width:1.02883101"
+     id="path3869"
+     inkscape:connector-curvature="0" />
+</svg>

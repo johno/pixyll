@@ -41,10 +41,10 @@ footer {
   height: 120px;
   border-radius: 100%;
   overflow: hidden;
-  padding: 6px;
+  padding: 10px;
   background: $white;
   z-index: 2;
-  box-shadow: $box-shadow 0 0 0 1px;
+  box-shadow: $box-shadow 0 0 0 2px;
 }
 
 .author-image .img {
@@ -58,7 +58,8 @@ footer {
 }
 
 .author-info h4 {
-  font-size: $h3
+  font-size: $h3;
+  color: $blue;
 }
 
 .author-info p {
