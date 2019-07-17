@@ -59,6 +59,8 @@ footer {
 
 .author-info h4 {
   font-size: $h3;
+  font-family: $title-font-family;
+  letter-spacing: 3px;
   color: $blue;
 }
 
@@ -66,6 +68,12 @@ footer {
     font-size: $h6;
 }
 
+.copyright {
+  font-size: $h7;
+  color: $light-gray
+}
+
 .disclaimer {
   font-size: $h7;
+  color: $light-gray
 }

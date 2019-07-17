@@ -21,8 +21,9 @@
   }
 
   .site-header .site-title {
-    font-size: $h1-title;
-    float: left;
+    font-size: $h0;
+    //float: left;
+    font-family: $title-font-family;
   }
 
   .site-header .site-nav {

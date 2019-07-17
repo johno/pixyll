@@ -2,6 +2,10 @@
   <div class="mt2 wrap">
     <div class="measure">
       <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <div class="clearfix"></div>
+      {% if site.subtitle %}
+      <div class="subtitle">{{ site.subtitle }}</div>
+      {% endif %}
       <!-- Commented out by Brent because I don't want any links at top
       <nav class="site-nav">
         {% include navigation.html %}

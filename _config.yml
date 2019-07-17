@@ -1,12 +1,13 @@
 # Site settings
 title:       Imperfect Today
+subtitle:    -- Life with my head in the clouds --
 email:       emcconne@imperfect.today
 author:      Brent McConnell
 description: |
- Is a mostly boring Cloud Solution Architect working for Microsoft and hoping they will one 
- day give me a Mac instead of a Windows laptop :).  Before that day comes I'll try my best
+ Is a Cloud Solution Architect working for Microsoft who is hoping they will one 
+ day give him a Mac instead of a Windows laptop :).  Before that day comes he'll try his best
  to help out on this and that related to technology and maybe other things as they cross 
- my mind.
+ his mind
 
 disclaimer: |
  None of the ideas expressed on this website are supported
@@ -34,7 +35,7 @@ show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: false
-extended_fonts: false
+extended_fonts: true
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false

@@ -1,6 +1,8 @@
 .site-header {
-  padding-top: $space-1;
-  padding-bottom: $space-2;
+  padding-top: $space-2;
+  //padding-bottom: $space-2;
+  background-color: $header-bg-color;
+  border-bottom: 1px solid $light-gray;
 }
 
 .site-header a {
@@ -12,7 +14,18 @@
 }
 
 .site-header .site-title {
-  font-size: $h1;
+  font-size: $h0;
+  font-family: $title-font-family;
+  letter-spacing: 2px;
+  //line-height: 3rem;
+}
+
+.site-header .subtitle {
+  font-family: $subtitle-font-family;
+  font-size: $h3;
+  //text-align: left;
+  color:$title-color;
+  padding-bottom: 1.5rem;
 }
 
 .site-nav {
