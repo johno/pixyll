@@ -1,24 +1,16 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
-      <div class="clearfix"></div>
-      {% if site.subtitle %}
+      <div class="title">
+          <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+          {% if site.subtitle %}
+          {% endif %}
+      </div>
       <div class="subtitle">{{ site.subtitle }}</div>
-      {% endif %}
-      <!-- Commented out by Brent because I don't want any links at top
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      -->
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
+      <figure class="looking-image">
+        <div class="img" href="{{ site.baseurl }}" style="background-image: url(/images/site/looking11.svg)"/>
+      </figure>
     </div>
   </div>
-  <figure class="looking-image">
-    <a class="img" href="{{ site.baseurl }}" style="background-image: url(/images/site/looking.svg)">
-    <span class="hidden">{{site.author}}'s Picture</span></a>
-  </figure>
 </header>
+<div class="clearfix"></div>

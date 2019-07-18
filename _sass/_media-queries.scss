@@ -1,6 +1,28 @@
+//This happens on the small screen
+@media screen and (max-width: $viewport-small ) { 
+  .looking-image {
+      display:none;
+  }
+}
+
+
+@media screen and (max-width: $viewport-small) {
+
+  .site-header .site-title {
+      float: none;
+   }
+
+  .site-header .subtitle {
+      float: none;
+   }
+
+}
+
+// This happens on a normal screen
 @media screen and (min-width: $viewport-small) {
+
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   h1,
@@ -9,7 +31,7 @@
   }
 
   .site-header {
- //   text-align: left;
+    text-align: left;
   }
 
   .site-nav {
@@ -28,7 +50,7 @@
 
   .site-header .site-nav {
     float: right;
-    margin-top: .25rem;
+//    margin-top: .25rem;
   }
 
   blockquote {
@@ -47,13 +69,13 @@
 
 @media screen and (min-width: $viewport-medium) {
   html {
-    font-size: 18px;
+    //font-size: 18px;
   }
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
-    font-size: 20px;
+    //font-size: 20px;
   }
 }
 
