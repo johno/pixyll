@@ -64,7 +64,7 @@ steps:
         jekyll build
     echo ""
     echo "Output"
-    ls -la
+    ls -la _site
 
 
 # Copy Website to Storage Acct# Copy Website to Storage Acct
