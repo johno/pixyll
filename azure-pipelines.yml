@@ -84,7 +84,7 @@ steps:
 - task: AzureFileCopy@3
   inputs:
     sourcePath: _site
-    azureSubscription: python-saml-app
+    azureSubscription: imperfect
     destination: AzureBlob
     storage: azurepatterns
     containerName: $web 
