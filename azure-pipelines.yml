@@ -53,12 +53,13 @@ steps:
 - script: |
     ls -la 
     echo ""
+    touch Gemfile.lock
     chmod a+w Gemfile.lock
     echo "Docker Run"
     docker run --rm \
         --volume="$PWD:/srv/jekyll" \
         --volume="$PWD/vendor/bundle:/usr/local/bundle" \
-        -i jekyll/builder:3.8 
+        -i jekyll/builder:3.8 \
         jekyll build
     echo ""
     echo "Output"
