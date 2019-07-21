@@ -51,10 +51,11 @@ steps:
 
 # Build Jekyll Website
 - script: |
-    ls -la 
-    echo ""
+    mkdir _site
     touch Gemfile.lock
     chmod a+w Gemfile.lock
+    echo ""
+    ls -la 
     echo "Docker Run"
     docker run --rm \
         --volume="$PWD:/srv/jekyll" \
