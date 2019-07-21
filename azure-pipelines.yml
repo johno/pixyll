@@ -67,41 +67,18 @@ steps:
     ls -la _site
 
 
-# Copy Website to Storage Acct# Copy Website to Storage Acct
-# Azure CLI
-# Publish website to ACI
-#- task: AzureCLI@1
-#  inputs:
-#    azureSubscription: python-saml-app
-#    scriptLocation: inlineScript
-#    inlineScript: |
-#      echo "Running az script."
-#      az container create -n saml-flask -g python-saml-app --image emcconne/saml-flask:$(setVar.commitHash) --ports 5000 --dns-name-label saml-flask 
-#  displayName: Copy to website
-
-# Azure file copy
-# Copy files to Azure Blob Storage or virtual machines
-- task: AzureFileCopy@3
+ Copy Website to Storage Acct# Copy Website to Storage Acct
+ Azure CLI
+ Publish website to ACI
+- task: AzureCLI@1
   inputs:
-    sourcePath: _site
     azureSubscription: imperfect
-    destination: AzureBlob
-    storage: azurepatterns
-    containerName: $web 
-    #blobPrefix: # Optional
-    resourceGroup: # azurepatterns
-    #resourceFilteringMethod: 'machineNames' # Optional. Options: machineNames, tags
-    #machineNames: # Optional
-    #vmsAdminUserName: # Required when destination == AzureVMs
-    #vmsAdminPassword: # Required when destination == AzureVMs
-    #targetPath: # Required when destination == AzureVMs
-    #additionalArgumentsForBlobCopy: # Optional
-    #additionalArgumentsForVMCopy: # Optional
-    #enableCopyPrerequisites: false # Optional
-    #copyFilesInParallel: true # Optional
-    #cleanTargetBeforeCopy: false # Optional
-    #skipCACheck: true # Optional
-    #outputStorageUri: # Optional
-    #outputStorageContainerSasToken: # Optional
-    #sasTokenTimeOutInMinutes: # Optional
+    scriptLocation: inlineScript
+    inlineScript: |
+      echo "Running az script."
+      az storage blob upload-batch \
+      --destination "$web" \
+      --account-name "azurepatterns" \
+      --source "_site"
+  displayName: Copy to website
 
