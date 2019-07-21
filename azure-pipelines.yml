@@ -51,7 +51,7 @@ steps:
 
 # Build Jekyll Website
 - script: |
-    docker run --rm --volume="$PWD:/srv/jekyll" -i $(imageName):$(jekyllVersion) jekyll build
+    docker run --rm --volume="$PWD:/srv/jekyll" -i jekyll/builder:3.8 jekyll build
 
 # Copy Website to Storage Acct# Copy Website to Storage Acct
 #- script: |
