@@ -51,7 +51,19 @@ steps:
 
 # Build Jekyll Website
 - script: |
-    docker run --rm --volume="$PWD:/srv/jekyll" -i jekyll/builder:3.8 jekyll build
+    ls -la 
+    echo ""
+    chmod a+w Gemfile.lock
+    echo "Docker Run"
+    docker run --rm \
+        --volume="$PWD:/srv/jekyll" \
+        --volume="$PWD/vendor/bundle:/usr/local/bundle" \
+        -i jekyll/builder:3.8 
+        jekyll build
+    echo ""
+    echo "Output"
+    ls -la
+
 
 # Copy Website to Storage Acct# Copy Website to Storage Acct
 #- script: |
