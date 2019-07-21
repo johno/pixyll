@@ -77,7 +77,7 @@ steps:
     inlineScript: |
       echo "Running az script."
       az storage blob upload-batch \
-      --destination "$web" \
+      --destination \$web \
       --account-name "azurepatterns" \
       --source "_site"
   displayName: Copy to website
