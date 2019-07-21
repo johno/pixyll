@@ -3,18 +3,23 @@
   .looking-image {
       display:none;
   }
-}
-
-
-@media screen and (max-width: $viewport-small) {
 
   .site-header .site-title {
       float: none;
+      letter-spacing: 0px;
    }
 
   .site-header .subtitle {
       float: none;
    }
+
+   .measure {
+      padding-left: 0rem; 
+   }
+
+   html {
+       font-size:14px;
+  }
 
 }
 
@@ -32,6 +37,10 @@
 
   .site-header {
     text-align: left;
+  }
+   
+  .measure {
+      padding-left: 1rem; 
   }
 
   .site-nav {
@@ -54,8 +63,8 @@
   }
 
   blockquote {
-    margin-left: $space-3;
-    padding: $space-3;
+    //margin-left: $space-3;
+    //padding: $space-3;
   }
 
   .social-icons-left {

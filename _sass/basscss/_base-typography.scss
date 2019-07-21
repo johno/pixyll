@@ -52,17 +52,15 @@ hr {
 }
 
 blockquote {
-  margin-top: $space-3;
-  margin-bottom: $space-3;
-  margin-left: 0;
-  padding-left: $space-2;
-  padding-right: $space-2;
+  margin-left: .5rem;
+  padding-left: .5rem;
 }
 
 blockquote,
 blockquote p {
-  font-size: $h3;
-  font-style: italic;
+  font-size: 14px;
+  font-family: $monospace-font-family;
+  //font-style: italic;
 }
 
 h1,
