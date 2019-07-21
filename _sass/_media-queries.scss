@@ -1,15 +1,27 @@
 //This happens on the small screen
 @media screen and (max-width: $viewport-small ) { 
   .looking-image {
-      display:none;
+      //display:none;
+      position: relative;
+      margin:auto;
+      width: 115px;
+      height: 100px;
+      left: 0px;
+      top: 25px;
+  }
+
+  .looking-image .img {
+      background-repeat: no-repeat;
   }
 
   .site-header .site-title {
       float: none;
       letter-spacing: 0px;
+      font-size: 2rem;
    }
 
   .site-header .subtitle {
+      font-size: 1rem;
       float: none;
    }
 

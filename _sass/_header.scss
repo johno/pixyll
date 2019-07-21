@@ -21,7 +21,7 @@
 .site-header .site-title {
   font-size: $h0;
   font-family: $title-font-family;
-  letter-spacing: 2px;
+  //letter-spacing: 2px;
   //line-height: 3rem;
   //float: left;
 }
@@ -33,6 +33,7 @@
   color:$title-color;
   //padding-bottom: 1.5rem;
   //float: left;
+  letter-spacing:-1px;
 }
 
 .site-nav {

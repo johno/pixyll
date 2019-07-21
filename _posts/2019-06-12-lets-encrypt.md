@@ -2,6 +2,9 @@
 layout: post
 title: How To Generate a Let's Encrypt Certificate
 date: 2019-06-12
+summary: |
+ Let's Encrypt a certificate for our website using the command line
+ and some timely entries at our DNS registrar
 tags: azure website cdn certificate cert ssl
 ---
 In this episode of Imperfect Today we're going to create our own certificate

@@ -2,6 +2,9 @@
 layout: post
 title: Installing a Custom Certificate in Azure CDN 
 date: 2019-06-13
+summary: |
+ How to install your own certificate into an Azure CDN using "mostly" command
+ line tools
 tags: azure website cdn certificate cert ssl
 ---
 Today we are going to look at what it takes to install a custom certificate in

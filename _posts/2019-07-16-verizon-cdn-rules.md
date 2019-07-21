@@ -3,6 +3,9 @@ layout: post
 title: Verizon Premium CDN Rules for Redirects 
 date: 2019-07-15
 image: /images/2019-07-15-verizon-cdn-rules/error.png
+summary: |
+ Part 2 of a post series that sets up some redirect rules using the
+ Verizon Premium CDN
 tags: azure website cdn
 ---
 In [Part 1]({% post_url 2019-07-11-azure-blob-website %}) of this post we setup
