@@ -67,9 +67,9 @@ steps:
     ls -la _site
 
 
- Copy Website to Storage Acct# Copy Website to Storage Acct
- Azure CLI
- Publish website to ACI
+# Copy Website to Storage Acct# Copy Website to Storage Acct
+# Azure CLI
+# Publish website to ACI
 - task: AzureCLI@1
   inputs:
     azureSubscription: imperfect
