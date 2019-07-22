@@ -80,13 +80,20 @@ steps:
         --destination \$web \
         --account-name "azurepatterns" \
         --source "_site"
+    displayName: Copy data to storage acct
 
-      #Purge CDN to update content
-      echo "Purging cdn content"
-      az cdn endpoint purge \
+
+#Purge CDN to update content
+- task: AzureCLI@1
+  inputs:
+    azureSubscription: imperfect
+    scriptLocation: inlineScript
+    inlineScript: |
+       echo "Purging cdn content"
+       az cdn endpoint purge \
         --name azurepatterns \
         --profile-name azurepatternscdn \
         --resource-group azurepatterns \
         --content-paths '/*'
-  displayName: Copy data to website and purge CDN
+  displayName: purge CDN contents
 
