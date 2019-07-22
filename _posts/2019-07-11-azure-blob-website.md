@@ -119,7 +119,7 @@ you'll be given the following message...
     <Reason/>
 </Error>
 ```
-My first headscratcher... so after fumbling through loads of bad or incomplete documentation.  I
+My first headscratcher... so after fumbling through loads of documentation.  I
 finally stumbled across a [bug
 report](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-https-custom-domain-cdn)
 that led me to the
@@ -169,8 +169,8 @@ EastUs      azurepatternscdn  Succeeded               azure-patterns  Active
 
 ```
 At this point we've provisioned the CDN but now need to create an endpoint to
-manage within the CDN.  We'll create an endpoint named azurepatterns and let it
-know we are pointing it at www.azurepatterns.com.  This will create an endpoint
+manage within the CDN.  We'll create an endpoint named __azurepatterns__ and let it
+know we are pointing it at *www.azurepatterns.com*.  This will create an endpoint
 within the CDN called azurepatterns.azureedge.net
 
 Back at our registrar we will need to create a new CNAME record for our CDN
@@ -213,7 +213,10 @@ be __www__ instead.
 __NOTE:__  This last command is not one where you go grab a coffee and when you
 get back you are all set.  This command will take up to 8 hours to complete
 since SSL certificates for your domain are being generated, the domain name is
-being verified and then the content and configuration is being propagated throughout the Verizon network. In fact I would wait a good 12-16 hoursbecause even after Azure reports that the certs are deployed it can still take a few hours before they are really available.
+being verified and then the content and configuration are being propagated
+throughout the Verizon network. In fact I would wait a good 12-16 hours because
+even after Azure reports that the certs are deployed it can still take a few
+hours before they are really available and working in a browser.
 
 We are 90% there and have completed all that we can do from the command line to
 get our site up and running.  At this point you should have a working site at
@@ -231,7 +234,7 @@ this point is already too long so we'll tackle that next bit in a seperate post.
 ## Happy Ending!!<a name="ending"></a>
 
 For everyone who doesn't want to walk through these instructions to create a
-website in Azure... and who could blame you.  I've written a [Bash
+website... and who could blame you.  I've written a [Bash
 script](https://raw.githubusercontent.com/msft-csu/azure-scripts/master/paas/az-create-website) that
 will do it for you :).  You'll need a few things:
 * Existing Storage Account and Resource Group 
