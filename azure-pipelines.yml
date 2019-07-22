@@ -90,7 +90,8 @@ steps:
         --organization "https://dev.azure.com/brmcconn/" \
         --feed "www-imperfect" \
         --name "www" \
-        --version "$(setVar.commitHash)" \ --description "Changes to website" \
+        --version "$(setVar.commitHash)" \ 
+        --description "Changes to website" \
         --path "_site" 
    
 #Purge CDN to update content
