@@ -71,6 +71,7 @@ steps:
 # Azure CLI
 # Publish website to ACI
 - task: AzureCLI@1
+  displayName: Copy data to storage acct
   inputs:
     azureSubscription: imperfect
     scriptLocation: inlineScript
@@ -84,13 +85,12 @@ steps:
         --organization "https://dev.azure.com/brmcconn/" \
         --feed "www-imperfect" \
         --name "www" \
-        --version "$(setVar.commitHash)" \
-        --description "Changes to website" \
+        --version "$(setVar.commitHash)" \ --description "Changes to website" \
         --path "_site" 
-     displayName: Copy data to storage acct
    
 #Purge CDN to update content
 - task: AzureCLI@1
+  displayName: purge CDN contents
   inputs:
     azureSubscription: imperfect
     scriptLocation: inlineScript
@@ -101,5 +101,4 @@ steps:
         --profile-name azurepatternscdn \
         --resource-group azurepatterns \
         --content-paths '/*'
-  displayName: purge CDN contents
 
