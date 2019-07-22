@@ -77,8 +77,15 @@ steps:
     inlineScript: |
       echo "Running az script."
       az storage blob upload-batch \
-      --destination \$web \
-      --account-name "azurepatterns" \
-      --source "_site"
+        --destination \$web \
+        --account-name "azurepatterns" \
+        --source "_site"
+
+      #Purge CDN to update content
+      az cdn endpoint purge \
+        --name azurepatterns \
+        --profile-name azurepatternscdn \
+        --resource-group azurepatterns \
+        --content-paths '/*'
   displayName: Copy to website
 
