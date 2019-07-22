@@ -80,9 +80,15 @@ steps:
         --destination \$web \
         --account-name "azurepatterns" \
         --source "_site"
-    displayName: Copy data to storage acct
-
-
+      az artifacts universal publish \
+        --organization "https://dev.azure.com/brmcconn/" \
+        --feed "www-imperfect" \
+        --name "www" \
+        --version "$(setVar.commitHash)" \
+        --description "Changes to website" \
+        --path "_site" 
+     displayName: Copy data to storage acct
+   
 #Purge CDN to update content
 - task: AzureCLI@1
   inputs:
