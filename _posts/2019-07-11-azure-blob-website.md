@@ -10,7 +10,7 @@ tags: azure storage website
 Use Azure Storage and Verizon CDN to create a custom website using your own 
 domain name for a few cents a month.  In this article we will also look at how to setup
 https for the website and redirect domain name requests to index.html.
-Seems like a piece of cake... until you actually try it in Azure.
+Seems like a piece of cake... until you actually try it.
 
 ## Problem
 How do you create a website using Azure Blob Storage and link it to a custom

@@ -143,7 +143,7 @@ application/x-pkcs12  NQIQaQIBAzCCEC8GCSqGSIb3DQEHAaCCECAEghAcMIIQGDCCCs8GCSqGSI
 ```
 
 Now the really bad news.  At this point we can't continue any longer with the
-__az__ CLI.  As of __az 2.0.67__ the CLI doesn't support the
+__az__ CLI.  As of __az version 2.0.67__ the CLI doesn't support the
 necessary parameters to attach our certificate to our domain... errrr!  There
 are solutions, however.  You have 2 options at this point:
 * Login to the Azure Portal and enable the certificate in the UI
