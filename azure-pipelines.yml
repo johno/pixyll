@@ -91,8 +91,7 @@ steps:
         --organization "https://dev.azure.com/brmcconn/" \
         --feed "www-imperfect" \
         --name "www" \
-        --version "$(setVar.version)" \ 
-        --description "Changes to website"
+        --version "$(setVar.version)" 
    
 #Purge CDN to update content
 - task: AzureCLI@1
