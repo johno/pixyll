@@ -82,10 +82,11 @@ steps:
         --source "_site"
 
       #Purge CDN to update content
+      echo "Purging cdn content"
       az cdn endpoint purge \
         --name azurepatterns \
         --profile-name azurepatternscdn \
         --resource-group azurepatterns \
         --content-paths '/*'
-  displayName: Copy to website
+  displayName: Copy data to website and purge CDN
 
