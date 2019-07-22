@@ -87,12 +87,12 @@ steps:
 
       echo "Publish artifacts to repo"
       az artifacts universal publish \
-        --path "_site" 
+        --path "_site" \
         --organization "https://dev.azure.com/brmcconn/" \
         --feed "www-imperfect" \
         --name "www" \
         --version "$(setVar.version)" \ 
-        --description "Changes to website" \
+        --description "Changes to website"
    
 #Purge CDN to update content
 - task: AzureCLI@1
