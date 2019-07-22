@@ -86,12 +86,7 @@ steps:
       az extension add --name azure-devops
 
       echo "Publish artifacts to repo"
-      az artifacts universal publish \
-        --path "_site" \
-        --organization "https://dev.azure.com/brmcconn/" \
-        --feed "www-imperfect" \
-        --name "www" \
-        --version "$(setVar.version)" 
+      az artifacts universal publish --path "_site" --organization "https://dev.azure.com/brmcconn/" --feed "www-imperfect" --name "www" --version "0.0.1" 
    
 #Purge CDN to update content
 - task: AzureCLI@1
