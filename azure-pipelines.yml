@@ -82,16 +82,22 @@ steps:
         --account-name "azurepatterns" \
         --source "_site"
 
-        #echo "Add Azure-Devops Extension"
-        #az extension add --name azure-devops
-
-        #echo "Publish artifacts to repo"
-        #az artifacts universal publish --path "_site" --organization "https://dev.azure.com/brmcconn/" --feed "www-imperfect" --name "www" --version "0.0.1" 
-  
 - task: CopyFiles@2
   inputs:
     contents: '_site/**'
     targetFolder: $(Build.ArtifactStagingDirectory)
+
+- task: UniversalPackages@0
+  displayName: Universal Publish
+  inputs:
+    command: publish
+    publishDirectory: '$(Build.ArtifactStagingDirectory)'
+    vstsFeedPublish: 'www-imperfect'
+    vstsFeedPackagePublish: 'www'
+    packagePublishDescription: 'Website Build'
+    versionOption: custom
+    versionPublish: $(setVar.commitHash)
+
 - task: PublishBuildArtifacts@1
   inputs:
     pathToPublish: $(Build.ArtifactStagingDirectory)
