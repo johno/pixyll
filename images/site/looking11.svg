@@ -260,7 +260,7 @@
        inkscape:connector-curvature="0"
        d="m 177.45993,109.1891 c 5.4193,0 10.12077,2.99007 12.75072,7.4059 2.43999,-1.76434 5.39774,-2.83112 8.6104,-2.83111 8.26811,0 14.98576,6.87501 14.98576,15.3368 0,0.6218 -0.11281,1.21616 -0.1832,1.81866 7.14057,1.16603 12.62249,7.43976 12.62249,15.0743 0,7.5646 -5.37659,13.8254 -12.42096,15.07431 0.14273,0.84935 0.25648,1.71529 0.25648,2.60613 0,8.46179 -6.71765,15.31803 -14.98577,15.31803 -4.04976,0 -7.70891,-1.65555 -10.40576,-4.33105 -2.74834,3.34575 -6.81143,5.531 -11.41337,5.531 -6.56597,0 -12.08572,-4.36601 -14.1064,-10.38702 -1.61737,0.6121 -3.34182,1.01247 -5.16625,1.01247 -8.26811,0 -14.96744,-6.87501 -14.96744,-15.3368 0,-4.25508 1.69499,-8.09623 4.43344,-10.87451 -1.38251,-2.3213 -2.23505,-5.01533 -2.23505,-7.93089 0,-8.46179 6.71764,-15.31803 14.98578,-15.31803 0.87037,0 1.71664,0.0976 2.54648,0.24373 1.33513,-7.06458 7.40161,-12.41192 14.69265,-12.41192 z"
        id="path3422"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#22222f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <ellipse
        cy="197.9684"
        cx="-163.96518"
@@ -287,7 +287,7 @@
          id="tspan5367"
          x="152.19136"
          y="153.11143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">uh oh</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;fill:#4d4d4d">uh oh</tspan></text>
     <ellipse
        cy="191.32761"
        cx="-182.12761"
