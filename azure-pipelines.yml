@@ -95,7 +95,7 @@ steps:
     vstsFeedPublish: 'www-imperfect'
     vstsFeedPackagePublish: 'www'
     packagePublishDescription: 'Website Build'
-    #versionOption: custom
+    versionOption: minor
     #versionPublish: $(setVar.commitHash)
 
 - task: PublishBuildArtifacts@1
