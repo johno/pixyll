@@ -27,6 +27,7 @@ google_analytics:
 google_tag_manager:
 # Bing services
 bing_verification:
+azure_appinsights_key: d8bbd741-3141-4d8a-921c-26553c0fefa3
 
 # Optional features
 animated:             false
