@@ -12,8 +12,8 @@ description: |
 disclaimer: |
  None of the ideas expressed on this website are supported
  or endorsed in any manner by my employer.  
-baseurl:     "http://imperfecttoday.com"
-url:         "http://imperfectotday.com"
+baseurl:     ""
+url:         "http://imperfecttoday.com"
 date_format: "%b %-d, %Y"
 header_pages:
     # - about.md
