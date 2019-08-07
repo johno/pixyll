@@ -12,8 +12,8 @@ description: |
 disclaimer: |
  None of the ideas expressed on this website are supported
  or endorsed in any manner by my employer.  
-baseurl:     ""
-url:         "http://www.azurepatterns.com"
+baseurl:     "http://imperfecttoday.com"
+url:         "http://imperfectotday.com"
 date_format: "%b %-d, %Y"
 header_pages:
     # - about.md
@@ -57,15 +57,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: brentmcconnell
 reddit_username:
-bitbucket_username:
+bitbucket_username: emcconne
 stackoverflow_id:
 twitter_username:
-skype_username:
+skype_username: emcconne
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: emcconne
 angellist_username:
 medium_id:
 bitcoin_url:
