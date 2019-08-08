@@ -2,13 +2,18 @@
   <div class="measure">
     {% if site.author %}
     <figure class="author-image">
-        <a class="img" href="{{ site.baseurl }}" style="background-image: url(/images/site/heady-clouds.png)">
-        <span class="hidden">{{site.author}}'s Picture</span></a>
+        <a class="img" href="{{ site.baseurl }}/about" style="background-image: url(/images/site/heady-clouds.png)">
+            <span class="hidden">
+                {{site.author}}'s Picture
+            </span>
+        </a>
     </figure>
     <section class="author">
         <div class="author-info">
             <!-- Author Name -->
-            <h4> {{ site.author }} </h4>
+            <a href="{{ site.baseurl }}/about">
+                <h4> {{ site.author }} </h4>
+            </a>
             <!-- Author Bio -->
             <div class="clearfix"/>
             <p>

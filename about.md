@@ -22,7 +22,10 @@ at ...
   forray into the dark worlds outside typical engineering roles.
 * Hewlett Packard as a Partner Engineer helping partners utilize HP solutions
   to their fullest potenial in their product offerings
-* Alcoa as a programmer where I started this never ending adventure in
+* Alcoa as a programmer analyst where I started this never ending adventure in
   technology.
+
+For all the details check out
+[LinkedIn](https://www.linkedin.com/in/ebmcconnell/)
 
 
