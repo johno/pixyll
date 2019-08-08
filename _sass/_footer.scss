@@ -58,10 +58,11 @@ footer {
 }
 
 .author-info h4 {
-  font-size: $h3;
+  font-size: $h1;
   font-family: $title-font-family;
   letter-spacing: 3px;
-  color: $blue;
+  color: $dark-gray;
+  margin-bottom: -10px;
 }
 
 .author-info p {

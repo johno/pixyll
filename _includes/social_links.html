@@ -1,5 +1,5 @@
-<div class="social-icons">
-  <div class="social-icons-right">
+<div class="social">
+  <div class="social-icons">
     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
     {% endif %}
@@ -42,17 +42,6 @@
     {% endif %}
     {% if site.vk_id %}
       <a class="fa fa-vk" href="https://vk.com/{{ site.vk_id }}"></a>
-    {% endif %}
-  </div>
-  <div class="right">
-    {% if site.bitcoin_url %}
-      <a class="fa fa-bitcoin" href="{{ site.bitcoin_url }}"></a>
-    {% endif %}
-    {% if site.paypal_url %}
-      <a class="fa fa-paypal" href="{{ site.paypal_url }}"></a>
-    {% endif %}
-    {% if site.flattr_button %}
-      {{ site.flattr_button }}
     {% endif %}
   </div>
 </div>
