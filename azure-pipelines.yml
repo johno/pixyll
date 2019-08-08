@@ -6,6 +6,9 @@
 trigger:
 - master
 
+pr:
+- master
+
 pool:
   vmImage: 'ubuntu-latest'
 
@@ -20,15 +23,15 @@ steps:
 - checkout: self
 
 # Why was this build executed
-- bash: |
-    case $BUILD_REASON in
-            "Manual") echo "$BUILD_REQUESTEDFOR manually queued the build." ;;
-            "IndividualCI") echo "This is a CI build for $BUILD_REQUESTEDFOR." ;;
-            "BatchedCI") echo "This is a batched CI build for $BUILD_REQUESTEDFOR." ;;
-        *) $BUILD_REASON ;;
-    esac
-  condition: eq( variables['Agent.OS'], 'Linux' )
-  displayName: Get Build Reason
+#- bash: |
+#    case $BUILD_REASON in
+#            "Manual") echo "$BUILD_REQUESTEDFOR manually queued the build." ;;
+#            "IndividualCI") echo "This is a CI build for $BUILD_REQUESTEDFOR." ;;
+#            "BatchedCI") echo "This is a batched CI build for $BUILD_REQUESTEDFOR." ;;
+#        *) $BUILD_REASON ;;
+#    esac
+#  condition: eq( variables['Agent.OS'], 'Linux' )
+#  displayName: Get Build Reason
 
 - script: |
     GIT_COMMIT=$( git rev-parse --short HEAD )
