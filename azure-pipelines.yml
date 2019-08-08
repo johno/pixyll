@@ -57,33 +57,27 @@ steps:
     mkdir _site
     touch Gemfile.lock
     chmod a+w Gemfile.lock
-    echo ""
-    ls -la 
     echo "Docker Run"
     docker run --rm \
         --volume="$PWD:/srv/jekyll" \
         --volume="$PWD/vendor/bundle:/usr/local/bundle" \
         -i jekyll/builder:3.8 \
         jekyll build
-    echo ""
-    echo "Output"
-    ls -la _site
-
 
 # Copy Website to Storage Acct# Copy Website to Storage Acct
 # Azure CLI
 # Publish website to ACI
-- task: AzureCLI@1
-  displayName: Copy data to storage acct
-  inputs:
-    azureSubscription: imperfect
-    scriptLocation: inlineScript
-    inlineScript: |
-      echo "Running az script."
-      az storage blob upload-batch \
-        --destination \$web \
-        --account-name "azurepatterns" \
-        --source "_site"
+# - task: AzureCLI@1
+#   displayName: Copy data to storage acct
+#   inputs:
+#     azureSubscription: imperfect
+#     scriptLocation: inlineScript
+#     inlineScript: |
+#       echo "Running az script."
+#       az storage blob upload-batch \
+#         --destination \$web \
+#         --account-name "azurepatterns" \
+#         --source "_site"
 
 - task: CopyFiles@2
   inputs:
@@ -107,16 +101,16 @@ steps:
     artifactName: WWWBuildOutput
 
 #Purge CDN to update content
-- task: AzureCLI@1
-  displayName: purge CDN contents
-  inputs:
-    azureSubscription: imperfect
-    scriptLocation: inlineScript
-    inlineScript: |
-       echo "Purging cdn content"
-       az cdn endpoint purge \
-        --name azurepatterns \
-        --profile-name azurepatternscdn \
-        --resource-group azurepatterns \
-        --content-paths '/*'
+# - task: AzureCLI@1
+#   displayName: purge CDN contents
+#   inputs:
+#     azureSubscription: imperfect
+#     scriptLocation: inlineScript
+#     inlineScript: |
+#        echo "Purging cdn content"
+#        az cdn endpoint purge \
+#         --name azurepatterns \
+#         --profile-name azurepatternscdn \
+#         --resource-group azurepatterns \
+#         --content-paths '/*'
 
