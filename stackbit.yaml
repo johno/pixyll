@@ -333,6 +333,9 @@ models:
     label: Basic Pages
     match: "*.md"
     layout: page
+    exclude:
+      - README.md
+      - 404.md
     fields:
       - type:  string
         name: title
