@@ -331,7 +331,6 @@ models:
   basicpage:
     type: page
     label: Basic Pages
-    match: "*.md"
     layout: page
     exclude:
       - README.md
