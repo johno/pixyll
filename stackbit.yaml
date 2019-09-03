@@ -328,13 +328,12 @@ models:
     file: "index.html"
     singleInstance: true
     layout: default
-  basicpage:
+  contact:
     type: page
-    label: Basic Pages
+    label: Contact Page
+    file: "contact.md"
+    singleInstance: true
     layout: page
-    exclude:
-      - README.md
-      - 404.md
     fields:
       - type:  string
         name: title
@@ -345,6 +344,35 @@ models:
       - type: string
         name: tags
         label: Tags
+  about:
+    type: page
+    label: About Page
+    file: "about.md"
+    singleInstance: true
+    layout: page
+    fields:
+      - type:  string
+        name: title
+        label: Page Title
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: string
+        name: tags
+        label: Tags
+  thanks:
+    type: page
+    label: Thanks Page
+    file: "thanks.md"
+    singleInstance: true
+    layout: page
+    fields:
+      - type:  string
+        name: title
+        label: Page Title
+      - type: string
+        name: permalink
+        label: Permalink
   notfound:
     type: page
     label: 404page
