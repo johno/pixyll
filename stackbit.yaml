@@ -1,0 +1,384 @@
+stackbitVersion: ~0.2.0
+ssgName: custom
+publishDir: _site
+buildCommand: bundle install && bundle exec jekyll build
+uploadDir: images
+staticDir: ""
+pagesDir: "./"
+pageLayoutKey: layout
+dataDir: "./"
+models:
+  config:
+    type: data
+    label: Config
+    file: _config.yml
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: email
+        label: Email
+      - type: string
+        name: author
+        label: Author
+      - type: string
+        name: description
+        label: Description
+      - type: string
+        name: baseurl
+        label: Base URL
+        description: the root url
+      - type: string
+        name: url
+        label: URL
+        description: Hostname
+      - type: string
+        name: date_format
+        label: Date Format
+      - type: list
+        name: header_pages
+        label: Header Pages
+        items:
+          type: string
+      - type: string
+        name: google_verification
+        label: Google Verification
+        description: Google Services
+      - type: string
+        name: google_analytics
+        label: Googlge Analytics Code
+      - type: string
+        name: google_tag_manager
+        label: Google Tag Manager
+      - type: string
+        name: bing_verification
+        label: Bing Verification
+      - type: boolean
+        name: animated
+        label: Animated
+      - type: boolean
+        name: show_related_posts
+        label: Show related posts
+      - type: boolean
+        name: show_post_footers
+        label: Show post footers
+      - type: boolean
+        name: show_social_icons
+        label: Show social icons
+      - type: boolean
+        name: ajaxify_contact_form
+        label: Ajaxify Contact form
+      - type: boolean
+        name: enable_mathjax
+        label: Enable Mathjax
+      - type: boolean
+        name: extended_fonts
+        label: Extended Fonts
+      - type: boolean
+        name: enable_anchorjs
+        label: Enable Anchorjs
+      - type: boolean
+        name: post_preview_image
+        label: Post Preview Image
+      - type: boolean
+        name: fb_page
+        label: Facebooke page
+      - type: string
+        name: fb_page_id
+        label: Facebook page id
+      - type: string
+        name: disqus_shortname
+        label: Disqus Shortname
+      - type: string
+        name: facebook_comments
+        label: Facebook Comments
+        description: leave blank to disable Facebook Comments, otherwise set it to true
+      - type: string
+        name: facebook_appid
+        label: Facebook appid
+      - type: number
+        name: facebook_comments_number
+        label: Facebook Comments number
+      - type: string
+        name: github_username
+        label: Github username
+      - type: string
+        name: reddit_username
+        label: Reddit Username
+      - type: string
+        name: bitbucket_username
+        label: Bitbucket Username
+      - type: string
+        name: stackoverflow_id
+        label: Stackoverflow ID
+      - type: string
+        name: twitter_username
+        label: Twitter Username
+      - type: string
+        name: skype_username
+        label: Skype Username
+      - type: string
+        name: steam_nickname
+        label: Steam nickname
+      - type: string
+        name: google_plus_id
+        label: Google Plus id
+      - type: string
+        name: linkedin_username
+        label: Linkedin Username
+      - type: string
+        name: angellist_username
+        label: Angellist Username
+      - type: string
+        name: medium_id
+        label: Meidum ID
+      - type: string
+        name: bitcoin_url
+        label: Bitcoin URL
+      - type: string
+        name: paypal_url
+        label: Paypal URL
+      - type: string
+        name: flattr_button
+        label: Flattr Button
+      - type: string
+        name: telegram_username
+        label: Telegram Username
+      - type: string
+        name: vk_id
+        label: VK ID
+      - type: boolean
+        name: show_sharing_icons
+        label: Show Sharing Icons
+      - type: boolean
+        name: share_facebook
+        label: Share Facebook
+      - type: boolean
+        name: share_twitter
+        label: Share Twitter
+      - type: boolean
+        name: share_googleplus
+        label: Share Googleplus
+      - type: boolean
+        name: share_linkedin
+        label: Share Linkedin
+      - type: boolean
+        name: share_digg
+        label: Share Digg
+      - type: boolean
+        name: share_tumblr
+        label: Share Tumblr
+      - type: boolean
+        name: share_reddit
+        label: Share Reddit
+      - type: boolean
+        name: share_stumbleupon
+        label: Share Stumbleupon
+      - type: boolean
+        name: share_hackernews
+        label: Share Hackernews
+      - type: object
+        name: text
+        label: Text in Pages
+        fields:
+          - type: object
+            name: pagination
+            label: Pagination
+            fields: 
+              - type: string
+                name: newer
+                label: Newer
+              - type: string
+                name: older
+                label: Older
+          - type: object
+            name: share_buttons
+            label: Share Buttons
+            fields:
+              - type: string
+                name: text
+                label: Share This Post
+              - type: string
+                name: facebook
+                label: Share on Facebook
+              - type: string
+                name: twitter
+                label: Share on Twitter
+              - type: string
+                name: googleplus
+                label: Share on Google+
+              - type: string
+                name: linkedin
+                label: Share on LinkedIn
+              - type: string
+                name: digg
+                label: Share on Digg
+              - type: string
+                name: tumblr
+                label: Share on Tumblr
+              - type: string
+                name: reddit
+                label: Share on Reddit
+              - type: string
+                name: stumbleupon
+                label: Share on StumbleUpon
+              - type: string
+                name: hackernews
+                label: Share on Hacker News
+          - type: object
+            name: post
+            label: Post
+            fields:
+              - type: string
+                name: updated
+                label: Status of Update
+              - type: string
+                name: minute_read
+                label: Minute Read
+              - type: string
+                name: related_posts
+                label: Related Posts Label
+          - type: object
+            name: index
+            label: Index
+            fields:
+              - type: string
+                name: coming_soon
+                label: Comming Soon Text
+          - type: object
+            name: contact
+            label: Contact
+            fields: 
+              - type: string
+                name: email
+                label: Email Text
+              - type: string
+                name: content
+                label: Content Text
+              - type: string
+                name: subject
+                label: Subject Text
+              - type: string
+                name: submit
+                label: Submit Text
+              - type: object
+                name: ajax
+                label: Ajax Texts
+                fields: 
+                  - type: string
+                    name: sending
+                    label: Sending Text
+                  - type: string
+                    name: sent
+                    label: Sent Text
+                  - type: string
+                    name: error
+                    label: Error Text
+          - type: string
+            name: thanks
+            label: Thanks Text
+          - type: string
+            name: og_locale
+            label: Og Locale
+      - type: string
+        name: markdown
+        label: Markdown
+        const: "kramdown"
+        hidden: true
+      - type: object
+        name: redcarpet
+        label: Redcarpet
+        hidden: true
+        fields: 
+          - type: list
+            name: extensions
+            label: Extensions
+            items:
+              type: string
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: number
+        name: paginate
+        label: Paginate
+      - type: object
+        name: sass
+        label: Sass
+        hidden: true
+        fields:
+          - type: string
+            name: style
+            label: Style
+      - type: list
+        name: plugins
+        label: Plugins
+        hidden: true
+        items: 
+          type: string
+      - type: list
+        name: exclude
+        label: Exclude
+        hidden: true
+        items:
+          type: string
+  home:
+    type: page
+    label: Home Page
+    file: "index.html"
+    singleInstance: true
+    layout: default
+  basicpage:
+    type: page
+    label: Basic Pages
+    match: "*.md"
+    layout: page
+    fields:
+      - type:  string
+        name: title
+        label: Page Title
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: string
+        name: tags
+        label: Tags
+  notfound:
+    type: page
+    label: 404page
+    singleInstance: true
+    file: "404.md"
+    layout: center
+    fields:
+      - type: string
+        name: permalink
+        label: Permalink
+  post:
+    type: page
+    label: Posts
+    folder: _posts
+    layout: post
+    fields:
+      - type: string
+        name: title
+        label: Post Title
+        required: true
+      - type: datetime
+        name: date
+        label: Publish Date
+      - type: string
+        name: summary
+        label: Summary
+      - type: string
+        name: categories
+        label: Categories
+
+
+
+
+
+                
+
+
+
+
