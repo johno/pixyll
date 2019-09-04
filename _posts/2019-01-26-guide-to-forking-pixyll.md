@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guide to Forking Pixyll
-date: 2019-01-26 19:22
+date: 2019-01-26T16:01:23+08:00
 summary: Pixyll is available to you under the MIT license.
 categories: jekyll pixyll
 ---
