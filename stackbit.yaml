@@ -5,8 +5,8 @@ buildCommand: bundle install && bundle exec jekyll build
 uploadDir: images
 staticDir: ""
 pagesDir: "./"
-pageLayoutKey: layout
 dataDir: "./"
+pageLayoutKey: layout
 models:
   config:
     type: data
@@ -16,6 +16,7 @@ models:
       - type: string
         name: title
         label: Title
+        required: true
       - type: string
         name: email
         label: Email
