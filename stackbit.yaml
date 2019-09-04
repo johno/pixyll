@@ -4,8 +4,8 @@ publishDir: _site
 buildCommand: bundle install && bundle exec jekyll build
 uploadDir: images
 staticDir: ""
-pagesDir: "./"
-dataDir: "./"
+pagesDir: ""
+dataDir: ""
 pageLayoutKey: layout
 models:
   config:
