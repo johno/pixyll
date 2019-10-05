@@ -34,13 +34,15 @@ def archive_item(item_id)
   puts response.code
 end
 
-# def generate_access_token
-#   key = ENV["CLIENT_KEY"]
-#   PocketApi::Connection.client_key = key
-#   puts PocketApi::Connection.generate_authorize_url("http://localhost:4000", "https://getpocket.com/developer/app/77648/345feec8f80328ced141dc35")
-#   puts PocketApi::Connection.generate_access_token( )
-# end
+def generate_access_token
+  key = ENV["CLIENT_KEY"]
+  PocketApi::Connection.client_key = key
+  # puts PocketApi::Connection.generate_authorize_url("https://fis-request-bin.herokuapp.com/1188vhp1", "https://getpocket.com/developer/app/77648/345feec8f80328ced141dc35")
+  # puts PocketApi::Connection.generate_access_token("7a3e85ea-3cac-75fd-624b-18cc23")
+end
 
+# generate_access_token
+# exit
 logger.info "Loading all blog tagged, non archived"
 articles = PocketApi.retrieve({})
 
