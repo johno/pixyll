@@ -19,7 +19,7 @@ bing_verification:
 
 # Optional features
 animated: true
-show_related_posts: true
+show_related_posts: false
 show_post_footers: true
 show_social_icons: true
 ajaxify_contact_form: true
