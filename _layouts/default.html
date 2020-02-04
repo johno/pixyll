@@ -1,52 +1,32 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width">
-  <link href="https://micro.blog/veverkap" rel="me" />
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-light.css" rel="stylesheet" />
-  <script src="https://utteranc.es/client.js"
-        repo="veverkap/veverkap.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-</head>
-<body>
-  <header id="header">
-    <h1><a href="/">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
-  </header>
-  <div id="page">
-    <div id="sidebar">
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/archives">Archive</a></li>
-          <li><a href="https://twitter.com/veverkap" target="_blank">Twitter</a></li>
-          <li><a href="/feed.xml">RSS Feed</a></li>
-        </ul>
-      </nav>
-    </div>
-    <div id="content">
-      {{ content }}
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{% include head.html %}
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+  {% if site.google_tag_manager %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {% endif %}
+	{% if site.facebook_comments %}
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	{% endif %}
+
+  <div class="site-wrap">
+    {% include header.html %}
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
     </div>
   </div>
-  <footer id="footer">
-    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
-  </footer>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-  <script>
-    $(document).ready(function(){
-      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
-    });
-  </script>
+
+  {% include footer.html %}
 </body>
 </html>

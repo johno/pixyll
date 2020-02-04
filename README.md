@@ -2,7 +2,7 @@
 
 [pixyll.com](http://www.pixyll.com)
 
-![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
+![Pixyll screenshot](./screenshot.png)
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
@@ -26,8 +26,7 @@ $ bundle install
 
 #### Verify your Jekyll version
 
-It's important to also check your version of Jekyll since this project uses Native Sass which
-is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
+It's important to also check your version of Jekyll since this project uses new `baseurl` features that are [only supported in 3.3+](https://jekyllrb.com/news/2016/10/06/jekyll-3-3-is-here/).
 
 ### Fork, then clone
 
@@ -99,8 +98,8 @@ You will also need to tweak the header include `/{{ site.baseurl }}`:
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ site.url }}/{{ site.baseurl }}">{{ site.title }}</a>
-      <nav class="site-nav right">
+      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
         {% include navigation.html %}
       </nav>
     </div>
@@ -120,10 +119,6 @@ More setup instructions and advanced options can be found at [http://formspree.i
 ### Disqus
 
 To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
-
-### txtpen
-
-To configure txtpen, set up a [txtpen site](https://txtpen.com/go) with the same name as your site. Then, in `_config.yml`, edit the `txtpen_sitename` value to enable txtpen
 
 ### Customizing the CSS
 
@@ -219,3 +214,7 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Forking
+
+There is a [guide to forking Pixyll](http://pixyll.com/jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).

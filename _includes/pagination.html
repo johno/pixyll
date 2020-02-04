@@ -3,19 +3,19 @@
   <div class="left">
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
+        <a class="pagination-item" href="{{ "/" | relative_url }}">{{ site.text.pagination.newer | default: "Newer" }}</a>
       {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
+        <a class="pagination-item" href="{{ paginator.previous_page_path | relative_url }}">{{ site.text.pagination.newer | default: "Older" }}</a>
       {% endif %}
     {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
+      <span class="pagination-item disabled">{{ site.text.pagination.newer | default: "Newer" }}</span>
     {% endif %}
   </div>
   <div class="right">
     {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
+      <a class="pagination-item" href="{{ paginator.next_page_path | relative_url }}">{{ site.text.pagination.older | default: "Older" }}</a>
     {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
+      <span class="pagination-item disabled">{{ site.text.pagination.older | default: "Older" }}</span>
     {% endif %}
   </div>
   <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>

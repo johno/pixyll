@@ -1,13 +1,12 @@
 # Site settings
-title:       lowest common denominator
-email:       patrick@veverka.net
-author:      Patrick Veverka
+title: lowest common denominator
+email: patrick@veverka.net
+author: Patrick Veverka
 description: "Huh?"
-baseurl:     ""
-url:         "http://patrick.veverka.net"
+baseurl: ""
+url: "http://patrick.veverka.net"
 date_format: "%b %-d, %Y"
 header_pages:
- - contact.html
 
 # Google services
 google_verification:
@@ -19,14 +18,14 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             true
-show_related_posts:   true
-show_post_footers:    true
-show_social_icons:    true
+animated: true
+show_related_posts: true
+show_post_footers: true
+show_social_icons: true
 ajaxify_contact_form: true
 enable_mathjax: false
 extended_fonts: false
-enable_anchorjs: false
+enable_anchorjs: true
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false
 
@@ -38,10 +37,6 @@ fb_page_id:
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname: veverkap
-
-# txtpen post comments
-# (leave blank to disable txtpen)
-txtpen_sitename:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -80,49 +75,48 @@ share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
-
 include:
   - .well-known
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: "Newer"
+    older: "Older"
   share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    text: "Share this post!"
+    facebook: "Share on Facebook"
+    twitter: "Share on Twitter"
+    googleplus: "Share on Google+"
+    linkedin: "Share on LinkedIn"
+    digg: "Share on Digg"
+    tumblr: "Share on Tumblr"
+    reddit: "Share on Reddit"
+    stumbleupon: "Share on StumbleUpon"
+    hackernews: "Share on Hacker News"
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated: "Updated"
+    minute_read: "minute read"
+    related_posts: "Related Posts"
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: "Coming soon..."
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    email: "Email Address"
+    content: "What would you like to say?"
+    subject: "New submission!"
+    submit: "Say Hello"
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+      sending: "sending.."
+      sent: "Message sent!"
+      error: "Error!"
+  thanks: "Thanks for contacting us. We will reply as soon as possible."
+  og_locale: "en_US"
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     10
+  extensions: ["smart", "tables", "with_toc_data"]
+permalink: pretty
+paginate: 10
 sass:
   style: compressed
 plugins:
@@ -132,4 +126,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Rakefile
+  - README.md
+  - screenshot.png
   - vendor

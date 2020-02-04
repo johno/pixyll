@@ -1,9 +1,5 @@
 <footer class="center">
   <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">GitHub</a>.
-    </small>
   </div>
 </footer>
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
@@ -12,3 +8,8 @@
     anchors.options.visible = 'always';
     anchors.add('article h2, article h3, article h4, article h5, article h6');
 </script>{% endif %}
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>

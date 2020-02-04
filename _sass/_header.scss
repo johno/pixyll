@@ -4,9 +4,9 @@
 }
 
 .site-header a {
-  color: #333;
+  color: $header-color;
   font-size: $h3;
-  font-weight: 300;
+  font-weight: $header-font-weight;
   background-image: none;
 }
 
@@ -15,23 +15,30 @@
 }
 
 .site-nav {
-  margin-top: $space-2;
+  padding-top: $nav-padding;
 }
 
 .site-header nav a {
-  color: #666;
+  color: $nav-color;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
-.site-header nav a:active {
-  color: #444;
+.site-header nav a:active,
+.site-header nav a.nav-active:hover,
+.site-header nav a.nav-active:focus,
+.site-header nav a.nav-active:active {
+  color: $nav-link-color;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: $nav-link-border-bottom;
+}
+
+.site-header nav a.nav-active {
+  border-bottom: $nav-active-border-bottom;
 }
 
 .site-nav a + a {
-  margin-left: 1em;
+  margin-left: $nav-link-padding-x;
 }
 
 .site-header a:hover,
