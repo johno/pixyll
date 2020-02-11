@@ -61,3 +61,23 @@ The Pi cluster is running the following software:
 * [Docker](https://www.docker.com/) for running containers
 * [Nomad](https://www.nomadproject.io/) for workload orchestration
 * [Traefik](https://containo.us/traefik/) for edge routing of HTTPS services
+
+## Base Software
+
+All of the servers run Dnsmasq, Docker (using Jeff Geerling's awesome [Docker ARM Ansible Role](https://github.com/geerlingguy/ansible-role-docker_arm)) and have various mounts on them that point at my QNAP NAS
+
+[site.yml](https://github.com/veverkap/pistuff/blob/master/site.yml) starts with this bootstrap segment:
+
+<script src="https://gist.github.com/veverkap/f0b3bd5329e2cf9c5cc7961cb29b2e7e.js"></script>
+
+## Consul
+
+Consul is great for DNS and service discovery, but when paired with Nomad and Traefik, it's supercharged. Simply add a Nomad job and Consul picks it up and hands it off to Traefix which makes it routable instantaneously.
+
+I have configured three of the servers to act as Consul servers and all of the pis are running the Consul client as well.  This allows them to see each other via DNS (rp*.node.consul) instead of having to configure /etc/hosts or some sort of DNS config on each box manually.  Further, I am running a dnsmasq forwarder on each box that maps local DNS lookups (via port 53) for .consul domains to the Consul DNS resolver listening on port 8600 (see [Consul Forwarding](https://learn.hashicorp.com/consul/security-networking/forwarding#dnsmasq-setup) in the Consul guides for more information)
+
+
+
+<div align="center" style="vertical-align: middle">
+<img src="/images/consul.png" alt="Consul Logo" width="200" class="avatar" /> + <img src="/images/nomad.png" alt="nomad Logo" width="200" class="avatar" /> + <img src="/images/traefik.png" alt="Traefik Logo" height="100" class="avatar" /> = <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Traefik Logo" height="200" class="avatar" />
+</div>
