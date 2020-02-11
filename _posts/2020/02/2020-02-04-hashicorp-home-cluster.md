@@ -1,7 +1,7 @@
 ---
 title: "HashiCorp Home Cluster"
 layout: post
-date: 2020-02-04
+date: 2020-02-10
 ---
 <center><img src="/images/hashilogo.webp" alt="HashiCorp" class="avatar" /></center>
 <br />
@@ -28,7 +28,36 @@ Many thanks to all of these folks for letting me stand on the shoulders of giant
 
 # Hardware
 
+The bug for playing with Raspberry Pis really hit when I got one for Christmas last year. I started to set it up and was installing everything directly on the host OS. I got to thinking about how it would be easier if I managed the applications with Docker and some orchestration software.
 
+But these different orchestration tools really shine when you have a cluster of servers to run them on. I don't really have anywhere in my house where I can cable up a rack of servers, so having a small, power-friendly computer like a Raspberry Pi made a lot of sense. Plus, one of the amazing benefits at HashiCorp (did I mentioned we are [hiring like crazy](https://grnh.se/896abd501)?) is that you get a training budget that allowed me to offset a lot of the cost for my cluster.
+
+I ended up purchasing two Raspberry Pis (one fully setup with a case and memory card from [Vilros](https://vilros.com/collections/pi-day-featured-products/products/vilros-raspberry-pi-4-model-b-complete-starter-kit-with-clear-transparent-case-and-built-in-fan?variant=29406723768414)).  Later I added four more which I put into a 4ct case.
+
+So at this point, I have the following hardware:
+
+* 6x [Raspberry Pi 4 Model B (4GB)](https://amzn.to/2vjgwEG/)
+* 1x [iUniker Raspberry Pi 4 Cluster Case](https://amzn.to/38h27aH)
+* 4x [USB C Cable Short](https://amzn.to/2SfAdWP)
+* 4x [CAT 6 Ethernet 1 foot](https://amzn.to/2SgKWk4)
+* 4x [Samsung 128GB 100MB/s (U3) MicroSDXC EVO Select Memory Card](https://amzn.to/3bsDqdh)
+* 1x [Samsung 64GB 100MB/s (U3) MicroSDXC EVO Select Memory Card](https://amzn.to/3buHE3Z)
+* 1x [NETGEAR 8-Port Gigabit Ethernet Unmanaged Switch](https://amzn.to/2HgmMzy)
+
+All of these are sitting nicely behind my monitor on my desk using a shared power supply.
 
 # Software
-What software?
+
+I read a lot about using Kubernetes or a smaller variation like k3s on the Raspberry Pi cluster, but frankly, it seemed like a huge learning curve given where I work. I can jump into a Slack channel and immediately have access to amazing developers working on HashiCorp's own workload orchestrator [Nomad](https://www.nomadproject.io/). And trust me, I did ask tons of questions.
+
+I ended up using [Ansible](https://www.ansible.com/) playbooks to setup all of the infrastructure. This helped make the deployment more reliable and repeatable.
+
+Note: If you want to jump ahead and look at the code, you can go to [my GitHub repo](https://github.com/veverkap/pistuff) and take a look.
+
+The Pi cluster is running the following software:
+
+* [Consul](https://www.consul.io/) for service discovery and DNS
+* [Dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) for DNS lookups (this forwards to Consul)
+* [Docker](https://www.docker.com/) for running containers
+* [Nomad](https://www.nomadproject.io/) for workload orchestration
+* [Traefik](https://containo.us/traefik/) for edge routing of HTTPS services
