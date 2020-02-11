@@ -64,7 +64,7 @@ The Pi cluster is running the following software:
 
 ## Base Software
 
-All of the servers run Dnsmasq, Docker (using Jeff Geerling's awesome [Docker ARM Ansible Role](https://github.com/geerlingguy/ansible-role-docker_arm)) and have various mounts on them that point at my QNAP NAS
+All of the servers are setup with various tools including dnsmasq and Docker (using Jeff Geerling's awesome [Docker ARM Ansible Role](https://github.com/geerlingguy/ansible-role-docker_arm)). To make the different Docker containers work, the Raspberry Pis also have various CIFS mounts on them that point at my QNAP NAS.
 
 [site.yml](https://github.com/veverkap/pistuff/blob/master/site.yml) starts with this bootstrap segment:
 
@@ -72,12 +72,66 @@ All of the servers run Dnsmasq, Docker (using Jeff Geerling's awesome [Docker AR
 
 ## Consul
 
-Consul is great for DNS and service discovery, but when paired with Nomad and Traefik, it's supercharged. Simply add a Nomad job and Consul picks it up and hands it off to Traefix which makes it routable instantaneously.
+<center><img src="/images/consul.png" alt="Consul Logo" width="500" class="avatar" /></center>
 
-I have configured three of the servers to act as Consul servers and all of the pis are running the Consul client as well.  This allows them to see each other via DNS (rp*.node.consul) instead of having to configure /etc/hosts or some sort of DNS config on each box manually.  Further, I am running a dnsmasq forwarder on each box that maps local DNS lookups (via port 53) for .consul domains to the Consul DNS resolver listening on port 8600 (see [Consul Forwarding](https://learn.hashicorp.com/consul/security-networking/forwarding#dnsmasq-setup) in the Consul guides for more information)
+Consul is great for DNS and service discovery, but when paired with Nomad and Traefik, it's simply:
+
+<center><img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="shia magic" /></center>
+
+You simply add a Nomad job and Consul discovers it and starts listing it in the catalog.  Traefik sees the new record in the catalog and makes it routable instantaneously.
+
+For example, this Nomad job [homeassistant.nomad](https://github.com/veverkap/pistuff/blob/master/jobs/homeassistant.nomad):
+
+<iframe src="https://gist.github.com/veverkap/e90ea33256e74542a27bd874b296a6d2.pibb" frameborder="0" scrolling="yes" width="100%"></iframe>
+<hr>
+
+Runs on Nomad like this:
+
+<center><img src="/images/nomadjob.png" alt="Nomad job webui"></center>
+
+And is automagically turned into this on Traefik:
+
+<center><img src="/images/traefik-homeassistant.png" alt="traefik dashboard"></center>
+
+And then I can hit homeassistant.domain.com and see this:
+
+<center><img src="/images/homeassistant.png" alt="homeassistant dashboard"></center>
+
+I have configured three of the servers (rpi1, rpi2 and rpi3) to act as Consul servers and all of the pis are running the Consul client as well.  This allows them to see each other via DNS (rp*.node.consul) instead of having to configure /etc/hosts or some sort of DNS config on each box manually.
+
+Further, I am running a dnsmasq forwarder on each box that maps local DNS lookups (via port 53) for .consul domains to the Consul DNS resolver listening on port 8600 (see [Consul Forwarding](https://learn.hashicorp.com/consul/security-networking/forwarding#dnsmasq-setup) in the Consul guides for more information)
 
 
+## Nomad
 
-<div align="center" style="vertical-align: middle">
-<img src="/images/consul.png" alt="Consul Logo" width="200" class="avatar" /> + <img src="/images/nomad.png" alt="nomad Logo" width="200" class="avatar" /> + <img src="/images/traefik.png" alt="Traefik Logo" height="100" class="avatar" /> = <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Traefik Logo" height="200" class="avatar" />
-</div>
+<center><img src="/images/nomad.png" alt="nomad Logo" width="500" class="avatar" /></center>
+
+As mentioned in the Consul section, the integration with Nomad is very robust and automated. I am leveraging the Docker driver for almost everything. For Nomad, I have setup rpi6 as the leader and all of the other Raspberry Pis run the client so that they can be scheduled with jobs.
+
+You can run nomad cli locally and schedule jobs via the command line or you can run jobs via the Web UI.
+
+<center><img src="/images/nomaddash.png" alt="nomad dashboard"></center>
+
+## Traefik
+
+<center><img src="/images/traefik.png" height="200" alt="Traefik Logo" class="avatar" /></center>
+
+Originally, I had planned on using [kibatic/ansible-traefik](https://github.com/kibatic/ansible-traefik) but this role has not yet been updated to Traefik 2.0, which has LOTS of goodies in it that I didn't want to miss out on. I plan on going back shortly and opening a PR to add 2.0 support to that role. Traefik 2.0 is able to dynamically generate ACME TLS certifications with Let's Encrypt and the middleware support that handles authentication is amazing.
+
+<center><img src="/images/traefikdash.png" alt="traefik dashboard"></center>
+
+## Terraform
+
+<center><img src="/images/terraform.png" alt="Terraform Logo" width="500" class="avatar" /></center>
+
+I couldn't go all of this way without at least TRYING to do something on this project with Terraform, could I? So I'm handling all of the public DNS changes with Terraform using the [Terraform Cloudflare provider](https://www.terraform.io/docs/providers/cloudflare/index.html). I am managing ALL of my veverka.net DNS through Terraform Cloud with CloudFlare.
+
+<script src="https://gist.github.com/veverkap/4a6565904cf29f24ac2b1e901e2303ef.js"></script>
+
+If I want to add a new CNAME to my veverka.net domain, I just edit the .tf file, git add and git commit and it is automatically planned on [Terraform Cloud](https://app.terraform.io). I go in and review it and tell it to apply when I know the changes are good.
+
+<center><img src="/images/terraformcloud.png" alt="terraform dashboard"></center>
+
+# Summary
+
+This adventure was full of learning and amazement honestly. I had heard very little about these HashiCorp products before joining the team and now they are a part of my everyday life. If you have any questions, feel free to add a comment below and I'll reply.
