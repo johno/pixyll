@@ -175,6 +175,21 @@ If search engine optimization is your thing, you can also set up `meta_descripti
 
 And lastly - if you happen to write in language other than English be sure to change `og_locale` in `_config.yml` to reflect it.
 
+### Progressive Web App
+
+Pixyll supports features of a progressive web app (PWA).  As a PWA, your site's home page can be installed as a shortcut or an app icon on a mobile device.  Also, certain assets are cached so the site can be accessed should the device be offline from the network.
+
+Pixyll supports these features because it provides a Javascript file that acts as a *service worker* in the browser and has a JSON file with a *web manifest*.  By default, these are configured to the settings of Pixyll, but you should consider cutomizing them to your specific site:
+
+1. Provide a different version of `splash-512x512.png` which is the loading screen for your offline app.
+2. A `favicon-192x192.png` for the app icon (if you haven't already).
+3. In `sw.js`, list any other files or pages you want to add to the list of cached artifacts.
+
+For more information on PWAs:
+
+- https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+- https://web.dev/what-are-pwas/
+
 ### Enjoy
 
 I hope you enjoy using Pixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/johnotander/pixyll/issues). I'd love to help.
