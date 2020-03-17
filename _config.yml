@@ -45,7 +45,6 @@ disqus_shortname:
 utterances_repo:
 utterances_issue-term: pathname
 utterances_theme: github-light
-utterances_crossorigin: anonymous
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)

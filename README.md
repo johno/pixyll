@@ -141,6 +141,13 @@ If you would like to add a [fade-in-down effect](http://daneden.github.io/animat
 
 See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
 
+### Utterances
+[Utterances](https://utteranc.es/): _A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!_ You can turn it on by adding a github repository to `utterances_repo`, in the form of `user/repo-name`.
+
+The issue terminology can be customized using key `utterances_issue-term`, the default is `"pathname"`, some of the other options are `"url"` and `"title"`. The full list of options can be found in the official documentation.
+
+The theme can be changed using key `utterances_theme`, the default is `github-light`, the full list as of today is: `github-dark`, `github-dark-orange`, `icy-dark`, `dark-blue`, `photon-dark`. You can also find this list on the official website.
+
 ### Put in a Pixyll Plug
 
 If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
