@@ -18,11 +18,28 @@ This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
 ```
-$ git clone git@github.com:johnotander/pixyll.git
+$ git clone -o upstream git@github.com:johnotander/pixyll.git
 $ cd pixyll
 $ gem install bundler # If you don't have bundler installed
 $ bundle install
 ```
+
+Alternatively, if want to install the theme as a Gem, you can add this
+line to your Gemfile:
+
+```ruby
+gem "pixyll"
+```
+
+Then, add this line to your Jekyll site:
+
+```yaml
+theme: pixyll
+```
+
+And then execute:
+
+    $ bundle install
 
 #### Verify your Jekyll version
 
@@ -32,6 +49,13 @@ It's important to also check your version of Jekyll since this project uses new 
 
 Fork the repo, and then clone it so you've got the code locally.
 
+If `git remote -v` doesn't have your fork listed, you can do the following to add it:
+
+```
+git remote add origin git@github.com:USER/pixyll.git
+```
+
+Where `USER` above is your GitHub user name.
 
 ### Modify the `_config.yml`
 
@@ -66,6 +90,21 @@ Now you can navigate to `localhost:4000` in your browser to see the site.
 ### Using Github Pages
 
 You can host your Jekyll site for free with Github Pages. [Click here](https://pages.github.com/) for more information.
+
+If you are using the gem (see above), then you need to add the the
+github-pages gem to your Gemfile:
+
+```ruby
+gem 'github-pages'
+```
+
+Alternatively, you can enable Pixyll on Githug Pages using the `remote_theme` feature, by adding this line to your `_config.yml`:
+
+```yml
+remote_theme: johno/pixyll
+```
+
+See [Adding a Jekyll theme to your GitHub pages](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site).
 
 #### A configuration tweak if you're using a gh-pages sub-folder
 

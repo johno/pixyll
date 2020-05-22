@@ -129,3 +129,5 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
+  - pixyll.gemspec
+  - '*.gem'
