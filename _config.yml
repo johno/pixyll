@@ -8,7 +8,6 @@ url:         "https://almostsurely.blog"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
