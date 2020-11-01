@@ -1,94 +1,41 @@
 ---
 layout: page
-title: About Pixyll
+title: Sashidhar Guntury
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Sashidhar Guntury is a software engineer
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+### Experience
 
-Thanks to the following:
+* For about 5.5 years, working in Tumblr getting rid of spam and malicious content
+* Worked for about an year plus change for Amazon in their payments team.
+* Worked for a few months as an intern at Food52 contributing to the codebase of their shops feature.
+* Worked for a few months as an intern at Dreamworks Animation, Bangalore as a Lighting Developer.
+* Worked for a few months as an intern at GE Research on using computer graphics to develop low cost diagnosis in under-developed countries.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+### Research
 
-List of contributors:
+* [Ray tracing dynamic scenes with shadows on GPU](https://dl.acm.org/citation.cfm?id=2386214) - Workshop paper in Eurographics Symposium on Parallel Graphics and Visualization, May 2010, Best Paper Award
+* [Raytracing Dynamic Scenes on the GPU Using Grids](https://dl.acm.org/citation.cfm?id=2086645) - Journal Paper in IEEE Transactions on Visualization and Computer Graphics, January 2012 
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+### Languages and Frameworks
+* Languages
+  * Python
+  * Scala
+  * Some Golang and C++
+* Frameworks
+  * Spark
+  * Flink
+  * Tensorflow
+  * Hadoop
+  * Kubernetes
+  * Kafka
+  * CUDA
+  * OpenGL
+
+### Education
+* Masters, Computer Science, September 2011 - December 2013, Rutgers, The State University of New Jersey
+* B.Tech and MS, Computer Science and Engineering, July 2005 - December 2010, IIIT Hyderabad, India
+
