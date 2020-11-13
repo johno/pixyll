@@ -11,6 +11,7 @@ Sashidhar Guntury is a software engineer with more than 6 years of work experien
 
 * ML infrastructure and deployment
 * Model compression for deep learning
+* Kubernetes deployments
 * Stream processing frameworks
 * Spam detection, Anomaly detection techniques
 * CUDA, Jetson programming
