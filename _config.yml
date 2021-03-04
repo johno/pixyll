@@ -2,7 +2,7 @@
 title:       Slackin' Off
 email:       dslack@uci.edu
 author:      Dylan Slack
-description: "A blog that fails to live up to its name."
+description: "A blog containing Dylan Slack's miscellaneous ideas, projects, and notes."
 baseurl:     "/almostsurely"
 url:         "https://almostsurely.blog"
 date_format: "%b %-d, %Y"
