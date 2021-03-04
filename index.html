@@ -15,12 +15,19 @@ layout: default
 	      {{ post.date | date: "%b %-d, %Y" }}
 	    {% endif %}
 	  </p>
-          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
           <span class="post-summary">
             {% if post.summary %}
               {{ post.summary }}
             {% else %}
               {{ post.excerpt }}
+            {% endif %}
+          </span>
+
+          <br>
+          <span class="post-meta">
+            {% if post.categories %}
+             {{ post.categories }}
             {% endif %}
           </span>
         </div>
