@@ -8,8 +8,10 @@ script:
  - bundle exec jekyll build
  - rake 'draft[Hello\, world]'
  - rake undraft[hello-world.md]
- - grep johnotander/pixyll _site/index.html
- - grep post-title         _site/index.html
- - grep pagination-item    _site/index.html
- - grep johnotander/pixyll _site/css/pixyll.css
- - grep 404                _site/404.html
+ - grep johno/pixyll    _site/index.html
+ - grep post-title      _site/index.html
+ - grep pagination-item _site/index.html
+ - grep href=.https://pixyll.com/. _site/index.html
+ - grep johno/pixyll    _site/css/pixyll.css
+ - grep 404             _site/404.html
+ - grep pixyll.com/sitemap.xml _site/robots.txt
