@@ -21,10 +21,10 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Set up Ruby 2.6
+    - name: Set up Ruby 2.7
       uses: actions/setup-ruby@v1
       with:
-        ruby-version: 2.6.x
+        ruby-version: 2.7.x
     - name: Bundle install
       run: |
         bundle config path vendor/bundle
