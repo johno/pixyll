@@ -43,14 +43,14 @@ The items above do not apply when you just copied and modified Pixyll in small w
 
 If you want to publish a fork of Pixyll under a different name but keeping it under the MIT license, then you should add your name to the copyright notices:
 
-    Copyright (c) 2019 Your Name
-    Copyright (c) 2014-2019 John Otander for Pixyll
+    Copyright (c) 2021 Your Name
+    Copyright (c) 2014-2021 John Otander for Pixyll
 
 However, if you want to publish a fork of Pixyll under a different name *and* a different license, then you should should still add your name to the copyright notices but have a section titled "Pixyll" at the bottom of your LICENSE file that preserves the copyright and license notices for Pixyll:
 
     Pixyll
     
-    Copyright (c) 2014-2019 John Otander
+    Copyright (c) 2014-2021 John Otander
     
     MIT License
     
