@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About LLC Palace
 permalink: /about/
 tags: about
 ---
