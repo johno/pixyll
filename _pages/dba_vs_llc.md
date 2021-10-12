@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DBA vs. LLC
-permalink: /DBA-vs-LLC/
+permalink: /dba-vs-llc/
 tags: DBA
 ---
 
