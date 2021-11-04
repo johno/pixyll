@@ -89,7 +89,7 @@ The way an LLC owner gets paid depends on different variables. Things like how m
 
 But first, we have one pressing question:
 
-**What is an LLC, really?**
+*What is an LLC, really?*
 
 Single-Member and Multi-Member LLCs are taxed the same way as Sole Proprietorships and Partnerships, respectively. 
 
@@ -119,7 +119,7 @@ Just be sure not to “draw” too much money out of your LLC as it would destro
 
 To put it differently, make sure you always leave enough money in your business so it doesn’t become undercapitalized. If you’re unable to maintain operations, pay debts, or fight legal battles, you could possibly lose personal assets like your house, car, even investments.
 
-**Is Pass-Through Taxation right for me?**
+*Is Pass-Through Taxation right for me?*
 
 Pass-Through Taxation is good if you’re getting your business up and moving. When you’re starting it’s important to reinvest the majority of profits back into your business. Focus on scaling it up, initially. 
 
@@ -129,7 +129,7 @@ Later on, when you’re making some serious money, you can always decide to swit
 
 In some cases, the Pass-Through method can be more advantageous. The cost of payroll services and accounting (which are requirements of S-Corp and C-Corp Taxation) may be more expensive than the tax benefits you would receive with an S-Corp or C-Corp setup. 
 
-**How Do LLC Taxes Work?**
+*How Do LLC Taxes Work?*
 
 Let’s say you recently began operations and your business is off to a good start bringing in net profits of 10,000USD annually. Nice! 
 
