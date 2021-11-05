@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to Pay Yourself From Your LLC
+title: How to I Pay Myself From My LLC
 permalink: /how-to-pay-yourself-llc/
 tags: LLC, owners draw, pass through, taxes
 ---
 
-**How Do I Pay Myself From My LLC?**
+**How Do LLC Owners Get Paid?**
 
 A little DISCLAIMER before we dive into things: You should always speak with a financial advisor, lawyer, or other business professionals before making any long-lasting decisions. 
 
