@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to I Pay Myself From My LLC
+title: How to I Pay Myself From My LLC?
 permalink: /how-to-pay-yourself-llc/
 tags: LLC, owners draw, pass through, taxes
 ---
