@@ -23,24 +23,30 @@ tags: contact
       <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit | default: "Contact LLCPalace" }}</button>
     </form>
   {% else %}
-    <form 
-        action="https://formspree.io/f/mayagzwv" 
-        method="POST" class="form-stacked">
-      <label>
-        Email:
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Your Email Address" }}">
-      </label>
-      <label>
-        Your Message:
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "Tell Us What's on Your Mind" }}" style="resize: vertical"></textarea>
-      </label>
-
+    <form
+  action="https://formspree.io/f/mayagzwv"
+  method="POST">
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  
+ 
+      
+      
+      
+      
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
       <input type="hidden" name="_subject" value="{{ site.text.contact.subject | default: "New submission!" }}" />
       <input type="text" name="_gotcha" style="display:none" />
 
       <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit | default: "Contact LLCPalace" }}">
-    </form>
+   <button type="submit">Send</button>  
+      </form>
   {% endif %}
 </div>
 
