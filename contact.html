@@ -20,7 +20,7 @@ tags: contact
 
       <input type="text" name="_gotcha" style="display:none" />
 
-      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit | default: "Say Hello" }}</button>
+      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit | default: "Contact LLCPalace" }}</button>
     </form>
   {% else %}
     <form 
@@ -28,12 +28,12 @@ tags: contact
         method="POST" class="form-stacked"
                            >
       <label>
-        Your Email:
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Email Address" }}">
+        Email:
+        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Your Email Address" }}">
       </label>
       <label>
         Your Message:
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "What's on your mind?" }}" style="resize: vertical"></textarea>
+        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "Tell Us What's on Your Mind" }}" style="resize: vertical"></textarea>
       </label>
 
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
