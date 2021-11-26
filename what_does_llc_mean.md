@@ -5,9 +5,7 @@ permalink: /what_does_llc_mean/
 tags: how do llcs work, what is an llc, how does an llc work
 ---
 
-**What Does LLC Mean and How Do They Work?**
-
-What are LLCs and how do they work?
+**What are LLCs and how do they work?**
 
 Don’t be fooled:
 
