@@ -2,7 +2,7 @@
 layout: page
 title: What Does LLC Mean and How Do They Work?
 permalink: /what_does_llc_mean/
-tags: about
+tags: how do llcs work, what is an llc, how does an llc work
 ---
 
 **What Does LLC Mean and How Do They Work?**
