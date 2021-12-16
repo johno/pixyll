@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: DBA vs. LLC
 permalink: /DBA-vs-LLC/
 tags: DBA
