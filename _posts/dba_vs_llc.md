@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DBA vs. LLC
-permalink: /DBA-vs-LLC/
-tags: DBA
+summary: Comparison of DBAs and LLCs
+categories: DBA
 ---
 
 **DBA vs. LLC**
