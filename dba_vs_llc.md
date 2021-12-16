@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DBA vs. LLC
-date: 2021-12-10 22:15
+permalink: /DBA-vs-LLC/
 summary: Comparison of DBAs and LLCs
-categories: DBA
+tags: DBA
 ---
 
 **DBA vs. LLC**
