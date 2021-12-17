@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sole Proprietorship Advantages
 date: 2021-12-17
 summary: 
