@@ -1,19 +1,12 @@
 ---
-layout: page
+layout: post
 title: What Does LLC Mean and How Do They Work?
+date: 2021-12-17
+summary: Don’t be fooled: Most people think LLC is an acronym for Limited Liability Corporation. This is wrong. Don’t be like most people. LLC stands for Limited Liability Company.  
 permalink: /what_does_llc_mean/
-tags: how do llcs work, what is an llc, how does an llc work
 ---
 
 **What are LLCs and how do they work?**
-
-Don’t be fooled:
-
-LLC stands for Limited Liability Company. 
-
-Most people think it’s an acronym for Limited Liability Corporation. This is wrong.
-
-Don’t be like most people. 
 
 The many Owners of an LLC are referred to as Members. With the standard setup, Members receive the limited liability protection of a Corporation while paying taxes as if they were partners in a Partnership. This being the case, LLCs undergo the Pass-Through Process of taxation.
 
