@@ -3,6 +3,7 @@ layout: page
 title: How to I Pay Myself From My LLC?
 date: 2021-12-17
 summary: 
+permalink: /paying-yourself-llc/
 ---
 
 
