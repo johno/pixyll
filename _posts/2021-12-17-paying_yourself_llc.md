@@ -2,12 +2,9 @@
 layout: page
 title: How to I Pay Myself From My LLC?
 date: 2021-12-17
-summary: 
+summary: How Do LLC Owners Get Paid?
 permalink: /paying-yourself-llc/
 ---
-
-
-**How Do LLC Owners Get Paid?**
 
 A little DISCLAIMER before we dive into things: You should always speak with a financial advisor, lawyer, or other business professionals before making any long-lasting decisions. 
 
