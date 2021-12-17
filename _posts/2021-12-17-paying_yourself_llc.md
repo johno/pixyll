@@ -1,9 +1,10 @@
 ---
 layout: page
 title: How to I Pay Myself From My LLC?
-permalink: /how-to-pay-yourself-llc/
-tags: LLC, owners draw, pass through, taxes
+date: 2021-12-17
+summary: 
 ---
+
 
 **How Do LLC Owners Get Paid?**
 
