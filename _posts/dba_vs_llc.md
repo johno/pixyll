@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DBA vs. LLC
-date: 2021-12-16
 summary: Comparison of DBAs and LLCs
 ---
 
