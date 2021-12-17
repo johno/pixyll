@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Sole Proprietorship Advantages
+date: 2021-12-17
+summary: 
 permalink: /sole-proprietorship-advantages/
-tags: about
 ---
 
 **What is a Sole Proprietorship?**
