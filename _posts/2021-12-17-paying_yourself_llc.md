@@ -22,17 +22,17 @@ What you make as an entrepreneur represents the fruits of all your labor in gett
 
 The question becomes: 
 
-__How do I get my hands on my hard-earned cash?__
+*How do I get my hands on my hard-earned cash?
 
 Different business entities come with different ways of getting you your money. How you decide to pay yourself depends on a few key factors. The type of entity you're operating also affects how it’s viewed by the government and what taxes you’ll end up paying. 
 
 Here are some questions this article will help you answer:
 
-*   What business entity am I operating as? 
-*   Which payment method corresponds to that entity? 
-*   How much should I pay myself? 
-*   How often do I want to get paid? 
-*   How is the money getting into my account?
+-   What business entity am I operating as? 
+-   Which payment method corresponds to that entity? 
+-   How much should I pay myself? 
+-   How often do I want to get paid? 
+-   How is the money getting into my account?
 
 The metaphorical cards are in your hands when it comes to how much you make as a business owner. The strategies you take, the choices you make, and your commitment to your company all determine how much money you’ll bring in. 
 
@@ -154,7 +154,7 @@ After the Self-Employment Tax, the remainder of the distribution/draw (2,000USD)
 
 So get to work and make this example seem like rookie stuff.
 
-### Single Member LLCs
+## Single Member LLCs
 
 In a Single-Member LLC, all the money gets split between you, your business, and the Feds. 
 
