@@ -6,17 +6,15 @@ summary: LLC stands for Limited Liability Company.
 permalink: /what_does_llc_mean/
 ---
 
-**What are LLCs and how do they work?**
-
 The many Owners of an LLC are referred to as Members. With the standard setup, Members receive the limited liability protection of a Corporation while paying taxes as if they were partners in a Partnership. This being the case, LLCs undergo the Pass-Through Process of taxation.
 
 An LLC’s personal liability protection keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from any business debts or lawsuits.
 
 Since LLCs are so flexible and simple to use, it’s no surprise that there are millions of active LLCs with new ones being created every day.
 
-**General Information**
+## General LLC Information
 
-Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. You’re in control. 
+Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. **You’re in control.** 
 
 You decide how the taxes are filed. 
 
@@ -34,7 +32,7 @@ Another huge reason why someone chooses an LLC over any other entity is the lega
 
 LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types.
 
-**How Does an LLC Protect You?**
+## How Does an LLC Protect You?
 
 LLCs give owners personal liability protection. This is the whole reason why they are called Limited Liability Companies in the first place. 
 
@@ -64,7 +62,7 @@ Personal assets include things like your real estate, vehicles, investments, and
 
 Nothing on LLCPalace is legal advice. So, plan accordingly and speak with business lawyers, legal experts, and financial advisors. As your source of the best easy-to-understand business information, we at LLCPalace wish you much success in your journey. 
 
-**LLC Structure**
+## LLC Structure
 
 Use an LLC to suit your needs.
 
@@ -96,10 +94,9 @@ There is no restriction to the number of members you can have.
 
 LLCs offer a wide range of management options. You can do anything from hiring third-party managers to managing the whole LLC by yourself. The Management system you choose will fall into one of two categories:
 
-*   Internal Management  
-      
+1.  Internal Management  
     
-*   External Management
+2.  External Management
 
 If you want your LLC managed from the inside, you or a fellow Owner (Member) oversees operations. This gives you direct say over how your LLC runs. 
 
@@ -111,7 +108,7 @@ If this is the case, you can hire outside managers for your LLC. This option put
 
 This is usually done through a third-party management service focusing on optimization and efficiency. But, you also have the option of hiring a private expert to manage your LLC.
 
-**Articles of Organization and Operation Agreement**
+## Articles of Organization and Operation Agreement
 
 Other parts of the structure you should consider before you go all-in on an LLC are the Articles of Organization and an Operation Agreement. 
 
@@ -121,11 +118,11 @@ Operation agreements cover the more detailed, finer inner workings of your LLC. 
 
 For your Articles of Organization, you’ll need the following: 
 
-*   Full legal names of all Members and any managers you expect to hire.  
+-  Full legal names of all Members and any managers you expect to hire.  
      
-*   The name and address of your LLC’s registered agent who will receive the required paperwork and forms from the government. This will be your point of contact to your State.    
+-   The name and address of your LLC’s registered agent who will receive the required paperwork and forms from the government. This will be your point of contact to your State.    
     
-*   The unique name of your LLC and the address of its main location/headquarters. 
+-   The unique name of your LLC and the address of its main location/headquarters. 
 
 The Articles of Organization identify your LLC’s focus and general structure. This document doesn’t require full Member approval because it is the LLC itself.
 
@@ -137,10 +134,9 @@ You must submit Articles of Organization, but an Operating Agreement is optional
 
 Whether or not you write out an explicit operating agreement, you do need a plan of action. It is through following this plan, and the relevant government regulations that you receive the available liability protections.
 
-**LLC Voting Rights**
+## LLC Voting Rights
 
 The influence a Member has over the decision-making process is typically relative to how much they invested in the business.
-
   
 As an example, you and a buddy have an awesome idea for an LLC. All that’s needed is a source of funding to kick things off. 
 
@@ -156,7 +152,7 @@ This is not an optimal scenario, but it might not be such a bad idea since he pr
 
 If each member’s strength in the decision-making process isn’t clearly laid out in your Operation Agreement, you will have to abide by the LLC voting rights outlined by your state.
 
-**How Do Owners Get Paid?**
+## How Do Owners Get Paid?
 
 Members choose the payout process of the LLC. 
 
@@ -164,10 +160,9 @@ There are two ways the payments can happen. There are other special setups but t
 
 The two options you are likely to choose from are: 
 
-*   Owners Draws  
-      
+1.   Owners Draws      
     
-*   Unique Payment Plan
+2.   Unique Payment Plan
 
 Draws are taken proportionally to each Members’ initial investment in the LLC. The greater a member’s percentage of company ownership, the more that member is paid. 
 
@@ -179,7 +174,7 @@ Whichever way you decide to do it, the tax submission process is streamlined. Th
 
 The classic way for default LLCs to be taxed is through the Pass-Through Process. The details of this method are covered in a separate article.
 
-**Registering an LLC**
+## Registering an LLC
 
 If everything you’ve read until now makes sense, creating your very own LLC is well within your capabilities.
 
@@ -201,29 +196,29 @@ They know the laws.
 
 They know what’s in your business’s best interest (assuming you consult the right people). Plus, they know the relevant loopholes and tricks you can use to your advantage.
 
-**LLCs Compared to Other Entities** 
+## LLCs Compared to Other Entities 
 
 The following comparisons are in order of least to most complicated.
 
-*   __LLC vs SoleProprietorship__
+#### -   LLC vs Sole Proprietorship
 
 SPs don’t offer any liability protection. LLCs do offer personal liability protection, hence the name: Limited Liability Company. 
 
 Sole Proprietorships are businesses owned and operated by one “sole” individual. With an LLC you have the option of having multiple Members who own the company.
 
-*   __LLC vs Partnership__
+#### -   LLC vs Partnership
 
 A Partnership is a business run by a pair of owners, also known as Parters. There is no limit to the number of Members or Owners of an LLC.
 
 With LLCs, you have the added option of ownership by other organizations or entities instead of just people.
 
-*   __LLC vs S-Corp__
+#### -    LLC vs S-Corp
 
 The term S-Corporation (S-Corp) merely refers to a tax classification that an LLC can file as. LLCs, on the other hand, are business entities themselves. 
 
 S-Corps are just a specialized variant of an LLC that undergoes a different tax process. 
 
-*   __LLC vs Corporation__
+#### -   LLC vs Full-On Corporation
 
 Corporations have a complicated registration process relative to an LLC. LLCs don’t need to file as much paperwork. 
 
@@ -233,19 +228,19 @@ Corporations are a better option for established companies. LLCs are great for s
 
 As an LLC you have the added opportunity of changing your tax status to a Corporation once your business has become more established. 
 
-**In Conclusion…** 
+## In Conclusion… 
 
-*   LLCs are the most popular business structure registered today.
-*   The LLC is easy to manage because it is the simplest, most adaptable business entity.
-*   The Pass-Through Process of taxation for default LLCs is much easier than other business types. 
-*   LLCs provide numerous tax benefits, one of which is avoiding Doube Taxation.
-*   On top of all of this, you will be able to protect ya neck in the unfortunate event things take a turn for the worse. 
+-   LLCs are the most popular business structure registered today.
+-   The LLC is easy to manage because it is the simplest, most adaptable business entity.
+-   The Pass-Through Process of taxation for default LLCs is much easier than other business types. 
+-   LLCs provide numerous tax benefits, one of which is avoiding Doube Taxation.
+-   On top of all of this, you will be able to protect ya neck in the unfortunate event things take a turn for the worse. 
 
 All of this and more come when you run your business with an LLC. 
 
 It could never be easier with so many companies providing services to help entrepreneurs set up LLCs. 
 
-We wish much success for you and your business.
+**We wish much success for you and your business.**
 
 DISCLAIMER:
 
