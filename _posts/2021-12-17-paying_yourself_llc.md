@@ -12,7 +12,7 @@ If something gets screwed up, there’s probably a way to fix it. But, it would 
 
 With the boring stuff out of the way, let’s get on to what you’re really here for:
 
-**Getting Paid**
+## Getting Paid
 
 Entrepreneurs choose to start their first LLC to control how much they make. Owners aren’t relying on someone else to get paid. Entrepreneurs are not dependent on superiors for their checks. 
 
@@ -22,7 +22,7 @@ What you make as an entrepreneur represents the fruits of all your labor in gett
 
 The question becomes: 
 
-How do I get my hands on my hard-earned cash?
+__How do I get my hands on my hard-earned cash?__
 
 Different business entities come with different ways of getting you your money. How you decide to pay yourself depends on a few key factors. The type of entity you're operating also affects how it’s viewed by the government and what taxes you’ll end up paying. 
 
@@ -40,7 +40,7 @@ DISCLAIMER:
 
 Always speak with legal professionals, financial advisors, and CPAs/lawyers before making binding decisions such as your business entity, how much you should make personal, when/how to pay taxes, etc.
 
-**How Do I Pay Myself From My LLC?**
+## How Do I Pay Myself From My LLC?
 
 How you get paid out from your LLC depends on how it’s set up and operated. 
 
@@ -52,19 +52,17 @@ Here, in this article, we will discuss Default LLCs since it’s much more effic
 
 You’ll learn about the different variations of LLC, examples of how the finances work, and their respective taxes.
 
-Default LLCs include:
+#### Default LLCs include:
 
-*   Single Member LLCs  
+1.   Single Member LLCs  
       
-    
-*   Multi-Member LLCs
+2.   Multi-Member LLCs
 
-Specialty LLCs include:
+#### Specialty LLCs include:
 
-*   S-Corporations  
-      
+1.   S-Corporations  
     
-*   C-Corporations
+2.   C-Corporations
 
 Default LLCs fall in the same tax category as Sole Proprietorships. Both are considered Disregarded Entities. The only real difference between the two is personal Liability Protection.
 
@@ -78,7 +76,7 @@ Some states have special laws when it comes to Owner’s Draws. This is one of m
 
 Keep reading for more details on how to collect your cash the Right WAY. 
 
-**Default LLCs**
+## Default LLCs
 
 There are Single-Member LLCs and Multi-Member LLCs. If two people run an LLC it is viewed as a Partnership. More than two and it is technically viewed as a Corporation. 
 
@@ -88,7 +86,7 @@ The way an LLC owner gets paid depends on different variables. Things like how m
 
 But first, we have one pressing question:
 
-*What is an LLC, really?*
+### What is an LLC, *really?*
 
 Single-Member and Multi-Member LLCs are taxed the same way as Sole Proprietorships and Partnerships, respectively. 
 
@@ -118,7 +116,7 @@ Just be sure not to “draw” too much money out of your LLC as it would destro
 
 To put it differently, make sure you always leave enough money in your business so it doesn’t become undercapitalized. If you’re unable to maintain operations, pay debts, or fight legal battles, you could possibly lose personal assets like your house, car, even investments.
 
-*Is Pass-Through Taxation right for me?*
+### Is Pass-Through Taxation right for me?
 
 Pass-Through Taxation is good if you’re getting your business up and moving. When you’re starting it’s important to reinvest the majority of profits back into your business. Focus on scaling it up, initially. 
 
@@ -128,7 +126,7 @@ Later on, when you’re making some serious money, you can always decide to swit
 
 In some cases, the Pass-Through method can be more advantageous. The cost of payroll services and accounting (which are requirements of S-Corp and C-Corp Taxation) may be more expensive than the tax benefits you would receive with an S-Corp or C-Corp setup. 
 
-*How Do LLC Taxes Work?*
+### How Do LLC Taxes Work?
 
 Let’s say you recently began operations and your business is off to a good start bringing in net profits of 10,000USD annually. Nice! 
 
@@ -156,7 +154,7 @@ After the Self-Employment Tax, the remainder of the distribution/draw (2,000USD)
 
 So get to work and make this example seem like rookie stuff.
 
-**Single Member LLCs**
+### Single Member LLCs
 
 In a Single-Member LLC, all the money gets split between you, your business, and the Feds. 
 
@@ -186,7 +184,7 @@ On top of that, going the corporate route has its drawbacks. Generally speaking,
 
 As the Owner of a Single-Member LLC, you can get taxed as a Corporation. Or, if you don’t want that, you’ll fall under the default taxation of LLCs where your company is seen as a disregarded entity.
 
-**Multi-Member LLCs**
+## Multi-Member LLCs
 
 The biggest difference between Single Member and Multi-Member LLCs:
 
@@ -250,7 +248,7 @@ Weekly, Semi-Monthly, Bimonthly, Monthly.
 
 Every state has its payroll schedule and payment periods. So, just make sure you decide based on the options available in your State.
 
-**How Much Should I Pay Myself?**
+## How Much Should I Pay Myself?
 
 You wanna know how to get into a lot of trouble very quickly? 
 
@@ -274,16 +272,13 @@ To find out what is reasonable by society’s standards (I’m not saying that y
 
 Additionally, you should consider the following:
 
-*   What is a reasonable payout based on the market you’re in?  
-      
+-   What is a reasonable payout based on the market you’re in?  
     
-*   What’s the cost of living where you live?  
-      
+-   What’s the cost of living where you live?    
+  
+-  How much have you invested in your business?  
     
-*   How much have you invested in your business?  
-      
-    
-*   How in-demand is whatever you’re selling? 
+-   How in-demand is whatever you’re selling? 
 
 As time goes on, you might need to downsize your lifestyle if you see your business isn’t producing what you expected it to. You shouldn’t run your business into the ground just to support a lifestyle that isn’t financially practical right now. 
 
@@ -319,7 +314,7 @@ Hopefully, with enough profit remaining after all of the business expenses, paym
 
 On the flip side, if the remaining profits aren’t so much, you may have to re-evaluate your lifestyle choices and part ways with some of your discretionary expenses, and maybe even downsize or limit your non-discretionary expenses. 
 
-**Cha-Ching!**
+## Cha-Ching!
 
 Cut that check! 
 
