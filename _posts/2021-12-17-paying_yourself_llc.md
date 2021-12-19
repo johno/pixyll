@@ -22,7 +22,7 @@ What you make as an entrepreneur represents the fruits of all your labor in gett
 
 The question becomes: 
 
-*How do I get my hands on my hard-earned cash?
+*How do I get my hands on my hard-earned cash?*
 
 Different business entities come with different ways of getting you your money. How you decide to pay yourself depends on a few key factors. The type of entity you're operating also affects how it’s viewed by the government and what taxes you’ll end up paying. 
 
