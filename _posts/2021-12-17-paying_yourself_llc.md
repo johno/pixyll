@@ -210,7 +210,7 @@ Luckily, the Federal government has made it easy for you to give them your money
 
 It’s a good idea to pay taxes every three months (quarterly) to stay on top of things and be more aware of your business’s financial movements. 
 
-**Okay, so When Do I Get the Money?**
+*Okay, so When Do I Get the Money?*
 
 Defaut LLC Owners (both single-member and multi-member) get paid through Owner’s Draws. You also have the option of getting paid through a combination of a Salary and Dividends.
 
