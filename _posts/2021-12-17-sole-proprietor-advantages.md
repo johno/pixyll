@@ -6,7 +6,7 @@ summary:
 permalink: /sole-proprietorship-advantages/
 ---
 
-**What is a Sole Proprietorship?**
+## What is a Sole Proprietorship?
 
 To put it simply, Sole Proprietorships are business entities owned and managed by a single person. Even though there’s a single owner, there can be employees working within the business. If you are married you can make what is called a Co-Sole Proprietorship with your spouse. Sole proprietorships are the simplest of business entities.
 
@@ -30,16 +30,17 @@ It’s important for anyone thinking of going this route to speak with a lawyer 
 
 If you want to use a DBA (Doing Business As…) a.k.a. Fictitious name, you’ll need to register it in most states. A fictitious name or DBA is any business name that isn’t identical to your legal name. Registering a DBA is done through your local county clerk office or your state government, depending on which state you’re doing business in. Some states don’t even need you to register a DBA. If you will be doing business in multiple states you’re going to go through the Department of Commerce in Washington, D.C. 
 
-**Advantages of Sole Proprietorships**  
+## Advantages of Sole Proprietorships
+
 The Pros of Sole Proprietorships include:
 
-Simple to Create
+#### - Simple to Create
 
 It’s easy to form a Sole proprietorship. All you have to do is get the business moving (and be the only one in charge of it). Since there are very few restrictions and forms involved in establishing a Sole Proprietorship, you can quickly get the business up and running. 
 
 There’s also the bonus of not having to pay yearly business registration fees for the Sole Proprietorship. You don’t even have any registration fees in the first place. This is a benefit that LLCs and Corporations don’t receive. They have to pay registration and filing fees and then, pay those fees every year to keep things running. “The cost of doing business” as it’s called.
 
-Maximum Ownership and Control
+#### - Maximum Ownership and Control
 
 You will have total control over the profits of your company. As the owner, you control and own everything. In a sense, by being a Sole Proprietor, you are the business. 
 
@@ -49,7 +50,7 @@ You will have the ability to make decisions and changes to the business on a day
 
 One thing that comes with all of this control is not having to disclose and report everything to the government. This is privacy is an advantage over LLCs and Corporations who are required to keep everything up-to-date and accessible to the government. 
 
-Quick Dissolving Process
+#### - Quick Dissolving Process
 
 It is easy to get out of the business when you pretty much are the business, in the case of Sole Proprietorships. All it takes to “close the doors” is for the owner to stop operations, sell the business’s components, or by dying. Pretty simple. 
 
@@ -63,7 +64,7 @@ Sole Proprietors only have to pay individual tax rates on whatever they/their bu
 
 Having employees can provide tax benefits since paying employees counts as a business expense if certain criteria are met. 
 
-almost No Paperwork
+#### - Almost No Paperwork
 
 There aren’t any business licenses required to begin operating a Sole Proprietorship. There’s hardly any registration paperwork for this sort of business. Only under special circumstances do you have to register with your state. You are the business in a Sole Proprietorship. 
 
@@ -73,11 +74,11 @@ Being the owner of a Sole Proprietorship, there is no requirement to keep incorp
 
 The only real forms and requirements depend on what you are providing. Some products and services need licenses and permits to be sold. This is on a case-by-case and state-by-state basis. 
 
-**Disadvantages of Sole Proprietorships**
+## Disadvantages of Sole Proprietorships
 
 The Cons of Sole Proprietorships include:
 
-Liability
+#### - Liability
 
 Conducting business as a Sole Proprietorship means you will be personally liable for your business’s debts, legal problems, taxes, and decisions. This means the risk is increased for all of the business’s decisions and activities since all of the responsibility lies “solely” on you, the owner. 
 
@@ -89,7 +90,7 @@ If something goes down and the business can’t afford to remain operational, cr
 
 For these reasons, it may be a good idea to get special insurance to cover injuries or physical losses which have the potential to cease operations.
 
-Functionality
+#### - Functionality
 
 Let’s say you want more people to join in on owning parts of your business, you wouldn’t be able to keep it a Sole Proprietorship. If you want other owners or shareholders involved you have to first dissolve the business entity of Sole Proprietorship and reform it as a Partnership, LLC, or Corporation. 
 
@@ -99,7 +100,7 @@ Another thing to keep in mind is if the owner leaves the business or dies, the b
 
 In the event the owner dies, anything of value that goes to the family or anyone written in the will of the owner will undergo Inheritance Tax. This automatically lowers the value moving into the inheritors’ hands. 
 
-Finances
+#### - Difficult to Get Funding
 
 To initiate the business, you have to pay for everything yourself. You are unable to receive outside investment income to begin operations. Funding is dependent on your investments, credit history, and financial background. You also can’t decide to issue stocks/shares for the Sole Proprietorship later on. 
 
@@ -113,7 +114,7 @@ There’s another thing to keep in mind before getting right into business. This
 
 Before making binding financial decisions, it is recommended that you speak with a CPA, a Certified Public Accountant. 
 
-Difficult to Sell
+#### - Difficult to Sell
 
 It was mentioned earlier that the ways out of a Sole Proprietorship include: death of the owner, selling the business, or ceasing operations. This is mostly a disadvantage because someone else can’t just come along and pick up where the original owner left off. Selling a Sole Proprietorship is not a simple task. 
 
@@ -125,7 +126,7 @@ All of this is to say that you can sell or transfer a sole proprietorship if you
 
 Sole Proprietorships are great if you seek total control over your business, but not so great if you want to eventually transfer that control over to someone else. 
 
-**Sole Proprietorship Income and Taxation**
+## Sole Proprietorship Income and Taxation
 
 Sole Proprietorship income is treated as if it were any old personal income. 
 
