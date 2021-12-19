@@ -54,7 +54,7 @@ One thing that comes with all of this control is not having to disclose and repo
 
 It is easy to get out of the business when you pretty much are the business, in the case of Sole Proprietorships. All it takes to “close the doors” is for the owner to stop operations, sell the business’s components, or by dying. Pretty simple. 
 
-Single Taxation
+#### - Single Taxation
 
 In most states, there is no need to file taxes separate from your regular personal tax returns. All you would have to do is report any profits made or losses from the business on your personal income tax return. 
 
