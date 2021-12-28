@@ -6,12 +6,6 @@ summary: How Do LLC Owners Get Paid?
 permalink: /paying-yourself-llc/
 ---
 
-A little DISCLAIMER before we dive into things: You should always speak with a financial advisor, lawyer, or other business professionals before making any long-lasting decisions. 
-
-If something gets screwed up, there’s probably a way to fix it. But, it would be better to make informed decisions so mistakes are minimized (and so you don’t get sued and lose a bunch of money).
-
-With the boring stuff out of the way, let’s get on to what you’re really here for:
-
 ## Getting Paid
 
 Entrepreneurs choose to start their first LLC to control how much they make. Owners aren’t relying on someone else to get paid. Entrepreneurs are not dependent on superiors for their checks. 
@@ -38,7 +32,11 @@ The metaphorical cards are in your hands when it comes to how much you make as a
 
 DISCLAIMER:
 
-Always speak with legal professionals, financial advisors, and CPAs/lawyers before making binding decisions such as your business entity, how much you should make personal, when/how to pay taxes, etc.
+You should always speak with a financial advisor, lawyer, or other business professionals before making any long-lasting decisions. 
+
+If something gets screwed up, there’s probably a way to fix it. But, it would be better to make informed decisions so mistakes are minimized (and so you don’t get sued and lose a bunch of money).
+
+With the boring stuff out of the way, let’s get on to what you’re really here for:
 
 ## How Do I Pay Myself From My LLC?
 
