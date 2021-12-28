@@ -3,7 +3,7 @@ layout: post
 title: What Does LLC Mean and How Do They Work?
 date: 2021-12-17
 summary: LLC stands for Limited Liability Company.  
-permalink: /what_does_llc_mean/
+permalink: /what-does-llc-mean/
 ---
 
 The many Owners of an LLC are referred to as Members. With the standard setup, Members receive the limited liability protection of a Corporation while paying taxes as if they were partners in a Partnership. This being the case, LLCs undergo the Pass-Through Process of taxation.
