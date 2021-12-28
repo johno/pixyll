@@ -2,7 +2,7 @@
 layout: post
 title: Sole Proprietorship Advantages
 date: 2021-12-17
-summary: Is the Sole Proprietorship the best type of business for you?
+summary: Is a Sole Proprietorship the best type of business for you?
 permalink: /sole-proprietorship-advantages/
 ---
 
