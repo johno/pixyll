@@ -14,7 +14,9 @@ Since LLCs are so flexible and simple to use, it’s no surprise that there are 
 
 ## General LLC Information
 
-Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. **You’re in control.** 
+Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. 
+
+**You’re in control.** 
 
 You decide how the taxes are filed. 
 
