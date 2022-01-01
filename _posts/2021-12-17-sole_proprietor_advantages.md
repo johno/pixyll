@@ -28,7 +28,11 @@ Information regarding how to collect your profits and pay your taxes in a Sole P
 
 It’s important for anyone thinking of going this route to speak with a lawyer or financial advisor before making major decisions. It is important to know what you’re getting yourself into and what is required of you in the different business entities and depending on which state you’re going to operate in. For example, some products and services need special permits and licenses to be sold in certain states. 
 
-If you want to use a DBA (Doing Business As…) a.k.a. Fictitious name, you’ll need to register it in most states. A fictitious name or DBA is any business name that isn’t identical to your legal name. Registering a DBA is done through your local county clerk office or your state government, depending on which state you’re doing business in. Some states don’t even need you to register a DBA. If you will be doing business in multiple states you’re going to go through the Department of Commerce in Washington, D.C. 
+If you want to use a DBA (Doing Business As…) a.k.a. Fictitious name, you’ll need to register it in most states. A fictitious name or DBA is any business name that isn’t identical to your legal name. Registering a DBA is done through your local county clerk office or your state government, depending on which state you’re doing business in. Some states don’t even need you to register a DBA. If you will be doing business in multiple states you’re going to go through the Department of Commerce in Washington, D.C.
+
+DISCLAIMER:
+
+LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
 
 ## Advantages of Sole Proprietorships
 
@@ -139,3 +143,7 @@ Additionally, since you are a sole-proprietor and are fully responsible for all 
 It all may sound complicated and overwhelming right now but be assured it’s not. There is a system to this. Thousands of people have used this system and have become very successful with time. If you really want something you can make it happen. 
 
 The only thing standing between you and the life you desire is yourself.
+
+DISCLAIMER:
+
+LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
