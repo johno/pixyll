@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pay Myself From My LLC?
-date: 2021-12-17
+date: 2022-01-02
 summary: How Do LLC Owners Get Paid?
 permalink: /paying-yourself-llc/
 ---
