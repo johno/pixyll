@@ -8,7 +8,9 @@ permalink: /what-does-llc-mean/
 
 Members (a.k.a. Owners) of Limited Liability Companies receive the limited liability protection of a Corporation while paying the taxes of a Partnership.
 
-An LLC’s personal liability protection is what keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from business debts or lawsuits. Taxes are paid through the Pass-Through Process with the standard set-up, but there are options to upgrade your tax status.
+An LLC’s personal liability protection is what keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from business debts or lawsuits. 
+
+Taxes are paid through the Pass-Through Process with the standard set-up, but there are options to upgrade your tax status.
 
 Since LLCs are so flexible and simple to use, it’s no surprise that there are millions of active LLCs with new ones being created every day.
 
