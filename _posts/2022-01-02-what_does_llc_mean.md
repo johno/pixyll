@@ -6,7 +6,7 @@ summary: LLC stands for Limited Liability Company.
 permalink: /what-does-llc-mean/
 ---
 
-LLC owners are referred to as Members. By default, Members receive the limited liability protection of a Corporation while paying the taxes of a Partnership.
+LLC Members (a.k.a. Owners) receive the limited liability protection of a Corporation while paying the taxes of a Partnership.
 
 An LLC’s personal liability protection is what keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from business debts or lawsuits. Taxes are paid through the Pass-Through Process with the standard set-up, but there are options to upgrade your tax status.
 
@@ -26,13 +26,13 @@ You decide how much and how often you want to get paid.
 
 The LLC is the easiest, legally recognized business entity to operate. 
 
-Professionals and novices alike prefer LLCs because of the combination of simplicity and the authority they offer. Now, you’re not going to lose the option of becoming a Corporation in the future, but in the meantime, you’re probably better off starting as an LLC.
+Professionals and novices alike prefer LLCs because of the combination of simplicity and the authority they offer. 
 
 Your business success is limited by your decisions and the actions you take.
 
 Another huge reason why someone chooses an LLC over any other entity is the legal and financial protection it offers. Not to mention all of the tax benefits that come with operating a Disregarded Entity.
 
-LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types.
+LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types. You won't lose the option of becoming a Corporation in the future, but in the meantime, you’re probably better off starting as an LLC.
 
 ## How Does an LLC Protect You?
 
