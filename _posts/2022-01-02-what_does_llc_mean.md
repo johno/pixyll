@@ -10,7 +10,7 @@ Members (a.k.a. Owners) of Limited Liability Companies receive the limited liabi
 
 An LLC’s personal liability protection is what keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from business debts or lawsuits. 
 
-Taxes are paid through the Pass-Through Process with the standard set-up, but there are options to upgrade your tax status.
+Taxes are paid through the Pass-Through Process with the standard setup, but there are options to upgrade your tax status.
 
 Since LLCs are so flexible and simple to use, it’s no surprise that there are millions of active LLCs with new ones being created every day.
 
