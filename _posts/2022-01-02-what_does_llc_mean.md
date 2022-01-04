@@ -6,23 +6,23 @@ summary: LLC stands for Limited Liability Company.
 permalink: /what-does-llc-mean/
 ---
 
-The many Owners of an LLC are referred to as Members. With the standard setup, Members receive the limited liability protection of a Corporation while paying taxes as if they were partners in a Partnership. This being the case, LLCs undergo the Pass-Through Process of taxation.
+LLC owners are referred to as Members. By default, Members receive the limited liability protection of a Corporation while paying the taxes of a Partnership.
 
-An LLC’s personal liability protection keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from any business debts or lawsuits.
+An LLC’s personal liability protection is what keeps your personal assets (house, car, personal bank accounts, investments, etc.) safe from business debts or lawsuits. Taxes are paid through the Pass-Through Process with the standard set-up, but there are options to upgrade your tax status.
 
 Since LLCs are so flexible and simple to use, it’s no surprise that there are millions of active LLCs with new ones being created every day.
 
-## General LLC Information
+## Basic LLC Info
 
 Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. 
 
 **You’re in control.** 
 
-You decide how the taxes are filed. 
+You file taxes how you want. 
 
-You’re in charge of how the management is arranged. 
+You arrange the management how you want. 
 
-You are the one who chooses how much and how often you get paid. 
+You decide how much and how often you want to get paid. 
 
 The LLC is the easiest, legally recognized business entity to operate. 
 
