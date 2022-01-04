@@ -6,11 +6,21 @@ summary: The details of Sole Proprietorships and Limited Liability Companies - W
 permalink: /sole-proprietorship-vs-llc/
 ---
 
+In one sentence:
+
+**Sole Proprietorships offer ease of setup at the cost of liability protection whereas LLCs offer liability protection and tax options at the cost of having to go through your state's registration process.** 
+
+Kind of a run-on sentence, but a sentence nonetheless.
+
+Continue reading for a deeper look into the costs and benefits of these businesses.
+
 ## Sole Proprietorships vs Limited Liability Companies
 
 In your search for financial independence you realize you need to start making moves. Your first step in this case is starting a business.
 
-The question then becomes, which type of business do you want to operate as. There are plenty of options, but which one is the best for you? 
+With so many options, the question becomes: 
+
+Which one will be the best for you? 
 
 If you plan on being the only owner of your business then you have two options: 
 
@@ -21,8 +31,6 @@ If you plan on being the only owner of your business then you have two options:
 You can think of it like this: 
 
 Sole Proprietorships are for side-hustles and LLCs are for full-on operations. This is just a generalization and, like most things, there are many exceptions. 
-
-Continue reading to find out the details of each type and compare the potential benefits you’ll receive and the cost of adopting either. 
 
 These are two of the most popular business entities among professionals and novices alike. 
 
@@ -256,13 +264,7 @@ There are so many tax advisors, business professionals, and lawyers who are know
 
 Make sure to speak with legitimate experts such as these (not just your friends and family) before making any binding decisions. They have seen what works and what doesn’t. They know what will work best based on your unique needs.
 
-With regards to Sole Proprietorships vs Limited Liability Companies, to break it down as simply as possible in one sentence:
-
-**Sole Proprietorships offer ease of setup at the cost of liability protection whereas LLCs offer liability protection and tax options at the cost of having to go through the registration process with your state.** 
-
-Kind of a run-on sentence, but a sentence nonetheless.
-
-LLCPalace hopes this helps you in your journey and wish you much success. Good Luck!
+LLCPalace wishes you much success in your journey. Good Luck!
 
 DISCLAIMER: 
 
