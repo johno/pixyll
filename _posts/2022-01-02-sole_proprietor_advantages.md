@@ -108,7 +108,7 @@ In the event the owner dies, anything of value that goes to the family or anyone
 
 To initiate the business, you have to pay for everything yourself. You are unable to receive outside investment income to begin operations. Funding is dependent on your investments, credit history, and financial background. You also can’t decide to issue stocks/shares for the Sole Proprietorship later on. 
 
-Attaining additional loans can prove difficult if you personally don’t have high enough credit. Personal loans are also risky for Sole Proprietors. Taking out a personal loan means you’re putting your assets on the line if things turn sour and the bank wants their money back. They can come after your personal property. 
+Attaining additional loans can prove difficult if you don’t have high enough credit. Personal loans are also risky for Sole Proprietors. Taking out a personal loan means you’re putting your assets on the line if things turn sour and the bank wants their money back. They can come after your personal property. 
 
 Banks want to work with established companies who have been in the “business” of being a business and have a strong credit history. Sole proprietors cannot build business credit because Sole Proprietorships aren’t seen as business entities financially. This means the owner can’t get business credit cards and bank accounts.
 
@@ -124,7 +124,7 @@ It was mentioned earlier that the ways out of a Sole Proprietorship include: dea
 
 It is nearly impossible for you to sell or pass your business over to someone else. Now, to be clear it’s only nearly impossible to sell, not completely impossible. You have the option to break the business up into its assets and sell those. 
 
-You cannot just sell the business as a single entity. Remember, in a Sole Proprietorship you, the owner, are the business, you yourself are the entity. You cannot pass over the name because it’s your name. This is the case unless you have a registered DBA (“doing business as” name) and you sell/transfer that name over to the buyer of your business.
+You cannot just sell the business as a single entity. Remember, in a Sole Proprietorship you, the owner, are the business. You are the entity. You cannot pass over the name because it’s your name. This is the case unless you have a registered DBA (“doing business as” name) and you sell/transfer that name over to the buyer of your business.
 
 All of this is to say that you can sell or transfer a sole proprietorship if you really want to but it is much more complex than selling or transferring a business entity that is officially registered and recognized.
 
@@ -140,10 +140,12 @@ After this, you’ll need a [1040-ES Form](https://www.irs.gov/pub/irs-pdf/f1040
 
 Additionally, since you are a sole-proprietor and are fully responsible for all aspects of your business, you have to make sure you are paying Payroll Tax, State income taxes (All states excluding AK, TN, FL, NH, SD, WY, TX, WA, & NV), and maybe even city income taxes if your city has them.
 
-It all may sound complicated and overwhelming right now but be assured it’s not. There is a system to this. Thousands of people have used this system and have become very successful with time. If you really want something you can make it happen. 
+It all may sound complicated and overwhelming right now but be assured it’s not. There is a system to this. Thousands of people have used this system and have become very successful with time. 
+
+If you really want something you can make it happen. 
 
 The only thing standing between you and the life you desire is yourself.
 
 DISCLAIMER:
 
-LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
+LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
