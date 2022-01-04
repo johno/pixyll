@@ -16,7 +16,7 @@ Continue reading for a deeper look into the costs and benefits of these business
 
 ## Sole Proprietorships vs Limited Liability Companies
 
-In your search for financial independence you realize you need to start making moves. Your first step in this case is starting a business.
+In your search for financial independence, you realize you need to start making moves. Your first step in this case is starting a business.
 
 With so many options, the question becomes: 
 
@@ -108,7 +108,7 @@ If banks, creditors, or lawyers come collecting anything the business owes, your
 
 They are only allowed to take from assets belonging to the company and can’t touch what’s yours.
 
-This _limited_ liability protection is only effective when you clearly distinguish between business and personal finances. By doing this, the company stands alone as its own entity with its own profits/losses, property, and debts. 
+This _limited_ liability protection is only effective when you clearly distinguish between business and personal finances. By doing this, the company stands alone as its own entity, with its own profits/losses, property, and debts. 
 
 The LLC is a completely separate entity from its Members(s).
 
@@ -132,11 +132,11 @@ Here are a few of the key steps:
 
 #### Name Your LLC
 
-When coming up with a name it’s important that it is unique. You can check the availability of the name you have in mind by doing a quick name search onine.
+When coming up with a name it’s important that it is unique. You can check the availability of the name you have in mind by doing a quick name search online.
 
 #### File for an EIN
 
-EIN stands for Employer Identification Number. This is basically an ID number for your business.
+EIN stands for Employer Identification Number. This is an ID number for your business.
 
 An EIN is necessary for you to pay taxes, open a business bank account, and complete the rest of the registration process. 
 
@@ -212,7 +212,7 @@ Since Sole Proprietorships don’t distinguish between business and personal fin
 
 ### Total Control
 
-With a Sole Proprietorship, you are totally responsible for all aspects of the business. 
+With a Sole Proprietorship, you are personally responsible for all aspects of the business. 
 
 One major benefit of this is the amount of control you have since you’re legally viewed as the business itself. 
 
@@ -260,7 +260,7 @@ By knowing the different types of business that are available, you can make an i
 
 Fortunately, there are hundreds of companies across the US and online that focus specifically on helping entrepreneurs get new businesses set up and registered with their state.
 
-There are so many tax advisors, business professionals, and lawyers who are knowledgeable of the details each entity and how they work depending on the state. 
+There are so many tax advisors, business professionals, and lawyers who are familliar with the details of each entity and how they work depending on the state. 
 
 Make sure to speak with legitimate experts such as these (not just your friends and family) before making any binding decisions. They have seen what works and what doesn’t. They know what will work best based on your unique needs.
 
@@ -268,4 +268,4 @@ LLCPalace wishes you much success in your journey. Good Luck!
 
 DISCLAIMER: 
 
-Any information on LLCPalace is not legal or financial advice. Talk to people who know what they’re talking about and use your own judgment.
+Any information on LLCPalace is not legal or financial advice. Talk to people who know what they’re talking about and use your judgment.
