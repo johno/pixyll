@@ -110,7 +110,7 @@ The reason I write “yours” in quotes is you still have to pay Self-Employmen
 
 God Bless America! 
 
-Just be sure not to “draw” too much money out of your LLC as it would destroy your corporate veil. Doing so voids your personal limited liability. 
+Just be sure not to “draw” too much money out of your LLC as it would destroy your corporate veil. Doing so voids your limited liability protection. 
 
 To put it differently, make sure you always leave enough money in your business so it doesn’t become undercapitalized. If you’re unable to maintain operations, pay debts, or fight legal battles, you could possibly lose personal assets like your house, car, even investments.
 
@@ -146,7 +146,7 @@ Fortunately, there are more taxes. (I know it’s hard, but we have to be positi
 
 As the owner of a Single-Member LLC, you pay Self-Employment Tax on the 2,000USD.
 
-Self-Employment Tax is really two separate taxes that get put together under one name to make it more confusing. Self-Employment Tax is just a combination of Medicare and Social Security. 
+Self-Employment Tax is two separate taxes combined under one name to make it more confusing. Self-Employment Tax is just a combination of Medicare and Social Security. 
 
 After the Self-Employment Tax, the remainder of the distribution/draw (2,000USD) is all YOURS!
 
@@ -190,7 +190,7 @@ Multi Member LLC owners agree upon each individual’s portion (or share) at the
 
 Just as a single-member LLC owner get Draws by default, multi-member LLC owners get paid through Distributions. Each Member receives a percentage of the business’s profits based on the Operating Agreement contract. 
 
-The cash each member receives is their Personal Income. With Default LLC taxation, this money is subject to both income tax and self-employment tax, since Members are viewed as Self-Employed.
+The cash each member receives is categorized as Personal Income. With Default LLC taxation, this money is subject to both income tax and self-employment tax, since Members are viewed as Self-Employed.
 
 Multi-Member LLCs are set up with multiple owners or Members, as they’re called. 
 
@@ -250,7 +250,7 @@ Every state has its payroll schedule and payment periods. So, just make sure you
 
 You wanna know how to get into a lot of trouble very quickly? 
 
-Cash out your business completely and move all of it into your account. 
+Cash-out your business completely and move all of it into your account. 
 
 This is not good. Don’t do this.
 
@@ -302,7 +302,7 @@ Your personal budget includes goods and services you pay for on a daily, monthly
 
 Cost-of-living expenses include things like food, rent/mortgage, utilities, education, insurance and healthcare, credit card payments, car payments, internet and phone, memberships, restaurants, and the list goes on. You get the idea. 
 
-When figuring out your personal budget you should first calculate non-discretionary expenses before your discretionary expenses. 
+When figuring out your budget you should first calculate non-discretionary expenses before your discretionary expenses. 
 
 Non-discretionary expenses are non-negotiable. Things you must have to maintain quality of life. These are usually recurring, but they also include uncommon, unpredictable expenses like emergency medical bills. 
 
@@ -320,7 +320,7 @@ Now that you know your payment schedule and how much you are looking to take in,
 
 Just kidding.
 
-You’ll choose between getting a direct transfer deposit into your personal bank account, or by writing a check to yourself.
+You’ll choose between getting a direct transfer deposit into your bank account, or by writing a check to yourself.
 
 Good Luck!
 
