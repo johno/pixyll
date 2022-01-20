@@ -34,6 +34,7 @@ Check out the following list of Sole Proprietorships and think about how you can
 #### 16.  Housecleaner
 #### 17.  Creative Pursuits and Hobbies
 
+
 Starting a business requires time, effort, and money. 
 
 You don’t want to waste any of these. 
@@ -56,7 +57,7 @@ As long as you are operating using your legal name as the business’s name, you
 
 You should know that Sole Proprietorships don’t offer any protection. If financial and legal protection is something you want, you should look at Limited Liability Companies.
 
-[Here is how Sole Professorships compare to LLCs](https://www.llcpalace.com/sole-proprietorship-vs-llc/).
+[Here is how Sole Proprietorships compare to LLCs](https://www.llcpalace.com/sole-proprietorship-vs-llc/).
 
 By seeing some of the successful Sole Proprietorships in use today, you’ll get a practical understanding of Sole Proprietorships and learn the near-endless ways you can use one to begin your journey to financial independence.
 
@@ -337,7 +338,7 @@ If you are serisously considering hiring employees, you should look into upgradi
 
 ### Protection
 
-*All that glitters is not gold. 
+*All that glitters is not gold.* 
 
 Although Sole Proprietorships are the simplest business, you won’t receive any legal or financial protections from having one. This is the biggest downside of operating as a Sole Proprietorship.
 
