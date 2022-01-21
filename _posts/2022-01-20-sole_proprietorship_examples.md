@@ -20,16 +20,16 @@ Check out the following list of Sole Proprietorships and think about how you can
 #### 2.  Catering Service
 #### 3.  Direct Sales
 #### 4.  Graphic Designer
-#### 5.  Photographer, Videographer, Digital Editor
+#### 5.  Photographer, Videographer, or Digital Editor
 #### 6.  Computer and Cellphone Repair Service
 #### 7.  Financial Planner
-#### 8.  Virtual Assistant (VA
+#### 8.  Virtual Assistant (VA)
 #### 9.  Bookkeeper or Accountant
 #### 10.  Plumber or Electrician
 #### 11.  Landscaping and Lawncare
 #### 12.  Private Home Care
 #### 13.  Babysitter or Daycare
-#### 14.  Personal Trainor
+#### 14.  Personal Trainer
 #### 15.  Private Tutor
 #### 16.  Housecleaner
 #### 17.  Creative Pursuits and Hobbies
