@@ -357,7 +357,9 @@ Since you’re here checking out at Sole Proprietorships, you’ve probably alre
 
 The biggest differences between the two come down to the liability and financial protection they offer and the difficulty in setting them up.
 
-For more detailed information comparing Sole Proprietorships to LLCs, [Check out our article](https://www.llcpalace.com/sole-proprietorship-vs-llc/). 
+For more detailed information comparing Sole Proprietorships to LLCs:
+
+[**Check out our article**](https://www.llcpalace.com/sole-proprietorship-vs-llc/). 
 
 Being the simplest business with no registration or set-up fees, it’s no surprise why professional and novices alike choose to begin their businesses as Sole Proprietorships. 
 
@@ -375,7 +377,9 @@ Depending on what you have in mind you may require certain tools that Sole Propr
 
 The beginning stages of your business are vital to the future success and growth of your business. Starting out with the end in mind makes everything easier in the long run. It’s important to analyze your personal goals as well as your business and professional goals. 
 
-All-in-all Sole Proprietorships are very very easy. They’re popular because they’re easy. All you have to do to begin making money as a sole proprietor is: **START**. 
+All-in-all Sole Proprietorships are very very easy. They’re popular because they’re easy. All you have to do to begin making money as a sole proprietor is: 
+
+**START**. 
 
 On behalf of LLC Palace, we wish you much success.
 
