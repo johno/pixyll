@@ -67,7 +67,7 @@ Continue reading to see the popular Sole Proprietorships that entrepreneurs and 
 
 ## Sole Proprietorship Examples
 
-### Freelance Writer
+### 1. Freelance Writer
 
 One of the most popular and easiest businesses to get into is freelance writing. Doing it independently makes for a great sole proprietorship. 
 
@@ -77,28 +77,27 @@ If marketing and advertising sound appealing, you may enjoy being a copywriter w
 
 As long as you are good with your words, have an understanding of marketing and persuasion, plus some good old creative thinking, you may want to look into starting a freelance writing operation. 
 
-As time goes on you also have the option to upgrade your Sole Proprietorship to an LLC. This can perfect for if you ever want to expand and create your own publishing company or advertising agency. 
+As time goes on you also have the option to upgrade your Sole Proprietorship to an LLC. This is perfect for if you ever want to expand and create your own publishing company or advertising agency. 
 
-### Catering Service
+### 2. Catering Service
 
 It’s no secret, people like to party and eat good food. That’s why the foodservice industry is always in business.
 
 People have a consistent need for food. Starting a catering business makes everybody a potential customer. 
 
-Whether it’s for celebrations like graduations, weddings, holidays, or business events people enjoy being served food.  
-  
+Regardless of what it's for, people enjoy being served food. 
 
-If you are talented in the kitchen, you should look into supplying food for events like these. 
+If you are talented in the kitchen, you should look into supplying food for events like graduations, weddings, holidays, or business events 
 
-Opening catering business is no different than other Sole Proprietorships. You still need the correct licenses, permits, and certifications to conduct your business in the first place.
+Opening catering business is no different than the other Sole Proprietorships in our list. You still need the correct licenses, permits, and certifications to conduct your business in the first place.
 
 You don’t even have to be a good cook. As long as you can organize a team who can cook, you can provide your services where people want to eat and drink. 
 
-If you decide to expand your operations and assemble a team to cater to your guests (pun intended), you should check out Limited Liability Companies. 
+If you decide to expand your operations and assemble a team to cater to your guests, you should check out Limited Liability Companies. 
 
 In an LLC, employees are tax-deductible expenses. Not to mention the special tax benefits and liability protection you receive with an LLC that you won’t get with Sole Proprietorships.
 
-### Direct Sales
+### 3. Direct Sales
 
 You can set up an online sales funnel or sell products through magazines and newspapers to start a Sole Proprietorship. 
 
@@ -106,7 +105,7 @@ Copywriting services (direct sales in the written word) are needed by almost eve
 
 You will be fully responsible for the success of your business if you decide to start your own direct sales operation and work as an independent contractor. The same goes for the rest of the examples mentioned here.
 
-### Graphic Designer
+### 4. Graphic Designer
 
 Graphic design is needed by entrepreneurs and businesses who want their websites, logos, magazines, advertisements, and other media to appear their best.
 
@@ -114,7 +113,7 @@ One great benefit of graphic design is your ability to do it from anywhere becau
 
 With an understanding of graphic design and the creative vision to make your client’s ideas a reality, you can design artwork, illustrations, and content for public consumption.
 
-### Photographer, Videographer, or Digital Editor
+### 5. Photographer, Videographer, or Digital Editor
 
 People love capturing amazing memories with photos and videos. Whether it’s a vacation, wedding, or other celebration, there is a need for professional photographers. 
 
@@ -124,7 +123,7 @@ If you are better on the technical side of things you might consider being a pro
 
 The limit to how much you make doing a job like this is determined by how good you are at what you do and the market you specialize in. This same principle applies to all of the jobs in this list of Sole Proprietorship examples.
 
-### Computer and Cellphone Repair Service
+### 6.Computer and Cellphone Repair Service
 
 In the age of information and technology, almost everybody has a phone or computer. As we all know, these devices break and malfunction fairly easily. Many people prefer fixing their devices instead of paying more cash for the latest model.
 
@@ -134,7 +133,7 @@ This is a perfect opportunity for you to act as your own boss, work your own hou
 
 If you are good with technical, hands-on tasks and enjoy working with technology, you may find that starting a cellphone or computer repair service is the right thing for you. 
 
-### Financial Planner
+### 7.Financial Planner
 
 Financial planners help individuals, families, and companies, manage their profits and expenses. Whether it’s writing up an investment plan or it’s budgeting to save up for a large expense, you can help people and businesses manage their money. 
 
@@ -146,7 +145,7 @@ For companies, you can help them grow and maximize their profits by applying pro
 
 It’s important to have experience and competency in their area if you want to start a business doing it. Just like the other examples covered in this article, you need the necessary certifications and licenses to conduct such a business.
 
-### Virtual Assistant (VA)
+### 8. Virtual Assistant (VA)
 
 By now, you’re probably familiar with those little messages that pop up on a website asking if want live assistance when you first click on the page. 
 
@@ -156,7 +155,7 @@ VAs help entrepreneurs and business owners complete basic administrative tasks o
 
 You should consider being a Virtual Assistant if you can do simple tasks such as assisting customers to get information, going through emails, imputing data into spreadsheets, organizing incoming appointments, etc.
 
-### Bookkeeper or Accountant
+### 9. Bookkeeper or Accountant
 
 If you are good with numbers, data, are detail-oriented, and know spreadsheets already,  you may want to consider looking deeper into bookkeeping and accounting. 
 
@@ -170,7 +169,7 @@ A big benefit of both of these jobs is that they can be done remotely since you 
 
 The only drawback of accounting is you need special certification and licenses to be a legal accountant. As a bookkeeper, don’t need these certifications as long as you’ve got the right skills and experience.
 
-### Plumber or Electrician
+### 10. Plumber or Electrician
 
 Sole Proprietors working as plumbers or electricians are either independent contractors hired by construction companies and city departments or they focus their efforts as local professionals and provide their services to a community.
 
@@ -182,7 +181,7 @@ If you are more hands-on you might really enjoy this.
 
 Going this route does require that you are specially trained and certified. If you’re not up to learning about these industries you should look into one of the other options we’ve listed.
 
-### Landscaping and Lawncare
+### 11. Landscaping and Lawncare
 
 These services are almost always in need. It doesn’t matter the time of year, flowers are blooming, lawns are growing, leaves are falling, and snow is piling up. 
 
@@ -196,7 +195,7 @@ Depending on demand and the size of your customer base, you may decide to hire e
 
 By upgrading to an LLC, you can count your employees as business expenses. Not only that, but you will also be able to receive the personal liability protections that come naturally with Limited Liability Companies.
 
-### Private Home Care
+### 12. Private Home Care
 
 Healthcare is always in demand which means there is a consistent flow of new customers. The economic climate in the country (and the world for that matter) is relatively insignificant to the people who require your assistance. 
 
@@ -206,7 +205,7 @@ By taking care of elderly persons you could receive some serious compensation fo
 
 If you want to work in a low volatility environment and enjoy a near-constant flow of demand, you should think about getting into healthcare. 
 
-### Babysitter or Daycare
+### 13. Babysitter or Daycare
 
 Babysitting and daycare centers can be highly profitable for those who run them since parents what their kids to be happy and taken care of by someone they know and trust. 
 
@@ -216,7 +215,7 @@ Like the other businesses on our list, there aren’t any extra setup requiremen
 
 In the case of child-care, you have to not only be screened and get a background check but, in some states, your home must also be inspected to ensure safety measures are in place. Failure to comply can obviously lead to some very serious fines or worse.
 
-### Personal Trainer
+### 14. Personal Trainer
 
 Personal trainers draw up meal plans and workout routines to help clients achieve their health and fitness goals. 
 
@@ -228,7 +227,7 @@ Other than that there aren’t any requirements for starting a Sole Proprietorsh
 
 Just remember, by running your business as a Sole Proprietorship you are missing out on the personal liability protections of LLCs which distance you from lawsuits and creditors.
 
-### Private Tutor
+### 15. Private Tutor
 
 Tutors teach additional lessons and assist students in every subject imaginable. 
 
@@ -242,7 +241,7 @@ Tutoring doesn’t necessarily have to be in person either. Nowadays with zoom a
 
 Since you are the one with the smarts, you’re doing the work, you’re the one getting paid, and just like that, you are a Sole Proprietor. 
 
-### Housecleaner
+### 16. Housecleaner
 
 Housekeeping is a great business to start out with. Thanks to entropy, no matter how much people clean, everybody’s house and office are always getting dirty. 
 
@@ -260,15 +259,15 @@ You may find that upgrading to an LLC is beneficial to your business’s growth 
 
 If you can put in the elbow grease you may find housekeeping to be a worthwhile endeavor. 
 
-### Creative Pursuits and Hobbies
+### 17. Creative Pursuits and Hobbies
 
 If none of the above examples are appealing to you, you can always try monetizing one of your passions, favorite hobbies, or talents.
 
-It’s been said that if you do what you love you’ll never work a day in your life. Be creative. Sell something that you enjoy doing. 
+It’s been said that if you do what you love, you’ll never work a day in your life. Be creative. Sell something that you enjoy doing. 
 
-Let’s say you are good at calligraphy you could produce cards or posters of your artwork. You could start making and selling music. The possibilities are as endless as people are unique. 
+Let’s say you are good at calligraphy you could produce cards or posters of your artwork. You could start making and selling music. Work with a sport you enjoy. The possibilities are as endless as people are unique. 
 
-Now’s your chance to never have to “work” again. Take whatever you would do if you had to do it forever and see how you can make that thing you’re interested in a profitable endeavor by putting your own spin on it. 
+Now’s your chance to never have to “work” again. Take whatever you would do if you had to do it forever and see how you can make that thing you’re interested in a profitable endeavor by putting your own spin on it and selling it. 
 
 DISCLAIMER:
 
@@ -276,15 +275,17 @@ LLC Palace is for general educational purposes only. LLC Palace does not offer a
 
 ## What is a Sole Proprietorship?
 
-Here’s most technical definition of a Sole proprietorship we could find: 
+Here’s the most technical definition of a Sole proprietorship we could find: 
 
 _An unincorporated business with one owner who is fully liable and receives all the profits._
+
+The rest of this article is a breakdown of the different aspects that make up a Sole Proprietorships.
 
 A Sole Proprietorship is the simplest business entity you can run because there is no registration process or special tax regulations. In fact, it’s not really a business entity at all.
 
 By being the “sole” provider of all the services, **You** are the business.
 
-You will most likely be acting as an independent contractor or running a small-scale business. Businesses like these exist in almost every industry. Most side-hustles are actually classified as Sole Proprietorships. 
+You will most likely be acting as an independent contractor or running a small-scale business. Businesses like these exist in almost every industry.  Chances are that whatever you imagine when you think of side hustles can actually be classified as Sole Proprietorship. 
 
 ### Registration
 
@@ -294,7 +295,7 @@ The only real barrier-to-entry for a business like this are the licenses, certif
 
 For instance, if you want to be an electrician you can’t be messing around with the wiring in someone’s house without the proper training and experience as an electrician. 
 
-It doesn’t even have to be a technical job either (as seen in the examples). A lot of sole proprietorships in our list don’t even require training or licenses at all.
+It doesn’t even have to be a technical job either (as seen in the examples). A lot of sole proprietorships in our list don’t even require licenses at all.
 
 #### Do you need a DBA?
 
@@ -302,7 +303,9 @@ Once things get moving, you’ll be doing business under your name. Meaning your
 
 If you want a unique, professional-sounding, industry-specific name relevant to your business, you have to file for a DBA (Doing Business As…). This is just an alias (fake name) and does not provide any sort of protection for you or your business.
 
-Instead of “Joe Robinson the guy who mows lawns who lives on the other side of town”, you could name your business: “Joe’s Lawn and Landscaping”. Or, call it whatever you want. 
+Instead of “Joe Robinson the guy who mows lawns who lives on the other side of town”, you could name your business: “Joe’s Lawn and Landscaping”. 
+
+Call it whatever you want. 
 
 One benefit of DBAs is being able to open a business bank account. This is great for keeping your business’s finances separate from your personal finances. Getting into a habit of this will come in handy should you ever want to upgrade to an LLC. 
 
@@ -316,9 +319,9 @@ All of the business’s profits automatically become personal income because **y
 
 You simply include your business profits on your regular personal income tax returns. The only extra thing you need to do is complete and attach a self-employment form to your tax filings. 
 
-This form is the [1040 SE](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf). The SE here stands for Self-Employment Tax. This is just a fancy name the IRS made when they combined Medicare and Social Security Taxes into one. 
+This form is the [1040 SE](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf). The SE here stands for Self-Employment Tax. This is just a *fancy* name the IRS made when they combined Medicare and Social Security Taxes into one. 
 
-In a regular 9-5 job, the self-employment taxes were removed by your boss before the money hit your paycheck. 
+In a regular 9-5 job, the "self-employment taxes" were removed by your boss before the money hit your paycheck. 
 
 Now that you’re the boss, you are responsible for paying them. 
 
