@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does LLC Mean and How Do They Work?
-date: 2022-01-02
+date: 2022-01-23
 summary: LLC stands for Limited Liability Company.  
 permalink: /what-does-llc-mean/
 ---
@@ -224,13 +224,16 @@ S-Corps are just a specialized variant of an LLC that undergoes a different tax 
 
 #### -   LLC vs Full-On Corporation
 
-Corporations have a complicated registration process relative to an LLC. LLCs don’t need to file as much paperwork. 
+Corporations have a complicated registration process relative to an LLC. 
+LLCs don’t need to file as much paperwork. 
 
-LLCs also don’t require regular maintenance and record-keeping. Whereas these are necessary to continue operating as a Corporation.
+LLCs also don’t require regular maintenance and record-keeping. 
+Whereas these are necessary to continue operating as a Corporation.
 
-Corporations are a better option for established companies. LLCs are great for starting and building. 
+Corporations are a better option for established companies. 
+LLCs are great for starting and building. 
 
-As an LLC you have the added opportunity of changing your tax status to a Corporation once your business has become more established. 
+As an LLC you have the added opportunity of changing your tax status to a Corporation (while remaining an LLC) once your business has become more established. 
 
 ## In Conclusion… 
 
