@@ -56,7 +56,7 @@ If you’ve done either of these, your limited liability protection may be waive
 
 This means your private assets and investments are made vulnerable. In other words, the lawyers and courts can come and take your personal belongings. 
 
-This protection is great because if your LLC gets hit with a lawsuit, goes bankrupt, or something similar, you won’t be personally liable to pay what is owed. Instead, the LLC itself is held accountable. 
+This protection is great because if your LLC gets hit with a lawsuit, goes bankrupt (in some states, this only applies to MMLLCs), or something similar, you won’t be personally liable to pay what is owed. Instead, the LLC itself is held accountable. 
 
 The entity is liable, not you. 
 
