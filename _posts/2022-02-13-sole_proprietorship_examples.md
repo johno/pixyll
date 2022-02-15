@@ -159,17 +159,17 @@ You should consider being a Virtual Assistant if you can help customers get info
 
 ### 9.  Bookkeeper or Accountant
 
-If you are good with numbers, data, are detail-oriented, and know spreadsheets already,  you may want to consider looking deeper into bookkeeping and accounting. 
+Just as the name implies, bookkeepers keep the books in order. You record and track your client’s profits, losses, and the movement of materials. This makes filing taxes much earlier for accountants.
 
-Just as the name suggests, bookkeepers keep the books in order, making sure a business’s movements are recorded and organized. Plus it makes filing taxes much easier for the accountants.
+As *they* say: ***"If it’s measurable, it's manageable."***
 
-Whether it’s profits, losses, or material quantities, bookkeepers are the ones tracking it. As _they_ say: If it’s measurable, it’s manageable. 
+On the other hand, accountants manage the finances for payouts and salaries. They then report the finances for taxes or internal review. 
 
-On the other hand, accountants manage the finances for payouts and salaries and report the finances for taxes or internal review. 
+The drawback to accounting is the special certifications and experience your need to be verified and legit. By being a bookkeeper, however, these certifications aren’t necessary so long as you’ve got the right skills and knowledge.
 
-A big benefit of both of these jobs is that they can be done remotely since you are working in a database. 
+Both of these positions can be done remotely by working with a business’s online records database. This means you can make your own schedule and take your first step to secure your freedom. 
 
-The only drawback of accounting is you need special certification and licenses to be a legal accountant. As a bookkeeper, don’t need these certifications as long as you’ve got the right skills and experience.
+If you are good with data, are detail-oriented, and are familiar with spreadsheets, you should check out bookkeeping and accounting.
 
 ### 10. Plumber or Electrician
 
