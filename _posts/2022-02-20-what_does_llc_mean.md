@@ -116,9 +116,9 @@ This is usually done through a third-party management service focusing on optimi
 
 Other parts of the structure you should consider before you go all-in on an LLC are the Articles of Organization and an Operation Agreement. 
 
-Founders must gather the necessary information for the Articles of Organization and put a plan into place with an Operation Agreement. The Articles of Organization are different from an operating agreement. 
+Founders must gather the necessary information for the Articles of Organization and put a plan into place with an Operation Agreement. The Articles of Organization are different from an Operation Agreement. 
 
-Operation agreements cover the more detailed, finer inner workings of your LLC. Articles of Operation cover the main points of information necessary for registering your LLC.
+Operation Agreements cover the more detailed, finer inner workings of your LLC. Articles of Oganization cover the main points of information necessary for registering your LLC.
 
 For your Articles of Organization, you’ll need the following: 
 
@@ -130,13 +130,13 @@ For your Articles of Organization, you’ll need the following:
 
 The Articles of Organization identify your LLC’s focus and general structure. This document doesn’t require full Member approval because it is the LLC itself.
 
-The Operating Agreement is a sort of contract outlining how your business is structured and how finances are managed. It covers your LLC’s more specific details and procedures.
+The Operation Agreement is a sort of contract outlining how your business is structured and how finances are managed. It covers your LLC’s more specific details and procedures.
 
-The Operating Agreement requires approval from All Members because it deals with how and when members are paid among other specifics. 
+The Operation Agreement requires approval from All Members because it deals with how and when members are paid among other specifics. 
 
-You must submit Articles of Organization, but an Operating Agreement is optional (for most states). 
+You must submit Articles of Organization, but an Operation Agreement is optional (for most states). 
 
-Whether or not you write out an explicit operating agreement, you do need a plan of action. It is through following this plan, and the relevant government regulations that you receive the available liability protections.
+Whether or not you write out an explicit Operation Agreement, you do need a plan of action. It is through following this plan, and the relevant government regulations that you receive the complete liability protections offered by LLCs.
 
 ## LLC Voting Rights
 
