@@ -1,8 +1,8 @@
 # Site settings
 title:       Business Initiative
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+email:       nickjackolaisen@gmail.com
+author:      Jack Nicholaisen
+description: "The goald of the Business Initiatiative if to give growth-orientied creative individuals with the necessary informaition so that they can opern their own business with clarity and confidence in their decidions moving forward ."
 baseurl:     ""
 url:         "https://www.businessinitiative.org"
 date_format: "%b %-d, %Y"
@@ -23,7 +23,7 @@ bing_verification:
 animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -51,7 +51,7 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: @BisInitiative
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -68,7 +68,7 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
