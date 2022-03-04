@@ -64,7 +64,8 @@ This is all the result of your personal assets being kept separate from your bus
 
 Personal assets include things like your real estate, vehicles, investments, and private accounts.
 
-Nothing on LLCPalace is legal advice. So, plan accordingly and speak with business lawyers, legal experts, and financial advisors. As your source of the best easy-to-understand business information, we at LLCPalace wish you much success in your journey. 
+DISCLAIMER:
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
 ## LLC Structure
 
@@ -245,14 +246,12 @@ As an LLC you have the added opportunity of changing your tax status to a Corpor
 
 All of this and more come when you run your business with an LLC. 
 
+Sure, LLCs are a great way to begin your entrepreneurial pursuits but you should measure twice before you cut to ensure you’re doing what is right for you, your business, and your goals. 
+
 It could never be easier with so many companies providing services to help entrepreneurs set up LLCs. 
 
 **We wish much success for you and your business.**
 
 DISCLAIMER:
 
-Make sure you speak with business professionals, lawyers, financial advisors, and tax experts before submitting your LLC registration documents to your state, and especially before making any binding business decisions. 
-
-Sure, LLCs are a great way to begin your entrepreneurial pursuits but you should measure twice before you cut to ensure you’re doing what is right for you, your business, and your goals. 
-
-Any information on LLCPalace is not legal advice.
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
