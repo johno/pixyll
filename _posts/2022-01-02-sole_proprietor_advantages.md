@@ -32,7 +32,7 @@ If you want to use a DBA (Doing Business As…) a.k.a. Fictitious name, you’ll
 
 DISCLAIMER:
 
-LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
 
 ## Advantages of Sole Proprietorships
 
@@ -148,4 +148,4 @@ The only thing standing between you and the life you desire is yourself.
 
 DISCLAIMER:
 
-LLC Palace is for general educational purposes only. LLC Palace does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of LLC Palace. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
