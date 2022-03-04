@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About LLC Palace
+title: About Business Initiative
 permalink: /about/
 tags: about
 ---
 
-LLCPalace is your go to source for the in's and out's of LLCs and business creation.
-
+Business Initiative is your go to source for the in's and out's of LLCs and business creation.
