@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pay Myself From My LLC? (Step-by-step process)
-date: 2022-01-24
+date: 2022-02-15
 summary: How Do LLC Owners Get Paid?
 permalink: /paying-yourself-llc/
 ---
@@ -32,11 +32,7 @@ The metaphorical cards are in your hands when it comes to how much you make as a
 
 DISCLAIMER:
 
-You should always speak with a financial advisor, lawyer, or other business professionals before making any long-lasting decisions. 
-
-If something gets screwed up, there’s probably a way to fix it. But, it would be better to make informed decisions so mistakes are minimized (and so you don’t get sued and lose a bunch of money).
-
-With the boring stuff out of the way, let’s get on to what you’re really here for:
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
 ## How Do I Pay Myself From My LLC?
 
@@ -326,6 +322,9 @@ Good Luck!
 
 DISCLAIMER:
 
-Some states have special rules and regulations that have to be followed when it comes to how LLCs are set up and how their Members are paid. Certain states require that you have multiple people to form the LLC in the first place, in which case the Single-Member option is off the table. There are also some tricks to working the rules like setting up in one state initially and expanding operations to other states with harder regulations. We’ll save the tax breaks and loopholes for another time.
+Some states have special rules and regulations that have to be followed when it comes to how LLCs are set up and how their Members are paid. Certain states require that you have multiple people to form the LLC in the first place, in which case the Single-Member option is off the table. There are also some tricks to working the rules like setting up in one state initially and then expanding operations to other states with harder regulations. We’ll save the tax breaks and loopholes for another time.
 
 This is why it’s imperative to speak with financial advisors, lawyers, and business professions especially when getting your business up and running. It also wouldn’t be a bad idea to stay in touch with them regularly as you build your business and it blossoms.
+
+"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+
