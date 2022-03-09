@@ -23,7 +23,7 @@ bing_verification:
 animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -51,7 +51,7 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: @BisInitiative
+twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -68,7 +68,7 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: true
+share_twitter: false
 share_googleplus: false
 share_linkedin: false
 share_digg: false
