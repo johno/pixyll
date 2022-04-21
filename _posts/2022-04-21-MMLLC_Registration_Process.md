@@ -2,12 +2,9 @@
 layout: post
 title: Registration Process for Your Multi Member LLC
 date: 2022-04-21
-summary: An explanation of the different requirements you'll come across while going the the process of registering your LLC.  
+summary: An explanation of the different requirements you'll come across while registering your LLC.  
 permalink: /MMLLC-Registration/
 ---
-
-
-# Registration Process for Your Multi Member LLC #
 
 The process for registering your own LLC is straightforward. In this article, we outline the different components it takes to register.
 
