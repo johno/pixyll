@@ -21,7 +21,7 @@ These are the requirements necessary to have an active LLC:
 
 The exact requirements vary from state to state. Your state’s requirements are found on your Secretary of State’s website. They layout how to acquire and submit the necessary documentation. Just make sure you’re looking at the requirements of the state where your LLC is operating. 
 
-## Articles of Organization ##
+# Articles of Organization #
 
 As we mentioned earlier, you need to write an Articles of Organization for your LLC and submit it to the Secretary of State where you plan on conducting business. 
 
@@ -35,7 +35,7 @@ We recommend using your Secretary of State’s website first and then double che
 
 You can submit Articles of Organization online in most states. If you’re unable to do it online you can submit copies of your documents by mail. Just make sure you are sending a copy and not the original. 
 
-## Registered Agent ##
+# Registered Agent #
 
 As you are describing the different positions in your Articles of Organization be sure to include the Registered Agent. They are a key component of your LLC.
 
@@ -43,7 +43,7 @@ Your Registered Agent acts as the contact between your LLC and the government. T
 
 Your business’s Registered Agent is either one of the members or they’re hired from a third party. If you hire one, there are plenty of Registered Agent Service providers online to connect you to contracted Registered Agents. 
 
-## Operation Agreement ##
+# Operation Agreement #
 
 In addition to submitting your Articles of Organization, you also need an Operation Agreement (OA). Your Operation Agreement is a detailed plan of action under normal circumstances as well as special situations. 
 
@@ -77,7 +77,7 @@ Compiling an Operation Agreement is highly encouraged because it allows all the 
 
 While writing your Operation Agreement you should be careful using any online templates you may come across. Make sure the templates you use meet all the current requirements of YOUR state.
 
-## EIN ###
+# EIN #
 
 You need to acquire an EIN to register your LLC. EIN stands for Employer Identification Number. Think of an EIN as an ID number for your business. 
 
@@ -93,13 +93,13 @@ In a few states, you need some additional information to fill out the EIN form. 
 
 You can anyways use [Google](https://www.google.com/) (or [DuckDuckGo](https://duckduckgo.com/)) to find your state’s current website. 
 
-## Business Bank Account ##
+# Business Bank Account #
 
 As you know, an LLC’s protections are only valid if the business's finances are kept separate from the personal finances of all of the Owners. This means you have to open up a special Business Bank Account for your LLC. 
 
 You can only do this after receiving your EIN. Just like you need a Social Security number or other ID to open a personal bank account, your business needs an EIN to open up a bank account.
 
-## Industry-Specific Licenses ##
+# Industry-Specific Licenses #
 
 You’ve got to be verified to begin selling the quality products and services you specialize in. 
 
@@ -117,7 +117,7 @@ It’s simple. 
 
 Take classes. Get trained. Gain experience. Follow (and surpass) your industry guidelines.
 
-## Employee Regulations ##
+# Employee Regulations #
 
 If your MMLLC has hired employees, you have to follow employer regulations. A few states (and even some cities) have unique rules and documents you must regularly submit to have employees working for your LLC. 
 
@@ -125,7 +125,7 @@ Even if your state doesn't have employee regulations, there are still federal gu
 
 The process of preparing your business to accept employees is not complicated but it is a process nonetheless. A process you must go through to be recognized as an employer by the government.
 
-## Maintenance ###
+# Maintenance #
 
 Once you’ve got everything set up and running, you maintain the company. Maintenance involves staying up-to-date with paperwork and organizing your company records. 
 
