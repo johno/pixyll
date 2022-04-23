@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Registering Your Multi Member LLC
+title: How To Form Your Own Multi Member LLC
 date: 2022-04-21
-summary: An explanation of the different requirements you'll come across while registering your LLC.  
+summary: An explanation of the different requirements you'll come across while registering your MMLLC.  
 permalink: /MMLLC-Registration/
 ---
 
-The process for registering your own LLC is straightforward. In this article, we outline the different components it takes to register.
+Registering your own LLC is straightforward. In this article, we layout what you need to file to make your very own Multi Member LLC.
 
-These are the requirements necessary to have an active LLC:
+Here's what most states require to form a MMLLC:
 
 *   Articles of Organization 
 *   Registered Agent
@@ -19,29 +19,31 @@ These are the requirements necessary to have an active LLC:
 *   Employee Regulations
 *   Maintenance
 
-The exact requirements vary from state to state. Your state’s requirements are found on your Secretary of State’s website. They layout how to acquire and submit the necessary documentation. Just make sure you’re looking at the requirements of the state where your LLC is operating. 
+Exact requirements vary from state to state. 
+
+You can find your state’s LLC requirements on your Secretary of State’s (SoS) website. They tell you how to acquire and submit the necessary documentation. Just make sure you’re looking at the requirements of the state where you plan on conducting business. 
 
 ## Articles of Organization ##
 
-As we mentioned earlier, you need to write an Articles of Organization for your LLC and submit it to the Secretary of State where you plan on conducting business. 
+You need to write out an Articles of Organization for your LLC and submit it to the Secretary of State where your LLC is operating. 
 
-To figure out who this is and where their office is located, simply go to your state's official government website. 
+To figure out who this is and their office address, simply go to your state's official government website. 
 
-One part of your Articles of Organization involves coming up with a unique business name. A unique business name may extend to your county or to your state. The difference depends on your specific state's laws and regulations surrounding business names and trademarks. 
+One part of your Articles of Organization involves coming up with a unique business name. A unique business name may extend to your county or to your state. It all depends on your state's laws and regulations surrounding business names and trademarks. 
 
-To find out if the name you want is already taken, you can conduct a free business name search using your Secretary of State's government website. You can also use third-party companies to conduct a business name search. 
+To find out if the name you want is already taken, you can conduct a free business name search using your SoS's website. There are also plenty of third-party companies you can use to conduct a business name search. 
 
 We recommend using your Secretary of State’s website first and then double checking using other resources just to make sure you’ve got your bases covered. 
 
-You can submit Articles of Organization online in most states. If you’re unable to do it online you can submit copies of your documents by mail. Just make sure you are sending a copy and not the original. 
+In most states, you can submit your Articles of Organization online. If you’re unable to do it online you can submit copies of your documents by mail. Just make sure you send the copy and not the original. 
 
 ## Registered Agent ##
 
-As you are describing the different positions in your Articles of Organization be sure to include the Registered Agent. They are a key component of your LLC.
+As you describe the different positions within your company in your Articles of Organization be sure to include your Registered Agent. They are a vital component of your LLC.
 
-Your Registered Agent acts as the contact between your LLC and the government. They send and receive important documents to/from the state. This being the case, your Registered Agent must have a mailing address in the state where your LLC is registered and operating. 
+Your business's Registered Agent acts as the contact point between your LLC and the government. They send and receive important documents to/from the state. This being the case, your Registered Agent must have a mailing address in the state where your LLC is registered and operating. 
 
-Your business’s Registered Agent is either one of the members or they’re hired from a third party. If you hire one, there are plenty of Registered Agent Service providers online to connect you to contracted Registered Agents. 
+Your Registered Agent is either a fellow member of your LLC or they are hired from a third party. If you want to hire one, there are plenty of Registered Agent Service providers online to connect you to professional Registered Agents. 
 
 ## Operation Agreement ##
 
