@@ -351,7 +351,7 @@ Just remember: Your LLC should be consistently profitable before upgrading other
 
 Some states limit the amount of profits Members can take in a default setup. In an S-Corp, however, there is no limit on how much of the LLC’s profit you and the rest of the Shareholders can receive.
 
-You can optimize your income in an S-Corp and pay less tax by splitting your earnings between salary and dividends. In a default, LLC Members are only paid Distributions. 
+You can optimize your income in an S-Corp and pay less tax by splitting your earnings between salary and dividends. In a default LLC, Members are only paid Distributions. 
 
 Since owners contribute to the business, you are exempt from paying Self-Employment Tax on your employee Salary. The company pays your Social Security and Medicare taxes (i.e. Self-Employment Tax) so you don’t have to.
 
