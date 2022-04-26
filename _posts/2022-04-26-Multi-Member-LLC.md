@@ -2,7 +2,7 @@
 layout: post
 title: What is a Multi Member LLC?
 date: 2022-04-26
-summary: A deep dive into the different components and tax options of Multi-Member LLCs - including how to register your own MMLLC and pay yourself from it.
+summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /Multi-Member-LLC/
 ---
 
