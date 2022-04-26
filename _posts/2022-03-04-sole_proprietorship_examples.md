@@ -123,7 +123,7 @@ It doesn’t even have to be events. You could run a photography studio taking p
 
 If you are better on the technical side of things you might consider being a professional photo/video editor. 
 
-The limit to how much money you make doing this is determined by how good you are at what you do and the market you specialize in. The same principle applies to all the examples of Sole Proprietorships mentioned here.
+The limit to how much money you make doing this is determined by how good you are at what you do and the market you specialize in. The same principle applies to all of the Sole Proprietorship examples mentioned here.
 
 ### 6.  Computer and Cellphone Repair Service
 
@@ -131,9 +131,7 @@ In the age of information and technology, almost everybody has a phone or comput
 
 Computer and cellphone repair operations can be quite small, requiring only one person. You can do this from your home, a storefront, or be entirely location-independent by meeting people one-on-one and fixing their devices in person (if you’re quick about it). 
 
-This is a perfect opportunity for you to act as your own boss, work your own hours, and run a Sole Proprietorship. Actually, all the examples on our list are great for taking back your time and giving you greater control of your income.
-
-If you are good with technical, hands-on tasks and enjoy working with technology, starting a cellphone or computer repair service may be the right thing for you. 
+If you are good with technical, hands-on tasks and enjoy working with technology, starting a cellphone or computer repair service may be the perfect opportunity for you to act as your own boss, work your own hours, and run a Sole Proprietorship. Actually, all the examples on our list are great for taking back your time and give you greater control of your income.
 
 ### 7.  Financial Planner
 
@@ -149,7 +147,7 @@ It’s important to have experience and competency in this area of expertise if 
 
 ### 8.  Virtual Assistant (VA)
 
-By now, you’re probably familiar with those little messages that pop up on a website asking if want live assistance when you first click on the page. 
+By now, you’re probably familiar with those little messages that pop up on a website asking if you want live assistance when you first click on the page. 
 
 The people sending you messages form the other side of the screen are called Virtual Assistants, or VAs for short. 
 
