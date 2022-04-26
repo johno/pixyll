@@ -52,7 +52,7 @@ DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
-## LLC OWNERS (MEMBERS) ##
+## LLC Owners (Members) ##
 
 In your Multi Member LLC, you can have as many members as you want. 
 
@@ -88,7 +88,7 @@ The tricky thing here is the other person has to actually do something in the LL
 
 Sharing the responsibility of owning and operating the business should be a solution, not a problem. Start your LLC with those who hold common professional goals, expectations, and purpose of what you are all working towards. And, like all things, it’s got to be legit.
 
-## PROTECTION ##
+## Multi Member LLC Protection ##
 
 LLCs are distinguishable, stand-alone entities. Meaning the business is a separate entity from its members. The LLC’s protection exists because of this separation.
 
@@ -168,7 +168,7 @@ DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
-## MANAGEMENT ##
+## Management ##
 
 A Multi Member LLC gives you the flexibility to arrange the management hierarchy to best suit your business’s needs. Since you’re sharing ownership with other members, you all have to decide together how you want the LLC managed. 
 
@@ -208,7 +208,7 @@ The Operating Agreement details the procedures for different situations you may 
 
 By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show the importance of writing an organized Operating Agreement. (More about this document can be found [Here](https://www.businessinitiative.org/MMLLC-Registration/)) 
 
-## LLC REGISTRATION REQUIREMENTS ##
+## LLC Registration Requirements ##
 
 Here is what you need to get together and complete to register your LLC:
 
@@ -225,7 +225,7 @@ Here is what you need to get together and complete to register your LLC:
 
 When all of these are in order you will be the proud operator of **your very own LLC**. 
 
-## HOW DOES A MULTI MEMBER LLC FILE TAXES ##
+## How Does a Multi Member LLC File Taxes? ##
 
 Multi Member LLCs are categorized as Partnerships for tax purposes. Single Member LLCs are Disregarded Entities so they’re categorized as Sole Proprietorships.
 
@@ -320,7 +320,7 @@ DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
-### Specialty Tax Status and Payments (Corporations) ###
+### Specialty Tax Status and Payments (Corporations)
 
 Upgrading to a specialty tax status changes how your LLC pays owners and how the owners pay taxes. When the LLC upgrades to a specialty tax status the owners are referred to as “Shareholders” instead of as “Members”.  
 
@@ -398,7 +398,7 @@ To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity 
 
 Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. More detailed instructions for filing taxes as a C-Corporation can be found [here](https://www.irs.gov/instructions/i1120). 
 
-## PAYING YOURSELF FROM YOUR MULTI MEMBER LLC ##
+## Paying Yourself From Your Multi Member LLC ##
 
 Getting paid from your MMLLC is as easy as transferring money from the business’s bank account to personal accounts. What follows is a basic breakdown of this process. For a more in-depth look at getting paid from your LLC, [check out our step-by-step guide here](https://www.businessinitiative.org/paying-yourself-llc/).
 
@@ -420,7 +420,7 @@ Here’s how Salaries compare to Dividends when it comes to getting paid:
 |Salaries are paid out regularly (Bi-weekly, Monthly, Quarterly, Semi-Annually)   |Dividends are paid in one payment (like a bonus) or on a payment schedule   |
 |Salaries are paid automatically and go directly to the Shareholders   |Shareholders can keep Dividends in the business (to avoid paying additional taxes)     |
 
-## LLC MAINTENANCE ##
+## LLC Maintenance ##
 
 When you’re established and actually running your business instead of setting it up,  there are maintenance guidelines you have to follow. If any of these requirements are neglected, your LLC protections will be voided. 
 
@@ -437,7 +437,7 @@ The success and longevity of your business rely on its organization. You can get
 
 Properly maintaining your LLC gives you the opportunity to regroup, focus on your goals, and plan for the future. This way you can make calculated decisions to optimize your time and your business’s profits. 
 
-## IS AN MMLLC THE BEST BUSINESS ENTITY FOR YOU? ##
+## Is a Multi Member LLC the Best Business Entity for Me? ##
 
 You want to be successful. 
 
