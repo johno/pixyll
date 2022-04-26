@@ -36,7 +36,7 @@ DISCLAIMER:
 
 ## How Do I Pay Myself From My LLC?
 
-How you get paid out from your LLC depends on how it’s set up and operated. 
+How you get paid from your LLC depends on how it’s set up and operated. 
 
 There are two categories of LLC: 
 
@@ -68,7 +68,7 @@ That’s it.
 
 Some states have special laws when it comes to Owner’s Draws. This is one of many reasons why it’s important to do your due diligence and speak with business professionals, tax experts, and lawyers to make certain you aren’t missing vital information. 
 
-Keep reading for more details on how to collect your cash the Right WAY. 
+Keep reading for more details on how to collect your cash the _Right Way_. 
 
 ## Default LLCs
 
@@ -84,7 +84,7 @@ But first, we have one pressing question:
 
 Single-Member and Multi-Member LLCs are taxed the same way as Sole Proprietorships and Partnerships, respectively. 
 
-The money coming into your LLC is divided based on agreed-upon percentages set for each member of your company. Your earnings/profits become personal income after moving the money from the company (after taxes) and placing it into your bank account.
+The money coming into your LLC is divided based on agreed-upon percentages set for each member of your company. Your LLC's profits become personal income after moving the money from the company and placing it into your bank account.
 
 Before everything gets complicated we can break this process down to just four words.
 
@@ -100,19 +100,19 @@ Alternatively, if you’re a part of a Multi-Member LLC you will split profits b
 
 Your Draw or Distribution is recorded on your income tax return when you file taxes individually.
 
-The IRS taxes LLC owners in this manner by default. The whole process is called Pass-Through Taxation because your business profits get “passed-through” Personal Income Tax before it becomes “yours”.
+The IRS taxes LLC owners in this manner by default. The whole process is called Pass-Through Taxation because your business profits get “passed-through” Income Tax before it becomes “yours”.
 
-The reason I write “yours” in quotes is you still have to pay Self-Employment Tax (FICA) on what you claim as personal income. This Self-Employment Tax consists of Medicare and Social Security Tax. 
+The reason “yours” in quotes is you still have to pay Self-Employment Tax (FICA) on what you claim as personal income. This Self-Employment Tax consists of Medicare and Social Security Tax. 
 
 God Bless America! 
 
-Just be sure not to “draw” too much money out of your LLC as it would destroy your corporate veil. Doing so voids your limited liability protection. 
+Just be sure not to “draw” too much money out of your LLC as it would destroy your Corporate Veil, voiding your limited liability protection. 
 
-To put it differently, make sure you always leave enough money in your business so it doesn’t become undercapitalized. If you’re unable to maintain operations, pay debts, or fight legal battles, you could possibly lose personal assets like your house, car, even investments.
+To put it differently, always leave enough money in your business to prevent Undercapitalization. If you’re unable to maintain operations, pay debts, or fight legal battles, you could possibly lose personal assets like your house, car, even investments.
 
 ### Is Pass-Through Taxation right for me?
 
-Pass-Through Taxation is good if you’re getting your business up and moving. When you’re starting it’s important to reinvest the majority of profits back into your business. Focus on scaling it up, initially. 
+Pass-Through Taxation is good for getting your business up and moving. When you’re starting it’s important to reinvest the majority of profits back into your business. Focus on scaling. 
 
 The more you’re investing in yourself and your business in the early stages, the better off you’ll be down the road.
 
