@@ -6,9 +6,9 @@ summary: An explanation of the different requirements you'll come across while r
 permalink: /MMLLC-Registration/
 ---
 
-Registering your own LLC is straightforward. In this article, we layout what you need to file to make your very own Multi Member LLC.
+In this article, we layout what you need to file to make your very own Multi Member LLC.
 
-Here's what most states require to form a MMLLC:
+Registering your own LLC is straightforward. Here's what most states require to form a MMLLC:
 
 *   Articles of Organization 
 *   Registered Agent
@@ -81,11 +81,11 @@ While writing your Operation Agreement you should be careful using any online te
 
 ## EIN ##
 
-You need to acquire an EIN to register your LLC. EIN stands for Employer Identification Number. Think of an EIN as an ID number for your business. 
+Think of an EIN as an ID number for your business. EIN stands for Employer Identification Number.
 
-The name implies your business has employees, however, you need one regardless of whether or not you have people working for your LLC. Your EIN allows you to complete the registration process, pay taxes, and get special certifications and licenses for your business.
+The name implies your business has employees, however, you need one regardless of whether or not your LLC has employees. Your EIN allows you to complete the registration process, pay taxes, and get special certifications and licenses for your business.
 
-Obtaining an EIN is very easy (and cheap). You can do it online, by mail, phone, or even fax (though we’re not quite sure why that’s even an option these days). 
+Obtaining an EIN is very easy and inexpensive. You can do it online, by mail, phone, or even fax (though we’re not quite sure why that’s even an option these days). 
 
 You can submit an EIN application for free on the IRS website. [Apply for your EIN Here Now!](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)  
 
