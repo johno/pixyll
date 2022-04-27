@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Form Your Own Multi Member LLC
+title: How To Form Your Own Multi Member LLC in 2022
 date: 2022-04-21
 summary: An explanation of the different requirements you'll come across while registering your MMLLC.  
 permalink: /MMLLC-Registration/
