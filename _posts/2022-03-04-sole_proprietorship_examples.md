@@ -309,7 +309,7 @@ Call it whatever you want.
 
 One benefit of DBAs is being able to open a business bank account. This is great for keeping your business’s finances separate from your personal finances. Getting into a habit of this will come in handy should you ever want to upgrade to an LLC. 
 
-If you’re wondering what the differences are between LLCs and DBAs, [Here is how DBAs compare to LLCs](https://www.businessinitiative.org/DBA-vs-LLC/).
+If you’re wondering what the differences are between LLCs and DBAs, [Here is how DBAs compare to LLCs](https://www.businessinitiative.org/dba-vs-llc/).
 
 ### Sole Proprietorship Taxes
 
