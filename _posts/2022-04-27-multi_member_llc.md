@@ -206,7 +206,7 @@ A majority agreement must be reached for any major decision to take effect. If a
 
 The Operating Agreement details the procedures for different situations you may encounter while operating your LLC. It also includes the management structure, the responsibilities of each member, each member’s share of voting rights, and many other important aspects of your LLC.
 
-By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show the importance of writing an organized Operating Agreement. (More about this document can be found [Here](https://www.businessinitiative.org/MMLLC-Registration/)) 
+By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show the importance of writing an organized Operating Agreement when [registering your Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/registration/)
 
 ## LLC Registration Requirements ##
 
@@ -221,7 +221,7 @@ Here is what you need to get together and complete to register your LLC:
 *   Employee Regulations
 *   Maintenance
 
-[Here is are descriptions](https://www.businessinitiative.org/MMLLC-Registration/) of these requirements.
+Descriptions of these requirements can be found [here](https://www.businessinitiative.org/multi-member-llc/registration/) of these requirements.
 
 When all of these are in order you will be the proud operator of **your very own LLC**. 
 
