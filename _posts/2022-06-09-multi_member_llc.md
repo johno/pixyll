@@ -398,7 +398,7 @@ To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity 
 
 Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. More detailed instructions for filing taxes as a C-Corporation can be found [here](https://www.irs.gov/instructions/i1120). 
 
-## Paying Yourself From Your Multi Member LLC ##
+## How to Pay Yourself from Your Multi Member LLC ##
 
 Getting paid from your MMLLC is as easy as transferring money from the business’s bank account to personal accounts. What follows is a basic breakdown of this process. For a more in-depth look at getting paid from your LLC, [check out our step-by-step guide here](https://www.businessinitiative.org/paying-yourself-llc/).
 
@@ -417,9 +417,9 @@ Here’s how Salaries compare to Dividends when it comes to getting paid:
 |**Salaries** | **Dividends** |
 |:--------|:----------|
 |No Self-Employment Tax    | Undergo Self-Employment Tax  |
-|Fixed Amount         |Vary from year to year    |
-|Regular Payment Schedule (Bi-weekly, Monthly, Quarterly, Semi-Annually)   |One single payment (like a bonus) or on a payment schedule |
-|Payments go directly to the Shareholders   |Shareholders can keep Dividends in the business (to avoid paying additional taxes)     |
+|Fixed amount         |Vary from year to year    |
+|Regular payment schedule (Bi-weekly, Monthly, Quarterly, Semi-Annually)   |One single payment (like a bonus) or on a payment schedule |
+|Payments go directly to Shareholders   |Dividends can be kept in the business (to avoid paying additional taxes)     |
 
 ## LLC Maintenance ##
 
