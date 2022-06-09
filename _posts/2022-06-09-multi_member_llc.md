@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Multi Member LLC?
-date: 2022-06-02
+date: 2022-06-09
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
 ---
@@ -413,12 +413,13 @@ Whether or not you keep your LLC as Default or upgrade it to an S-Corp, you will
 If you upgrade and go the S-Corp route, you and the other owners get paid through a combination of Salaries and Dividends. This slight difference complicates the payout process. 
 
 Here’s how Salaries compare to Dividends when it comes to getting paid:
-|Salaries | Dividends |
-|:----------------|:------------------|
-|Salaries do not have Self-Employment Tax    |Dividends have Self-Employment Tax  |
-|Salaries are fixed         |Dividends vary from year to year    |
-|Salaries are paid out regularly (Bi-weekly, Monthly, Quarterly, Semi-Annually)   |Dividends are paid in one payment (like a bonus) or on a payment schedule   |
-|Salaries are paid automatically and go directly to the Shareholders   |Shareholders can keep Dividends in the business (to avoid paying additional taxes)     |
+
+|**Salaries** | **Dividends** |
+|:--------|:----------|
+|No Self-Employment Tax    | Undergo Self-Employment Tax  |
+|Fixed Amount         |Vary from year to year    |
+|Regular Payment Schedule (Bi-weekly, Monthly, Quarterly, Semi-Annually)   |One single payment (like a bonus) or on a payment schedule |
+|Payments go directly to the Shareholders   |Shareholders can keep Dividends in the business (to avoid paying additional taxes)     |
 
 ## LLC Maintenance ##
 
