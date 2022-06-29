@@ -157,29 +157,31 @@ You should consider being a Virtual Assistant if you can help customers get info
 
 ### 9.  Bookkeeper or Accountant
 
-Just as the name implies, bookkeepers keep the books in order. You record and track your client’s profits, losses, and the movement of materials. This makes filing taxes much earlier for accountants.
+As you can probably guess, bookkeepers keep the books in order. You record and track your client’s profits, losses, and the movement of materials. This makes filing taxes much easier for them.
+
+Accountants, on the other hand, manage the finances for payouts and salaries. They then report the finances for taxes or internal review. 
 
 As *they* say: ***"If it’s measurable, it's manageable."***
 
-On the other hand, accountants manage the finances for payouts and salaries. They then report the finances for taxes or internal review. 
+The drawback to accounting is you need special certifications and experience to be verified and legit. By being a bookkeeper, however, these certifications aren’t necessary so long as you’ve got the right skills and knowledge.
 
-The drawback to accounting is the special certifications and experience your need to be verified and legit. By being a bookkeeper, however, these certifications aren’t necessary so long as you’ve got the right skills and knowledge.
+You can do either of these jobs remotely since you're working with a company's online records database. This means you can make your own schedule and take your first step to secure your freedom. 
 
-Both of these positions can be done remotely by working with a business’s online records database. This means you can make your own schedule and take your first step to secure your freedom. 
-
-If you are good with data, are detail-oriented, and are familiar with spreadsheets, you should check out bookkeeping and accounting.
+If you are good with data, are detail-oriented, and are familiar with spreadsheets, you should check out bookkeeping or accounting.
 
 ### 10. Plumber or Electrician
 
-Sole Proprietors working as plumbers or electricians are either independent contractors hired by construction companies and city departments or they focus their efforts as local professionals and provide their services to a community.
+Plumbers and electricians usually find work in one of two ways:
 
-Most houses and buildings need running water and power and nobody who owns them wants their basement to start flooding with sewage or their building to burn down from a bad wiring job. 
+  1. Independent Contracting - Working for construction companies and city departments
 
-Plumbing and electrical work may not seem so glorious at first glance. It just so happens, however, that people are willing to pay quite a lot of money to keep their homes and businesses in working order.
+  2. Local Professional - Providing services for your community 
+
+Although plumbing and electrical work may not seem so glorious at first glance, you might be interested to know that people are willing to pay quite a pretty penny to keep their homes and businesses in working order. Homes and buildings need running water and power. Nobody wants their basement to flood with sewage or their building to burn down from a bad wiring job.
 
 If you are more hands-on you might really enjoy this. 
 
-Going this route does require that you are specially trained and certified. If you’re not up to learning about these industries you should look into one of the other options we’ve listed.
+These jobs require special trainging and certifications. If you’re not up to learning about these industries you should look into one of the other options we’ve listed.
 
 ### 11. Landscaping and Lawncare
 
