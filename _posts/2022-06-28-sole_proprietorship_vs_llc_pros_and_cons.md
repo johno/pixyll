@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing the Pros and Cons of Sole Proprietorships and LLCs
+title: The Pros and Cons of Sole Proprietorships and LLCs
 date: 2022-06-28
 summary: A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies.  
 permalink: /sole-proprietorship-vs-llc/pros-and-cons/
