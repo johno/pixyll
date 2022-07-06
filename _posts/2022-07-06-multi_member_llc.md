@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Multi Member LLC - Everything You Need to Turn Your Passion into a Profit
-date: 2022-06-09
+date: 2022-07-06
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
 ---
