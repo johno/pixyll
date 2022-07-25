@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pay Myself From My LLC? (Step-by-step process)
-date: 2022-02-15
+date: 2022-07-20
 summary: How Do LLC Owners Get Paid?
 permalink: /paying-yourself-llc/
 ---
@@ -319,6 +319,10 @@ Just kidding.
 You’ll choose between getting a direct transfer deposit into your bank account, or by writing a check to yourself.
 
 Good Luck!
+
+Oh, and before we forget... 
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 DISCLAIMER:
 
