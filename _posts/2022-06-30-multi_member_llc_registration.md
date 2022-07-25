@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Form Your Own Multi Member LLC in 2022
-date: 2022-04-21
+date: 2022-06-30
 summary: An explanation of the different requirements you'll come across while registering your MMLLC.  
 permalink: /multi-member-llc/registration/
 ---
@@ -132,6 +132,13 @@ The process of preparing your business to accept employees is not complicated bu
 Once you’ve got everything set up and running, you maintain the company. Maintenance involves staying up-to-date with paperwork and organizing your company records. 
 
 Not only does this help the state keep an eye on you, but it also allows you to keep an eye on your business. By keeping clear records and tracking your business’s movements you can better understand what is working and what isn't.
-
   
 As the saying goes: “**If it’s measurable, it’s manageable”**
+
+Want to learn how to measure the vital aspects of your business?
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+DISCLAIMER:
+
+“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of “Business Initiative”. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
