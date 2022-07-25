@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sole Proprietorship vs LLC
-date: 2022-02-23
+date: 2022-07-11
 summary: The details of Sole Proprietorships and Limited Liability Companies - Why is one better than the other? 
 permalink: /sole-proprietorship-vs-llc/
 ---
 
-In one sentence:
+To save you the time of reading this whole article, we can break it all down in one sentence:
 
 **Sole Proprietorships offer ease of setup at the cost of liability protection whereas LLCs offer liability protection and tax options at the cost of having to go through your state's registration process.** 
 
@@ -265,6 +265,10 @@ There are so many tax advisors, business professionals, and lawyers who are fami
 Make sure to speak with legitimate experts such as these (not just your friends and family) before making any binding decisions. They have seen what works and what doesn’t. They know what will work best based on your unique needs.
 
 We wish you much success in your journey. Good Luck!
+
+Are you interested in getting the most out of your business?
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 DISCLAIMER: 
 
