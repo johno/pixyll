@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting
+title: Consulting Services
 permalink: /consulting/
 tags: consulting call meeting 
 ---
