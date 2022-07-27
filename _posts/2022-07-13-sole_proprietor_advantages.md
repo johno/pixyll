@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Unique Sole Proprietorship Advantages (Plus the 4 WORST Disadvantages)
+title: 5 Special Sole Proprietorship Advantages (Plus 4 Disadvantages)
 date: 2022-07-13
 summary: Is a Sole Proprietorship the best type of business for you? READ THIS to find out!
 permalink: /sole-proprietorship-advantages/
