@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Special Sole Proprietorship Advantages (Plus 4 Disadvantages)
-date: 2022-07-13
+date: 2022-07-27
 summary: Is a Sole Proprietorship the best type of business for you? READ THIS to find out!
 permalink: /sole-proprietorship-advantages/
 ---
@@ -142,9 +142,10 @@ Additionally, since you are a sole-proprietor and are fully responsible for all 
 
 It all may sound complicated and overwhelming right now but be assured it’s not. There is a system to this. Thousands of people have used this system and have become very successful with time. 
 
-If you really want something you can make it happen. 
+If you really want something you can make it happen. The only thing standing between you and the life you desire is yourself. 
 
-The only thing standing between you and the life you desire is yourself.
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
 
 DISCLAIMER:
 
