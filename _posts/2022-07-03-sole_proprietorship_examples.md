@@ -3,7 +3,7 @@ layout: post
 title: Top 17 Sole Proprietorship Examples You Can Easily Start TODAY!
 date: 2022-07-03
 summary: This complete list of Sole Proprietorship Examples will give you a practical understanding of why the simplest business entity is also one of the most popular.
-permalink: /sole-proprietorship-examples/
+permalink: /sole-proprietorship/examples/
 ---
 
 Hopefully, you don’t enjoy the 9-5 grind, dependence, and working for a boss. 
