@@ -227,7 +227,7 @@ In addition to the proper training and licenses, you need to get the necessary l
 
 Other than that there aren’t any requirements for starting a Sole Proprietorship as a personal trainer. Who knows, it may be the way you gain financial sovereignty. 
 
-Just remember, by running your business as a Sole Proprietorship you are missing out on the personal liability protections of LLCs which distance you from lawsuits and creditors.
+Just remember, by running your business as a Sole Proprietorship you are [missing out on the personal liability protections](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/) of LLCs which distance you from lawsuits and creditors.
 
 ### 15. Private Tutor
 
@@ -353,15 +353,11 @@ The chances of any legal or financial fallout coming from your business are sign
 
 If the business you’re thinking of starting naturally carries more risk, you should check out the personal liability protection offered by LLCs.
 
-### Sole Proprietorship vs LLC
+### [Sole Proprietorship vs LLC](https://www.businessinitiative.org/sole-proprietorship-vs-llc/)
 
 Since you’re here checking out at Sole Proprietorships, you’ve probably already heard a bit about Limited Liability companies. 
 
-The biggest differences between the two come down to the liability and financial protection they offer and the difficulty in setting them up.
-
-For more detailed information:
-
-[**How Sole Propritorships compare to LLCs**](https://www.businessinitiative.org/sole-proprietorship-vs-llc/). 
+The biggest differences between the two come down to the liability and financial protection they offer and the difficulty in setting them up. 
 
 Being the simplest business with no registration or set-up fees, it’s no surprise why professional and novices alike choose to begin their businesses as Sole Proprietorships. 
 
