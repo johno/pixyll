@@ -72,7 +72,7 @@ Keep reading for more details on how to collect your cash the _Right Way_.
 
 ## Default LLCs
 
-There are Single-Member LLCs and Multi-Member LLCs. If two people run an LLC it is viewed as a Partnership. More than two and it is technically viewed as a Corporation. 
+There are Single-Member LLCs and [Multi-Member LLCs](https://www.businessinitiative.org/multi-member-llc/). If two people run an LLC it is viewed as a Partnership. More than two and it is technically viewed as a Corporation. 
 
 LLC Owners are referred to as Members. The Members have personal liability protection. Hence the name, “Limited Liability Company”. This protection comes from the separation of personal finances from business finances. This division is the main characteristic of LLCs.
 
@@ -178,7 +178,7 @@ On top of that, going the corporate route has its drawbacks. Generally speaking,
 
 As the Owner of a Single-Member LLC, you can get taxed as a Corporation. Or, if you don’t want that, you’ll fall under the default taxation of LLCs where your company is seen as a disregarded entity.
 
-## Multi-Member LLCs
+## [Multi-Member LLCs](https://www.businessinitiative.org/multi-member-llc/)
 
 The biggest difference between Single Member and Multi-Member LLCs:
 
@@ -204,7 +204,9 @@ Luckily, the Federal government has made it easy for you to give them your money
 
 It’s a good idea to pay taxes every three months (quarterly) to stay on top of things and be more aware of your business’s financial movements. 
 
-*Okay, so When Do I Get the Money?*
+ *Okay, so...* 
+ 
+ ## When Do I Get My Money? ##
 
 Defaut LLC Owners (both single-member and multi-member) get paid through Owner’s Draws. You also have the option of getting paid through a combination of a Salary and Dividends.
 
