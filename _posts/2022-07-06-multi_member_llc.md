@@ -227,7 +227,7 @@ When all of these are in order you will be the proud operator of **your very own
 
 ## How Does a Multi Member LLC File Taxes? ##
 
-Multi Member LLCs are categorized as Partnerships for tax purposes. Single Member LLCs are Disregarded Entities so they’re categorized as Sole Proprietorships.
+Multi Member LLCs are categorized as Partnerships for tax purposes. Single Member LLCs are Disregarded Entities so they’re categorized as [Sole Proprietorships.](https://www.businessinitiative.org/sole-proprietorship/advantages/)
 
 In either case, your LLC is taxed according to the tax bracket of the owner(s). The taxes are passed to owners individually. This is known as **Pass-Through Taxation**.
 
