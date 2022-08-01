@@ -205,7 +205,7 @@ They know what’s in your business’s best interest (assuming you consult the 
 
 The following comparisons are in order of least to most complicated.
 
-#### -   LLC vs Sole Proprietorship
+#### -   [LLC vs Sole Proprietorship](https://www.businessinitiative.org/sole-proprietorship-vs-llc/)
 
 SPs don’t offer any liability protection. LLCs do offer personal liability protection, hence the name: Limited Liability Company. 
 
