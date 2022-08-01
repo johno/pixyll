@@ -58,9 +58,9 @@ You’ll learn about the different variations of LLC, examples of how the financ
     
 2.   C-Corporations
 
-Default LLCs fall in the same tax category as Sole Proprietorships. Both are considered Disregarded Entities. The only real difference between the two is personal Liability Protection.
+Default LLCs fall in the same tax category as [Sole Proprietorships.](https://www.businessinitiative.org/sole-proprietorship/advantages/) Both are considered Disregarded Entities. The only real difference between the two is personal Liability Protection.
 
-Liability Protection is the whole reason why someone chooses an LLC over a Sole Proprietorship. Besides that, Default LLCs pretty much undergo the same payout procedure as Sole Proprietorships.
+Liability Protection is the whole reason why someone chooses an [LLC over a Sole Proprietorship.](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) Besides that, Default LLCs pretty much undergo the same payout procedure as Sole Proprietorships.
 
 Moving your money straight over to a personal bank account (as a Draw) is the norm, but LLC Owners also have an option to get paid through a Salary and Dividends. Sole Proprietors only get their money through Draws.
 
@@ -82,7 +82,7 @@ But first, we have one pressing question:
 
 ### What is an LLC, *really?*
 
-Single-Member and Multi-Member LLCs are taxed the same way as Sole Proprietorships and Partnerships, respectively. 
+Single-Member and Multi-Member LLCs are taxed the same way as [Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/advantages/) and Partnerships, respectively. 
 
 The money coming into your LLC is divided based on agreed-upon percentages set for each member of your company. Your LLC's profits become personal income after moving the money from the company and placing it into your bank account.
 
@@ -156,7 +156,7 @@ LLC Owners are not employees and don’t get paid out the same way as employees.
 
 If you do happen to have employees you just pay them wages and count it as a business expense. (P.S. There’s a tax if you’ve got employees working for you).
 
-The Owners of both Sole Proprietorships and Single-Member LLCs are considered the business itself. When the Owner is the business, it is referred to as a Disregarded Entity. 
+The Owners of both [Sole Proprietorships and Single-Member LLCs](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) are considered the business itself. When the Owner is the business, it is referred to as a Disregarded Entity. 
 
 A Disregarded entity is a business owned by one person and is taxed through that person. Instead of the LLC paying taxes itself, the owner pays the taxes and accounts for all profits and losses on his/her personal tax return. 
 
