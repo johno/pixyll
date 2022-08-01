@@ -2,7 +2,7 @@
 layout: post
 title: The Worst Partnership Disadvantages They Try Keeping Secret
 date: 2022-07-31
-summary: Learn why some people avoid Partnerships like the plague. Here is a breakdown of the negative aspects of the simplest business where you can share ownership with investors and processionals.
+summary: Although they may be simple and cheap, some people avoid Partnerships like the Bubonic Plague. Read this to discover why!
 permalink: /partnership/disadvantages/
 ---
 
