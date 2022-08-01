@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Shocking Partnership Disadvantages That’ll Make You Wonder Why Professionals Use Them  
+title: The Worst Partnership Disadvantages They Try Keeping Secret
 date: 2022-07-31
 summary: Learn why some people avoid Partnerships like the plague. Here is a breakdown of the negative aspects of the simplest business where you can share ownership with investors and processionals.
 permalink: /partnership/disadvantages/
