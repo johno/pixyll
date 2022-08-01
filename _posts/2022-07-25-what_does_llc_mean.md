@@ -209,7 +209,7 @@ The following comparisons are in order of least to most complicated.
 
 SPs don’t offer any liability protection. LLCs do offer personal liability protection, hence the name: Limited Liability Company. 
 
-Sole Proprietorships are businesses owned and operated by one “sole” individual. With an LLC you have the option of having multiple Members who own the company.
+Sole Proprietorships are businesses owned and operated by one “sole” individual. With an LLC you have the option of having multiple Members who own the company. [Compare their pros and cons here.](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/)
 
 #### -   LLC vs Partnership
 
