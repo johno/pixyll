@@ -23,12 +23,14 @@ You know what, Partnerships are boring. Straight Up.
 Come to think of it, they're kind of like water...
 
 Basic. 
+
 Unchanging.
+
 Simple.
 
 Why would anyone in their right mind choose a Partnership?
 
-Because, just like water is the base of life...
+Just like water is the base of life...
 
 Your Partnership is the base of your future in business.
 
