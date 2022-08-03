@@ -3,7 +3,7 @@ title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
 date: 2022-08-03
 summary: Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself. 
-permalink: /sole-proprietorship/advantages/
+permalink: /sole-proprietorship/disadvantages/
 ---
 
 The nine advantages you get with a Partnership include:
