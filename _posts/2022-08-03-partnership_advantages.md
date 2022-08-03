@@ -34,9 +34,11 @@ Just like water is the base of life...
 
 Your Partnership is the base of your future in business.
 
-It can be the cornerstone of your success, if you use it the right way.
+It can be the cornerstone of your success... 
 
-Laying the fundation of your future begins by first understanding the characteristics of Partnerships. Only then will you see how to exploit them for your personal gain.
+If you use it the right way.
+
+Laying the fundation of your future begins by first understanding the principles. Only then will you see how to exploit them for your personal gain.
 
 Read the rest of this article for a detailed breakdown of the advantages you NEED to know before starting a Partnership or opting for a more complicated LLC or Corporation.
 
