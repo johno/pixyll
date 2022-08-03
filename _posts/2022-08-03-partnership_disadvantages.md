@@ -212,7 +212,7 @@ If the loan remains unpaid, banks can take your business, personal property, and
 
 Even though banks are more willing to lend more to partners, the State regulates Partnership loans. The exact terms differ from one to the next.
 
-### 7.  Simplified Taxes (Pass-Through Process)
+### 7.  Simplified Taxes and Payment Process
 
 Due to their simplicity, Partnerships share a few characteristics with Sole Proprietorships and Limited Liability Companies (LLCs). 
 
