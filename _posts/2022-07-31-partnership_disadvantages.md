@@ -248,7 +248,7 @@ Whether you end up starting a Partnership or opt for another form of business, y
 2.  You lose autonomy when **you share every aspect of the business** with your team.          
 3.  If a dispute arises, you better find a solution quickly. Otherwise, **you risk losing the business and your property**. 
 
-You might be better off doing your own thing as a Sole Proprietor. In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should start a [Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/registration/) or Corporation. 
+You might be better off doing your own thing as a Sole Proprietor. In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should [start a Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/registration/) or Corporation. 
 
 Taking everything into account, Partnerships are the simplest solution to sharing the workload, responsibility, and profits with a team. But, just as every rose has its thorn, the Partnership’s simplicity comes with a few significant disadvantages, like total personal responsibility for everything. 
 
