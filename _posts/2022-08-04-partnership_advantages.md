@@ -1,14 +1,14 @@
 ---
 title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
-date: 2022-08-03
+date: 2022-08-04
 summary: Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself. 
 permalink: /partnership/advantages/
 ---
 
 The nine advantages you get with a Partnership include:
 
-**1. One-size-fits-all Partnership Agreement: The UPA**  
+**1. One-size-fits-all Partnership Agreement: The Uniform Partnership Act**  
 **2. Minimal Paperwork**   
 **3. Split the Cost of Expenses**   
 **4. Teamwork Makes the Dream Work**   
@@ -32,9 +32,9 @@ Why would anyone in their right mind choose a Partnership?
 
 Just like water is the base of life...
 
-Your Partnership is the base of your future in business.
+Your Partnership is the base of your future in business,
 
-It can be the cornerstone of your success... 
+The cornerstone of your success... 
 
 If you use it the right way.
 
