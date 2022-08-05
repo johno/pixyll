@@ -22,11 +22,11 @@ Starting a Partnership may be your best option. 
 
 It comes down to whether you want to make more money working with a team of highly skilled individuals or if you want more control working on your own.
 
-To make the right decision, you should understand if a Partnership aligns with your goals and vision. At the very least, look at what makes Partnerships {**LINK**} excellent and terrible. 
+To make the right decision, you should understand if a Partnership aligns with your goals and vision. At the very least, look at what makes Partnerships [excellent](https://www.businessinitiative.org/partnership/advantages/) and terrible. 
 
 If you’re unfamiliar with Partnerships, the Fundamentals of Partnerships are included at the end of this article.  
 
-Read on to understand the critical weak points of Partnerships. Afterward, look at their {**LINK**} advantages to getting more knowledge about Partnerships.
+Read on to understand the critical weak points of Partnerships. Afterward, look at [their advantages](https://www.businessinitiative.org/partnership/advantages/) to getting more knowledge about Partnerships.
 
 ## Partnership Disadvantages ##
 
@@ -78,7 +78,7 @@ You’re only worried about your neck when you run a business on your own. In a 
 
 Consider the following scenarios:
 
-1.  You’re a Sole Proprietor making 200K in profits a year. Great!
+1.  You’re a [Sole Proprietor](https://www.businessinitiative.org/sole-proprietorship/examples/) making 200K in profits a year. Great!
 
 or
 
@@ -168,7 +168,7 @@ If a General Partner wakes up one morning and decides to walk out of the Partner
 
 The process of terminating your Partnership is time-consuming on its own. After this, you sell and distribute the value proportionally between owners. To make matters worse, you can get a whole mess of paperwork, lawyers, and court fees to deal with if an entitlement dispute breaks out.
 
-You can avoid this by registering your business as a Sole Proprietorship or Single Member LLC. In these businesses, you don’t distribute anything to anybody (besides taxes to the Feds). When you’re the only owner, everything becomes your personal property. 
+You can avoid this by registering your business as a [Sole Proprietorship or Single Member LLC](https://www.businessinitiative.org/sole-proprietorship-vs-llc/). In these businesses, you don’t distribute anything to anybody (besides taxes to the Feds). When you’re the only owner, everything becomes your personal property. 
 
 ### 7.  Difficult to Change Ownership ###
 
@@ -178,7 +178,7 @@ Should a Partner leave, the remaining Partners regroup and figure out how they w
 
 In the case of adding a Partner, the process is similar. The difference is that instead of reallocating a vacant position, you make room for your new Partner by reducing everyone’s share of ownership. The rest is the same: dissolve, reform, write a new Partnership Agreement,  get a unanimous vote, and you’re good to go. 
 
-As you can see, Partnerships are highly dependent on the owners. Partnerships (and Sole Proprietorships) are dependent business entities. They simply cease to exist as soon as the ownership changes.
+As you can see, Partnerships are highly dependent on the owners. Partnerships (and [Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/advantages/)) are dependent business entities. They simply cease to exist as soon as the ownership changes.
 
 By contrast, Corporations and LLCs are known as “stand-alone” entities because they exist independently of their shareholders and members. People transfer companies, buying them all the time, keeping them intact while completely changing their ownership. 
 
@@ -186,7 +186,7 @@ Enough doom and gloom.
 
 Want to see all the perks Partnerships offer? 
 
-Check out the {**LINK**} Partnership Advantages. 
+Check out the [Partnership Advantages.](https://www.businessinitiative.org/partnership/advantages/) 
 
 On behalf of Business Initiative, we wish you much success in your entrepreneurial journey!
 
@@ -218,7 +218,7 @@ You have three categories of Partnership to choose from:
 
 **3.  Limited Liability Partnership (LLP)**
 
-Multi-Member LLCs and Corporations are also made specifically for multi-owner operations. The right one for you depends on everyone’s goals and the size, structure, and risk of your business.
+[Multi-Member LLCs](https://www.businessinitiative.org/multi-member-llc/) and Corporations are also made specifically for multi-owner operations. The right one for you depends on everyone’s goals and the size, structure, and risk of your business.
 
 The LLP is less common and more complicated. A realistic review of LLPs goes beyond the scope of this article and is therefore not included. 
 
@@ -248,7 +248,7 @@ Whether you end up starting a Partnership or opt for another form of business, y
 2.  You lose autonomy when **you share every aspect of the business** with your team.          
 3.  If a dispute arises, you better find a solution quickly. Otherwise, **you risk losing the business and your property**. 
 
-You might be better off doing your own thing as a Sole Proprietor. In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should consider a [Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/) or Corporation. 
+You might be better off doing your own thing as a Sole Proprietor. In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should start a [Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/registration/) or Corporation. 
 
 Taking everything into account, Partnerships are the simplest solution to sharing the workload, responsibility, and profits with a team. But, just as every rose has its thorn, the Partnership’s simplicity comes with a few significant disadvantages, like total personal responsibility for everything. 
 
