@@ -99,7 +99,7 @@ DISCLAIMER:
 
 ## Pros of Sole Proprietorships ##
 
-Sole Proprietorships are the simplest business entity. They are cheaper to start than LLCs because they don’t require registration. [Here are some examples of Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship-examples/). 
+Sole Proprietorships are the simplest business entity. They are cheaper to start than LLCs because they don’t require registration. [Here are some examples of Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/examples/). 
 
 ### Single-Owner Simplicity ###
 
