@@ -131,6 +131,9 @@ This is the beauty of the Pass-Through Process. Your business taxes are “passe
 
 Just complete the [1040-C Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) showing how much money your business made and attach it to your [Personal 1040 Tax Form](https://www.irs.gov/pub/irs-pdf/f1040.pdf).
 
+Want to implement strategies for better growth in your business? Join the Business Intiative Newsletter:
+<script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
+
 ## Cons of LLCs ##
 
 If you want the protection of an LLC, you have to go through your state’s registration process and stay up-to-date with the maintenance requirements.
@@ -223,7 +226,7 @@ DBAs give you credibility, and branding opportunities, and protect your identity
 
 Most states don’t require DBAs. You may be perfectly fine using your legal name depending on your business. If you want the extra edge of a DBA just submit the required paperwork to your State Secretary or County Clerk's office and wait for the “go ahead”.
 
-## Which is Better for You? ##
+## LLC or Sole Proprietorship: Which is Right for You? ##
 
 When deciding on which business type is best for your level of experience, your goals, and your specialty there are many factors to consider. 
 
@@ -237,7 +240,9 @@ Both business entities pay taxes using the Pass-Through Process. This is the def
 
 Build your business on the proper foundation, especially if you have big goals and see yourself wanting to expand in the future.
 
-Business Initiative wishes you much success in your entrepreneurial journey!  
+Business Initiative wants your entrepreneurial journey to be successful. Join our newletter for practical techniques you can use today!
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 DISCLAIMER:
 
