@@ -1,5 +1,6 @@
 ---
 title: 9 Key Partnership Advantages to Separate You From the Crowd
+seotitle: "30 billion dollars"
 layout: post
 date: 2022-08-04
 summary: Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself. 
@@ -85,6 +86,10 @@ Partnerships are the most basic business entity with multiple owners. 
 Technically, Sole Proprietorships are simpler only because they have one owner. Sole Proprietors don’t have registration requirements. All it takes to be one is selling a product or service under your legal name. The downside is you’re on your own. 
 
 In a Partnership, you work with a team. Because more people are involved, some precautions and contractual agreements are in order. Here is where the Partnership Agreement comes into play.  
+
+<p style="margin-top: 30px !important;"><b>➤ MORE: </b> <a href="{{ https://www.businessinitiative.org/partnership/disadvantages/ }}">{{ Click here for the 7 disadvantages of Partnerships }}</a></p>
+06:06 PM
+{% include morelink.html link="/partnership/advantages/" text="this is a test idk what this does" %}
 
 #### Forming a Partnership is Easy!
 
@@ -280,7 +285,7 @@ The procedure for promoting an employee to become a Partner is in your Partnersh
 
 ### Is a Partnership Right for You?
 
-Partnerships are the simplest way to have a team come together to share the profits and responsibilities of running a business. The downside of this simplicity is a lack of tax benefits, self-employment taxes, and total personal liability for you and your fellow partners. 
+Partnerships are the simplest way to have a team come together to share the profits and responsibilities of running a business. The [downside of this simplicity](https://www.businessinitiative.org/partnership/disadvantages/) is a lack of tax benefits, self-employment taxes, and total personal liability for you and your fellow partners. 
 
 As you’ve seen, many variables are involved in choosing your business entity and organizing it in the best way for your business, your interests, and the interests of your fellow partners. 
 
