@@ -82,7 +82,7 @@ But first, we have one pressing question:
 
 ### What is an LLC, *really?*
 
-Single-Member and Multi-Member LLCs are taxed the same way as [Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/advantages/) and Partnerships, respectively. 
+Single-Member and Multi-Member LLCs are taxed the same way as [Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/advantages/) and [Partnerships](https://www.businessinitiative.org/partnership/disadvantages/), respectively. 
 
 The money coming into your LLC is divided based on agreed-upon percentages set for each member of your company. Your LLC's profits become personal income after moving the money from the company and placing it into your bank account.
 
