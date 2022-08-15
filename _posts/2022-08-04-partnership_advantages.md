@@ -88,7 +88,6 @@ Technically, Sole Proprietorships are simpler only because they have one owner. 
 In a Partnership, you work with a team. Because more people are involved, some precautions and contractual agreements are in order. Here is where the Partnership Agreement comes into play.  
 
 <p style="margin-top: 30px !important;"><b>➤ MORE: </b> <a href="{{ https://www.businessinitiative.org/partnership/disadvantages/ }}">{{ Click here for the 7 disadvantages of Partnerships }}</a></p>
-06:06 PM
 {% include morelink.html link="/partnership/advantages/" text="this is a test idk what this does" %}
 
 #### Forming a Partnership is Easy!
