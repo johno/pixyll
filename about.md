@@ -16,13 +16,13 @@ We connect you with highly-qualified service providers, specilizing in business 
 Now that you have no excuses… **It’s time to take Initiative.**
 
 <style>
-  figcaption {padding: 0.7rem}
+  footing {padding: 0.7rem}
   </style>
 <figure>
 <center>
 <img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="327" height="327"/> 
-<figcaption> Jack Nicholaisen, Business Initiative’s Founder
-</figcaption>
+<footing> Jack Nicholaisen, Business Initiative’s Founder
+</footing>
 </center>
   </figure>
 
