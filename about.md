@@ -15,14 +15,12 @@ We connect you with highly-qualified service providers, specilizing in business 
 
 <center>
 <img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="217" height="217"/> 
-<figcaption>Business Initiative’s Founder, Jack Nicholaisen, set out to shorten the distance between your spark of inspiration and seeing it become a reality.
-</figcaption>
+<footer>Business Initiative’s Founder, Jack Nicholaisen, set out to shorten the distance between your spark of inspiration and seeing it become a reality.
+</footer>
 </center>
 <br>
 
-<blockquote>
-<p>
-"Your time, energy, and money are precious. To help you get started, we provide the information and the connections to make it happen." </p></blockquote>
+"Your time, energy, and money are precious. To help you get started, we provide the information and the connections to make it happen." 
 
 Now that you have no excuses… **It’s time to take Initiative.**
 
