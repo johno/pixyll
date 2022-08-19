@@ -13,7 +13,11 @@ Business Initiative creates clear, concise articles on the various components of
 
 We connect you with highly-qualified service providers, specilizing in business registration. They act as your registered agent, filing everything for you so you don’t have to. 
 
-Business Initiative’s Founder, Jack Nicholaisen, set out to shorten the distance between your spark of inspiration and seeing it become a reality. Your time, energy, and money are precious. To help you get started as fast as possible, we provide the information and the connections to make it happen. 
+<center><img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" />
+</center><br>
+Business Initiative’s Founder, Jack Nicholaisen, set out to shorten the distance between your spark of inspiration and seeing it become a reality. 
+
+"Your time, energy, and money are precious. To help you get started, we provide the information and the connections to make it happen." 
 
 Now that you have no excuses… **It’s time to take Initiative.**
 
