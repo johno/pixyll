@@ -18,13 +18,13 @@ Now that you have no excuses… **It’s time to take Initiative.**
 
 <figure>
 <center>
-<img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="327" height="327"/> 
+<img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="260" height="260"/> 
 <figcaption> Jack Nicholaisen, Business Initiative’s Founder
 </figcaption>
 </center>
   </figure>
 
-"I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, Business Initiative provides the information and the connections to make it happen." 
+"I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, I created Business Initiative to provide the necessary information and connections to make it happen." 
 
 
 <a href="https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow Us @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
