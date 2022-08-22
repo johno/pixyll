@@ -80,7 +80,7 @@ Expanding your LLC to multiple states is more complicated than using a Partnersh
 
 In an LLC, your focus switches from developing your business to finding a way to operate legally under multiple jurisdictions. Spreading a Partnership to many states is straightforward, thanks to the UPA’s utter simplicity and limited external regulations.
 
-*What if your state doesn’t accept the UPA? 
+*What if your state doesn’t accept the UPA?* 
 
 Learn about your State’s Partnership registration and operation guidelines on your State Secretary’s or Registrar's official government website. 
 
