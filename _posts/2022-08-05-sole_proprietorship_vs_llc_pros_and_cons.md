@@ -28,7 +28,9 @@ When you see what’s available and understand the implications of each setup, y
 
 ## Advantages of LLCs ##
 
-A Limited Liability Company gives you personal protection, credibility, and tax options. [Here is a more in-depth look at LLCs](https://www.businessinitiative.org/what-does-llc-mean/). 
+A Limited Liability Company gives you personal protection, credibility, and tax options. 
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/"> Check out our detailed breakdown of LLCs.</a></p>
 
 ### Limited Personal Liability Protection ###
 
@@ -99,7 +101,9 @@ DISCLAIMER:
 
 ## Pros of Sole Proprietorships ##
 
-Sole Proprietorships are the simplest business entity. They are cheaper to start than LLCs because they don’t require registration. [Here are some examples of Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/examples/). 
+Sole Proprietorships are the simplest business entity. They are cheaper to start than LLCs because they don’t require registration. 
+
+<p><b>➤ Get Inspired: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/"> 17 Scalable Sole Proprietorships you can start with little to no money.</a></p>
 
 ### Single-Owner Simplicity ###
 
