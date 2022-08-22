@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Multi Member LLC - Build Bigger and Better with a Team
-date: 2022-07-06
+date: 2022-08-15
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
 ---
@@ -206,7 +206,7 @@ A majority agreement must be reached for any major decision to take effect. If a
 
 The Operating Agreement details the procedures for different situations you may encounter while operating your LLC. It also includes the management structure, the responsibilities of each member, each member’s share of voting rights, and many other important aspects of your LLC.
 
-By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show the importance of writing an organized Operating Agreement when [registering your Multi Member LLC.](https://www.businessinitiative.org/multi-member-llc/registration/)
+By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show how important it is to have an organized Operating Agreement.
 
 ## LLC Registration Requirements ##
 
@@ -221,7 +221,7 @@ Here is what you need to get together and complete to register your LLC:
 *   Employee Regulations
 *   Maintenance
 
-[Click HERE for descriptions of these requirements.](https://www.businessinitiative.org/multi-member-llc/registration/)
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/multi-member-llc/registration/"> Click here to learn about each of these requirements</a></p>
 
 When all of these are in order you will be the proud operator of **your very own LLC**. 
 
@@ -316,91 +316,11 @@ After consolidating your properties, you and your associates can group your SMLL
 
 If real estate is your LLC’s main source of profits you have to submit a special [Schedule-E Tax Form](https://www.irs.gov/pub/irs-pdf/f1040se.pdf) alongside your 1040 Form.
 
-DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-
-### Specialty Tax Status and Payments (Corporations)
-
-Upgrading to a specialty tax status changes how your LLC pays owners and how the owners pay taxes. When the LLC upgrades to a specialty tax status the owners are referred to as “Shareholders” instead of as “Members”.  
-
-Here are the two upgrades you can choose: 
-
-1.  S-Corporation (Salary, Distributions, No Corporate Tax)
-2.  C-Corporation (Salary, Distributions, No Self-Employment Tax)
-
-Upgrading has the potential to save you, and the rest of your company, money by using the unique characteristics of these business entities. The downside of upgrading is your LLC will have different rules, regulations, and taxes to file. Not only is it a new system, but it’s also more complex. 
-
-By electing an S- or C-Corp status, your LLC is first taxed as its own business entity. Whatever remains is taxed again as personal income to the Owners and Shareholders.
-
-The default LLC’s simplicity is the biggest advantage over specialty LLCs.
-
-Upgrading before your business has the capacity to follow higher maintenance and regulatory requirements can cause you to miss out on the tax benefits. 
-
-There’s no rush to upgrade if you’re not yet bringing in enough to make Specialty Taxation worth your while. You will soon be able to and you can always upgrade your Tax Status later on. 
-
-#### S-Corporation ####
-
-You can upgrade your default LLC to an S-Corporation where owners get paid a combination of a Salary and Dividends. An S-Corp’s Dividends are the same as an LLC’s Distributions.
-
-The S-Corp is generally more popular because you avoid Corporate Tax. The funny thing is Pass-Through Taxation also gets you out of Corporate Tax, but without all the extra rules and regulations. 
-
-Just remember: Your LLC should be consistently profitable before upgrading otherwise it could wreck your business.
-
-##### Benefits of an S-Corporation #####
-
-Some states limit the amount of profits Members can take in a default setup. In an S-Corp, however, there is no limit on how much of the LLC’s profit you and the rest of the Shareholders can receive.
-
-You can optimize your income in an S-Corp and pay less tax by splitting your earnings between salary and dividends. In a default LLC, Members are only paid Distributions. 
-
-Since owners contribute to the business, you are exempt from paying Self-Employment Tax on your employee Salary. The company pays your Social Security and Medicare taxes (i.e. Self-Employment Tax) so you don’t have to.
-
-At the same time, owners get Dividends since they are shareholders in the business. You pay Self-Employment Tax on Dividends. It’s the difference between working “for” the company and working “on” your company and how your receive your money. 
-
-##### S-Corp Requirements #####
-
-In order to upgrade to an S-Corporation:
-
-*   You’re limited to 100 shareholders
-*   Shareholders must be US citizens residing in the United States
-*   Owners can only be people (Not groups, organizations, or other business entities, like they can be in a default LLC)
-*   Owners must have the same class of stock. Certain shareholders can’t have a higher status or more entitlement than other shareholders 
-
-These additional rules create more uniformity within the LLC.
-
-##### S-Corp Election Forms and Tax Forms #####
-
-To upgrade your default LLC to a specialty S-Corp, complete and file a [2553 Election Form](https://www.irs.gov/pub/irs-pdf/f2553.pdf). More detailed instructions for upgrading to an S-Corp can be found [here](https://www.irs.gov/instructions/i2553).
-
-Thankfully, there are plenty of online services available to submit these forms and other documents on your behalf. They simplify the process and reduce the headache of dealing with government services and bureaucracy.
-
-Once you’re operating as an S-Corp, you’ll use an [1120-S Form](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) to file taxes. This form is similar to the form full-on Corporations use to file taxes. More detailed instructions for filing taxes as an S-Corporation can be found [here](https://www.irs.gov/instructions/i1120s). 
-
-#### C-Corporation ####
-
-You can also upgrade your LLC to the specialty C-Corp tax status. The drawback of going C-Corp is your company pays taxes twice. This is what’s known as “Double Taxation”. 
-
-The first tax is the 21% Corporate Tax which applies to all company profits. Your LLC pays the Corporate Tax as its own entity. 
-
-After paying the Corporate Tax, your LLC pays salaries to you and the other shareholders based on individual contributions to the business.
-
-In addition to the salaries, you and the rest of the owners receive Dividends. 
-
-Shareholder Dividends are considered personal earnings and are taxed a second time. This tax is based on your tax bracket so it varies from one person to the next. Dividends are subject to Self-Employment Tax because only Owners get them.
-
-Even though upgrading to a Corporate Tax Status means paying Double Taxation, one thing you are getting out of is Self-Employment Tax, as we just mentioned above. 
-
-Plus, Double Taxation incentivizes owners to keep Dividends within the company. By keeping this money in the business, you are not taxed a second time. Dividends left in the business’s account are still subject to Income Tax, even when nobody claims the money.
-
-##### C-Corp Election Forms and Tax Forms #####
-
-To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity Classification Election Form](https://www.irs.gov/pub/irs-pdf/f8832.pdf) and submit it to the IRS. More detailed instructions for upgrading your LLC to a C-Corp can be found [here](https://www.irs.gov/forms-pubs/about-form-8832). 
-
-Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. More detailed instructions for filing taxes as a C-Corporation can be found [here](https://www.irs.gov/instructions/i1120). 
-
 ## How to Pay Yourself from Your Multi Member LLC ##
 
-Getting paid from your MMLLC is as easy as transferring money from the business’s bank account to personal accounts. What follows is a basic breakdown of this process. For a more in-depth look at getting paid from your LLC, [check out our step-by-step guide here](https://www.businessinitiative.org/paying-yourself-llc/).
+Getting paid from your MMLLC is as easy as transferring money from the business’s bank account to personal accounts. What follows is a basic breakdown of this process. 
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/paying-yourself-llc/"> Here's a Step-by-Step Guide to Getting Paid</a></p>
 
 Your LLC is required to have its own business bank account in the first place. Your LLC’s bank account is necessary for your legal and financial protections to be effective. 
 
