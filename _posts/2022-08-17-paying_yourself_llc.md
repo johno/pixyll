@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pay Myself From My LLC? (Step-by-step process)
-date: 2022-07-20
+date: 2022-08-17
 summary: Interested in starting a business and monetizing your personal brand? Read on to find out how to get paid from your very own LLC!
 permalink: /paying-yourself-llc/
 ---
@@ -206,7 +206,7 @@ It’s a good idea to pay taxes every three months (quarterly) to stay on top of
 
  *Okay, so...* 
  
- ## When Do I Get My Money? ##
+## When Do I Get My Money? ##
 
 Defaut LLC Owners (both single-member and multi-member) get paid through Owner’s Draws. You also have the option of getting paid through a combination of a Salary and Dividends.
 
