@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S Corp vs C Corp: Taxes, Benefits, and Requirements
+title: "S Corp vs C Corp: Taxes, Benefits, and Requirements"
 date: 2022-08-21
 summary: Are you tired of missing out on tax breaks and a predictable salary? If you run a Default LLC, have a look at what upgrading to a Specialty LLC can do for you.
 permalink: /s-corp-vs-c-corp/
@@ -29,7 +29,7 @@ There’s no rush to upgrade if you’re not yet bringing in enough to make Spec
 
 ## S-Corporation ##
 
-You can upgrade your default LLC to an S-Corporation where owners get paid a combination of a Salary and Dividends. An S-Corp’s Dividends are the same as an LLC’s Distributions.
+You can upgrade your default LLC to an S-Corporation where owners get paid a combination of a Salary and Distributions. An S-Corp’s Distributions are the same as an LLC’s Draw.
 
 The S-Corp is generally more popular because you avoid Corporate Tax. The funny thing is Pass-Through Taxation also gets you out of Corporate Tax, but without all the extra rules and regulations. 
 
@@ -39,11 +39,13 @@ Just remember: Your LLC should be consistently profitable before upgrading other
 
 Some states limit the amount of profits Members can take in a default setup. In an S-Corp, however, there is no limit on how much of the LLC’s profit you and the rest of the Shareholders can receive.
 
-You can optimize your income in an S-Corp and pay less tax by splitting your earnings between salary and dividends. In a default LLC, Members are only paid Distributions. 
+You can optimize your income in an S-Corp and pay less tax by splitting your earnings between salary and distributions. In a default LLC, Members are only paid in Draws/Distributions. 
 
-Since owners contribute to the business, you are exempt from paying Self-Employment Tax on your employee Salary. The company pays your Social Security and Medicare taxes (i.e. Self-Employment Tax) so you don’t have to.
+Since owners contribute to the business, you are exempt from paying Self-Employment Tax on your employee Salary yourself. The company pays Social Security and Medicare taxes (i.e. Self-Employment Tax) on everyone's salary.
 
-At the same time, owners get Dividends since they are shareholders in the business. You pay Self-Employment Tax on Dividends. It’s the difference between working “for” the company and working “on” your company and how your receive your money. 
+Beging that you are both an Owner and a Shareholder, you're paying Self-Employment tax on all your Distributions. The process is very similar to paying for
+
+How you receive the money depends on whether you work “for” the company and working “on” your company. Owners 
 
 ## S-Corp Requirements ##
 
