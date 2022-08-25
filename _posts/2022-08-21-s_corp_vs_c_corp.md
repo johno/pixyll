@@ -21,11 +21,15 @@ Upgrading has the potential to save you, and the rest of your company, money by 
 
 By electing an S- or C-Corp status, your LLC is first taxed as its own business entity. Whatever remains is taxed again as personal income to the Owners and Shareholders.
 
-The default LLC’s simplicity is the biggest advantage over specialty LLCs.
+The Default LLC’s simplicity is the biggest advantage over Specialty LLCs.
 
 Upgrading before your business has the capacity to follow higher maintenance and regulatory requirements can cause you to miss out on the tax benefits. 
 
-There’s no rush to upgrade if you’re not yet bringing in enough to make Specialty Taxation worth your while. You will soon be able to and you can always upgrade your Tax Status later on. 
+There’s no rush.
+
+You can always upgrade your Tax Status later on.
+
+If you’re not fully estabished yet, you could miss out on everything that makes S- and C-Corps worth your while.
 
 ## S-Corporation ##
 
@@ -33,7 +37,7 @@ You can upgrade your default LLC to an S-Corporation where owners get paid a com
 
 The S-Corp is generally more popular because you avoid Corporate Tax. The funny thing is Pass-Through Taxation also gets you out of Corporate Tax, but without all the extra rules and regulations. 
 
-Just remember: Your LLC should be consistently profitable before upgrading otherwise it could wreck your business.
+Just remember: Your LLC should be consistently profitable before upgrading.
 
 ## Benefits of an S-Corporation ##
 
@@ -60,11 +64,15 @@ These additional rules create more uniformity within the LLC.
 
 ## S-Corp Election Forms and Tax Forms ##
 
-To upgrade your default LLC to a specialty S-Corp, complete and file a [2553 Election Form](https://www.irs.gov/pub/irs-pdf/f2553.pdf). More detailed instructions for upgrading to an S-Corp can be found [here](https://www.irs.gov/instructions/i2553).
+To upgrade your default LLC to a specialty S-Corp, complete and file a [2553 Election Form](https://www.irs.gov/pub/irs-pdf/f2553.pdf). 
+
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i2553"> Upgrade to an S-Corp.</a></p>
 
 Thankfully, there are plenty of online services available to submit these forms and other documents on your behalf. They simplify the process and reduce the headache of dealing with government services and bureaucracy.
 
-Once you’re operating as an S-Corp, you’ll use an [1120-S Form](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) to file taxes. This form is similar to the form full-on Corporations use to file taxes. More detailed instructions for filing taxes as an S-Corporation can be found [here](https://www.irs.gov/instructions/i1120s). 
+Once you’re operating as an S-Corp, you’ll use an [1120-S Form](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) to file taxes. This form is similar to the form full-on Corporations use to file taxes. 
+
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120s"> Filing taxes as an S-Corporation.</a></p>
 
 ## C-Corporation ##
 
@@ -84,9 +92,13 @@ Plus, Double Taxation incentivizes owners to keep Dividends within the company. 
 
 ## C-Corp Election Forms and Tax Forms ##
 
-To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity Classification Election Form](https://www.irs.gov/pub/irs-pdf/f8832.pdf) and submit it to the IRS. More detailed instructions for upgrading your LLC to a C-Corp can be found [here](https://www.irs.gov/forms-pubs/about-form-8832). 
+To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity Classification Election Form](https://www.irs.gov/pub/irs-pdf/f8832.pdf) and submit it to the IRS. 
 
-Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. More detailed instructions for filing taxes as a C-Corporation can be found [here](https://www.irs.gov/instructions/i1120). 
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/forms-pubs/about-form-8832"> Upgrade your LLC to a C-Corp.</a></p>
+
+Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. 
+
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120"> Filing taxes as a C-Corporation.</a></p>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
