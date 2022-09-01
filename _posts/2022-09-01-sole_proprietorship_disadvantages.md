@@ -8,7 +8,7 @@ permalink: /sole-proprietorship/disadvantages/
 
 The Cons of Sole Proprietorships include:
 
-*   You are **personally liable** for the business's actions**
+*   You are **personally liable** for the business's actions
 
 *   Limited options **reduces functionality**
 
