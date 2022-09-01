@@ -2,11 +2,11 @@
 layout: post
 title: 6 Lousy Disadvantages of Sole Proprietroships
 date: 2022-09-01
-summary:
+summary: Don't read this article if you're considering starting a Sole Proprietorship! Although they're simple, you just might reconsider and start a Partnership, LLC, or Corporation.
 permalink: /sole-proprietorship/disadvantages/
 ---
 
-The Cons of Sole Proprietorships include:
+The Cons of Sole Proprietorships:
 
 *   You are **personally liable** for the business's actions
 
@@ -36,11 +36,15 @@ These protections only apply to the owners and shareholders of LLCs and Corporat
 
 They do not apply to Sole Proprietors, who are personally liable for any debts and lawsuits. 
 
-A lot of entrepreneurs start out with a Sole Proprietorship. Then, as the business grows, they re-form them into LLCs, Partnerships, or Corporations. 
+A lot of entrepreneurs start out with a Sole Proprietorship. Then, as the business grows, they re-form them into LLCs, [Partnerships](https://www.businessinitiative.org/partnership/advantages/), or Corporations. 
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/"> Learn the in's and out's of LLCs.</a></p>
 
 It is important to know what you’re getting yourself into and what is required of you in the different business entities and depending on the state you’re operating in. 
 
 Dissolving your Sole Proprietorship is easy because as soon as you stop operating, the business ceases to exist. This can be through selling your business, closing the business, or the death of the Sole Proprietor.
+
+Check us out on Twitter: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="BisInitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Liability
 
@@ -62,7 +66,7 @@ For these reasons, it may be a good idea to get special insurance for your Sole 
 
 Let’s say you want more people to join and share ownership of the business, you can’t keep it a Sole Proprietorship. The only way two people can run the same Sole Proprietorship is if they are married. This is what’s known as a Co-Sole Proprietorship. 
 
-If you want other owners or shareholders to get involved, you have to dissolve the Sole Proprietorship and reform it as a Partnership, LLC, or Corporation, depending on your unique needs. 
+If you want other owners or shareholders to get involved, you have to dissolve the Sole Proprietorship and reform it as a [Partnership](https://www.businessinitiative.org/partnership/disadvantages/), LLC, or Corporation, depending on your unique needs. 
 
 In the event of the owner’s death, all the company’s assets, profits, and property go to the owner’s family or whoever is in their will. This direct transfer is subject to Inheritance Tax, dramatically reducing the amount your inheritors receive.  
 
@@ -74,6 +78,8 @@ Most banks don’t allow you to open up a business bank account for a Sole Propr
 
 This is a negative of Sole Proprietorships because you’re missing out on getting in the habit of distinguishing between business and personal finances. A practice which comes in handy if you plan on expanding to an LLC or Corporation, where separating business and personal is mandatory. 
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/"> We breakdown the Pros and Cons of Sole Proprietorships and LLCs.</a></p>
+
 ## Lacking Credibility and Rapport
 
 As a sole proprietor, you must operate under your full legal name. Not only do you miss out on amazing advertising opportunities, it also makes building confidence in your product or service challenging. 
@@ -84,7 +90,7 @@ Someone speaking about his services would probably say, “Oh yeah, there's Joe 
 
 There's just nothing professional about using your legal name for your business. 
 
-If you end up operating a Sole Proprietorship, you should complete the extra step of filing for a DBA (Doing Business As…) name. This is a custom, industry-specific, name of your choosing. 
+If you end up operating a Sole Proprietorship, you should complete the extra step of [filing for a DBA (Doing Business As…) name.](https://www.businessinitiative.org/dba-vs-llc/) This is a custom, industry-specific, name of your choosing. 
 
 If Joe had a DBA, someone would refer to his services as such: “Oh yeah, Joe’s Lawn and Landscaping is great! Here, scan this QR code to check out his website for pricing and contact information.” 
 
@@ -114,11 +120,15 @@ Additionally, you can’t sell or transfer the business name, unless you have a 
 
 All of this is to say, you can sell or transfer a Sole Proprietorship if you really want to. It is much more complex than selling or transferring an LLC or Corporation, which is officially registered and recognized by the state.
 
-## - Is a Sole Proprietroship Right for You?
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/"> Find out how LLCs compare to Sole Proprietorships.</a></p>
+
+## Is a Sole Proprietroship Right for You?
 
 Some businesses are more complicated and offer protections and special taxation. Other businesses, like Sole Proprietorships, are seemingly effortless but don’t offer any special features. 
 
 No matter what type of business you decide on, you will find benefits and drawbacks. It is important to find the business with the right balance for you and your needs. 
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 DISCLAIMER:
 
