@@ -234,7 +234,9 @@ Whereas these are necessary to continue operating as a Corporation.
 Corporations are a better option for established companies. 
 LLCs are great for starting and building. 
 
-As an LLC you have the added opportunity of changing your tax status to a Corporation (while remaining an LLC) once your business has become more established. 
+As an LLC you have the added opportunity of changing your tax status to a C-Corp once your business is more established. 
+
+<p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/"> Is an S- or C-Corp right for you?</a></p>
 
 ## In Conclusion… 
 

@@ -62,6 +62,8 @@ You can upgrade your LLC to an S- or C-Corporation. The tax savings from upgradi
 
 In other words, S-Corps and C-Corps are better suited for when you’ve gotten your LLC off the ground and established yourself in your industry. 
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/"> Explore the differences between S- and C-Corps.</a></p>
+
 ### Scalability ###
 
 LLCs are the most common business structure in America because of their scalability. 

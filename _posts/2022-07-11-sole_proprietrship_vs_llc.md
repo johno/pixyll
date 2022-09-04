@@ -94,6 +94,8 @@ You can also choose to upgrade your LLC and get it taxed as a Corporation.
 
 Corporate taxation works by electing to have your LLC file taxes as an S- or C-Corporation. 
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/"> Find out how S- and C-Corps compare.</a></p>
+
 This really becomes beneficial once your LLC is more established and makes good money consistently. 
 
 You may not ever want to change your tax status but it doesn’t hurt to have the option of Corporate taxation in your back pocket. 
