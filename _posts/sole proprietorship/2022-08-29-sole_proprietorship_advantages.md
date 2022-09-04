@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Sole Proprietorship Advantages and Disadvantages You NEED to Know
-date: 2022-07-27
+date: 2022-08-29
 summary: Wanna know if the Sole Proprietorship is THE best business entity for achieving your professional goals? READ THIS!
 permalink: /sole-proprietorship/advantages/
 ---
