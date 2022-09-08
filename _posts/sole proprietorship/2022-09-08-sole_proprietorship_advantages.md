@@ -6,6 +6,38 @@ summary: Wanna know if the Sole Proprietorship is THE BEST business entity for a
 permalink: /sole-proprietorship/advantages/
 ---
 
+<div class="takeaway-box">
+  <h3 style="margin-left: 17px;"><img style="width: 35px;margin-right: 12px;" src="/img/icons/info.png">Key Takeaways</h3>
+  <ul>
+    <li>{{ include.bullet1 }}</li>
+    <li>{{ include.bullet2 }}</li>
+    <li>{{ include.bullet3 }}</li>
+    <li>{{ include.bullet4 }}</li>
+    <li>{{ include.bullet5 }}</li>
+   
+  </ul>
+</div>
+
+.takeaway-box {
+  margin-bottom: 45px;
+  padding: .5rem 1rem 1rem;
+  border: 1px solid #d4d4d4;
+  box-shadow: .5rem .5rem 0 #f7f7f7;
+  margin-top: 30px;
+}
+
+.takeaway-box li {
+  margin-bottom: 12px;
+}
+
+.takeaway-box ul {
+  line-height: 1.8em;
+}
+
+
+
+{% include takeaways.html bullet1="Bitcoin mining is still extremely profitable in 2022." bullet2="Bitcoin miners are currently mining around $20 million worth of Bitcoin per day. That's $600 million per month." bullet3="A mining machine costs $2,000-$20,000, making it difficult for anyone but professional miners to mine." %}
+
 **The 5 ways Sole Proprietorships give you the upper hand:**
 
 * There’s **no paperwork** or State registration
