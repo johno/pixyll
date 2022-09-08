@@ -1,152 +1,144 @@
 ---
 layout: post
-title: The Sole Proprietorship Advantages and Disadvantages You NEED to Know
+title: 5 Impressive Advantages of Sole Proprietorship
 date: 2022-08-29
-summary: Wanna know if the Sole Proprietorship is THE best business entity for achieving your professional goals? READ THIS!
+summary: Wanna know if the Sole Proprietorship is THE BEST business entity for achieving your professional goals? READ THIS!
 permalink: /sole-proprietorship/advantages/
 ---
 
-## What is a Sole Proprietorship?
+**The 5 ways Sole Proprietorships give you the upper hand:**
 
-To put it simply, Sole Proprietorships are business entities owned and managed by a single person. Even though there’s a single owner, there can be employees working within the business. If you are married you can make what is called a Co-Sole Proprietorship with your spouse. Sole proprietorships are the simplest of business entities.
+* There’s **no paperwork** or State registration
+* Simplest and **fastest business entity to set up**
+* You have **total control** over every facet of the business
+* **Dissolving the business is effortless**
+* The **easiest taxation method**: The Pass-Though Process
 
-The owner (sole proprietor) is also the operator of their business. The owner is fully responsible for anything having to do with the business and gets all of the profits. The business owner is in direct control of all of the business’s movements. 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Learn about the 5 Benefits of a Sole Proprietorship" data-via="Bisinitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At the same time, the owner is responsible for any debts or legal issues should they arise. If the business itself can’t deal with these problems, lawyers and banks will come after the owner’s personal property and assets to cover what is owed. They can take anything that is yours like investments, savings, houses, cars, real estate, etc.
+## Sole Proprietorships 101
 
-Business entities like Partnerships, Corporations, LLCs are different from Sole Proprietorships. In a Sole Proprietorship, the owner is “solely” in charge and responsible for any good or bad the business does. In the other entities mentioned other people control/operate the business like other owners or members and shareholders. 
+In a Sole Proprietorship, you are the “sole” owner and operator, responsible for any good or bad the business does. It’s the simplest business entity because you are in total control of every aspect of the business. Although you are restricted in being the only owner, you can expand and hire employees. 
 
-In LLCs and Corporations, your personal belongings are protected if the business takes on debts or faces legal troubles since these entities provide liability protection. These protections apply to the owners and shareholders of LLCs and Corporations. They do not apply to Sole Proprietors, who are personally liable for any debts and lawsuits. LLCs and Corporations protect personal assets. Sole proprietorships do not. 
+P.S. If you’re married you can form what is known as a “Co-Sole Proprietorship” with your spouse.
 
-Sole proprietorships are the easiest business entity to create. It won’t cost you anything to form one either. A business entity of this sort is established just by the owner beginning operations of his or her business. There aren’t any licenses or registrations necessary for creating a Sole Proprietorship.  All you have to do to get started is get any special licenses or permits needed for your specific business to operate. Once you have the business in operation, that’s it. You’ve got yourself a Sole Proprietorship.
+The easiest form of business to create is the Sole Proprietorship. There’s no extensive registration process or start-up fees. The licenses and permits you need all depend on your industry and the location where you’re operating. 
 
-It is easy to dissolve your sole proprietorship too because it only remains running as long as you’re running the business. As soon as you stop operations, the business ceases to exist. This can be through a sale of the business, the death of the business owner, or by simply closing the business. 
+Once you’re selling a product or service under your legal name…
 
-You will be in total control of your business. More control than some other business entities (Partnerships and Corporations). A lot of entrepreneurs start their business out as a Sole Proprietorship and then re-form them into LLCs, Partnerships, or Corporations later on as the business is built. 
+**You’ve got yourself a Sole Proprietorship.**
 
-Information regarding how to collect your profits and pay your taxes in a Sole Proprietorship follows the Pros and Cons lists.
+You receive more control than Partnerships, LLCs, or Corporations where influence is shared with your fellow partners, members, or shareholders. These entities also have complicated (sometimes expensive) State registration and maintenance requirements.
 
-It’s important for anyone thinking of going this route to speak with a lawyer or financial advisor before making major decisions. It is important to know what you’re getting yourself into and what is required of you in the different business entities and depending on which state you’re going to operate in. For example, some products and services need special permits and licenses to be sold in certain states. 
+If you’re thinking of going this route, it’s important to speak with a lawyer and financial advisor before making binding legal and financial decisions. 
 
-If you want to use a DBA (Doing Business As…) a.k.a. Fictitious name, you’ll need to register it in most states. A fictitious name or DBA is any business name that isn’t identical to your legal name. Registering a DBA is done through your local county clerk office or your state government, depending on which state you’re doing business in. Some states don’t even need you to register a DBA. If you will be doing business in multiple states you’re going to go through the Department of Commerce in Washington, D.C.
+Now that we’ve gotten the basics out of the way… 
 
-DISCLAIMER:
+Here is a breakdown of the Sole Proprietorship's main benefits:
 
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals
+## (Almost) No Paperwork
 
-## Advantages of Sole Proprietorships
+Sole Proprietorships have hardly any maintenance requirements or paperwork, saving you time and money. Owners of State-registered businesses have to use these precious resources to file financial records and other boring materials on a regular basis. 
+ 
+Here’s a few **things you don’t have to worry about** as a sole proprietor:
+ 
+* Articles of Incorporation
+* Articles of Organization
+* Bylaws
+* Operation Agreements
+* Amendments to the original registration documents
+* Shareholder contributions
+* Stock ownership 
+* Balance sheets
+* Accounting records
+* Transfers of interest
+* Business Income Tax Returns
+* Formation and registration documents
+* Business bank account deposit slips
+* Business credit card records
+* Meeting Minutes
+* License and registration renewals
+* Human resource files
+* Annual reports
+ 
+This list goes on and on…
 
-The Pros of Sole Proprietorships include:
+By filing information and financial records with the government, it becomes public record. This means anyone can gain access to it in person and, in most cases, online.
 
-#### - Simple to Create
+The good news is:
 
-It’s easy to form a Sole proprietorship. All you have to do is get the business moving (and be the only one in charge of it). Since there are very few restrictions and forms involved in establishing a Sole Proprietorship, you can quickly get the business up and running. 
+The most you’ll need for a Sole Proprietorship is an EIN (Employer Identification Number). This is like an ID, but for your business. You can get one if you want to, but most states don't make it a requirement.
 
-There’s also the bonus of not having to pay yearly business registration fees for the Sole Proprietorship. You don’t even have any registration fees in the first place. This is a benefit that LLCs and Corporations don’t receive. They have to pay registration and filing fees and then, pay those fees every year to keep things running. “The cost of doing business” as it’s called.
+The only real forms and requirements depend on what you provide. Some products and services require special training, licenses, permits, certifications, etc. in order to be sold. This is on a case-by-case and state-by-state basis. 
 
-#### - Maximum Ownership and Control
+This gives you something which is becoming harder and harder to come by nowadays: 
 
-You will have total control over the profits of your company. As the owner, you control and own everything. In a sense, by being a Sole Proprietor, you are the business. 
+**Privacy**
 
-It is easy to hire (and fire) employees using this business structure. You don’t need approval for decisions from other members or shareholders because there aren’t any. 
+You are not required to disclose and report every little thing to the government. Only under special circumstances do you register a Sole Proprietorship with the State. LLCs and Corporations, on the other hand, are required to keep the government informed of everything going on with their business.
 
-You will have the ability to make decisions and changes to the business on a day-to-day basis. The power is in your hands. Maintaining a Sole Proprietorship long-term isn’t a problem if you know what you’re doing. You can take the business in any direction you please (for better or worse).
+Maintaining a Sole Proprietorship long-term isn’t a problem either, as long as you know what you’re doing. With everything relying on you and you alone, there is less government involvement over your operations. You just have to deal with the consequences of your decisions. 
 
-One thing that comes with all of this control is not having to disclose and report everything to the government. This is privacy is an advantage over LLCs and Corporations who are required to keep everything up-to-date and accessible to the government. 
+The same can be applied to life.
 
-#### - Quick Dissolving Process
+## Simple and Inexpensive to Create
 
-It is easy to get out of the business when you pretty much are the business, in the case of Sole Proprietorships. All it takes to “close the doors” is for the owner to stop operations, sell the business’s components, or by dying. Pretty simple. 
+Forming a Sole proprietorship is no sweat. 
 
-#### - Single Taxation
+Running your own business and cashing the check is all it takes to be a sole proprietor.
 
-In most states, there is no need to file taxes separate from your regular personal tax returns. All you would have to do is report any profits made or losses from the business on your personal income tax return. 
+With so few restrictions, fees, and paperwork, **Sole Proprietorships are quicker to set up than any other business entity.** There’s also the bonus of not having to pay initial and annual registration fees because, in most cases, you aren’t registered with the state.
 
-This is a major advantage over the average corporation which receives a thing called double taxation. Corporations get a corporate tax, on all profits first and then, once everybody gets paid out, everyone pays their personal income taxes. 
+As a sole proprietor, you are free from paying the registration fees LLCs and Corporations pay when starting out. They also continue paying those same fees every year they’re operating.
 
-Sole Proprietors only have to pay individual tax rates on whatever they/their business is making. You don’t need an IRS employee identification number (EIN) as you would for state-registered business entities. You can get one if you want to but they aren’t necessary at all. 
+## Maximum Ownership and Control
 
-Having employees can provide tax benefits since paying employees counts as a business expense if certain criteria are met. 
+The biggest reason why anyone picks a Sole Proprietorship over another type of business is the sheer power and responsibility you hold as the owner. You are in total control of your profits and own every aspect of your company. 
 
-#### - Almost No Paperwork
 
-There aren’t any business licenses required to begin operating a Sole Proprietorship. There’s hardly any registration paperwork for this sort of business. Only under special circumstances do you have to register with your state. You are the business in a Sole Proprietorship. 
+You don’t share control with Partners or Corporate Boards. You are fully responsible for the success and growth of your business. At the same time, this means you're fully responsible if your business goes under. Technically speaking… 
 
-All it takes for you to become a Sole Proprietor is to do business and cash that check. With everything relying on you, there will be less government control over your operations. 
+**You are the business.** 
 
-Being the owner of a Sole Proprietorship, there is no requirement to keep incorporation records and annual corporate records. You aren’t required to keep a balance sheet either. You just have to be willing to deal with the consequences of whatever decisions you make. The same goes for life.
+This streamlines the entire decision-making process. You don’t need approval from other members or shareholders to hire (or fire). You call the shots on a day-to-day basis, taking the business in any direction you please, for better or worse.
 
-The only real forms and requirements depend on what you are providing. Some products and services need licenses and permits to be sold. This is on a case-by-case and state-by-state basis. 
+## Quick Dissolving Process
 
-## Disadvantages of Sole Proprietorships
+It is easy to terminate the business when you are legally considered the business. All it takes to “close up shop” is to cease operations, sell the business and its components, or by dying. 
 
-The Cons of Sole Proprietorships include:
+Pretty simple. 
 
-#### - Liability
+## Single Taxation: The Pass-Though Process
 
-Conducting business as a Sole Proprietorship means you will be personally liable for your business’s debts, legal problems, taxes, and decisions. This means the risk is increased for all of the business’s decisions and activities since all of the responsibility lies “solely” on you, the owner. 
+The Pass-Through Process is practically effortless.
 
-Sole Proprietors don’t receive the benefits that come with state-registered businesses since they don’t register with their state. The legal protections associated with LLCs and Corporations don’t apply to Sole Proprietorships. 
+To pay taxes as a sole proprietor, in most states, all you have to do is account for your business earnings alongside any other personal gains in your standard income tax return. After all, you are legally viewed as the business itself. 
 
-LLCs are called limited liability companies because the owner(s)’s personal assets and belongings are protected. Sole Proprietors have this added risk if problems do happen to arise. 
+It’s called the Pass-Through Process because all earnings are “passed” on to you as personal income. It doesn’t matter whether it’s profits or losses. This taxation method is preferred, especially if you have multiple streams of income, because any losses you incur can offset taxes from other personal profits.
 
-If something goes down and the business can’t afford to remain operational, creditors (people or entities your business owes money to) have access to your personal accounts, assets, and even property to pay for what’s owed. This is only if your business can’t cover it on its own first. You are personally liable. 
+The primary tax break you get as a sole proprietor is avoiding Corporate Tax. So long as you meet certain criteria, you could receive additional tax deductions by counting employee wages as a business expense. 
 
-For these reasons, it may be a good idea to get special insurance to cover injuries or physical losses which have the potential to cease operations.
+Alternatively, an ordinary Corporation undergoes a little process known as Double Taxation. Corporations first pay Corporate Tax on business profits and then, once everybody gets paid, shareholders pay personal Income Tax on their individual salaries. 
 
-#### - Functionality
+When you choose a Sole Proprietorship, **you completely avoid Double Taxation.** You just pay Income Tax and Self-Employment Tax (a combination of Social Security and Medicare Taxes). Your tax rate depends on the tax bracket you fall into when combining all of your personal profits. 
 
-Let’s say you want more people to join in on owning parts of your business, you wouldn’t be able to keep it a Sole Proprietorship. If you want other owners or shareholders involved you have to first dissolve the business entity of Sole Proprietorship and reform it as a Partnership, LLC, or Corporation. 
+{}MORE}{ Link to additional taxes IRS page "Find out if you may be subject to additional taxes."
 
-The only way two people can be heading the operations of a Sole Proprietorship is if they are married. This is known as a Co-Sole Proprietorship. 
+## Is a Sole Proprietorship the Right Business for You?
 
-Another thing to keep in mind is if the owner leaves the business or dies, the business simply dissolves. In a Sole Proprietorship, the owner is the business. If the Sole Proprietor isn’t able to run the show, the Sole Proprietorship they created gets destroyed. Without the owner, there is no business. Company assets, profits, and property all follow the owner. 
+Any business you choose comes with its own host of positives and negatives. 
 
-In the event the owner dies, anything of value that goes to the family or anyone written in the will of the owner will undergo Inheritance Tax. This automatically lowers the value moving into the inheritors’ hands. 
+The main thing is to pick the right type of business based on **your current needs.** Just make sure you’re being realistic with where you’re at right now. You probably don’t need a Corporation if you’re just starting out, but you might consider an LLC, if your business carries inherent risk.
 
-#### - Difficult to Get Funding
+Fortunately, with so many options available, you can always upgrade your status later. At the same time, you might limit your growth if you remain a Sole Proprietor forever.
 
-To initiate the business, you have to pay for everything yourself. You are unable to receive outside investment income to begin operations. Funding is dependent on your investments, credit history, and financial background. You also can’t decide to issue stocks/shares for the Sole Proprietorship later on. 
+On behalf of Business Initiative, we wish you much success in your entrepreneurial journey!
 
-Attaining additional loans can prove difficult if you don’t have high enough credit. Personal loans are also risky for Sole Proprietors. Taking out a personal loan means you’re putting your assets on the line if things turn sour and the bank wants their money back. They can come after your personal property. 
-
-Banks want to work with established companies who have been in the “business” of being a business and have a strong credit history. Sole proprietors cannot build business credit because Sole Proprietorships aren’t seen as business entities financially. This means the owner can’t get business credit cards and bank accounts.
-
-You do have the option of registering a DBA for your Sole Proprietorship. By doing this, you will be able to open a business checking account at your bank. This does require that you fill out some paperwork and supply the bank with a certificate of DBA once things are official. 
-
-There’s another thing to keep in mind before getting right into business. This little thing is called Self-Employment Taxes. Self-Employment Taxes consist of Social Security and Medicare Taxes. These have to be paid in addition to the regular Personal Income Tax. 
-
-Before making binding financial decisions, it is recommended that you speak with a CPA, a Certified Public Accountant. 
-
-#### - Difficult to Sell
-
-It was mentioned earlier that the ways out of a Sole Proprietorship include: death of the owner, selling the business, or ceasing operations. This is mostly a disadvantage because someone else can’t just come along and pick up where the original owner left off. Selling a Sole Proprietorship is not a simple task. 
-
-It is nearly impossible for you to sell or pass your business over to someone else. Now, to be clear it’s only nearly impossible to sell, not completely impossible. You have the option to break the business up into its assets and sell those. 
-
-You cannot just sell the business as a single entity. Remember, in a Sole Proprietorship you, the owner, are the business. You are the entity. You cannot pass over the name because it’s your name. This is the case unless you have a registered DBA (“doing business as” name) and you sell/transfer that name over to the buyer of your business.
-
-All of this is to say that you can sell or transfer a sole proprietorship if you really want to but it is much more complex than selling or transferring a business entity that is officially registered and recognized.
-
-Sole Proprietorships are great if you seek total control over your business, but not so great if you want to eventually transfer that control over to someone else. 
-
-## Sole Proprietorship Income and Taxation
-
-Sole Proprietorship income is treated as if it were any old personal income. 
-
-The owner of the business will just have to declare their income on a standard [1040 Federal Individual Income Tax Return Form](https://www.irs.gov/pub/irs-pdf/f1040.pdf). All you’ll need to do after filling out your standard 1040 Form is to fill out a [Schedule C 1040 Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) accounting for all of your Sole Proprietorship’s Profits and Losses information. 
-
-After this, you’ll need a [1040-ES Form](https://www.irs.gov/pub/irs-pdf/f1040es.pdf) to determine Self Employment taxes for Individuals (yourself in this case). In a sole proprietorship, you have to submit this last form (1040-ES) quarterly. That means every January, April, June, and September you have to submit the Self-Employment Tax Form to the feds. 
-
-Additionally, since you are a sole-proprietor and are fully responsible for all aspects of your business, you have to make sure you are paying Payroll Tax, State income taxes (All states excluding AK, TN, FL, NH, SD, WY, TX, WA, & NV), and maybe even city income taxes if your city has them.
-
-It all may sound complicated and overwhelming right now but be assured it’s not. There is a system to this. Thousands of people have used this system and have become very successful with time. 
-
-If you really want something you can make it happen. The only thing standing between you and the life you desire is yourself. 
+Stay up-to-date with us and learn practical strategies to maximize your time and money:
+<a href="https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-
 DISCLAIMER:
 
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
