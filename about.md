@@ -24,7 +24,7 @@ Now that you have no excuses… **It’s time to take Initiative.**
 </center>
   </figure>
 
-"I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, I created Business Initiative to provide the necessary information and connections to make it happen." 
+"I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, I created Business Initiative to provide the necessary information and connections to help you make it happen." 
 
 
-<a href="https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow Us @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Follow Us @BisInitiative](https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw)
