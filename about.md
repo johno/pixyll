@@ -13,9 +13,6 @@ Business Initiative creates clear, concise articles on the various components of
 
 We connect you with highly-qualified service providers, specilizing in business registration. They act as your registered agent, filing everything for you so you don’t have to. 
 
-Now that you have no excuses… **It’s time to take Initiative.**
-
-
 <figure>
 <center>
 <img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="260" height="260"/> 
@@ -26,5 +23,6 @@ Now that you have no excuses… **It’s time to take Initiative.**
 
 "I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, I created Business Initiative to provide the necessary information and connections to help you make it happen." 
 
+Now that you're out of excuses… **It’s time to take Initiative.**
 
-<a href="https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow Us @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Follow Us @BisInitiative](https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw)
