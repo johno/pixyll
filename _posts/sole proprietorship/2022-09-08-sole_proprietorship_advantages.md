@@ -77,6 +77,8 @@ This gives you something which is becoming harder and harder to come by nowadays
 
 You are not required to disclose and report every little thing to the government. Only under special circumstances do you register a Sole Proprietorship with the State. LLCs and Corporations, on the other hand, are required to keep the government informed of everything going on with their business.
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/"> LLCs are a high-grade alternative to Sole Proprietorships</a></p>
+
 Maintaining a Sole Proprietorship long-term isn’t a problem either, as long as you know what you’re doing. With everything relying on you and you alone, there is less government involvement over your operations. You just have to deal with the consequences of your decisions. 
 
 The same can be applied to life.
@@ -122,13 +124,13 @@ Alternatively, an ordinary Corporation undergoes a little process known as Doubl
 
 When you choose a Sole Proprietorship, **you completely avoid Double Taxation.** You just pay Income Tax and Self-Employment Tax (a combination of Social Security and Medicare Taxes). Your tax rate depends on the tax bracket you fall into when combining all of your personal profits. 
 
-{}MORE}{ Link to additional taxes IRS page "Find out if you may be subject to additional taxes."
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes"> Find out if you may be subject to additional taxes.</a></p>
 
 ## Is a Sole Proprietorship the Right Business for You?
 
 Any business you choose comes with its own host of positives and negatives. 
 
-The main thing is to pick the right type of business based on **your current needs.** Just make sure you’re being realistic with where you’re at right now. You probably don’t need a Corporation if you’re just starting out, but you might consider an LLC, if your business carries inherent risk.
+The main thing is to pick the right type of business based on **your current needs.** Just make sure you’re being realistic with where you’re at right now. You probably don’t need a Corporation if you’re just starting out, but [you might consider an LLC](https://www.businessinitiative.org/sole-proprietorship-vs-llc/), if your business carries inherent risk.
 
 Fortunately, with so many options available, you can always upgrade your status later. At the same time, you might limit your growth if you remain a Sole Proprietor forever.
 
