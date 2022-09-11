@@ -108,7 +108,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Success! We just sent you a confirmation email so we can reply to you as soon as possible. Thank you for reaching out.'
   og_locale: 'en_US'
 
 # Build settings
