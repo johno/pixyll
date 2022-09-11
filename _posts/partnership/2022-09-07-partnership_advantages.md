@@ -1,7 +1,7 @@
 ---
 title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
-date: 2022-08-28
+date: 2022-09-07
 summary: Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself. 
 permalink: /partnership/advantages/
 ---
