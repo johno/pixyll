@@ -4,12 +4,17 @@ title: Consulting Services
 permalink: /consulting/
 tags: consulting, call, meeting, schedule, message, registration, business, llc, sole-proprietorship, partnership, corporation
 ---
+
+<h1 style="text-align: center;"> 
+   No Two Businesses Are The Same 
+</h1>
+
+<h2 style="text-align: center;"> 
+   We both know every business has its unique demands. You also have your own vision, wants, and needs to worry about. 
+</h2>
+
 <p style="text-align: center;">
-
-## No Two Businesses Are The Same ##
-
-### We both know every business has its unique demands. You also have your own vision, wants, and needs to worry about. ###
-
+   
 Thankfully, Business Initiative is proud to offer consulting services to answer your burning questions. We’ll come up with an easy to follow, step-by-step plan of action tailored to your specific goals to fast-track your registration process. 
 
 Unfortunately, most people find themselves stuck in the idea stage. 
