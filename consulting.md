@@ -23,14 +23,14 @@ Don’t fall victim to analysis paralysis...
 
 **Take Initiative IMMEDIATELY:** 
 
-<p style="text-align: center;">
+<h3 style="text-align: center;">
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;"> Schedule a meeting NOW and let's get your business up-and-running in no time!</a>
 <!-- Calendly link widget end -->
-</p>
+</h3>
 
 We do NOT offer consulting services for those looking to expand to multiple states or set up a foreign companies. We are currently developing expert connections and more resources in these areas. 
 
-Business Initiative offers a combination of Compliance, Operational, and Strategy Consulting Services to give you clarity in choosing the best business entity based on your goals, time scale, size of operation, client base, how much you’re willing to spend, your location, your previous experience (if any).
+Business Initiative offers a combination of Compliance, Operational, and Strategy Consulting Services to give you clarity in choosing the best business entity based on your goals, time scale, size of operation, client base, budget, location, and any previous experience.
