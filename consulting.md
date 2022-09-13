@@ -10,7 +10,7 @@ tags: consulting, call, meeting, schedule, message, registration, business, llc,
 </h1>
 
 <h2 style="text-align: center;"> 
-   We know every business has unique demands. You also have your own vision, wants, and needs to worry about. 
+   We know every business has unique demands. You also have your own vision, wants, and needs. 
 </h2>
 
 Thankfully, Business Initiative is proud to offer consulting services to answer your burning questions. We’ll come up with an easy to follow, step-by-step plan of action tailored to your specific goals to fast-track your registration. 
