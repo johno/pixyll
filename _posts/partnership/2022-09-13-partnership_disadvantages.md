@@ -9,11 +9,17 @@ permalink: /partnership/disadvantages/
 Here are the seven ways Partnerships fail:
 
 1.  They don’t offer **limited liability protection**
+
 2.  You get **less control** over the business
+
 3.  Partners pay **Self-Employment tax**
+
 4.  You're **liable for your partner's actions**
+
 5.  There is an **increased chance of arguments**
+
 6.  It is **difficult to dissolve** a Partnership
+
 7.  It’s **tough to change ownership**
 
 With all of their drawbacks, it might be hard to believe: 
@@ -78,11 +84,11 @@ You’re only worried about your neck when you run a business on your own. In a 
 
 Consider the following scenarios:
 
-1.  You’re a [Sole Proprietor](https://www.businessinitiative.org/sole-proprietorship/examples/) making 200K in profits a year. Great!
+1. You’re a [**Sole Proprietor**](https://www.businessinitiative.org/sole-proprietorship/examples/) making 200K in profits a year. Great!
 
 or
 
-2.  You are in a Partnership bringing in 1mil a year, with more room for growth. You have a Limited Partner getting 25% of the profits while smoothly running the business with 3 General Partners. Even though your business is better, you only make 187,500/year. 
+2. You are in a **Partnership** bringing in 1 mil a year, with more room for growth. You have a Limited Partner getting 25% of the profits while smoothly running the business with 3 General Partners. Even though your business is better, you only make 187,500/year. 
 
 Although you make less as a Partner than on your own, you split your workload four ways. Having more Partners offers you better opportunities for growth and expansion. At the same time, it also further divides the profits. 
 
