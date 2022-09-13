@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Partnership Disadvantages They Tried Keeping Secret
-date: 2022-08-29
+date: 2022-09-13
 summary: Although they may be simple and cheap, some people avoid Partnerships like the Bubonic Plague. Read this to discover why!
 permalink: /partnership/disadvantages/
 ---
