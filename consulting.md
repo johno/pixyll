@@ -13,7 +13,7 @@ tags: consulting, call, meeting, schedule, message, registration, business, llc,
    We know every business has unique demands. You also have your own vision, wants, and needs. 
 </h2>
 
-Thankfully, Business Initiative is proud to offer consulting services to answer your burning questions. We’ll come up with an easy to follow, step-by-step plan of action tailored to your specific goals to fast-track your registration. 
+Thankfully, Business Initiative is here to answer your burning questions and help you get your business up-and-running in no time. We’ll come up with an easy to follow, step-by-step plan of action tailored to your specific goals to fast-track your registration. 
 
 Unfortunately, most people find themselves stuck in the idea stage. 
 
