@@ -7,9 +7,11 @@ baseurl:     ""
 url:         "https://www.businessinitiative.org"
 date_format: "%b %-d, %Y"
 header_pages:
+ - stats.html
  - consulting.md
  - contact.html
  - about.md
+
 
 # Google services
 google_verification:
