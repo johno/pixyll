@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Multi Member LLC - Build Bigger and Better with a Team
-date: 2022-08-27
+date: 2022-10-16
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
 ---
