@@ -15,7 +15,7 @@ We connect you with highly-qualified service providers, specilizing in business 
 
 <figure>
 <center>
-<img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="260" height="260"/> 
+<img alt="businessinitiative.org" src="/images/jack-nicholaisen-business-initiative.jpeg" width="200" height="200" style="border-radius: 50%;" /> 
 <figcaption> Jack Nicholaisen, Business Initiative’s Founder
 </figcaption>
 </center>

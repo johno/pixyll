@@ -14,10 +14,15 @@
   padding-bottom: 0;
 }
 
+.post-date {
+  margin-right: 15px;
+}
+
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
   color: #333;
+  font-size: 2rem;
 }
 
 .post-footer {
@@ -41,6 +46,7 @@
   padding: .25em 0;
   color: #7a7a7a;
   font-style: italic;
+  font-size: 16px;
 }
 
 .related-post-title {

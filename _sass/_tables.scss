@@ -7,9 +7,10 @@ table {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1.5rem;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   overflow-x:auto;
   display:block;
+  border-collapse: collapse;
   // Cells
   > thead,
   > tbody,
@@ -44,4 +45,9 @@ table {
   > tbody + tbody {
     border-top: 2px solid #333;
   }
+}
+
+caption {
+  font-style: italic;
+  padding-bottom: 8px;
 }

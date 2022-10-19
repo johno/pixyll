@@ -3,9 +3,16 @@
   padding-bottom: $space-2;
 }
 
+.site-navbar {
+  max-width: 1200px !important;
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .site-header a {
   color: $header-color;
-  font-size: $h3;
+  font-size: 16px;
   font-weight: $header-font-weight;
   background-image: none;
 }
