@@ -11,13 +11,13 @@ header_pages:
  - contact.html
 
 # Google services
-google_verification:
+google_verification: ""
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
+google_analytics: ""
+google_tag_manager: ""
 # Bing services
-bing_verification:
+bing_verification: ""
 
 # Optional features
 animated:             false
@@ -34,35 +34,35 @@ post_preview_image: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id:
+fb_page_id: ""
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: ""
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
+facebook_comments: ""
+facebook_appid: ""
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-reddit_username:
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-telegram_username:
-vk_id:
+github_username: ""
+reddit_username: ""
+bitbucket_username: ""
+stackoverflow_id: ""
+twitter_username: ""
+skype_username: ""
+steam_nickname: ""
+google_plus_id: ""
+linkedin_username: ""
+angellist_username: ""
+medium_id: ""
+bitcoin_url: ""
+paypal_url: ""
+flattr_button: ""
+telegram_username: ""
+vk_id: ""
 
 # Post sharing icons
 show_sharing_icons: false
