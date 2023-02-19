@@ -40,6 +40,12 @@ fb_page_id:
 # (leave blank to disable Disqus)
 disqus_shortname:
 
+# Utterances github comments (utterances_repo: github_username/repository)
+# (leave blank to disable Utterances)
+utterances_repo:
+utterances_issue-term: pathname
+utterances_theme: github-light
+
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
