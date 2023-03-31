@@ -1,3 +1,5 @@
+/*! Default values. */
+
 // Typography
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
@@ -39,6 +41,9 @@ $yellow: #efcc00 !default;
 $orange: #ffcc22 !default;
 $purple: #f92080 !default;
 $dark-blue: #00369f !default;
+$darker-blue: #24292e !default;
+$light-blue: #add8e6 !default;;
+$lighter-blue: #c8e1ff !default;;
 $green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
@@ -51,6 +56,8 @@ $darken-1: rgba(#000,.0625) !default;
 $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
+$base-font-color: $dark-gray;
+$base-bg-color: white;
 
 // Links
 $link-color: $blue;
@@ -85,6 +92,10 @@ $border-color: $light-gray !default;
 $border-width: 1px !default;
 $border-radius: 3px !default;
 
+// Blockquotes
+$blockquote-bg-color: #fff;
+$blockquote-color: #7a7a7a;
+
 // Forms
 $form-field-font-size: 1rem;
 $form-field-height: 2.25rem;
@@ -94,7 +105,8 @@ $form-field-padding-x: .5rem;
 // Code
 $pre-border-radius: 0;
 $pre-background-color: #fafafa;
-$hljs-comment: $mid-gray;
+$pre-font-color: $mid-gray;
+$hljs-comment: $light-gray;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
 $hljs-number: $dark-green;
@@ -133,3 +145,13 @@ $footer-color: #7a7a7a;
 $footer-bg-color: #fafafa;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;
+
+// Posts
+$post-link-color: $dark-gray;
+$post-meta-color: $mid-gray;
+
+// Pagination
+$pagination-link-color: $nav-link-color;
+$pagination-link-hover-color: darken($nav-link-color, 40%);
+$pagination-background-color: #fafafa;
+$pagination-hover-background-color: white;

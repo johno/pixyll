@@ -17,7 +17,7 @@
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  color: #333;
+  color: $post-link-color;
 }
 
 .post-footer {
@@ -39,7 +39,7 @@
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
-  color: #7a7a7a;
+  color: $post-meta-color;
   font-style: italic;
 }
 

@@ -13,6 +13,10 @@
 
 @import 'variables';
 
+{% if site.theme_mode == "dark" %}
+@import 'dark-mode';
+{% endif %}
+
 @import 'basscss';
 
 @import 'base';

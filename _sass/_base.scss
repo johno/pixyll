@@ -16,6 +16,8 @@ MIT License https://opensource.org/licenses/MIT
 html, body {
   height: auto;
   min-height: 100%;
+  color: $base-font-color;
+  background-color: $base-bg-color;
 }
 
 img {
