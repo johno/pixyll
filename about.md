@@ -1,94 +1,14 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](https://johno.com/)
-([@4lpine](https://twitter.com/4lpine)).
+I am an embedded systems developer and a Linux enthusiast, both as a user and as an active contributor to the Linux kernel.
 
-Checkout the [GitHub repository](https://github.com/johno/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](https://opensource.org/licenses/MIT)).
+I was born in Spain, but I moved almost a decade ago to Austria because I wanted to live in the Alps.
+Almost all my hobbies that have nothing to do with embedded systems consist of activities in the mountains: climbing, trail running, backcountry skiing, hiking... just anything that gives me a feel of freedom and a connection to nature. That helps me to keep a good physical a mental balance, which in my opinion is key to success.
 
-Thanks to the following:
-
-* [BASSCSS](https://basscss.com/)
-* [Jekyll](https://jekyllrb.com/)
-* [Refills](https://refills.bourbon.io/)
-* [Type Scale](https://type-scale.com/)
-
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+But I guess you could not care less about my hobbies, so I will tell you what I can offer you with this blog. I have been working with embedded systems for more than a decade, covering from the first steps of hardware design up to userspace application programming. But my main field of interest has always been the middle layers: FPGAs, microcontrollers and most recently the Linux kernel, where I contribute both professionally and as a hobbyist.
+Over the years I have come up with some good practices and also hacks to improve the quality of my work in those areas, and that is what I would like to share with everyone who is interested. I will also talk about projects I am working on and from time to time I would like to wander a bit and talk about some stuff that has nothing to do with the development. In the end that is my personal blog, isn't it?
